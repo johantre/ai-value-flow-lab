@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2a0c377189424af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d172748084b97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae7fffd00bc6f010",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafiek weergave"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4599a040a6e97d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "527d8041ec688066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd2d87eabc007650",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "a5d0575dbc4f680d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "14766371e8d9f868",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 554.5
+  },
+  "right": {
+    "id": "9809f6c36e11ae2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5dc2660ca66475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe448f75cf61a6c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzing"
+            }
+          },
+          {
+            "id": "761497a9b383b668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen"
+            }
+          },
+          {
+            "id": "0d4d20f0b8065596",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "3ce4ed064a78377d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "4084ecf92098861b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overzicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false
+    }
+  },
+  "active": "ae7fffd00bc6f010",
+  "lastOpenFiles": [
+    "index.md",
+    "books/goldratt-the-goal.md",
+    "books/lencioni-the-ideal-team-player-how-to-recognize-and-cultivate-the-thr.md",
+    "books/adzic-impact-mapping-making-a-big-impact-with-software-products-an.md~",
+    "books/hansson-remote-office-not-required.md",
+    "books/lunden-fish-tales-real-life-stories-to-help-you-transform-your-work.md",
+    "books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md",
+    "books/larman-scaling-lean-agile-development-thinking-and-organizational-t.md",
+    "books/larman-practices-for-scaling-lean-agile-development-large-multisite.md",
+    "books/larman-large-scale-scrum-more-with-less-addison-wesley-signature-se.md",
+    "books/De Corporate Activist/PXL_20260413_125001411~2.jpg",
+    "books/De Corporate Activist/PXL_20260413_124946014~2.jpg",
+    "books/De Corporate Activist/PXL_20260413_124936424~2.jpg",
+    "concepts/organizational-politics.md",
+    "concepts/conways-law.md",
+    "books/snowden-cynefin.md",
+    "articles/appelo-widesizing.md.tmp.325419.1776095733325",
+    "articles/appelo-widesizing.md.tmp.325419.1776088279374",
+    "index.md.tmp.325419.1776088090528",
+    "articles/appelo-widesizing.md",
+    "articles/appelo-widesizing.md.tmp.325419.1776088085412",
+    "books/vandamme-de-corporate-activist.md.tmp.325419.1776085188686",
+    "books/De Corporate Activist/PXL_20260413_125045678~2.jpg",
+    "books/De Corporate Activist/PXL_20260413_125040296~2.jpg",
+    "books/De Corporate Activist/PXL_20260413_125026969~2.jpg",
+    "books/De Corporate Activist/PXL_20260413_125016339~2.jpg",
+    "books/De Corporate Activist/PXL_20260413_125008137~2.jpg",
+    "books/De Corporate Activist",
+    "index.md.tmp.325419.1776082010946",
+    "books/vandamme-de-corporate-activist.md",
+    "books/vandamme-de-corporate-activist.md.tmp.325419.1776082003347",
+    "concepts/cooperation-as-default.md.tmp.325419.1776080977945",
+    "books/mcluhan-understanding-media-the-extensions-of-man.md",
+    "concepts/cooperation-as-default.md",
+    "concepts/role-proliferation.md",
+    "articles/conway-how-do-committees-invent.md",
+    "articles/ramos-pavlichenko-creating-agile-organizations.md",
+    "articles/krivitsky-flemm-org-topologies.md",
+    "articles/appelo-future-of-consulting.md",
+    "articles/appelo-why-viability-overrides-agility.md",
+    "articles/appelo-stop-chasing-ai-tools.md",
+    "articles/appelo-a-map-for-agentic-transformation.md",
+    "concepts/agentic-organization.md",
+    "books/appelo-a-map-for-agentic-transformation.md"
+  ]
+}
