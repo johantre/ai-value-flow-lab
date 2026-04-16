@@ -8,6 +8,8 @@ tags: [thinking, complexity, organizational, change]
 source: reference
 ---
 
+![cynefin-framework-2022](./snowden-cynefin/cynefin-framework-2022.jpg)
+
 ## Core idea
 
 *(To be filled in)*

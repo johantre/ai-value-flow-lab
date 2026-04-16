@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82d172748084b97a",
+        "id": "480b4fc45c0b3b0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7fffd00bc6f010",
+            "id": "082d286c5262c759",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafiek weergave"
+              "type": "markdown",
+              "state": {
+                "file": "books/krivitsky-larman-flemm-org-topologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "krivitsky-larman-flemm-org-topologies"
             }
           }
         ]
@@ -70,11 +74,12 @@
               "title": "Bladwijzers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 743.5
   },
   "right": {
     "id": "9809f6c36e11ae2f",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Terugverwijzing"
+              "title": "Terugverwijzingen voor index"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Uitgaande verwijzingen"
+              "title": "Uitgaande verwijzingen van index"
             }
           },
           {
@@ -150,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Overzicht"
+              "title": "Overzicht van index"
             }
           }
         ]
@@ -176,51 +184,54 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "ae7fffd00bc6f010",
+  "active": "082d286c5262c759",
   "lastOpenFiles": [
+    "books/ramos-larman-certified-designing-agile-organizations.md",
+    "books/ ramos-larman-certified-designing-agile-organizations.md",
+    "books/certified-designing-agile-organizations.md",
+    "books/certified-designing-agile-organizations",
+    "articles/krivitsky-flemm-org-topologies.md",
+    "AI-First-Approach/Naamloos.base",
     "index.md",
+    "books/krivitsky-larman-flemm-org-topologies.md.tmp.813159.1776271391299",
+    "books/krivitsky-larman-flemm-org-topologies.md.tmp.813159.1776271380710",
+    "books/krivitsky-larman-flemm-org-topologies.md.tmp.813159.1776271377535",
+    "books/snowden-cynefin.md.tmp.813159.1776271374947",
+    "books/krivitsky-larman-flemm-org-topologies/ot-map-2x2-2.jpg",
+    "books/krivitsky-larman-flemm-org-topologies/ot-primer-cover.jpg",
+    "books/krivitsky-larman-flemm-org-topologies/ot-map-2x2.jpg",
+    "books/krivitsky-larman-flemm-org-topologies",
+    "books/snowden-cynefin/cynefin-framework-2022.jpg",
+    "books/snowden-cynefin",
+    "AI-First-Approach/Naamloos.canvas",
+    "AI-First-Approach/verwijs ergens naar.md",
+    "AI-First-Approach/Welkom.md",
+    "AI-First-Approach",
+    "books/snowden-cynefin.md",
+    "books/krivitsky-larman-flemm-org-topologies.md",
+    "books/Organizational Topologies/ot-map-2x2-2.jpg",
+    "books/Organizational Topologies/Geplakte afbeelding.png",
+    "books/Organizational Topologies/c52b35_384eefbcc5444d4db6ca02be3fb6f1d1~mv2.avif",
+    "books/Organizational Topologies/Niet bevestigd 606650.crdownload",
+    "books/cohn-agile-estimating-and-planning-robert-c-martin-series.md",
+    "articles/ramos-pavlichenko-creating-agile-organizations.md",
+    "books/singer-team-code-of-honor-the-secrets-of-champions-in-business-and.md",
+    "books/schrijvers-hoe-word-ik-een-rat-de-kunst-van-het-konkelen-en-samenzweren.md",
+    "books/Organizational Topologies/ot-map-2x2.jpg",
+    "books/Organizational Topologies/ot-primer-cover.jpg",
+    "books/gray-gamestorming-a-playbook-for-innovators-rulebreakers-and-chan.md",
+    "books/robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w.md",
+    "books/sutherland-work-together-anywhere-a-handbook-on-working-remotelysuccess.md",
+    "books/cynefin-framework-2022.jpg",
     "books/goldratt-the-goal.md",
     "books/lencioni-the-ideal-team-player-how-to-recognize-and-cultivate-the-thr.md",
-    "books/adzic-impact-mapping-making-a-big-impact-with-software-products-an.md~",
     "books/hansson-remote-office-not-required.md",
     "books/lunden-fish-tales-real-life-stories-to-help-you-transform-your-work.md",
     "books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md",
     "books/larman-scaling-lean-agile-development-thinking-and-organizational-t.md",
     "books/larman-practices-for-scaling-lean-agile-development-large-multisite.md",
     "books/larman-large-scale-scrum-more-with-less-addison-wesley-signature-se.md",
-    "books/De Corporate Activist/PXL_20260413_125001411~2.jpg",
-    "books/De Corporate Activist/PXL_20260413_124946014~2.jpg",
-    "books/De Corporate Activist/PXL_20260413_124936424~2.jpg",
     "concepts/organizational-politics.md",
-    "concepts/conways-law.md",
-    "books/snowden-cynefin.md",
-    "articles/appelo-widesizing.md.tmp.325419.1776095733325",
-    "articles/appelo-widesizing.md.tmp.325419.1776088279374",
-    "index.md.tmp.325419.1776088090528",
-    "articles/appelo-widesizing.md",
-    "articles/appelo-widesizing.md.tmp.325419.1776088085412",
-    "books/vandamme-de-corporate-activist.md.tmp.325419.1776085188686",
-    "books/De Corporate Activist/PXL_20260413_125045678~2.jpg",
-    "books/De Corporate Activist/PXL_20260413_125040296~2.jpg",
-    "books/De Corporate Activist/PXL_20260413_125026969~2.jpg",
-    "books/De Corporate Activist/PXL_20260413_125016339~2.jpg",
-    "books/De Corporate Activist/PXL_20260413_125008137~2.jpg",
-    "books/De Corporate Activist",
-    "index.md.tmp.325419.1776082010946",
-    "books/vandamme-de-corporate-activist.md",
-    "books/vandamme-de-corporate-activist.md.tmp.325419.1776082003347",
-    "concepts/cooperation-as-default.md.tmp.325419.1776080977945",
-    "books/mcluhan-understanding-media-the-extensions-of-man.md",
-    "concepts/cooperation-as-default.md",
-    "concepts/role-proliferation.md",
-    "articles/conway-how-do-committees-invent.md",
-    "articles/ramos-pavlichenko-creating-agile-organizations.md",
-    "articles/krivitsky-flemm-org-topologies.md",
-    "articles/appelo-future-of-consulting.md",
-    "articles/appelo-why-viability-overrides-agility.md",
-    "articles/appelo-stop-chasing-ai-tools.md",
-    "articles/appelo-a-map-for-agentic-transformation.md",
-    "concepts/agentic-organization.md",
-    "books/appelo-a-map-for-agentic-transformation.md"
+    "concepts/conways-law.md"
   ]
 }
