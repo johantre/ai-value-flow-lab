@@ -117,6 +117,34 @@ Twee soorten:
 
 ![Feedback Loops](./feedback-loops.png)
 
+#### Hoe herken je een loop type in een Causal Loop Diagram?
+
+**Vuistregel:** Tel het aantal `-` (negatieve) pijlen in de loop.
+- **Even aantal** (0, 2, 4...) → **Reinforcing loop (R)** — versterkt zichzelf
+- **Oneven aantal** (1, 3, 5...) → **Balancing loop (B)** — dempt zichzelf
+
+**Voorbeeld: Reinforcing loop (0 × min = versterking)**
+
+```mermaid
+graph LR
+    Autonomie -->|+| Initiatief
+    Initiatief -->|+| Innovatie
+    Innovatie -->|+| Autonomie
+```
+*Alle pijlen zijn `+` → 0 negatieve pijlen → even → Reinforcing (R)*
+
+**Voorbeeld: Balancing loop (1 × min = rem)**
+
+```mermaid
+graph LR
+    Autonomie -->|+| Chaos
+    Chaos -->|+| CoördinatieNood
+    CoördinatieNood -->|-| Autonomie
+```
+*Één `-` pijl → oneven → Balancing (B)*
+
+> **Geheugensteun:** Als er één iemand in de ketting "nee" zegt (min), trekt de loop zichzelf terug. Twee mensen die "nee" zeggen heffen elkaar op → versterking.
+
 #### 3. Time Delays
 - Oorzaken en gevolgen liggen niet altijd dicht bij elkaar in tijd
 - Dit maakt problemen moeilijk op te sporen
@@ -240,7 +268,7 @@ Dit is een **kritieke keuze** voor organizational capability:
 
 ### Strategic Alignment (Alignment met Strategie)
 
-**Kernidee:** Organisatiedesign moet passen bij je strategie. Anders work je tegen jezelf.
+**Kernidee:** Organisatiedesign moet passen bij je strategie. Anders werk je tegen jezelf.
 
 #### Voorbeeld: Online Retailer
 

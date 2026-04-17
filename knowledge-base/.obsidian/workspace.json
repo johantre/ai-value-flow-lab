@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "krivitsky-larman-flemm-org-topologies"
             }
+          },
+          {
+            "id": "1261f31783c79442",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafiek weergave"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +85,7 @@
               "title": "Bladwijzers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +194,9 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "082d286c5262c759",
+  "active": "dd2d87eabc007650",
   "lastOpenFiles": [
+    "books/krivitsky-larman-flemm-org-topologies.md",
     "books/ramos-larman-certified-designing-agile-organizations.md",
     "books/ ramos-larman-certified-designing-agile-organizations.md",
     "books/certified-designing-agile-organizations.md",
@@ -208,7 +219,6 @@
     "AI-First-Approach/Welkom.md",
     "AI-First-Approach",
     "books/snowden-cynefin.md",
-    "books/krivitsky-larman-flemm-org-topologies.md",
     "books/Organizational Topologies/ot-map-2x2-2.jpg",
     "books/Organizational Topologies/Geplakte afbeelding.png",
     "books/Organizational Topologies/c52b35_384eefbcc5444d4db6ca02be3fb6f1d1~mv2.avif",
