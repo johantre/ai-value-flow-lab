@@ -24,7 +24,7 @@ flowchart TD
     end
 
     subgraph ASSESS["② Assessment invullen (jouw werk)"]
-        direction TB
+        direction LR
         B["📋 AI-First Value Stream\nAssessment Template.md\n— blanco template —"]
         C["Pass 1 — Greenfield eerst\nSecties 8–9 invullen\nUnconstrained AI-native design"]
         D["Pass 2 — Huidige staat\nSecties 0–7 invullen\nGrounded in reality"]
