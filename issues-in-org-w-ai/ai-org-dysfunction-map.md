@@ -21,12 +21,122 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 |---|---|---|---|---|
 | [1. Snelheidsasymmetrie](#1-snelheidsasymmetrie) | minder vragen, snellere beslissing | misalignment verborgen | strategische fouten snel gemaakt | verkeerde richting, hoog tempo |
 | [2. Opaciteit](#2-opaciteit) | blind vertrouwen in output | conflicterende waarheden | accountability vacuum | compliance & auditrisico |
-| [3. Deskilling](#3-deskilling) | expertise erosie | team afhankelijk van AI | organisationele amnesia | kwetsbaarheid bij AI-uitval |
+| [3. De-skilling](#3-de-skilling) | expertise erosie | team afhankelijk van AI | organisationele amnesia | kwetsbaarheid bij AI-uitval |
 | [4. Machtconcentratie](#4-machtconcentratie) | statusspel rond AI-vaardigheid | prompt master als bottleneck | AI-washing, HiPPO versterkt | tech-macht disproportioneel |
 | [5. Fragmentatie](#5-fragmentatie) | persoonlijke workflows | parallel realities | shadow AI, coherentie verloren | bestaande silos verdiept |
 | [6. Homogenisering](#6-homogenisering) | minder origineel denken | groepsdenken versneld | conformisme versterkt | strategie-convergentie sector-breed |
-| [7. Leerlooponderbreking](#7-leerlooponderbreking) | grote specs, laat falen | missed insights | organisatie leert trager dan ze beweegt | strategische aannames niet bijgesteld |
+| [7. Leer-looponderbreking](#7-leer-looponderbreking) | grote specs, laat falen | missed insights | organisatie leert trager dan ze beweegt | strategische aannames niet bijgesteld |
 | [8. Versterking bestaande dysfunctions](#8-versterking-van-bestaande-dysfunctions) | — | — | sneller, groter, minder zichtbaar | — |
+| [9. Onbeheerde afhankelijkheid](#9-onbeheerde-afhankelijkheid) | workflow stilvalt bij uitval | geen fallback als dienst wegvalt | vendor lock-in zonder bewuste afweging | continuïteit extern bepaald |
+
+---
+
+## Het Grondpatroon
+
+Onder veel van de mechanismen in dit document schuilt één en dezelfde systemische dynamiek. Begrijp je dit patroon, dan begrijp je waarom AI-adoptie zo vaak verergert wat het zou moeten oplossen.
+
+### Shifting the Burden — Senge
+
+*The Fifth Discipline* (Senge) beschrijft het **"Shifting the Burden"** archetype als een van de meest voorkomende en gevaarlijkste systeempatronen in organisaties:
+
+```mermaid
+flowchart LR
+    subgraph GEN["Generiek patroon"]
+        direction TB
+        GP["Probleem / Symptoom"]
+        GSS["Symptomatische oplossing"]
+        GFS["Fundamentele oplossing"]
+        GBE["Bijwerking: capaciteit eroodeert"]
+
+        GP -->|"drijft naar"| GSS
+        GSS -.->|"verlicht tijdelijk"| GP
+        GP -->|"vraagt om"| GFS
+        GFS -.->|"lost structureel op"| GP
+        GSS -->|"veroorzaakt"| GBE
+        GBE -->|"blokkeert"| GFS
+    end
+
+    subgraph SPEC["Met AI — concreet"]
+        direction TB
+        AP["Org. slaagt niet in X aan te pakken"]
+        ASS["Nieuwe rol of AI voor X"]
+        AFS["Structurele aanpak van X"]
+        ABE["Kennis en capaciteit eroodeert"]
+
+        AP -->|"drijft naar"| ASS
+        ASS -.->|"verlicht tijdelijk"| AP
+        AP -->|"vraagt om"| AFS
+        AFS -.->|"lost structureel op"| AP
+        ASS -->|"veroorzaakt"| ABE
+        ABE -->|"blokkeert"| AFS
+    end
+
+    GEN ~~~ SPEC
+```
+
+De kern: de symptomatische oplossing *werkt* — maar ondermijnt tegelijk de capaciteit om het probleem structureel aan te pakken. Over tijd: meer afhankelijkheid van de oplossing, minder capaciteit erbuiten, het probleem wordt geconseveerd in plaats van opgelost.
+
+### Het organisatiepatroon
+
+In organisaties ziet het er zo uit: een probleem wordt niet structureel aangepakt, maar krijgt een **rol** toegewezen om het te "managen" of te "coördineren". De persoon in die rol is daar oprecht fier op — dat is volkomen menselijk. Maar hoe sterker de identiteit aan de rol kleeft, hoe lager de kans dat het onderliggende probleem ooit opgelost raakt. De rol *onderhoudt* het probleem.
+
+Voorbeelden:
+- **Customer Happiness Manager**: de organisatie slaagt er niet in de klant structureel mee te nemen in haar werkwijze → nieuwe rol. Die rol heeft geen mandaat om de hele organisatie om te keren → klantgerichtheid blijft een eiland, het probleem blijft bestaan, de rol legitimeert de status quo.
+- **XYZ Manager**: doet de "vertaalslag" tussen XYZ en team op door er tussenin te gaan staan → teams nemen nog altijd geen verantwoordelijkheid → er is nu ook een coördinatielaag bijgekomen → minder transparantie, meer overhead, zelfde grondprobleem.
+
+### De Tragedy of the Commons-laag
+
+De Tragedy of the Commons beschrijft hoe een gedeelde resource uitgeput raakt wanneer individuen er elk op leunen zonder bij te dragen aan het onderhoud ervan.
+
+In organisaties is de **gedeelde kennispool** de commons. Wanneer een dependency (rol, tool, AI) het werk overneemt, heeft niemand meer een individuele incentive om die kennis actief te onderhouden. Iedereen leunt op de dependency — de commons verarmt. Hoe dieper de afhankelijkheid, hoe armer de context eromheen wordt.
+
+> De dependency doet het toch — dus niemand hoeft het nog te weten.
+
+```mermaid
+flowchart LR
+    subgraph GEN2["Generiek patroon"]
+        direction TB
+        GC["Commons / Gedeelde resource"]
+        GI["Individu / Team"]
+        GB["Korte-termijn baat"]
+        GD["Degradatie van de commons"]
+
+        GI -->|"put uit"| GC
+        GC -->|"levert"| GB
+        GB -->|"stimuleert meer gebruik"| GI
+        GC -->|"raakt uitgeput"| GD
+        GD -->|"treft iedereen"| GI
+    end
+
+    subgraph SPEC2["Met AI — concreet"]
+        direction TB
+        AC["Org. kennispool"]
+        AIU["Medewerker / Team"]
+        AB["Korte-termijn productiviteit"]
+        AD["Kennisdegradatie"]
+
+        AIU -->|"leunt op AI, bouwt geen kennis"| AC
+        AC -->|"AI doet het"| AB
+        AB -->|"bevestigt AI-gebruik"| AIU
+        AC -->|"kennis niet onderhouden"| AD
+        AD -->|"meer AI-afhankelijkheid"| AIU
+    end
+
+    GEN2 ~~~ SPEC2
+```
+
+### AI als nieuwe instantie van hetzelfde patroon
+
+AI is de meest recente en krachtigste verschijningsvorm van dit patroon:
+
+- AI neemt cognitief werk over → de mensen rondom verliezen capaciteit (de-skilling)
+- AI "managet" problemen → de structurele oorzaken worden niet aangepakt
+- De omliggende kennispool (de commons) verarmt → afhankelijkheid van AI groeit
+- Meer afhankelijkheid → minder capaciteit om zonder AI te werken → nog meer afhankelijkheid
+
+Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee de commons verarmt is ongezien.
+
+*→ Zie ook: [De oplossing onderhoudt het probleem](#7-de-oplossing-onderhoudt-het-probleem) in de Gallery of Irony*
 
 ---
 
@@ -55,6 +165,8 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 - Requirements worden vager naarmate AI-gebruik toeneemt
 - Minder debat voorafgaand aan beslissingen, meer rework achteraf
 
+*→ Zie ook: [De snelheidsval](#2-de-snelheidsval) in de Gallery of Irony*
+
 ---
 
 ### 2. Opaciteit
@@ -71,7 +183,7 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 | Strategisch | Audittrails ontbreken; compliance-risico's; strategische keuzes zonder expliciete redenering |
 
 **Interactie met bestaande dysfunctions**
-- Versterkt **politiek**: wie de prompt controleert, controleert de "waarheid" die de meeting binnenkomt
+- Creëert **informatieasymmetrie**: de prompt-schrijver kent de framing, de aannames en de context die de output gevormd hebben — anderen zien alleen het resultaat. De gevolgen lopen uiteen: van onbewuste blinde vlekken tot bewuste sturing van een discussie. Maar ook zonder kwade intentie verschuift de machtsverdeling naar wie de context bezit.
 - Versterkt **bureaucratie**: AI-output wordt gebruikt als legitimering voor reeds genomen beslissingen
 - Versterkt **gebrek aan psychologische veiligheid**: AI-output uitdagen voelt riskanter dan menselijke output uitdagen
 
@@ -80,9 +192,11 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 - Niemand kan uitleggen welke aannames een analyse draagt
 - Audittrails voor beslissingen ontbreken of zijn onvolledig
 
+*→ Zie ook: [De helderheid die begrip verbergt](#4-de-helderheid-die-begrip-verbergt) in de Gallery of Irony*
+
 ---
 
-### 3. Deskilling
+### 3. De-skilling
 
 > Menselijke capaciteiten eroderen omdat AI het werk overneemt dat vroeger vaardigheden opbouwde.
 
@@ -105,6 +219,8 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 - Niemand weet meer waarom bepaalde processen of systemen bestaan zoals ze bestaan
 - Bij AI-uitval of toolswitch staat productiviteit tijdelijk stil
 
+*→ Zie ook: [De oplossing onderhoudt het probleem](#7-de-oplossing-onderhoudt-het-probleem) in de Gallery of Irony · Het Grondpatroon*
+
 ---
 
 ### 4. Machtconcentratie
@@ -118,7 +234,7 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 | Individu | Statusspel rond AI-vaardigheid; wie AI beter gebruikt wint disproportioneel invloed |
 | Team | De "prompt master" wordt bottleneck én informele machtsfiguur; anderen worden afhankelijk |
 | Organisatie | AI-washing door management: performatief AI-gebruik zonder echte adoptie; HiPPO + AI = nog sterker HiPPO; AI gebruikt om vooraf genomen beslissingen te legitimeren |
-| Strategisch | Tech-teams krijgen disproportioneel strategische invloed; democratisering van kennis keert om naar concentratie |
+| Strategisch | Tech-teams krijgen disproportioneel strategische invloed; democratisering van kennis keert om naar autocratisering — niet per definitie door slechte intentie, maar structureel: wie de context niet heeft, kan niet effectief challengen |
 
 **Interactie met bestaande dysfunctions**
 - Versterkt **HiPPO** sterk: AI geeft de machtige persoon nog sneller een "onderbouwde" positie
@@ -129,6 +245,8 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 - AI-gebruik geconcentreerd bij een kleine groep; anderen vragen hen om output
 - "De AI bevestigt mijn aanpak" als conversatie-ender
 - Beslissingen zijn moeilijk uitdaagbaar omdat de redenering in de prompt zit, niet in het gesprek
+
+*→ Zie ook: [Het democratiseringsparadox](#1-het-democratiseringsparadox) in de Gallery of Irony*
 
 ---
 
@@ -180,9 +298,11 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 - Minder verrassende ideeën in brainstorms; AI-output domineert de agenda
 - Concurrenten lanceren gelijkaardige initiatieven tegelijk
 
+*→ Zie ook: [Het innovatie-instrument dat innovatie homogeniseert](#5-het-innovatie-instrument-dat-innovatie-homogeniseert) in de Gallery of Irony*
+
 ---
 
-### 7. Leerlooponderbreking
+### 7. Leer-looponderbreking
 
 > AI maakt uitvoering mogelijk zonder continue menselijke betrokkenheid, waardoor leren tijdens het doen verdwijnt.
 
@@ -193,7 +313,7 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 | Individu | Grote upfront specificaties → AI voert uit → fouten ontdekt laat; mentaal model van het systeem blijft zwak |
 | Team | Insights die normaal tijdens implementatie opduiken worden gemist; rework wanneer aannames laat fout blijken |
 | Organisatie | Feedback cycles worden te groot; de organisatie beweegt sneller dan ze leert; aannames worden niet bijgesteld |
-| Strategisch | Strategische hypothesen worden niet getoetst via uitvoering; grote bets zonder correctiemechanisme |
+| Strategisch | Strategische hypothesen worden niet getoetst via uitvoering; grote beslissingen zonder bijsturingsmechanisme |
 
 **Interactie met bestaande dysfunctions**
 - Versterkt **waterfall-denken**: grote spec → big batch uitvoering → late feedback
@@ -206,6 +326,8 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 - Teams specificeren steeds groter voordat ze starten; kleine iteraties nemen af
 
 > Begrip ontstaat door interactie, niet door specificatie.
+
+*→ Zie ook: [Het leergemak dat leren wegneemt](#3-het-leergemak-dat-leren-wegneemt) in de Gallery of Irony · Het Grondpatroon*
 
 ---
 
@@ -238,6 +360,48 @@ Dit is het meta-mechanisme. Elke organisatorische dysfunction die al aanwezig is
 
 ---
 
+### 9. Onbeheerde afhankelijkheid
+
+> AI introduceert een nieuwe operationele afhankelijkheid die zelden expliciet gemaakt, gewogen of beheerd wordt.
+
+**Manifestatie per niveau**
+
+| Niveau | Hoe het zich toont |
+|---|---|
+| Individu | Werksnelheid collapst bij token-limieten of uitval; persoonlijke workflow staat stil zonder AI |
+| Team | Team-output afhankelijk van een externe dienst buiten eigen controle; geen fallback bij uitval |
+| Organisatie | Vendor lock-in zonder bewuste afweging; kosten en beschikbaarheid extern bepaald |
+| Strategisch | Strategische continuïteit afhankelijk van derde partij; prijswijzigingen of API-wijzigingen hebben directe impact |
+
+**De DAO-lens**
+
+In organisatiedesign maken we afhankelijkheden expliciet vóór we ze aangaan — en wegen we bewust of de kost acceptabel is. *Designing Agile Organizations* (Ramos & Larman) onderscheidt drie types:
+
+| Type | Omschrijving | Coördinatiekost |
+|---|---|---|
+| Pooled | gedeelde resource, parallelle uitvoering | laag |
+| Sequential | voorspelbare volgorde: A levert aan B | gemiddeld |
+| Reciprocal | constante wederzijdse afstemming | **2-3x hoger** |
+
+De AI-afhankelijkheid is een **sequential dependency**: jij vraagt, AI antwoordt. Niet reciprocaal — maar dat maakt haar niet kosteloos. De kost zit in uitvalrisico, vendor-afhankelijkheid en de afwezigheid van een decoupling-strategie.
+
+Het kernprobleem: in org-design **maken we afhankelijkheden expliciet** voor we ze aangaan. Met AI **creëren we ze stilzwijgend** — zonder dependency mapping, zonder kostenbeoordeling, zonder bewuste afweging.
+
+**Interactie met bestaande dysfunctions**
+- Versterkt **de-skilling**: naarmate de afhankelijkheid dieper wordt, eroderen de vaardigheden die een fallback mogelijk zouden maken
+- Versterkt **vendor lock-in patronen**: zoals eerder met cloud en SaaS — de overstapkost stijgt ongemerkt
+- Versterkt **gebrek aan risicobewustzijn**: de afhankelijkheid is onzichtbaar zolang AI werkt
+
+**Signalen om het te herkennen**
+- De AI-afhankelijkheid is nooit als risico in kaart gebracht
+- Er is geen fallback-plan bij uitval van de AI-dienst
+- Token-limieten of downtime leiden tot disproportionele productiviteitsval
+- Kosten van AI-gebruik worden niet bewust afgewogen tegen de waarde
+
+*→ Zie ook: [De autonomietool die afhankelijkheid creëert](#6-de-autonomietool-die-afhankelijkheid-creeert) in de Gallery of Irony*
+
+---
+
 ## Synthesekaart — hoe de mechanismen elkaar versterken
 
 ```mermaid
@@ -248,7 +412,7 @@ flowchart TD
     A --> OP[Opaciteit]
     A --> FR[Fragmentatie]
 
-    SA --> LO[Leerlooponderbreking]
+    SA --> LO[Leer-looponderbreking]
     SA --> VB[Versterking bestaande dysfunctions]
 
     OP --> MC[Machtconcentratie]
@@ -258,18 +422,21 @@ flowchart TD
     FR --> VB
 
     MC --> OP
-    LO --> DS[Deskilling]
+    LO --> DS[De-skilling]
     DS --> LO
+    DS --> OA[Onbeheerde afhankelijkheid]
+    OA --> DS
 
     VB --> SA
 
-    SA --> POOR[Slechte beslissingen\nop hoog tempo]
+    SA --> POOR[Slechte beslissingen op hoog tempo]
     OP --> POOR
     MC --> POOR
     FR --> POOR
     HO --> POOR
     LO --> POOR
     DS --> POOR
+    OA --> POOR
 
     POOR --> A
 ```
@@ -327,18 +494,54 @@ Dat is een politieke en institutionele vraag, geen economische.
 
 ---
 
+## Gallery of Irony
+
+> De meest veelzeggende inzichten over AI in organisaties zijn ironisch van aard.  
+> Ze tonen hoe de beloofde voordelen precies de tegengestelde effecten produceren wanneer de randvoorwaarden niet kloppen.
+
+#### 1. Het democratiseringsparadox
+AI werd beloofd als democratisering van kennis — iedereen toegang tot expertise. Het keert structureel om naar autocratisering: wie de toegang beheert, krijgt macht die anderen niet kunnen challengen. Niet door slechte intentie, maar door informatieasymmetrie.
+*→ Machtconcentratie*
+
+#### 2. De snelheidsval
+AI maakt je sneller — maar snelheid zonder richting brengt je verder van de oplossing, niet dichter. Het competitief voordeel van snelheid keert om in een risico wanneer de richting fout is.
+*→ Snelheidsasymmetrie*
+
+#### 3. Het leergemak dat leren wegneemt
+AI neemt het moeizame werk over. Maar het moeizame werk was precies waar het leren zat. Door het te vergemakkelijken, verwijder je de leerroute.
+*→ Leer-looponderbreking*
+
+#### 4. De helderheid die begrip verbergt
+AI-output is gestructureerd, coherent en overtuigend. Die schijnbare helderheid maakt het moeilijker om te zien dat de redenering erachter onzichtbaar en oncontroleerbaar is.
+*→ Opaciteit*
+
+#### 5. Het innovatie-instrument dat innovatie homogeniseert
+AI wordt ingezet om sneller en beter te innoveren. Maar iedereen gebruikt dezelfde AI → convergente antwoorden → minder cognitieve diversiteit → minder echte innovatie.
+*→ Homogenisering*
+
+#### 6. De autonomietool die afhankelijkheid creëert
+AI belooft meer autonomie en capability. Maar elke nieuwe capability draagt een nieuwe afhankelijkheid mee — die zelden bewust gemaakt, gewogen of beheerd wordt.
+*→ Onbeheerde afhankelijkheid*
+
+#### 7. De oplossing onderhoudt het probleem
+AI wordt ingezet om problemen te "managen" of te "coördineren". Maar het beheren van een probleem lost het niet op — het conserveert het. Ondertussen degradeert de omliggende kennis (de commons) die het probleem structureel had kunnen aanpakken. Hoe beter AI het managet, hoe minder de organisatie leert het zelf op te lossen.
+*→ Het Grondpatroon · De-skilling · Onbeheerde afhankelijkheid*
+
+---
+
 ## Diagnostische vragen
 
 Gebruik deze om het risicoprofiel van een organisatie snel te beoordelen:
 
 - Worden beslissingen sneller genomen maar vaker herzien? → *Snelheidsasymmetrie*
 - Kan niemand uitleggen welke aannames een analyse draagt? → *Opaciteit*
-- Kunnen juniors basistaken niet uitvoeren zonder AI? → *Deskilling*
+- Kunnen juniors basistaken niet uitvoeren zonder AI? → *De-skilling*
 - Wordt AI-output gebruikt als argument-stopper? → *Machtconcentratie*
 - Heeft iedereen een eigen AI-workflow zonder gedeelde praktijk? → *Fragmentatie*
 - Lijken analyses van verschillende teams te sterk op elkaar? → *Homogenisering*
-- Worden fouten consistent laat ontdekt in het proces? → *Leerlooponderbreking*
+- Worden fouten consistent laat ontdekt in het proces? → *Leer-looponderbreking*
 - Worden bestaande problemen erger na AI-adoptie? → *Versterking bestaande dysfunctions*
+- Is de AI-afhankelijkheid ooit expliciet in kaart gebracht als risico? → *Onbeheerde afhankelijkheid*
 
 ---
 
