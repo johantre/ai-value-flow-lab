@@ -157,13 +157,17 @@ Harari zou zeggen: een informatiesysteem zonder foutcorrectie is niet traag geva
 
 ---
 
-### Appelo — Management 3.0: T-shaped professionals en competentie als managementtaak
+### Appelo — Management 3.0: T-shaped professionals en kennisverbreding als teamverantwoordelijkheid
 
-**Mechanisme**: Competentieontwikkeling is een managementtaak, niet een HR-taak. T-shaped professionals hebben diepe expertise in één domein én breedte over andere domeinen. Appelo's Competence niveau is één van de zes views waarop managers bewust moeten sturen.
+**Mechanisme**: T-shaped professionals hebben diepe expertise in één domein én breedte over andere domeinen. Competentieontwikkeling is geen HR-aangelegenheid — het is een teamverantwoordelijkheid. Het team is zelf eigenaar van de skills die nodig zijn om werk naar Done te krijgen. Heeft het team een bepaalde kennis volledig niet, dan is externe injectie soms nodig. Maar dat is zelden het echte probleem.
 
-**In AI-context**: De-skilling gebeurt wanneer organisaties AI inzetten en hopen dat mensen het zelf uitzoeken. Management 3.0 zegt: bouw expliciet diepte én breedte. Gebruik AI om repetitief vaardigheidswerk te elimineren — zodat mensen *nieuwe* mastery kunnen ontwikkelen op het niveau van oordeel, context en samenwerking met AI.
+Vaker is de kennis er wél — maar geconcentreerd bij één persoon. Die persoon wordt dan een bottleneck: anderen wachten, leren niet, en de teamcapaciteit hangt aan één punt. De oplossing is kennisverbreding: die expertise expliciet over meer teamleden verspreiden zodat het team als geheel de capability bezit, niet één individu.
 
-**Non-obvious**: De banen die AI het best overleven zijn niet diegene die AI weerstaan, maar die AI gebruiken om het tactische te delegeren en strategische expertise te ontwikkelen.
+**In AI-context**: AI verdiept dit patroon. Als één teamlid de enige is die weet hoe een AI-tool effectief te prompten, hoe de output te valideren, of hoe de aannames te doorgronden — dan is de AI-capability van het team in feite een single point of failure. De rest leunt op die persoon in plaats van op de tool. Kennisverbreding is hier dubbel nodig: zowel het domeinwerk als het AI-gebruik zelf moet gedistribueerd zijn over het team.
+
+**Concrete toepassing**: Breng als team in kaart welke skills nodig zijn voor de komende sprints — en wie die skills heeft. Markeer waar er maar één persoon is. Dat zijn de bottlenecks. Maak het verspreiden van die kennis een expliciete sprintactiviteit, niet iets wat "vanzelf" gebeurt. Bouw de feedbackloop in via de retrospective: "welke kennis zat deze sprint nog bij één persoon die we als team zouden moeten beheersen?"
+
+**Voorbeeld**: een team bouwt een API-integratie met een externe dienst. Eén developer kent de authenticatieflow en de foutafhandeling; de rest heeft er nooit naar gekeken. AI helpt de code genereren — maar alleen die ene developer kan beoordelen of de gegenereerde output correct is. De feedbackloop: in de volgende sprint wordt de integratie niet door dezelfde developer uitgebreid, maar door een ander teamlid — met de eerste als vraagbaak, niet als uitvoerder. Na die sprint kan het team zichzelf de vraag stellen: "kunnen twee mensen nu uitleggen hoe dit werkt?" Als het antwoord nee is, is de kennisverspreiding nog niet geslaagd.
 
 ---
 
