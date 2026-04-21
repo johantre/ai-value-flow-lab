@@ -18,6 +18,8 @@ The Responsibility Process: people respond to problems by cycling through Denial
 
 ## What I took from it
 
+Telling the story from Denial to Responsibility is one of the greatest assets to have. 
+
 ### General
 
 Het ongemakkelijke inzicht van dit boek: verantwoordelijkheid nemen is niet het natuurlijke gedrag van mensen — het is een bewuste keuze die ingaat tegen een hardwired mentaal patroon. De meeste dingen die eruitzien als verantwoordelijkheid (iets doen omdat je het moet, regels volgen, je schuldig voelen) zijn het niet. Ze zijn vormen van vermijding die comfortabeler aanvoelen dan ze zijn.

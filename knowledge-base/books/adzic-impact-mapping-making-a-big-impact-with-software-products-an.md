@@ -22,6 +22,8 @@ If it appears that deliverable did NOT achieve that impact, according to the mea
 
 ## What I took from it
 
+Impact mapping should not be complete.  Only the most important branches are important to investigate for potential impact.
+
 ### General
 
 *(To be filled in)*

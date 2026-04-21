@@ -18,6 +18,8 @@ Information networks (language, writing, printing, internet) shape civilizations
 
 ## What I took from it
 
+This book, together with the book [[harari-sapiens-a-brief-history-of-humankind]] and [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md]] helped me understanding the position on what AI means, could mean, will mean for humanity.
+
 ### General
 
 Nexus is ongemakkelijker dan Sapiens. Sapiens verklaart hoe we hier gekomen zijn — Nexus confronteert ons met wat er nu op het spel staat. Het centrale ongemak: AI is niet zomaar een krachtigere tool, het is een nieuw soort actor in het informatienetwerk — één die kan beslissen en creëren zonder menselijk begrip of menselijke waarden. Dat verschuift de vraag van "wat kan AI?" naar "wie bedient AI, en wie controleert dat?"

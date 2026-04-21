@@ -18,6 +18,9 @@ Humans are fundamentally cooperative and good, not selfish. Most systems designe
 
 ## What I took from it
 
+This book comfirmed my view that humanity isn't that dark minded at all.  On the contrary. 
+The historical detective work of the author debunked all (often self-fulfilling) biases out there still kept alive by populism and click bait.
+
 ### General
 
 *(To be filled in)*

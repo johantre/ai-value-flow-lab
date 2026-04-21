@@ -18,6 +18,8 @@ Consciousness remains the hardest problem in science. No current theory fully ex
 
 ## What I took from it
 
+This book reminds that our core concepts of understanding consciousness still needs to be open to be challenged. 
+
 ### General
 
 *(To be filled in)*

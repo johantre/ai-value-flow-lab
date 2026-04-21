@@ -18,6 +18,8 @@ Management needs to evolve for complex adaptive systems. Six views (MAMAPIG): Ma
 
 ## What I took from it
 
+This book gave me the insight where to position Agile/Scrum in a broader picture, and the theoretical foundations and lens to look through in understanding that bigger picture. 
+
 ### General
 
 Management 3.0 is geen boek over technieken — het is een fundamentele herframing van wat management is. De centrale provocatie: als organisaties complexe adaptieve systemen zijn, dan werkt alles wat klassiek management doet (controleren, plannen, instrueren) structureel averechts. Je kan een complex systeem niet besturen — je kan het alleen beïnvloeden door de omgeving te ontwerpen waarin mensen en teams gedijen.
