@@ -15,6 +15,21 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 
 ---
 
+## Twee lagen
+
+Dit document werkt met twee onderscheiden lagen:
+
+**Laag 1 — Bestaande dysfunctions** (pre-AI)
+Organisatorische patronen die al aanwezig waren vóór AI: silos, HiPPO, blame culture, waterfall-denken, gebrek aan psychologische veiligheid, en tientallen andere. Dit is de **bodem**.
+→ *Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor de volledige catalogus, geordend in zes categorieën.*
+
+**Laag 2 — AI-mechanismen** (dit document)
+De acht specifieke manieren waarop AI inwerkt op die bodem — sommige nieuwe patronen, de meeste amplificaties van wat al gebroken was. Dit is de **accelerant**.
+
+Het kernprincipe: AI vergroot het signaal van wat al aanwezig is. Sterke systemen worden sterker. Gebroken systemen breken sneller — maar zien er beter uit.
+
+---
+
 ## Overzichtsmatrix
 
 | Mechanisme | Individu | Team | Organisatie | Strategisch |
@@ -26,8 +41,7 @@ De combinatie met bestaande organisatorische dysfunctions is waar de grootste ri
 | [5. Fragmentatie](#5-fragmentatie) | persoonlijke workflows | parallel realities | shadow AI, coherentie verloren | bestaande silos verdiept |
 | [6. Homogenisering](#6-homogenisering) | minder origineel denken | groepsdenken versneld | conformisme versterkt | strategie-convergentie sector-breed |
 | [7. Leer-looponderbreking](#7-leer-looponderbreking) | grote specs, laat falen | missed insights | organisatie leert trager dan ze beweegt | strategische aannames niet bijgesteld |
-| [8. Versterking bestaande dysfunctions](#8-versterking-van-bestaande-dysfunctions) | — | — | sneller, groter, minder zichtbaar | — |
-| [9. Onbeheerde afhankelijkheid](#9-onbeheerde-afhankelijkheid) | workflow stilvalt bij uitval | geen fallback als dienst wegvalt | vendor lock-in zonder bewuste afweging | continuïteit extern bepaald |
+| [8. Onbeheerde afhankelijkheid](#8-onbeheerde-afhankelijkheid) | workflow stilvalt bij uitval | geen fallback als dienst wegvalt | vendor lock-in zonder bewuste afweging | continuïteit extern bepaald |
 
 ---
 
@@ -138,6 +152,22 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 
 *→ Zie ook: [De oplossing onderhoudt het probleem](#7-de-oplossing-onderhoudt-het-probleem) in de Gallery of Irony*
 
+### Het meta-principe: AI als versterker van bestaande dysfunctions
+
+Naast de twee systemische patronen hierboven geldt een breder meta-principe:
+
+> **AI vergroot het signaal van wat al aanwezig is.**  
+> Sterke systemen worden sterker. Gebroken systemen breken sneller — maar zien er beter uit.
+
+Dit is geen apart mechanisme — het is de overkoepelende werking die álle acht mechanismen gemeen hebben. Elke pre-existente organisationele dysfunction (bureaucratie, silos, HiPPO, blame culture, waterfall-denken) wordt door AI versneld, vergroot en verhuild.
+
+**Signalen om het te herkennen**
+- Bestaande problemen worden erger na AI-adoptie, niet beter
+- Snelheid neemt toe maar kwaliteit of richting niet
+- Problemen die vroeger zichtbaar waren, zijn nu verborgen achter coherent ogende output
+
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor de volledige catalogus van pre-AI dysfunctions die AI kan amplificeren.*
+
 ---
 
 ## Mechanismen
@@ -159,6 +189,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **HiPPO**: de hoogste betaalde persoon beslist nu nóg sneller, met AI als schijnbare onderbouwing
 - Versterkt **silos**: elk silo werkt sneller in zijn eigen richting, divergentie neemt toe
 - Versterkt **oplossingsgedreven cultuur**: "laten we zien wat AI genereert" vervangt "laten we het probleem begrijpen"
+
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
 
 **Signalen om het te herkennen**
 - Beslissingen worden sneller genomen maar vaker herzien
@@ -187,6 +219,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **bureaucratie**: AI-output wordt gebruikt als legitimering voor reeds genomen beslissingen
 - Versterkt **gebrek aan psychologische veiligheid**: AI-output uitdagen voelt riskanter dan menselijke output uitdagen
 
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
+
 **Signalen om het te herkennen**
 - "De AI zei het" als argument-stopper in discussies
 - Niemand kan uitleggen welke aannames een analyse draagt
@@ -213,6 +247,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **kennisverlies door verloop**: als mensen vertrekken, is er minder overdracht geweest
 - Versterkt **afhankelijkheid van individuen**: de enkeling die AI én het domein begrijpt wordt onvervangbaar
 - Versterkt **gebrek aan onboarding-structuur**: juniors worden niet meer ingewerkt via graduele taakopbouw
+
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
 
 **Signalen om het te herkennen**
 - Juniors kunnen taken niet uitvoeren zonder AI, ook niet als de taak dat vereist
@@ -241,6 +277,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **politiek**: controle over AI-tools wordt een machtsmiddel
 - Versterkt **gebrek aan transparantie**: AI-output als black box in handen van enkelen
 
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
+
 **Signalen om het te herkennen**
 - AI-gebruik geconcentreerd bij een kleine groep; anderen vragen hen om output
 - "De AI bevestigt mijn aanpak" als conversatie-ender
@@ -268,6 +306,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **gebrek aan standaardisatie**: "iedereen mag AI vrij gebruiken" zonder kaders
 - Versterkt **shadow IT problematiek**: risico-profielen worden onbeheersbaar
 
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
+
 **Signalen om het te herkennen**
 - Iedereen heeft eigen AI-workflow; geen twee mensen werken hetzelfde
 - Dezelfde vraag aan AI door verschillende teams leidt tot conflicterende beslissingen
@@ -292,6 +332,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **groupthink**: AI geeft sneller een "consensus" antwoord dat niemand uitdaagt
 - Versterkt **conformisme in hiërarchische culturen**: AI output bevestigt wat de hiërarchie verwacht
 - Versterkt **gebrek aan psychologische veiligheid**: afwijken van AI-output voelt riskanter
+
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
 
 **Signalen om het te herkennen**
 - Analyses van verschillende teams lijken sterk op elkaar ondanks verschillende contexten
@@ -320,6 +362,8 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 - Versterkt **gebrek aan iteratieve cultuur**: AI geeft het gevoel dat je alles vooraf kan specificeren
 - Versterkt **afstand tussen beslissers en uitvoering**: beslissers delegeren aan AI, verliezen contact met realiteit
 
+*→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
+
 **Signalen om het te herkennen**
 - Fouten worden laat in het proces ontdekt, niet vroeg
 - Gevoel van "dit hadden we eerder moeten weten"
@@ -331,36 +375,7 @@ Het verschil met de Customer Happiness Manager: AI schaalt. De snelheid waarmee 
 
 ---
 
-### 8. Versterking van bestaande dysfunctions
-
-> AI maakt bestaande organisatorische problemen sneller, groter en minder zichtbaar.
-
-Dit is het meta-mechanisme. Elke organisatorische dysfunction die al aanwezig is, wordt door AI versneld en vergroot — terwijl de zichtbaarheid ervan afneemt omdat de output er beter uitziet.
-
-**Kernpatroon**
-
-| Bestaande dysfunction | Effect van AI |
-|---|---|
-| Bureaucratie | Meer bureaucratie, sneller geproduceerd |
-| Silos | Diepere silos, hogere muren |
-| HiPPO | Sterker HiPPO, beter bewapend met schijn-onderbouwing |
-| Slechte processen | Snellere slechte processen |
-| Politiek | Geraffineerder politiek spel |
-| Gebrek aan psychologische veiligheid | Minder uitdaging, meer conformisme |
-| Waterfall-denken | Grotere batches, tragere feedback |
-
-**Kernprincipe**
-> AI vergroot het signaal van wat al aanwezig is.  
-> Sterke systemen worden sterker. Zwakke systemen worden sneller zwakker — maar zien er beter uit.
-
-**Signalen om het te herkennen**
-- Bestaande problemen worden erger na AI-adoptie, niet beter
-- Snelheid neemt toe maar kwaliteit of richting niet
-- Problemen die vroeger zichtbaar waren, zijn nu verborgen achter coherent ogende output
-
----
-
-### 9. Onbeheerde afhankelijkheid
+### 8. Onbeheerde afhankelijkheid
 
 > AI introduceert een nieuwe operationele afhankelijkheid die zelden expliciet gemaakt, gewogen of beheerd wordt.
 
@@ -540,8 +555,8 @@ Gebruik deze om het risicoprofiel van een organisatie snel te beoordelen:
 - Heeft iedereen een eigen AI-workflow zonder gedeelde praktijk? → *Fragmentatie*
 - Lijken analyses van verschillende teams te sterk op elkaar? → *Homogenisering*
 - Worden fouten consistent laat ontdekt in het proces? → *Leer-looponderbreking*
-- Worden bestaande problemen erger na AI-adoptie? → *Versterking bestaande dysfunctions*
 - Is de AI-afhankelijkheid ooit expliciet in kaart gebracht als risico? → *Onbeheerde afhankelijkheid*
+- Worden bestaande problemen erger na AI-adoptie? → *Het meta-principe: zie [Org Dysfunction Catalog](org-dysfunction-catalog.md)*
 
 ---
 
@@ -558,4 +573,4 @@ De matrix hierboven is primair relevant in **hoog-ambigue, multi-stakeholder, co
 
 ---
 
-*Zie ook: [[issues-w-ai-in-org]] (origineel werkdocument)*
+*Zie ook: [Org Dysfunction Catalog](org-dysfunction-catalog.md) (pre-AI dysfunctions) · [AI Org Solutions Map](ai-org-solutions-map.md) (oplossingen) · [issues-w-ai-in-org](issues-w-ai-in-org.md) (origineel werkdocument)*
