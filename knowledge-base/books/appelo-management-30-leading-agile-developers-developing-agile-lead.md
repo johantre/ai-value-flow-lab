@@ -56,7 +56,7 @@ Het theoretische fundament van het boek. Een complex adaptief systeem:
 - Reageert op interventies op niet-lineaire manieren
 - Kan niet volledig gecontroleerd worden — alleen beïnvloed
 
-Klassiek management is ontworpen voor **gecompliceerde** systemen (voorspelbaar, analyseerbaar). Toepassen op **complexe** systemen leidt structureel tot mislukking — niet door slechte uitvoering, maar door verkeerde aannames.
+Klassiek management is ontworpen voor **gecompliceerde** systemen (voorspelbaar, analyseerbaar). Dit toepassen op **complexe** systemen leidt structureel tot mislukking — niet door slechte uitvoering, maar door verkeerde aannames, nl dat systemen eenvoudiger (Complicated - Simple/Order/Clear) zijn dan ze in werkelijkheid zijn. 
 
 ---
 
@@ -164,13 +164,13 @@ Verbetering is geen project — het is een doorlopende modus.
 
 ### Anti-patronen
 
-| Anti-patroon | Gevolg |
-|---|---|
-| Manager stuurt mensen aan i.p.v. het systeem | Symptomen worden behandeld, oorzaken niet |
-| Delegatie impliciet gelaten | Teams weten niet wat ze mogen beslissen → blokkade of overschrijding |
+| Anti-patroon | Gevolg                                                                          |
+|---|---------------------------------------------------------------------------------|
+| Manager stuurt mensen aan i.p.v. het systeem | Symptomen worden behandeld, oorzaken niet                                       |
+| Delegatie impliciet gelaten | Teams weten niet wat ze mogen beslissen → blokkade of overschrijding            |
 | Motivatie via bonussen | Intrinsieke motivatie neemt af, afhankelijkheid van extrinsieke prikkels groeit |
-| Zelforganisatie zonder doelen of grenzen | Chaos, divergentie, gebrek aan coherentie |
-| Competentieontwikkeling als HR-verantwoordelijkheid | Teams groeien niet, management voelt zich niet verantwoordelijk |
+| Zelforganisatie zonder doelen of grenzen | Chaos, divergentie, gebrek aan coherentie                                       |
+| Competentieontwikkeling als HR-verantwoordelijkheid | Teams groeien niet, voelen zich niet verantwoordelijk                            |
 
 ---
 
