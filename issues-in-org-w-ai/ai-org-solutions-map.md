@@ -223,11 +223,15 @@ De widesizing-aanpak: het team besluit expliciet dat de vrijgekomen tijd gaat na
 
 **Mechanisme**: Op een gedistribueerde task force verving McChrystal "ik neem alle grote beslissingen" door "iedereen ziet dezelfde informatie (shared consciousness), lokale commandanten nemen snelle beslissingen in lijn met de intentie (empowered execution)." Macht verschoof van centralisatie naar distributie.
 
-**In AI-context**: AI kan de shared consciousness laag leveren — iedereen ziet dezelfde data, dezelfde patronen, dezelfde risico's. Die transparantie distribueert macht. Organisaties die AI gebruiken om informatie te concentreren bij enkelen (de "AI-team," de "data scientists") repliceren de oude hiërarchie in nieuwe vorm. Organisaties die AI gebruiken om informatie te democratiseren, verminderen machtconcentratie structureel.
+**In AI-context**: In een softwareteam lopen informatie-stromen constant parallel en onzichtbaar voor elkaar: tickets in Jira, gesprekken in Slack, code in GitHub, alerts in monitoring. Iedereen ziet zijn eigen stroom; niemand ziet het geheel. AI kan die stromen aggregeren tot één leesbaar beeld — zichtbaar voor iedereen, niet alleen voor wie toevallig alle kanalen bijhoudt. Dat is wat McChrystal bedoelde met shared consciousness: niet meer vergaderen, maar hetzelfde zien.
 
-**Concrete toepassing**: Zorg dat AI-inzichten niet landen bij één persoon of rol die ze daarna "vertaalt" voor de rest. De output van AI — analyses, code reviews, risicorapportages — moet direct zichtbaar zijn voor iedereen die ermee werkt, niet gefilterd via een tussenpersoon. Die tussenpersoon is de machtconcentratie.
+Het cruciale onderscheid: AI levert de *informatie*laag. De empowered execution — het oordeel, het vertrouwen, de beslissing — blijft menselijk. Organisaties die AI gebruiken om informatie te concentreren bij enkelen (een "AI-team" dat analyses vertaalt voor de rest) repliceren de oude hiërarchie in nieuwe vorm. De tussenpersoon is de machtconcentratie.
 
-**Voorbeeld**: een team heeft één senior developer die alle AI-gegenereerde architectuurvoorstellen beoordeelt en samenvat voor de rest. De bedoeling is goed — kwaliteitsfilter. Het effect is machtconcentratie: de rest ziet alleen de interpretatie, niet de ruwe AI-output en de redenering erachter. De feedbackloop: maak de AI-output zelf beschikbaar in het teamkanaal, en bespreek voorstellen collectief. Niet iedereen hoeft evenveel te begrijpen — maar iedereen moet kunnen bevragen. Merk je dat alleen de senior vragen stelt? Dan is shared consciousness er nog niet.
+**Concrete toepassing**: Gebruik AI om informatiestromen te consolideren tot een gedeeld, doorzoekbaar overzicht dat iedereen direct kan raadplegen — zonder filter. Niet "het AI-team rapporteert wat het gezien heeft" maar "iedereen kan het zelf zien."
+
+**Voorbeeld**: Een collega bouwt een systeem dat alle informatiestromen van zijn organisatie — tickets, deployments, monitoring, teamberichten — samenbrengt in één view die iedereen kan raadplegen. Niet als rapport dat iemand samenstelt, maar als levend dashboard dat continu bijwerkt. Het effect: teamleden hoeven niet meer te wachten op de standup om te weten wat er in andere hoeken van het systeem speelt. Ze zien het zelf, stellen hun eigen vragen, en nemen beslissingen op basis van hetzelfde beeld. De machtconcentratie die ontstaat wanneer één persoon "het overzicht heeft" verdwijnt structureel — omdat het overzicht nu van niemand en van iedereen is.
+
+De feedbackloop: merk je dat teamleden hun beslissingen nog steeds baseren op wat één collega hen vertelt in plaats van op wat ze zelf zien? Dan is de shared consciousness nog niet geland — en is er nog een tussenpersoon die de informatie filtert.
 
 ---
 
