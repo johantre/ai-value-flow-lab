@@ -1,4 +1,4 @@
-# AI-First Value Stream Assessment — Fluvius
+# AI-First Value Stream Assessment — Acme BV
 *Test case | Value stream: Van bedrijfsvraag naar bruikbaar inzicht*
 
 > **Outside-In Principle:** Every value stream is defined from the customer's perspective inward — never from internal processes outward. We start with *what the customer needs*, trace back through *how that value is created*, and only then ask *how we are organized*. This lens applies throughout every section of this assessment.
@@ -18,7 +18,7 @@
 
 ## 0. Strategic Orientation
 
-- **What is the organization's purpose (really)?** Fluvius is the Belgian distribution system operator (DSO) for electricity and gas in Flanders, Brussels, and parts of Wallonia. Core mandate: safe, reliable, accessible energy infrastructure for every household and business in the territory.
+- **What is the organization's purpose (really)?** Acme BV is the Belgian distribution system operator (DSO) for electricity and gas in Flanders, Brussels, and parts of Wallonia. Core mandate: safe, reliable, accessible energy infrastructure for every household and business in the territory.
 - **What value do we deliver (concretely)?** Energy delivery, grid management, smart meter rollout, connection management, energy transition facilitation (solar, EV, batteries). And internally: data-driven insight that supports operational and strategic decisions.
 - **For whom?** Households, businesses, municipalities, grid operators, regulators (VREG), and internal business stakeholders.
 - **Which value streams exist today?** Grid operations, connection management, meter data processing, reporting & analytics (this assessment), customer service, energy transition programs.
@@ -48,7 +48,7 @@
 
 > **Valkuil 6 (Vandamme)**: begincondities die niet helder zijn, zijn de meest onderschatte oorzaak van mislukte transformaties. Mandaat, tijd en middelen moeten expliciet zijn — niet aangenomen. Beantwoord onderstaande vragen eerlijk voor je verdergaat.
 
-- **Organization / Domain:** Fluvius — Belgian DSO (Distribution System Operator). Data & Analytics department.
+- **Organization / Domain:** Acme BV — Belgian DSO (Distribution System Operator). Data & Analytics department.
 - **Scope of analysis:** The value stream "Van bedrijfsvraag naar bruikbaar inzicht" — covering intake of business questions through delivery of usable insights via Power BI, built on Databricks.
 - **Out of scope:** Infrastructure operations, customer-facing systems, grid management systems, HR and finance analytics.
 - **Starting point:** Reporting is a bottleneck. Business stakeholders experience long wait times. Analysts spend disproportionate time on mechanics (data retrieval, formatting) vs. interpretation. Training adoption of the Databricks + Power BI + Git platform is uneven.
@@ -331,7 +331,7 @@
 | ☑ Product | SQL writing, data cleaning, standard aggregations | Becoming Commodity |
 | ☐ Commodity | | Standard queries: already commodity |
 
-**Implication:** ☑ Buy for SQL/query assistance — ☑ Build for domain-specific Databricks notebooks with Fluvius data model knowledge.
+**Implication:** ☑ Buy for SQL/query assistance — ☑ Build for domain-specific Databricks notebooks with Acme BV data model knowledge.
 
 **How:** AI coding assistant (e.g., integrated in Databricks) generates first-draft SQL from a natural language spec. Analyst reviews and refines. Upstream: clearer spec from redesigned step 2. Downstream: faster delivery to step 4. New risks: AI-generated SQL that looks correct but applies wrong business rules — requires human review by domain-knowledgeable analyst.
 
@@ -353,7 +353,7 @@
 
 **Implication:** ☑ Buy — AI report generation tools are available now. Template library reduces manual effort immediately. Invest in template standards, not bespoke report building.
 
-**How:** Define top 10 standard report archetypes for Fluvius. Build AI-assisted first-draft generation for these. Analysts review and refine. Upstream: well-specified question from redesigned step 2. Downstream: validation becomes lightweight confirmation rather than full rework.
+**How:** Define top 10 standard report archetypes for Acme BV. Build AI-assisted first-draft generation for these. Analysts review and refine. Upstream: well-specified question from redesigned step 2. Downstream: validation becomes lightweight confirmation rather than full rework.
 
 ##### Step 6 — Gebruik & learning (redesigned)
 
@@ -371,7 +371,7 @@
 | ☐ Product | | |
 | ☐ Commodity | | |
 
-**Implication:** ☑ Build — no off-the-shelf solution captures the Fluvius-specific feedback loop between insight and operational decision. This is a differentiating capability.
+**Implication:** ☑ Build — no off-the-shelf solution captures the Acme BV-specific feedback loop between insight and operational decision. This is a differentiating capability.
 
 **How:** Instrument Power BI reports with usage analytics. Build a lightweight feedback mechanism (thumbs up/down + one-line comment) at report level. Analyst team reviews usage data monthly. Reports with zero usage in 3 months: retire or redesign. Upstream: no change. Downstream: informs step 1 (which questions recur, which are answered well, which are poorly served).
 
@@ -390,7 +390,7 @@
 #### Step 2 — Vraag → data vertaling
 
 - Action: ☑ **Eliminate** (current form) → replace with shared semantic layer + AI mapping
-- Rationale: This step is the knowledge bottleneck. One analyst holding the mental map from business vocabulary to data model is a single point of failure and a scaling constraint. The fix is structural: build a documented semantic layer (Fluvius business ontology ↔ Databricks data model), and use AI to map incoming questions to that layer.
+- Rationale: This step is the knowledge bottleneck. One analyst holding the mental map from business vocabulary to data model is a single point of failure and a scaling constraint. The fix is structural: build a documented semantic layer (Acme BV business ontology ↔ Databricks data model), and use AI to map incoming questions to that layer.
 - If we do NOT do this: Analyst dependency grows with every new data source added. Knowledge walks out the door when people leave. The value stream cannot scale.
 
 #### Step 3 — Data ophalen & transformeren
@@ -432,7 +432,7 @@
 **If built from scratch with AI as a native capability:**
 
 - The business stakeholder types a question in natural language into an interface. An AI assistant helps them sharpen the question — not a human analyst.
-- The AI maps the question to the shared Fluvius data ontology and identifies the relevant data sources in Databricks. No human translator.
+- The AI maps the question to the shared Acme BV data ontology and identifies the relevant data sources in Databricks. No human translator.
 - A first-draft report is generated automatically for standard question types. The business stakeholder sees a v0 in minutes, not days.
 - The business stakeholder iterates directly with the AI: "split this by region," "exclude residential connections," "show me the trend over 12 months." Real-time refinement.
 - For complex, exploratory, or novel questions: an analyst is engaged as a curator — not a translator. Their job is to ensure the AI's interpretation is domain-correct, and to add the analytical layer that AI cannot.
@@ -511,7 +511,7 @@
 
 #### Van bedrijfsvraag naar bruikbaar inzicht
 
-- **What data does AI need?** The shared Fluvius data ontology (business concepts ↔ data model), historical question-to-report mappings (to learn patterns), report usage data (to improve relevance), Databricks table metadata and documentation.
+- **What data does AI need?** The shared Acme BV data ontology (business concepts ↔ data model), historical question-to-report mappings (to learn patterns), report usage data (to improve relevance), Databricks table metadata and documentation.
 - **Where does that data come from today?** It lives in analysts' heads. It is not documented, not structured, not machine-readable. Building the ontology is the first prerequisite.
 - **Decisions currently made on intuition that could become data-driven:** Which questions recur most? Which reports are actually used? Which data sources are most-queried? Which analysts are bottlenecks vs. which are underutilized? All currently invisible.
 - **How does the system learn and improve?** Usage data → ontology refinement. Feedback on v0 reports → template improvement. Recurrence patterns → proactive pre-generation.
@@ -549,7 +549,7 @@
 
 **Target attractor (hypothesis):**
 
-> *A Fluvius business stakeholder can get a first answer to a standard data question within 2 hours — by themselves, without scheduling a meeting or waiting for an analyst. Analysts spend the majority of their time on complex, novel analytical work that AI cannot yet do. Every delivered insight has a visible connection to an operational decision.*
+> *A Acme BV business stakeholder can get a first answer to a standard data question within 2 hours — by themselves, without scheduling a meeting or waiting for an analyst. Analysts spend the majority of their time on complex, novel analytical work that AI cannot yet do. Every delivered insight has a visible connection to an operational decision.*
 
 ### AI-Native Value Stream (hypothesis)
 
@@ -688,7 +688,7 @@
 - Skills / capabilities needed: AI orchestration, ontology design, insight curation (vs. report building)
 
 **What is likely to remain:**
-- The need for domain expertise in the data team (Fluvius data model is complex and changes)
+- The need for domain expertise in the data team (Acme BV data model is complex and changes)
 - Regulatory reporting requirements and the compliance work that supports them
 - Complex analytical questions that require genuine human judgment and domain knowledge
 - The fundamentally collaborative nature of insight work — AI does not remove the need for shared sense-making
@@ -724,7 +724,7 @@
 |-----------|------|------------|
 | Talent pipeline | If AI handles standard query writing, junior analysts don't develop those skills — and may lack the foundation for complex analytics | Keep a deliberate learning path that includes manual query building, even if AI assists. Pair junior and senior analysts on complex questions. |
 | Maintainability | AI-generated notebooks and reports may be difficult to maintain if the analyst who reviewed them leaves | Code review standards for AI-generated output. Documentation requirements. Avoid "black box" AI output in critical paths. |
-| Organizational identity | Fluvius's data team has an identity as expert problem-solvers. If AI handles the visible "clever" work, that identity needs to migrate to insight curation and domain expertise. | Explicitly name the new expertise. Celebrate ontology quality and insight impact, not report count. |
+| Organizational identity | Acme BV's data team has an identity as expert problem-solvers. If AI handles the visible "clever" work, that identity needs to migrate to insight curation and domain expertise. | Explicitly name the new expertise. Celebrate ontology quality and insight impact, not report count. |
 | SCARF threats | **Status**: analysts may feel their expertise is devalued. **Certainty**: the pace of AI change is disorienting. **Autonomy**: new AI-assisted workflows may feel prescriptive. **Relatedness**: fewer human touchpoints may reduce team cohesion. **Fairness**: if some analysts get access to AI tools first, unequal experience creates friction. | Address all five explicitly. Status: reframe expertise toward curation. Certainty: be honest about what's unknown. Autonomy: involve analysts in tool selection. Relatedness: protect team rituals. Fairness: phase rollout carefully. |
 
 *Agility is a component of viability — not the goal. Calibration over acceleration.*
