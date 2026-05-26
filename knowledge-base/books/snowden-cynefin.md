@@ -140,6 +140,48 @@ De meest voorkomende leiderschapsfout in organisaties: **organisatieverandering 
 
 ---
 
+---
+
+### Cynefin vs. Stacey Matrix
+
+Twee frameworks die in hetzelfde decennium ontstonden en vaak door elkaar worden gehaald — maar fundamenteel anders zijn.
+
+| | **Stacey Matrix** | **Cynefin** |
+|---|---|---|
+| **Auteur** | Ralph Stacey | Dave Snowden |
+| **Jaar** | ~1996 (*Managing Complexity*) | ~1999 (IBM; formeel gepubliceerd 2002–2003) |
+| **Oorsprong** | Strategisch management, organisatiedynamica | Kennismanagement, complexiteitswetenschap |
+| **Structuur** | 2D-matrix | Sense-making framework (5 domeinen, geen matrix) |
+| **Assen** | X: *Certainty* (kennis over oorzaak-gevolg) / Y: *Agreement* (consensus over doelen) | Geen assen — domeinen op basis van oorzaak-gevolg relatie |
+| **Aantal zones** | 5 zones (Simple, Complicated, Complex, Anarchy + transitiezone) | 5 domeinen (Clear, Complicated, Complex, Chaotic, Disorder) |
+| **Unieke dimensie** | *Agreement*-as: politieke/sociale complexiteit als aparte variabele | Geen agreement-dimensie — sociale complexiteit zit impliciet in Complex |
+| **"Verloren" zone** | *Anarchy*: hoek (ver van certainty én van agreement) | *Disorder*: het centrum — je weet niet in welk domein je zit |
+| **De klif** | Niet aanwezig | Uniek aan Cynefin: Clear/Simple kan plotseling in Chaos kantelen |
+| **Primair gebruik** | Strategische positionering; uitleggen waarom Agile werkt voor complexe projecten | Real-time sense-making; beslissingsarchitectuur voor leiders |
+| **Prescriptie** | Welke aanpak past bij welke zone? | Welke aanpak past bij welk domein? + hoe verschuif je bewust? |
+
+#### Kernverschil in één zin
+
+**Stacey** vraagt: *"Hoe zeker zijn we, en hoe eens zijn we?"* — twee dimensies die allebei kunnen variëren.
+
+**Cynefin** vraagt: *"In welk type systeem zitten we — en weten we dat eigenlijk wel?"* — één dimensie (oorzaak-gevolg) met als gevaarlijkste antwoord: *we weten het niet* (Disorder).
+
+#### Wanneer gebruik je welk?
+
+**Stacey** is sterker wanneer je wil aantonen dat een project complex is *ondanks* dat iedereen zegt "we weten wat we willen" — de Agreement-as maakt zichtbaar dat disagreement over doelen een aparte uitdaging is naast technische onzekerheid. Sterk als gesprekstool met stakeholders en in Agile introductiecontexten.
+
+**Cynefin** is sterker wanneer je leiders wil helpen beslissen *hoe* te handelen, niet alleen *waarom* hun aanpak niet klopt. De Probe → Sense → Respond cyclus, safe-to-fail experimenten, enabling constraints en het cliff-concept geven concretere handelingsinstructies. Sterk als framework voor veranderstrategie en organisatietransformatie.
+
+#### In ons werk
+
+Beide zijn bruikbaar in de AI-adoptiecontext:
+- **Stacey**: uitleggen waarom AI-trajecten complex zijn (onzekerheid over impact + gebrek aan gedeeld beeld van succes)
+- **Cynefin**: ontwerpen hoe je AI-trajecten aanpakt (parallelle probes, sensing cadences, geen masterplan)
+
+Ze zijn complementair: Stacey als *diagnose* waarom de klassieke aanpak faalt, Cynefin als *handelingskader* voor wat je er voor in de plaats zet.
+
+---
+
 ### Mermaid — het Cynefin-model
 
 ```mermaid

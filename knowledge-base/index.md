@@ -8,6 +8,7 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 ## Reference frameworks (books)
 *(Not directly read — used as foundational frameworks in our work)*
 
+- [[books/skelton-pais-team-topologies|Team Topologies]] — *Matthew Skelton & Manuel Pais* — 4 team types, 3 interaction modes, cognitive load as design constraint *(paper only)*
 - [[books/bryar-carr-working-backwards|Working Backwards]] — *Colin Bryar & Bill Carr*
 - [[books/brynjolfsson-mcafee-the-second-machine-age|The Second Machine Age]] — *Erik Brynjolfsson & Andrew McAfee*
 - [[books/goldratt-the-goal|The Goal]] — *Eliyahu M. Goldratt*
