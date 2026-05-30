@@ -36,7 +36,7 @@ De historische boog — van Shang-dynastieën die orakelbeenderen besmeutten tot
 
 **Verantwoordingskloof als ontwerprisco.** Algoritmische beslissingen hebben geen auteur. Als een AI een lening weigert, een sollicitant afwijst, of een patiënt deprioritering aanbeveelt — wie is verantwoordelijk? Véliz toont dat dit geen bijverschijnsel is van slechte implementatie; het is een structureel feature van predictieve systemen.
 
-Related: [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]], [[harari-sapiens-a-brief-history-of-humankind]], [[taleb-antifragile-things-that-gain-from-disorder]], [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]], [[meadows-thinking-in-systems-a-primer]]
+Related: [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]], [[harari-sapiens-a-brief-history-of-humankind]], [[taleb-antifragile-things-that-gain-from-disorder]], [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]], [[meadows-thinking-in-systems-a-primer]], [[galinsky-power-and-perspectives-not-taken]]
 
 ---
 
