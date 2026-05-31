@@ -64,8 +64,15 @@ Het verschil zit niet in intentie maar in automatisme. Mensen met macht corriger
 
 ### De andere experimenten — achtergrond en legitimiteit
 
-**Experiment 2 — Curse of knowledge**
-Deelnemers kregen informatie die hun tegenpartij *niet* had. Hoge-macht deelnemers corrigeerden veel minder voor dat kennisverschil: ze gingen er automatisch van uit dat anderen wisten wat zij wisten. Het is hetzelfde ankermechanisme als bij de E — eigen standpunt als vertrekpunt, onvoldoende bijstelling naar de ander.
+**Experiment 2a — Bevoorrechte kennis en sarcastische interpretatie**
+Deelnemers lazen een scenario: ze gingen met een collega naar een restaurant dat tegenviel. De volgende dag stuurde de collega een e-mail aan de vriend die het restaurant had aanbevolen: *"About the restaurant, it was marvelous, just marvelous."* Op het eerste gezicht oprecht — maar wie weet dat de avond mislukt was, hoort sarcasme. Deelnemers werd gevraagd: hoe zal de vriend (die de avond *niet* meemaakte) die e-mail interpreteren?
+
+Hoge-macht deelnemers gingen er significant vaker van uit dat de vriend het sarcasme zou begrijpen — ook al bezat die vriend die kennis helemaal niet. Ze ankerten op hun eigen bevoorrechte kennis en corrigeerden onvoldoende voor wat de ander wist.
+
+**Experiment 2b — Controle: werkt het ook omgekeerd?**
+Zelfde opzet, maar nu was de bevoorrechte kennis omgekeerd: deelnemers hadden het restaurant echt goed gevonden, maar de vriend had er altijd slechte ervaringen. De "marvelous"-mail klinkt voor een buitenstaander dus sarcastic, maar de deelnemer weet dat het oprecht is. Hoge-macht deelnemers dachten nu significant vaker dat de vriend de mail als *oprecht* zou interpreteren.
+
+Het effect draait mee met de richting van de eigen kennis — niet met sarcastische attributie als zodanig. Dat sluit de alternatieve verklaring uit en toont dat het mechanisme is: *eigen standpunt als anker, onvoldoende bijstelling naar wat de ander weet*.
 
 **Experiment 3 — Emotieherkenning**
 Deelnemers beoordeelden emoties op gezichten en in beschreven situaties. Hoge-macht deelnemers waren significant minder nauwkeurig — niet minder bereid, maar minder capabel. De bias zit in de verwerking, niet in de intentie.
@@ -73,7 +80,7 @@ Deelnemers beoordeelden emoties op gezichten en in beschreven situaties. Hoge-ma
 **Correlatiestudie**
 Met een schaal voor dispositionele macht (hoeveel macht iemand structureel ervaart in het dagelijks leven) werd gecorreleerd met perspectief-inname in reële situaties. Dezelfde richting als de experimenten: meer macht, minder perspectief van de ander.
 
-> De vier studies samen tonen dat het effect niet afhankelijk is van één taak of één meting — het duikt op in visuele perspectiefname (E), kennisoverdracht (curse of knowledge), emotielezen, én in dagelijkse machtservaring. Dat maakt het een robuust cognitief patroon, geen laborieus artefact.
+> De vier studies samen tonen dat het effect niet afhankelijk is van één taak of één meting — het duikt op in visuele perspectiefname (E), kennisoverdracht (2a én 2b met omgekeerde controle), emotielezen, én in dagelijkse machtservaring. Dat maakt het een robuust cognitief patroon, geen labo-artefact.
 
 ---
 
