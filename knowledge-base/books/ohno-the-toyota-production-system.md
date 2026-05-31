@@ -22,7 +22,7 @@ Elimineer alles wat geen waarde toevoegt voor de klant. Produceer wat nodig is, 
 
 *(Not directly read — used as reference framework)*
 
-Ohno schreef dit boek als terugblik op dertig jaar bouwen aan het Toyota Production System. Het is geen managementboek in de gebruikelijke zin — het is een verslag van een praktijk, met de ruwheid die daarbij hoort. Ohno legt uit hoe hij probleem voor probleem het Fordistische massaproductiemodel ontmantelde en verving door een systeem gebouwd op vloei, trekkracht en zichtbare kwaliteit.
+Ohno schreef dit boek als terugblik op dertig jaar bouwen aan het Toyota Production System. Het is geen managementboek in de gebruikelijke zin — het is een verslag van een praktijk, met de ruwheid die daarbij hoort. Ohno legt uit hoe hij probleem voor probleem het Fordistische massaproductiemodel ontmantelde en verving door een systeem gebouwd op flow, trekkracht en zichtbare kwaliteit.
 
 ### Connection to our work
 
@@ -95,7 +95,7 @@ Ohno's centrale leiderschapspraktijk: **ga naar de werkvloer en observeer**. Hij
 
 De logica: een leidinggevende die alleen via rapporten of vergaderingen werkt, heeft geen begrip van het werk. Hij heeft een model van het werk. Dat model is altijd onvolledig, altijd iets vertraagd, altijd gefilterd door de rapporteringscultuur.
 
-> "Data is important in TMS, but I place greatest emphasis on facts." — Taiichi Ohno
+> "Data is important in TPS, but I place greatest emphasis on facts." — Taiichi Ohno
 
 Dit is geen romantisering van de werkvloer — het is een epistemologisch standpunt: de werkelijkheid zit in het proces, niet in de representatie ervan.
 
