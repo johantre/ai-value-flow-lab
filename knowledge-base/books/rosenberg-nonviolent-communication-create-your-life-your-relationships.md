@@ -14,7 +14,7 @@ All human behavior is an attempt to meet universal needs. NVC: observe without e
 
 ## Key concepts
 
-[[nvc]], [[observation-vs-evaluation]], [[feelings]], [[needs]], [[requests-vs-demands]], [[empathy-nvc]], [[universal-needs]]
+[Nonviolent Communication (NVC)](../concepts/nvc.md), [[observation-vs-evaluation]], [[feelings]], [[needs]], [[requests-vs-demands]], [[empathy-nvc]], [[universal-needs]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ All human behavior is an attempt to meet universal needs. NVC: observe without e
 
 ### Connection to our work
 
-Resistance to AI-first change is a needs expression (certainty, status, belonging) — not a problem to overcome. NVC provides a framework for hearing and addressing it. Crucial for facilitation. Related: [[patterson-crucial-conversations-tools-for-talking-when-stakes-are-high]], [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]]
+Resistance to AI-first change is a needs expression (certainty, status, belonging) — not a problem to overcome. NVC provides a framework for hearing and addressing it. Crucial for facilitation. Related: [Crucial Conversations: Tools for Talking When Stakes are High](patterson-crucial-conversations-tools-for-talking-when-stakes-are-high.md), [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md)

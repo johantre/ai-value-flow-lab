@@ -24,4 +24,4 @@ Marketing works through authentic stories that match the audience's worldview. T
 
 ### Connection to our work
 
-The narrative layer in toward-ai-native is a storytelling challenge. The AI-first story must be authentic (true) and match the organization's worldview. A story that doesn't match worldview is ignored or rejected. Related: [[sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac]]
+The narrative layer in toward-ai-native is a storytelling challenge. The AI-first story must be authentic (true) and match the organization's worldview. A story that doesn't match worldview is ignored or rejected. Related: [Start with Why: How Great Leaders Inspire Everyone to Take Action](sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac.md)

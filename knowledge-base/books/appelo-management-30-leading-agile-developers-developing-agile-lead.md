@@ -14,7 +14,7 @@ Management needs to evolve for complex adaptive systems. Six views (MAMAPIG): Ma
 
 ## Key concepts
 
-[[management-30]], [[complex-adaptive-systems]], [[moving-motivators]], [[delegation-boards]], [[agile-leadership]], [[self-organization]]
+[[management-30]], [[complex-adaptive-systems]], [[moving-motivators]], [[delegation-boards]], [[agile-leadership]], [Self-Organization](../concepts/self-organization.md)
 
 ## What I took from it
 
@@ -26,7 +26,7 @@ Management 3.0 is geen boek over technieken — het is een fundamentele herframi
 
 ### Connection to our work
 
-Management in AI-first orgs needs Management 3.0 logic. Traditional management cannot handle the complexity. The delegation board is a tool for deciding what AI handles vs. what humans handle. Related: [[pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu]], [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]]
+Management in AI-first orgs needs Management 3.0 logic. Traditional management cannot handle the complexity. The delegation board is a tool for deciding what AI handles vs. what humans handle. Related: [Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization (Betacodex Publishing)](pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md), [Reinventing organizations: geillustreerde versie (Dutch Edition)](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)
 
 ---
 

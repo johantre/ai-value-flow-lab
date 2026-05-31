@@ -28,6 +28,6 @@ AI provided optimal routing without wisdom about terrain, darkness, or connectiv
 
 This is the narrative context for *why* our framework matters: it positions the consultant not as a framework-deliverer (the dying middle) but as a complexity navigator who uses the template as a thinking tool, not a deliverable.
 
-Relevant for the consulting positioning layer in [[../../toward-ai-native-ai-first]] — especially the "Honest Summary" table which already distinguishes what AI handles vs. what requires human judgment.
+Relevant for the consulting positioning layer in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) — especially the "Honest Summary" table which already distinguishes what AI handles vs. what requires human judgment.
 
-Related: [[appelo-stop-chasing-ai-tools]]
+Related: [Stop Chasing AI Tools](appelo-stop-chasing-ai-tools.md)

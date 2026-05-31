@@ -11,10 +11,10 @@ Sinek: business is an infinite game with no final winners. Finite players play t
 
 ## Books that address this concept
 
-- [[sinek-the-infinite-game]]
+- [The Infinite Game](../books/sinek-the-infinite-game.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

@@ -14,7 +14,7 @@ Organizational health is the single greatest competitive advantage. Health = min
 
 ## Key concepts
 
-[[organizational-health]], [[leadership-cohesion]], [[clarity]], [[overcommunication]], [[culture]], [[smart-vs-healthy]]
+[Organizational Health](../concepts/organizational-health.md), [[leadership-cohesion]], [[clarity]], [[overcommunication]], [[culture]], [[smart-vs-healthy]]
 
 ## What I took from it
 
@@ -26,7 +26,7 @@ Het meest bruikbare concept: de **zes vragen**. Als een leiderschapsteam die zes
 
 ### Connection to our work
 
-AI-first transitions most often fail due to organizational health problems, not technical ones. Expected Emergence (Section 14) should include health indicators. Related: [[lencioni-the-five-dysfunctions-of-a-team]], [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]]
+AI-first transitions most often fail due to organizational health problems, not technical ones. Expected Emergence (Section 14) should include health indicators. Related: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-team.md), [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md)
 
 ---
 
@@ -195,7 +195,7 @@ The Advantage is in veel opzichten het "wat nu?" na Five Dysfunctions: het leide
 - **Project Aristotle** → empirische bevestiging dat psychologische veiligheid (= vertrouwen in Lencioni) het fundament is
 - **The Advantage** → de vier disciplines die van teamgezondheid organisatiegezondheid maken
 
-Zie ook: [[lencioni-the-five-dysfunctions-of-a-team]], [[../articles/google-project-aristotle-what-makes-a-team-effective]]
+Zie ook: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-team.md), [Project Aristotle: What Makes a Team Effective?](../articles/google-project-aristotle-what-makes-a-team-effective.md)
 
 ---
 

@@ -14,7 +14,7 @@ Some systems not only withstand shocks but get stronger from them. Three categor
 
 ## Key concepts
 
-[[antifragility]], [[fragility]], [[optionality]], [[barbell-strategy]], [[via-negativa]], [[black-swan]], [[randomness]], [[complexity]]
+[Antifragility](../concepts/antifragility.md), [[fragility]], [[optionality]], [[barbell-strategy]], [[via-negativa]], [[black-swan]], [[randomness]], [Complexity (Cynefin)](../concepts/complexity.md)
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Taleb bouwt een nieuw concept dat voor hem in de taal ontbrak: het tegenovergest
 
 ### Connection to our work
 
-AI-first orgs risk fragility through over-optimization. Safe-to-fail probes ARE a barbell strategy. The probe-sense-respond cycle is inherently antifragile — it gains information from failure. Related: [[snowden-cynefin]], [[meadows-thinking-in-systems]]
+AI-first orgs risk fragility through over-optimization. Safe-to-fail probes ARE a barbell strategy. The probe-sense-respond cycle is inherently antifragile — it gains information from failure. Related: [Cynefin Framework](snowden-cynefin.md), [[meadows-thinking-in-systems]]
 
 ---
 

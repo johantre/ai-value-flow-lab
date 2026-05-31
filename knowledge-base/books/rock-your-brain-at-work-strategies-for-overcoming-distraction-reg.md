@@ -14,7 +14,7 @@ The prefrontal cortex (director) depletes quickly. SCARF model: Status, Certaint
 
 ## Key concepts
 
-[[scarf-model]], [[prefrontal-cortex]], [[threat-vs-reward]], [[cognitive-load]], [[status]], [[certainty]], [[autonomy-brain]], [[relatedness]], [[fairness]]
+[SCARF Model](../concepts/scarf-model.md), [[prefrontal-cortex]], [[threat-vs-reward]], [[cognitive-load]], [[status]], [[certainty]], [[autonomy-brain]], [[relatedness]], [[fairness]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ The prefrontal cortex (director) depletes quickly. SCARF model: Status, Certaint
 
 ### Connection to our work
 
-SCARF explains exactly why people resist AI-first change: Status (my role disappearing), Certainty (unknown future), Autonomy (loss of control). Design transitions to minimize SCARF threats. Essential for the narrative layer. Related: [[medina-brain-rules-12-principles-for-surviving-and-thriving-at-work]], [[heath-switch-how-to-change-things-when-change-is-hard]], [[pink-drive-the-surprising-truth-about-what-motivates-us]]
+SCARF explains exactly why people resist AI-first change: Status (my role disappearing), Certainty (unknown future), Autonomy (loss of control). Design transitions to minimize SCARF threats. Essential for the narrative layer. Related: [Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School (Book & DVD)](medina-brain-rules-12-principles-for-surviving-and-thriving-at-work.md), [Switch: How to Change Things When Change Is Hard](heath-switch-how-to-change-things-when-change-is-hard.md), [Drive: The Surprising Truth About What Motivates Us](pink-drive-the-surprising-truth-about-what-motivates-us.md)

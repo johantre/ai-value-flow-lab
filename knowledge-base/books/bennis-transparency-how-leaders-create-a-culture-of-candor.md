@@ -14,7 +14,7 @@ Leaders must create cultures of candor where truth can be spoken at all levels. 
 
 ## Key concepts
 
-[[transparency]], [[candor]], [[trust-building]], [[psychological-safety]], [[leadership-honesty]]
+[Transparency](../concepts/transparency.md), [Candor](../concepts/candor.md), [[trust-building]], [Psychological Safety](../concepts/psychological-safety.md), [[leadership-honesty]]
 
 ## What I took from it
 
@@ -26,13 +26,13 @@ Dit inzicht is vandaag belangrijker dan ooit. Psychologische veiligheid staat on
 
 Bennis legt het mechanisme bloot: **het is niet de leugenaar die organisaties kapotmaakt — het is het systeem dat eerlijkheid te duur maakt**. Wie dat systeem beheert — bewust of niet — is de leider. En de enige remedie is ook bij de leider: eerst gaan. Niet als gebaar, maar als gewoonte.
 
-De verbinding met [[../articles/google-project-aristotle-what-makes-a-team-effective|Project Aristotle]] is direct: Google ontdekte dat psychologische veiligheid het absolute fundament is van teamprestatie. Bennis legt uit *waarom* die veiligheid zo snel verdwijnt en *hoe* leiders haar bewust opbouwen. De twee zijn elkaars mechanisme en bewijs — Aristotle zegt *wat*, Bennis zegt *hoe* en *waarom*.
+De verbinding met [Project Aristotle](../articles/google-project-aristotle-what-makes-a-team-effective.md) is direct: Google ontdekte dat psychologische veiligheid het absolute fundament is van teamprestatie. Bennis legt uit *waarom* die veiligheid zo snel verdwijnt en *hoe* leiders haar bewust opbouwen. De twee zijn elkaars mechanisme en bewijs — Aristotle zegt *wat*, Bennis zegt *hoe* en *waarom*.
 
 ### Connection to our work
 
 Organisaties die eerlijkheid afstraffen kunnen geen eerlijke AI-assessment doen, geen reële probleemanalyse maken, en geen veiligheidsincidenten op tijd oppikken. Withholding is de sluipende tegenspeler van elke veranderaanpak. Het hele diagnostische werk vraagt een cultuur van candor als voorwaarde — niet als resultaat.
 
-Related: [[../articles/google-project-aristotle-what-makes-a-team-effective]], [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]], [[mccord-powerful-building-a-culture-of-freedom-and-responsibility]]
+Related: [Project Aristotle: What Makes a Team Effective?](../articles/google-project-aristotle-what-makes-a-team-effective.md), [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md), [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)
 
 ---
 
@@ -114,7 +114,7 @@ Bennis en Project Aristotle beschrijven hetzelfde fenomeen vanuit een andere inv
 
 Samen zijn ze completer dan elk apart: Aristotle levert het bewijs en de urgentie, Bennis levert het mechanisme en de handelingsinstructie.
 
-→ [[../articles/google-project-aristotle-what-makes-a-team-effective|Project Aristotle — Google]]
+→ [Project Aristotle — Google](../articles/google-project-aristotle-what-makes-a-team-effective.md)
 
 ---
 

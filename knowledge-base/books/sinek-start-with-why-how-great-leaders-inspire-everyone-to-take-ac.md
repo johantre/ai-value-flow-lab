@@ -14,7 +14,7 @@ Great leaders start with WHY (purpose/belief), then HOW (process), then WHAT (pr
 
 ## Key concepts
 
-[[golden-circle]], [[why-how-what]], [[purpose]], [[belief]], [[trust]], [[inspiration-vs-manipulation]]
+[The Golden Circle](../concepts/golden-circle.md), [[why-how-what]], [Purpose](../concepts/purpose.md), [[belief]], [Trust](../concepts/trust.md), [[inspiration-vs-manipulation]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Great leaders start with WHY (purpose/belief), then HOW (process), then WHAT (pr
 
 ### Connection to our work
 
-The narrative layer in toward-ai-native starts with WHY: "free people from work that should never have been human work." The target attractor IS the organizational why. AI-first without a compelling why will fail. Related: [[sinek-the-infinite-game]], [[pink-drive-the-surprising-truth-about-what-motivates-us]]
+The narrative layer in toward-ai-native starts with WHY: "free people from work that should never have been human work." The target attractor IS the organizational why. AI-first without a compelling why will fail. Related: [The Infinite Game](sinek-the-infinite-game.md), [Drive: The Surprising Truth About What Motivates Us](pink-drive-the-surprising-truth-about-what-motivates-us.md)

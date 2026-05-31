@@ -11,11 +11,11 @@ The 8 wastes identified in Lean: **T**ransport, **I**nventory, **M**otion, **W**
 
 ## Books that address this concept
 
-- [[womack-jones-lean-thinking]]
-- [[ohno-the-toyota-production-system]]
+- [Lean Thinking: Banish Waste and Create Wealth in Your Corporation](../books/womack-jones-lean-thinking.md)
+- [The Toyota Production System: Beyond Large-Scale Production](../books/ohno-the-toyota-production-system.md)
 
 ---
 
 ## Connection to our work
 
-Embedded in the Legend of Section 2 of the [[../../AI-First Value Stream Assessment Template]]. The TIMWOOD framework guides work deconstruction in Section 3.
+Embedded in the Legend of Section 2 of the [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md). The TIMWOOD framework guides work deconstruction in Section 3.

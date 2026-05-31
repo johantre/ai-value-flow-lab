@@ -24,7 +24,7 @@ Galinsky en collega's voerden vier experimenten uit waarvan het meest geciteerde
 
 Het effect was sterk: mensen met hoge macht waren **bijna drie keer zo vaak** zelfgericht in hun E als mensen met lage macht.
 
-Dit is niet een bewust keuze — het is een cognitief ankereffect. Macht zorgt ervoor dat het eigen standpunt zwaarder weegt als startpunt, en dat bijstelling naar andermans perspectief minder automatisch gebeurt.
+Dit is niet een bewust keuze — het is een **cognitief ankereffect**. Macht zorgt ervoor dat het eigen standpunt zwaarder weegt als startpunt, en dat bijstelling naar andermans perspectief minder automatisch gebeurt.
 
 Bijkomende bevindingen uit de andere experimenten:
 - Hoge macht → meer kans dat mensen aannemen dat anderen dezelfde informatie hebben als zijzelf ("curse of knowledge")
@@ -39,9 +39,9 @@ Bijkomende bevindingen uit de andere experimenten:
 
 **Psychologische veiligheid en stemrecht.** Als leidinggevenden minder goed andermans perspectief innemen, is de infrastructuur voor het ophalen van dat perspectief des te belangrijker: expliciet gevraagde input, anonieme feedback, directe werkvloercontact — niet als nice-to-have maar als cognitieve correctiemechanismen.
 
-**De gemba walk als structureel correctiemechanisme.** Ohno's praktijk van de gemba walk — letterlijk naar de werkvloer gaan en observeren wat er werkelijk gebeurt — is het ontwerpmechanisme dat de bias uit dit onderzoek compenseert. Wie alleen via rapporten en vergaderingen leidt, beslist vanuit zijn eigen perspectiefbubble. De gemba walk maakt het perspectief van de werkvloer structureel zichtbaar, niet afhankelijk van de bereidheid van de leidinggevende om ernaar te vragen. Galinsky's laboratoriumvinding en Ohno's werkvloerpraktijk beschrijven hetzelfde probleem en dezelfde oplossing — decennia uit elkaar, vanuit totaal verschillende disciplines. (Zie [[ohno-the-toyota-production-system]].)
+**De gemba walk als structureel correctiemechanisme.** Ohno's praktijk van de gemba walk — letterlijk naar de werkvloer gaan en observeren wat er werkelijk gebeurt — is het ontwerpmechanisme dat de bias uit dit onderzoek compenseert. Wie alleen via rapporten en vergaderingen leidt, beslist vanuit zijn eigen perspectiefbubble. De gemba walk maakt het perspectief van de werkvloer structureel zichtbaar, niet afhankelijk van de bereidheid van de leidinggevende om ernaar te vragen. Galinsky's laboratoriumvinding en Ohno's werkvloerpraktijk beschrijven hetzelfde probleem en dezelfde oplossing — decennia uit elkaar, vanuit totaal verschillende disciplines. (Zie [The Toyota Production System: Beyond Large-Scale Production](../books/ohno-the-toyota-production-system.md).)
 
-Related: [[veliz-prophecy-prediction-power-and-the-fight-for-the-future]], [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]], [[mccord-powerful-building-a-culture-of-freedom-and-responsibility]], [[senge-the-fifth-discipline-the-art-practice-of-the-learning-organi]], [[google-project-aristotle-what-makes-a-team-effective]], [[ohno-the-toyota-production-system]]
+Related: [Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI](../books/veliz-prophecy-prediction-power-and-the-fight-for-the-future.md), [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](../books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md), [Powerful: Building a Culture of Freedom and Responsibility](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [The Fifth Discipline: The Art & Practice of The Learning Organization](../books/senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md), [Project Aristotle: What Makes a Team Effective?](google-project-aristotle-what-makes-a-team-effective.md), [The Toyota Production System: Beyond Large-Scale Production](../books/ohno-the-toyota-production-system.md)
 
 ---
 

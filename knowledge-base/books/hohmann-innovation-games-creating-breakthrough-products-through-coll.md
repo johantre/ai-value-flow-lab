@@ -24,4 +24,4 @@ Structured games for understanding customer needs and facilitating product decis
 
 ### Connection to our work
 
-The greenfield session (Section 8) and probe design (Section 11) benefit from innovation game facilitation. Games lower defensive behavior and increase creative honesty. Related: [[gray-gamestorming-a-playbook-for-innovators-rulebreakers-and-chan]]
+The greenfield session (Section 8) and probe design (Section 11) benefit from innovation game facilitation. Games lower defensive behavior and increase creative honesty. Related: [Gamestorming A Playbook For Innovators, Rulebreakers, And Changemakers](gray-gamestorming-a-playbook-for-innovators-rulebreakers-and-chan.md)

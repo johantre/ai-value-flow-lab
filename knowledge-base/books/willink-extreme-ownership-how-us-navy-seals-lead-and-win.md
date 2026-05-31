@@ -14,7 +14,7 @@ True leaders take extreme ownership of everything in their world — no excuses,
 
 ## Key concepts
 
-[[extreme-ownership]], [[decentralized-command]], [[no-bad-teams]], [[cover-and-move]], [[prioritize-and-execute]], [[accountability]]
+[[extreme-ownership]], [[decentralized-command]], [[no-bad-teams]], [[cover-and-move]], [[prioritize-and-execute]], [Accountability](../concepts/accountability.md)
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ True leaders take extreme ownership of everything in their world — no excuses,
 
 ### Connection to our work
 
-Each probe in Section 11 needs an owner. Extreme ownership means the probe owner cannot blame the organization if it fails — they own the outcome and the learning. Related: [[avery-the-responsibility-process-unlocking-your-natural-ability-to]]
+Each probe in Section 11 needs an owner. Extreme ownership means the probe owner cannot blame the organization if it fails — they own the outcome and the learning. Related: [The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power](avery-the-responsibility-process-unlocking-your-natural-ability-to.md)

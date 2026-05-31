@@ -14,7 +14,7 @@ Elimineer alles wat geen waarde toevoegt voor de klant. Produceer wat nodig is, 
 
 ## Key concepts
 
-[[lean-waste]], [[just-in-time]], [[jidoka]], [[pull-system]], [[kanban]], [[gemba]], [[flow-thinking]], [[value-stream]], [[muda-mura-muri]]
+[Lean Waste (TIMWOOD + Talent)](../concepts/lean-waste.md), [[just-in-time]], [[jidoka]], [[pull-system]], [[kanban]], [[gemba]], [[flow-thinking]], [[value-stream]], [[muda-mura-muri]]
 
 ## What I took from it
 
@@ -28,9 +28,9 @@ Ohno schreef dit boek als terugblik op dertig jaar bouwen aan het Toyota Product
 
 Foundation van de 8 Wastes gebruikt in Sectie 2 van de Value Stream Assessment. De outside-in, customer-pull logica onderbouwt de volledige value stream mapping aanpak.
 
-**Gemba als cognitief correctiemechanisme.** Ohno's "chalk circle" — letterlijk een cirkel op de werkvloer tekenen en een manager daar urenlang laten staan om te observeren — is geen ritueel maar een epistemologisch principe: begrip van werk kan niet delegeerd worden aan rapporten, dashboards of vergaderingen. Je moet zien wat er werkelijk gebeurt. Dit is de structurele tegenhanger van wat Galinsky aantoont: macht vermindert automatisch het vermogen om andermans perspectief in te nemen. De gemba walk is het ontwerpmechanisme dat die cognitieve bias compenseert. (Zie [[galinsky-power-and-perspectives-not-taken]].)
+**Gemba als cognitief correctiemechanisme.** Ohno's "chalk circle" — letterlijk een cirkel op de werkvloer tekenen en een manager daar urenlang laten staan om te observeren — is geen ritueel maar een epistemologisch principe: begrip van werk kan niet delegeerd worden aan rapporten, dashboards of vergaderingen. Je moet zien wat er werkelijk gebeurt. Dit is de structurele tegenhanger van wat Galinsky aantoont: macht vermindert automatisch het vermogen om andermans perspectief in te nemen. De gemba walk is het ontwerpmechanisme dat die cognitieve bias compenseert. (Zie [Power and Perspectives Not Taken](../articles/galinsky-power-and-perspectives-not-taken.md).)
 
-Related: [[galinsky-power-and-perspectives-not-taken]], [[senge-the-fifth-discipline-the-art-practice-of-the-learning-organi]], [[meadows-thinking-in-systems-a-primer]]
+Related: [Power and Perspectives Not Taken](../articles/galinsky-power-and-perspectives-not-taken.md), [The Fifth Discipline: The Art & Practice of The Learning Organization](senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md), [Thinking In Systems: A Primer](meadows-thinking-in-systems-a-primer.md)
 
 ---
 
@@ -99,7 +99,7 @@ De logica: een leidinggevende die alleen via rapporten of vergaderingen werkt, h
 
 Dit is geen romantisering van de werkvloer — het is een epistemologisch standpunt: de werkelijkheid zit in het proces, niet in de representatie ervan.
 
-**Verbinding met Galinsky:** het E-experiment toont dat macht automatisch het perspectief van de ander vermindert. De gemba walk is Ohno's structurele antwoord op precies dat mechanisme — decennia eerder, vanuit een praktijk, niet een laboratorium. Leidinggevenden die niet naar de werkvloer gaan, nemen systematisch beslissingen vanuit hun eigen perspectiefbubble. De gemba walk is het ontwerpmechanisme dat dit corrigeert. (Zie [[galinsky-power-and-perspectives-not-taken]].)
+**Verbinding met Galinsky:** het E-experiment toont dat macht automatisch het perspectief van de ander vermindert. De gemba walk is Ohno's structurele antwoord op precies dat mechanisme — decennia eerder, vanuit een praktijk, niet een laboratorium. Leidinggevenden die niet naar de werkvloer gaan, nemen systematisch beslissingen vanuit hun eigen perspectiefbubble. De gemba walk is het ontwerpmechanisme dat dit corrigeert. (Zie [Power and Perspectives Not Taken](../articles/galinsky-power-and-perspectives-not-taken.md).)
 
 ---
 

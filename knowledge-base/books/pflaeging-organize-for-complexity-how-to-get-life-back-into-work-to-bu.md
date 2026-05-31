@@ -14,7 +14,7 @@ Complexity requires a fundamentally different organizational logic. The BetaCode
 
 ## Key concepts
 
-[[betacodex]], [[cell-structure]], [[periphery-vs-center]], [[self-organization]], [[dynamic-network]], [[complexity-in-organizations]], [[value-creation-vs-coordination]]
+[BetaCodex](../concepts/betacodex.md), [[cell-structure]], [[periphery-vs-center]], [Self-Organization](../concepts/self-organization.md), [[dynamic-network]], [[complexity-in-organizations]], [[value-creation-vs-coordination]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Complexity requires a fundamentally different organizational logic. The BetaCode
 
 ### Connection to our work
 
-Most directly relevant to Part II probe design and AI-first org structure. The periphery/center model maps well to AI-native value streams: AI handles center (coordination), humans handle periphery (customer judgment). Related: [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]], [[mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world]]
+Most directly relevant to Part II probe design and AI-first org structure. The periphery/center model maps well to AI-native value streams: AI handles center (coordination), humans handle periphery (customer judgment). Related: [Reinventing organizations: geillustreerde versie (Dutch Edition)](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md), [Team of Teams: New Rules of Engagement for a Complex World](mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md)

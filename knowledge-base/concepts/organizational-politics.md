@@ -11,11 +11,11 @@ The informal power dynamics that determine how decisions are actually made, rega
 
 ## Books that address this concept
 
-- [[jackall-moral-mazes-the-world-of-corporate-managers]]
-- [[schrijvers-hoe-word-ik-een-rat-de-kunst-van-het-konkelen-en-samenzweren]]
+- [Moral Mazes: The World of Corporate Managers](../books/jackall-moral-mazes-the-world-of-corporate-managers.md)
+- [Hoe word ik een rat? De kunst van het konkelen en samenzweren](../books/schrijvers-hoe-word-ik-een-rat-de-kunst-van-het-konkelen-en-samenzweren.md)
 
 ---
 
 ## Connection to our work
 
-Anchor transformations need political cover. The narrative layer in [[../../toward-ai-native-ai-first]] must navigate politics. Relevant to Section 1 (Constraints) of the template.
+Anchor transformations need political cover. The narrative layer in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) must navigate politics. Relevant to Section 1 (Constraints) of the template.

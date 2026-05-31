@@ -14,7 +14,7 @@ Evolutionary change through workflow visualization, WIP limits, and flow managem
 
 ## Key concepts
 
-[[kanban]], [[flow]], [[wip-limits]], [[pull-system]], [[visualization]], [[evolutionary-change]], [[start-where-you-are]]
+[[kanban]], [[flow]], [[wip-limits]], [[pull-system]], [[visualization]], [Evolutionary Change](../concepts/evolutionary-change.md), [[start-where-you-are]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Anderson's boek is het meest misbegrepen boek in de agile-wereld. Kanban wordt v
 
 ### Connection to our work
 
-Kanban's "start where you are" philosophy mirrors the credible path in toward-ai-native. WIP limits and flow thinking are directly applicable to value stream analysis. Related: [[womack-jones-lean-thinking]]
+Kanban's "start where you are" philosophy mirrors the credible path in toward-ai-native. WIP limits and flow thinking are directly applicable to value stream analysis. Related: [Lean Thinking: Banish Waste and Create Wealth in Your Corporation](womack-jones-lean-thinking.md)
 
 ---
 

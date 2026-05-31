@@ -14,7 +14,7 @@ Three values that clear performance roadblocks: Commitment (align behavior with 
 
 ## Key concepts
 
-[[commitment]], [[integrity]], [[transparency]], [[value-alignment]], [[performance-roadblocks]]
+[[commitment]], [[integrity]], [Transparency](../concepts/transparency.md), [[value-alignment]], [[performance-roadblocks]]
 
 ## What I took from it
 

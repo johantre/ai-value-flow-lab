@@ -24,7 +24,7 @@ Het onderscheidende aan dit boek is dat het wetenschappelijk is in een veld vol 
 
 ### Connection to our work
 
-Measurement framework for the sensing cadence. When AI is applied to software/data processes, DORA metrics indicate health. Evidence-based management approach aligns with probe-sense-respond. Related: [[kim-the-devops-handbook-how-to-create-world-class-agility-reliab]]
+Measurement framework for the sensing cadence. When AI is applied to software/data processes, DORA metrics indicate health. Evidence-based management approach aligns with probe-sense-respond. Related: [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](kim-the-devops-handbook-how-to-create-world-class-agility-reliab.md)
 
 ---
 

@@ -24,4 +24,4 @@ Games as tools for innovation and problem-solving. Opening games (diverge), expl
 
 ### Connection to our work
 
-Facilitating the full assessment process benefits from gamestorming structure. The brutal analysis (Section 5) is a closing game. The greenfield (Section 8) needs opening and exploring games. Related: [[hohmann-innovation-games-creating-breakthrough-products-through-coll]]
+Facilitating the full assessment process benefits from gamestorming structure. The brutal analysis (Section 5) is a closing game. The greenfield (Section 8) needs opening and exploring games. Related: [Innovation Games: Creating Breakthrough Products Through Collaborative Play](hohmann-innovation-games-creating-breakthrough-products-through-coll.md)

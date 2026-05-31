@@ -14,7 +14,7 @@ Corporate managers make decisions based on loyalty to superiors and organization
 
 ## Key concepts
 
-[[organizational-politics]], [[moral-reasoning-in-organizations]], [[bureaucracy]], [[loyalty]], [[power-dynamics]], [[corporate-culture]]
+[Organizational Politics](../concepts/organizational-politics.md), [[moral-reasoning-in-organizations]], [[bureaucracy]], [[loyalty]], [[power-dynamics]], [[corporate-culture]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Corporate managers make decisions based on loyalty to superiors and organization
 
 ### Connection to our work
 
-Explains resistance to AI-first transformation. People optimize for organizational survival, not value creation. Why anchor transformations need visible wins with political cover. The brutal analysis (Section 5) will surface these dynamics. Related: [[schrijvers-hoe-word-ik-een-rat-de-kunst-van-het-konkelen-en-samenzweren]], [[graeber-bullshit-jobs-a-theory]]
+Explains resistance to AI-first transformation. People optimize for organizational survival, not value creation. Why anchor transformations need visible wins with political cover. The brutal analysis (Section 5) will surface these dynamics. Related: [Hoe word ik een rat? De kunst van het konkelen en samenzweren](schrijvers-hoe-word-ik-een-rat-de-kunst-van-het-konkelen-en-samenzweren.md), [Bullshit Jobs: A Theory](graeber-bullshit-jobs-a-theory.md)

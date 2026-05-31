@@ -11,8 +11,8 @@ Graeber's term for work that even the people doing it believe is pointless. Five
 
 ## Books that address this concept
 
-- [[graeber-bullshit-jobs-a-theory]]
-- [[jackall-moral-mazes-the-world-of-corporate-managers]]
+- [Bullshit Jobs: A Theory](../books/graeber-bullshit-jobs-a-theory.md)
+- [Moral Mazes: The World of Corporate Managers](../books/jackall-moral-mazes-the-world-of-corporate-managers.md)
 
 ---
 

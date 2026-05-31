@@ -14,7 +14,7 @@ Predictie is geen neutrale kennisbron — het is een machtsinstrument. Wie de to
 
 ## Key concepts
 
-[[prediction-as-power]], [[self-fulfilling-prophecy]], [[algorithmic-determinism]], [[autonomy-erosion]], [[accountability-gap]], [[data-surveillance]], [[preparation-vs-prediction]], [[newspeak]]
+[[prediction-as-power]], [[self-fulfilling-prophecy]], [[algorithmic-determinism]], [[autonomy-erosion]], [[accountability-gap]], [[data-surveillance]], [[preparation-vs-prediction]], [Newspeak](../concepts/newspeak.md)
 
 ## What I took from it
 
@@ -36,7 +36,7 @@ De historische boog — van Shang-dynastieën die orakelbeenderen besmeutten tot
 
 **Verantwoordingskloof als ontwerprisco.** Algoritmische beslissingen hebben geen auteur. Als een AI een lening weigert, een sollicitant afwijst, of een patiënt deprioritering aanbeveelt — wie is verantwoordelijk? Véliz toont dat dit geen bijverschijnsel is van slechte implementatie; het is een structureel feature van predictieve systemen.
 
-Related: [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]], [[harari-sapiens-a-brief-history-of-humankind]], [[taleb-antifragile-things-that-gain-from-disorder]], [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]], [[meadows-thinking-in-systems-a-primer]], [[galinsky-power-and-perspectives-not-taken]]
+Related: [Nexus: A Brief History of Information Networks from the Stone Age to AI](harari-nexus-a-brief-history-of-information-networks-from-the-stone.md), [Sapiens: A Brief History of Humankind](harari-sapiens-a-brief-history-of-humankind.md), [Antifragile: Things That Gain from Disorder](taleb-antifragile-things-that-gain-from-disorder.md), [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md), [Thinking In Systems: A Primer](meadows-thinking-in-systems-a-primer.md), [Power and Perspectives Not Taken](../articles/galinsky-power-and-perspectives-not-taken.md)
 
 ---
 
@@ -194,7 +194,7 @@ Het nocebo-effect in HR-AI: een systeem dat kandidaten filtert op basis van hist
 
 Véliz' self-fulfilling prophecy is een reinforcing loop: predictie → ontzegging van kans → bevestiging van predictie → versterking van het model → meer predictie op basis van zelfde patronen.
 
-Het "shifting the burden" archetype — door Senge geïntroduceerd in *The Fifth Discipline* en uitgewerkt door Meadows in *Thinking in Systems* — beschrijft precies wat hier speelt: het gebruik van predictie als symptomatische oplossing (verminder individueel risico via selectie) ondermijnt de fundamentele oplossing (bouw systemen die veerkrachtig zijn voor diversiteit van uitkomsten). Hoe meer organisaties vertrouwen op predictieve filters, hoe minder ze investeren in structuren die uitblinken bij onzekerheid. (Zie ook [[senge-the-fifth-discipline-the-art-practice-of-the-learning-organi]].)
+Het "shifting the burden" archetype — door Senge geïntroduceerd in *The Fifth Discipline* en uitgewerkt door Meadows in *Thinking in Systems* — beschrijft precies wat hier speelt: het gebruik van predictie als symptomatische oplossing (verminder individueel risico via selectie) ondermijnt de fundamentele oplossing (bouw systemen die veerkrachtig zijn voor diversiteit van uitkomsten). Hoe meer organisaties vertrouwen op predictieve filters, hoe minder ze investeren in structuren die uitblinken bij onzekerheid. (Zie ook [The Fifth Discipline: The Art & Practice of The Learning Organization](senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md).)
 
 Leverage point 6 bij Meadows: informatiestromen — wie krijgt welke informatie, wanneer? Véliz zou dit punt herkennen als het ontwerppunt bij uitstek: wie ziet de predictieve output, op welk moment, met welke bevoegdheid om te handelen? De onzichtbaarheid van algoritmische beslissingen is een informatiestroomprobleem.
 

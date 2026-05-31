@@ -14,7 +14,7 @@ Change management 3.0: evolutionary, distributed, context-sensitive. Change does
 
 ## Key concepts
 
-[[change-management-30]], [[evolutionary-change]], [[individual-change]], [[system-change]], [[context-sensitivity]]
+[[change-management-30]], [Evolutionary Change](../concepts/evolutionary-change.md), [[individual-change]], [[system-change]], [[context-sensitivity]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Change management 3.0: evolutionary, distributed, context-sensitive. Change does
 
 ### Connection to our work
 
-Direct alignment with Cynefin Complex domain approach. Change in AI-first follows these principles — not top-down programs but network-driven evolution. Related: [[snowden-cynefin]], [[kotter-accelerate-building-strategic-agility-for-a-faster-moving-wo]]
+Direct alignment with Cynefin Complex domain approach. Change in AI-first follows these principles — not top-down programs but network-driven evolution. Related: [Cynefin Framework](snowden-cynefin.md), [Accelerate: Building Strategic Agility for a Faster-Moving World](kotter-accelerate-building-strategic-agility-for-a-faster-moving-wo.md)

@@ -24,4 +24,4 @@ Leadership is fundamentally about asking better questions. Questions unlock insi
 
 ### Connection to our work
 
-The critical questions and forcing choices in Sections 4 and 5 of the template are leadership questions. Facilitation of the assessment requires the leader to ask, not tell. Related: [[walker-from-contempt-to-curiosity-creating-the-conditions-for-group]]
+The critical questions and forcing choices in Sections 4 and 5 of the template are leadership questions. Facilitation of the assessment requires the leader to ask, not tell. Related: [From Contempt to Curiosity: Creating the Conditions for Groups to Collaborate Using Clean Language & Systemic Modelling™](walker-from-contempt-to-curiosity-creating-the-conditions-for-group.md)

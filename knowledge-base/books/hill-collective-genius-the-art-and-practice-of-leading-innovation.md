@@ -14,7 +14,7 @@ Innovation requires collective genius, not one leader's vision. Leaders create c
 
 ## Key concepts
 
-[[collective-genius]], [[creative-abrasion]], [[creative-agility]], [[creative-resolution]], [[innovation-leadership]], [[paradoxes-of-innovation]]
+[Collective Genius](../concepts/collective-genius.md), [[creative-abrasion]], [[creative-agility]], [[creative-resolution]], [[innovation-leadership]], [[paradoxes-of-innovation]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Innovation requires collective genius, not one leader's vision. Leaders create c
 
 ### Connection to our work
 
-AI-first probe design requires collective genius. The LLM is a tool; the collective human judgment about where and how to probe is the genius. Facilitation of Sections 8-11 requires these leadership conditions. Related: [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]]
+AI-first probe design requires collective genius. The LLM is a tool; the collective human judgment about where and how to probe is the genius. Facilitation of Sections 8-11 requires these leadership conditions. Related: [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md)

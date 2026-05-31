@@ -14,7 +14,7 @@ Learning organizations master five disciplines: systems thinking, personal maste
 
 ## Key concepts
 
-[[learning-organization]], [[systems-thinking]], [[mental-models]], [[shared-vision]], [[personal-mastery]], [[team-learning]], [[system-archetypes]]
+[Learning Organization](../concepts/learning-organization.md), [Systems Thinking](../concepts/systems-thinking.md), [Mental Models](../concepts/mental-models.md), [[shared-vision]], [[personal-mastery]], [[team-learning]], [[system-archetypes]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Learning organizations master five disciplines: systems thinking, personal maste
 
 ### Connection to our work
 
-AI-first transformation requires organizational learning capability — not just technical implementation. The sensing cadence IS a learning loop. Mental models are what change first and last. Related: [[meadows-thinking-in-systems-a-primer]], [[snowden-cynefin]], [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]]
+AI-first transformation requires organizational learning capability — not just technical implementation. The sensing cadence IS a learning loop. Mental models are what change first and last. Related: [Thinking In Systems: A Primer](meadows-thinking-in-systems-a-primer.md), [Cynefin Framework](snowden-cynefin.md), [Reinventing organizations: geillustreerde versie (Dutch Edition)](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)
 
 ---
 

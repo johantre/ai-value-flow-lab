@@ -14,7 +14,7 @@ The Responsibility Process: people respond to problems by cycling through Denial
 
 ## Key concepts
 
-[[responsibility-process]], [[blame]], [[justify]], [[obligation-vs-responsibility]], [[mental-moves]], [[freedom-and-power]]
+[The Responsibility Process](../concepts/responsibility-process.md), [[blame]], [[justify]], [[obligation-vs-responsibility]], [[mental-moves]], [[freedom-and-power]]
 
 ## What I took from it
 
@@ -26,7 +26,7 @@ Het ongemakkelijke inzicht van dit boek: verantwoordelijkheid nemen is niet het 
 
 ### Connection to our work
 
-AI-first transformation requires people to move to Responsibility. The resistance cycle (deny AI matters → blame leadership → justify inaction → feel shame about skills → do minimum required) is the Responsibility Process. The narrative must interrupt this cycle. Related: [[willink-extreme-ownership-how-us-navy-seals-lead-and-win]]
+AI-first transformation requires people to move to Responsibility. The resistance cycle (deny AI matters → blame leadership → justify inaction → feel shame about skills → do minimum required) is the Responsibility Process. The narrative must interrupt this cycle. Related: [Extreme Ownership: How U.S. Navy SEALs Lead and Win](willink-extreme-ownership-how-us-navy-seals-lead-and-win.md)
 
 ---
 

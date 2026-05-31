@@ -14,7 +14,7 @@ Teams fail due to five stacked dysfunctions: absence of trust, fear of conflict,
 
 ## Key concepts
 
-[[team-dysfunction]], [[trust]], [[conflict]], [[commitment]], [[accountability]], [[results]], [[vulnerability-trust]]
+[[team-dysfunction]], [Trust](../concepts/trust.md), [[conflict]], [[commitment]], [Accountability](../concepts/accountability.md), [[results]], [[vulnerability-trust]]
 
 ## What I took from it
 
@@ -33,7 +33,7 @@ Het meest onderschatte punt: Lencioni maakt een scherp onderscheid tussen **vert
 
 ### Connection to our work
 
-Safe-to-fail probes fail when teams have these dysfunctions. Trust (dysfunction 1) is prerequisite for everything. Relevant to the human side of AI-first transformation design. Related: [[lencioni-the-advantage-why-organizational-health-trumps-everything-el]], [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]], [[../articles/google-project-aristotle-what-makes-a-team-effective]]
+Safe-to-fail probes fail when teams have these dysfunctions. Trust (dysfunction 1) is prerequisite for everything. Relevant to the human side of AI-first transformation design. Related: [The Advantage: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)](lencioni-the-advantage-why-organizational-health-trumps-everything-el.md), [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md), [Project Aristotle: What Makes a Team Effective?](../articles/google-project-aristotle-what-makes-a-team-effective.md)
 
 ---
 
@@ -181,7 +181,7 @@ Google onderzocht onafhankelijk hetzelfde vraagstuk en kwam tot vijf factoren di
 | Avoidance of Accountability | Dependability | Betrouwbaarheid vereist dat mensen elkaar aanspreken op afspraken |
 | Inattention to Results | Meaning & Impact | Wie werk zinvol vindt, richt zich op collectief resultaat in plaats van eigen status |
 
-Zie ook: [[../articles/google-project-aristotle-what-makes-a-team-effective]]
+Zie ook: [Project Aristotle: What Makes a Team Effective?](../articles/google-project-aristotle-what-makes-a-team-effective.md)
 
 ---
 

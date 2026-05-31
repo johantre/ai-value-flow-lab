@@ -11,13 +11,13 @@ Making information visible to those who need it. One of Scrum's three pillars (a
 
 ## Books that address this concept
 
-- [[bennis-transparency-how-leaders-create-a-culture-of-[[candor]]-j-b-warr]]
-- [[bennis-transparency-how-leaders-create-a-culture-of-candor]]
-- [[gebler-the-3-power-values-how-commitment-integrity-and-transparency]]
-- [[schwaber-agile-software-development-with-scrum]]
+- [[bennis-transparency-how-leaders-create-a-culture-of-[Candor](candor.md)-j-b-warr]]
+- [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md)
+- [The 3 Power Values: How Commitment, Integrity, and Transparency Clear the Roadblocks to Performance](../books/gebler-the-3-power-values-how-commitment-integrity-and-transparency.md)
+- [Agile Software Development with Scrum](../books/schwaber-agile-software-development-with-scrum.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

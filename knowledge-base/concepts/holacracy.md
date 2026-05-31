@@ -11,10 +11,10 @@ A complete governance system distributing authority to roles (not people) within
 
 ## Books that address this concept
 
-- [[robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w]]
+- [Holacracy: The New Management System for a Rapidly Changing World](../books/robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

@@ -166,6 +166,6 @@ Extremely relevant as a strategic positioning tool for AI Adoption Architect wor
 - Strategic AI Adoption section directly maps onto consultancy propositions
 - OT provides the diagnostic language missing from most AI transformation conversations
 - The MADE method complements LeSS, Cynefin, and Team Topologies work
-- Craig Larman co-authored this — strong connection to [[larman-large-scale-scrum-more-with-less-addison-wesley-signature-se]] and [[larman-scaling-lean-agile-development-thinking-and-organizational-t]]
+- Craig Larman co-authored this — strong connection to [Large-Scale Scrum: More with LeSS (Addison-Wesley Signature Series (Cohn))](larman-large-scale-scrum-more-with-less-addison-wesley-signature-se.md) and [Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum](larman-scaling-lean-agile-development-thinking-and-organizational-t.md)
 
-Related: [[snowden-cynefin]], [[forsgren-accelerate-building-and-scaling-high-performing-technology-o]], [[robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w]]
+Related: [Cynefin Framework](snowden-cynefin.md), [Accelerate: Building and Scaling High Performing Technology Organizations](forsgren-accelerate-building-and-scaling-high-performing-technology-o.md), [Holacracy: The New Management System for a Rapidly Changing World](robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w.md)

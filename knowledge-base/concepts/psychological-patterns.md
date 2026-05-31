@@ -11,10 +11,10 @@ tags: [concept]
 
 ## Books that address this concept
 
-- [[richo-you-are-not-what-you-think]]
+- [You Are Not What You Think](../books/richo-you-are-not-what-you-think.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

@@ -14,7 +14,7 @@ Accessible introduction to systems thinking concepts: interdependence, feedback,
 
 ## Key concepts
 
-[[systems-thinking]], [[interdependence]], [[feedback-loops]], [[emergence]], [[non-linearity]]
+[Systems Thinking](../concepts/systems-thinking.md), [[interdependence]], [Feedback Loops](../concepts/feedback-loops.md), [Emergence](../concepts/emergence.md), [[non-linearity]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Accessible introduction to systems thinking concepts: interdependence, feedback,
 
 ### Connection to our work
 
-Foundational reading before applying [[meadows-thinking-in-systems-a-primer]]. Explains why the Complicated/Complex distinction in [[snowden-cynefin]] matters.
+Foundational reading before applying [Thinking In Systems: A Primer](meadows-thinking-in-systems-a-primer.md). Explains why the Complicated/Complex distinction in [Cynefin Framework](snowden-cynefin.md) matters.

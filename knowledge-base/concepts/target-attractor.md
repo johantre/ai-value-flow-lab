@@ -11,10 +11,10 @@ In Complex systems, you cannot plan a destination — you can define an attracto
 
 ## Books that address this concept
 
-- [[snowden-cynefin]]
+- [Cynefin Framework](../books/snowden-cynefin.md)
 
 ---
 
 ## Connection to our work
 
-Section 10 of the [[../../AI-First Value Stream Assessment Template]]. The AI-native direction, not a blueprint.
+Section 10 of the [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md). The AI-native direction, not a blueprint.

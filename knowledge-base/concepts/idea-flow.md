@@ -11,11 +11,11 @@ Pentland's concept: ideas spread through social networks via exploration (findin
 
 ## Books that address this concept
 
-- [[pentland-social-physics-how-good-ideas-spread-the-lessons-from-a-new]]
-- [[pentland-social-physics-how-good-ideas-spread-the-lessons-from-a-new.md]]
+- [Social Physics: How Good Ideas Spread— The Lessons from a New Science](../books/pentland-social-physics-how-good-ideas-spread-the-lessons-from-a-new.md)
+- [Social Physics: How Good Ideas Spread— The Lessons from a New Science](../books/pentland-social-physics-how-good-ideas-spread-the-lessons-from-a-new.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

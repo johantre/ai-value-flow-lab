@@ -34,10 +34,10 @@ Het mechanisme werkt ook zonder bewuste staatsstrategie. In organisaties en tech
 
 ## Books that address this concept
 
-- [[veliz-prophecy-prediction-power-and-the-fight-for-the-future]] — "De 'voorspelling' is een beslissing vermomd als objectiviteit." Meest directe toepassing op AI.
-- [[harari-sapiens-a-brief-history-of-humankind]] — Gedeelde ficties als de bron van menselijke samenwerking én als instrument van machtsconsolidatie. Organisatieverandering is een narratieve operatie.
-- [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]] — Informatienetwerken (taal, schrift, drukpers, AI) vormen beschavingen. Wie het netwerk controleert, controleert het narratief.
-- [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]] — Medianarratief als dominante fictie: Goldings *Lord of the Flies* bleef het culturele referentiepunt terwijl het werkelijke verhaal van de Tongaanse jongens vergeten werd. Framing bepaalt wat als waar geldt.
+- [Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI](../books/veliz-prophecy-prediction-power-and-the-fight-for-the-future.md) — "De 'voorspelling' is een beslissing vermomd als objectiviteit." Meest directe toepassing op AI.
+- [Sapiens: A Brief History of Humankind](../books/harari-sapiens-a-brief-history-of-humankind.md) — Gedeelde ficties als de bron van menselijke samenwerking én als instrument van machtsconsolidatie. Organisatieverandering is een narratieve operatie.
+- [Nexus: A Brief History of Information Networks from the Stone Age to AI](../books/harari-nexus-a-brief-history-of-information-networks-from-the-stone.md) — Informatienetwerken (taal, schrift, drukpers, AI) vormen beschavingen. Wie het netwerk controleert, controleert het narratief.
+- [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](../books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md) — Medianarratief als dominante fictie: Goldings *Lord of the Flies* bleef het culturele referentiepunt terwijl het werkelijke verhaal van de Tongaanse jongens vergeten werd. Framing bepaalt wat als waar geldt.
 
 ---
 
@@ -49,4 +49,4 @@ Dit is de verantwoordingskloof die Véliz beschrijft als structureel feature van
 
 Tegengif: **expliciete auteurschap** van AI-beslissingen. Niet "het systeem weigert" maar "wij weigeren op basis van dit model, gebouwd op deze data, met deze aannames."
 
-Related: [[veliz-prophecy-prediction-power-and-the-fight-for-the-future]], [[harari-sapiens-a-brief-history-of-humankind]], [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]], [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]], [[accountability]]
+Related: [Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI](../books/veliz-prophecy-prediction-power-and-the-fight-for-the-future.md), [Sapiens: A Brief History of Humankind](../books/harari-sapiens-a-brief-history-of-humankind.md), [Nexus: A Brief History of Information Networks from the Stone Age to AI](../books/harari-nexus-a-brief-history-of-information-networks-from-the-stone.md), [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](../books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md), [Accountability](accountability.md)

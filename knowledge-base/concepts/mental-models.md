@@ -11,10 +11,10 @@ The internal pictures and assumptions we use to make sense of the world. Senge: 
 
 ## Books that address this concept
 
-- [[senge-the-fifth-discipline-the-art-practice-of-the-learning-organi]]
+- [The Fifth Discipline: The Art & Practice of The Learning Organization](../books/senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

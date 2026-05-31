@@ -14,7 +14,7 @@ Business is an infinite game with no final winners. Finite mindset (win/lose) de
 
 ## Key concepts
 
-[[infinite-game]], [[finite-vs-infinite]], [[just-cause]], [[worthy-rivals]], [[existential-flexibility]], [[will-and-resources]]
+[The Infinite Game](../concepts/infinite-game.md), [[finite-vs-infinite]], [[just-cause]], [[worthy-rivals]], [[existential-flexibility]], [[will-and-resources]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Business is an infinite game with no final winners. Finite mindset (win/lose) de
 
 ### Connection to our work
 
-AI-first transformation is an infinite game — there is no "done." The sensing cadence and probe design are infinite game moves. Organizations with finite mindset will stop after first wins. Related: [[sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac]]
+AI-first transformation is an infinite game — there is no "done." The sensing cadence and probe design are infinite game moves. Organizations with finite mindset will stop after first wins. Related: [Start with Why: How Great Leaders Inspire Everyone to Take Action](sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac.md)

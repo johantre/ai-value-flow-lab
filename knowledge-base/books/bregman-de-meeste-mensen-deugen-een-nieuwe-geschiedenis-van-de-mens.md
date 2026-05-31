@@ -14,7 +14,7 @@ Humans are fundamentally cooperative and good, not selfish. Most systems designe
 
 ## Key concepts
 
-[[human-nature]], [[trust-vs-control]], [[nocebo-effect]], [[veneer-theory]], [[compassion]], [[cooperation-as-default]], [[newspeak]]
+[[human-nature]], [[trust-vs-control]], [[nocebo-effect]], [[veneer-theory]], [[compassion]], [Cooperation as Default](../concepts/cooperation-as-default.md), [Newspeak](../concepts/newspeak.md)
 
 ## Samenvatting — de doorprikte mythes
 
@@ -177,10 +177,10 @@ The historical detective work of the author debunked all (often self-fulfilling)
 
 ### Connection to our work
 
-The empirical foundation for the narrative reframe in [[../../toward-ai-native-ai-first]]: people don't resist change — they respond to context. Bregman's evidence (historical events, Buurtzorg, de-carceration experiments) shows that systems built on trust consistently outperform systems built on control — in outcomes, cost, and human wellbeing.
+The empirical foundation for the narrative reframe in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md): people don't resist change — they respond to context. Bregman's evidence (historical events, Buurtzorg, de-carceration experiments) shows that systems built on trust consistently outperform systems built on control — in outcomes, cost, and human wellbeing.
 
 **The nocebo effect as design warning**: AI monitoring, productivity tracking, and automated management systems are control-first by design. Bregman predicts — and evidence confirms — that these will produce exactly the disengaged, gaming behavior they fear. The fence creates the aggression.
 
 **The design implication**: AI-first org design should start from the question "what context enables the cooperation and learning people already want to do?" — not "how do we ensure compliance and productivity?"
 
-Related: [[../concepts/cooperation-as-default]], [[pink-drive-the-surprising-truth-about-what-motivates-us]], [[mccord-powerful-building-a-culture-of-freedom-and-responsibility]], [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]]
+Related: [Cooperation as Default](../concepts/cooperation-as-default.md), [Drive: The Surprising Truth About What Motivates Us](pink-drive-the-surprising-truth-about-what-motivates-us.md), [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md)

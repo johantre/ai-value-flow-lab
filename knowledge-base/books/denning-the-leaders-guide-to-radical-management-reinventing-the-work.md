@@ -24,4 +24,4 @@ Traditional management (plan-and-control) fails in a world of rapid change. Radi
 
 ### Connection to our work
 
-Radical management principles map directly to AI-first org design. Customer delight (outside-in) and self-organizing teams (post-AI) are the same destination from different starting points. Related: [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]], [[appelo-management-30-leading-agile-developers-developing-agile-lead]]
+Radical management principles map directly to AI-first org design. Customer delight (outside-in) and self-organizing teams (post-AI) are the same destination from different starting points. Related: [Reinventing organizations: geillustreerde versie (Dutch Edition)](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md), [Management 3.0: Leading Agile Developers, Developing Agile Leaders](appelo-management-30-leading-agile-developers-developing-agile-lead.md)

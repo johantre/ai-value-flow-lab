@@ -26,7 +26,7 @@ McCords antwoord is radicaal simpel: behandel mensen als volwassenen, geef ze ec
 
 ### Connection to our work
 
-AI-first organisaties vereisen precies deze cultuur: AI vergroot de impact van mensen die al sterk zijn, en maakt het moeilijker om je te verschuilen achter bureaucratie. De menselijke rollen die overblijven vereisen oordeel, vrijheid en verantwoordelijkheid — niet procedures. Related: [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]], [[lencioni-the-advantage-why-organizational-health-trumps-everything-el]], [[../articles/google-project-aristotle-what-makes-a-team-effective]]
+AI-first organisaties vereisen precies deze cultuur: AI vergroot de impact van mensen die al sterk zijn, en maakt het moeilijker om je te verschuilen achter bureaucratie. De menselijke rollen die overblijven vereisen oordeel, vrijheid en verantwoordelijkheid — niet procedures. Related: [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md), [The Advantage: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)](lencioni-the-advantage-why-organizational-health-trumps-everything-el.md), [Project Aristotle: What Makes a Team Effective?](../articles/google-project-aristotle-what-makes-a-team-effective.md)
 
 ---
 

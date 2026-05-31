@@ -45,4 +45,4 @@ When designing the AI-native end state, DAO provides the structural design langu
 
 **Relationship to Org Topologies**: DAO tells you *how to design* the operating model. Org Topologies tells you *where you are* on the archetype map. Use Org Topologies for diagnosis, DAO for design.
 
-Related: [[krivitsky-flemm-org-topologies]], [[agentic-organization]], [[betacodex]], [[holacracy]]
+Related: [Org Topologies™ — Seven Archetypes of Organizational Design](krivitsky-flemm-org-topologies.md), [Agentic Organization](../concepts/agentic-organization.md), [BetaCodex](../concepts/betacodex.md), [Holacracy](../concepts/holacracy.md)

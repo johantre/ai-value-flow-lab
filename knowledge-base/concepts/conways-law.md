@@ -19,7 +19,7 @@ Three layers:
 
 ## Books that address this concept
 
-- [[../articles/conway-how-do-committees-invent]]
+- [How Do Committees Invent?](../articles/conway-how-do-committees-invent.md)
 
 ---
 

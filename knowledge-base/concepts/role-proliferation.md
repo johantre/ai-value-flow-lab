@@ -45,4 +45,4 @@ In most organizations, this maturity is absent. People identify *as* their role 
 
 **Section 14 (Expected Emergence)** — role fluidity is both a target and a threat: the transformation will create and dissolve roles faster than most org cultures can absorb.
 
-Related: [[lean-waste]], [[conways-law]], [[../articles/krivitsky-flemm-org-topologies]], [[../articles/ramos-pavlichenko-creating-agile-organizations]]
+Related: [Lean Waste (TIMWOOD + Talent)](lean-waste.md), [Conway's Law](conways-law.md), [Org Topologies™ — Seven Archetypes of Organizational Design](../articles/krivitsky-flemm-org-topologies.md), [Creating Agile Organizations — Designing Agile Organizations (DAO)](../articles/ramos-pavlichenko-creating-agile-organizations.md)

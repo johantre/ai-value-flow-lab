@@ -14,7 +14,7 @@ High-performing teams have an explicit code of honor — shared agreements about
 
 ## Key concepts
 
-[[team-agreements]], [[code-of-honor]], [[accountability]], [[culture-by-design]], [[team-identity]]
+[[team-agreements]], [[code-of-honor]], [Accountability](../concepts/accountability.md), [[culture-by-design]], [[team-identity]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ High-performing teams have an explicit code of honor — shared agreements about
 
 ### Connection to our work
 
-Probe design teams need a code of honor. The sensing cadence requires explicit agreements about who observes what and how they respond. Related: [[willink-extreme-ownership-how-us-navy-seals-lead-and-win]]
+Probe design teams need a code of honor. The sensing cadence requires explicit agreements about who observes what and how they respond. Related: [Extreme Ownership: How U.S. Navy SEALs Lead and Win](willink-extreme-ownership-how-us-navy-seals-lead-and-win.md)

@@ -5,16 +5,16 @@ tags: [concept]
 
 # Teal Organizations
 
-Laloux's highest developmental stage: self-managing, wholeness-oriented, evolutionary-[[purpose]]-driven. No traditional management hierarchy. Decisions via advice process. AI-first orgs tend toward Teal structure — AI absorbs coordination, humans bring wholeness and purpose.
+Laloux's highest developmental stage: self-managing, wholeness-oriented, evolutionary-[Purpose](purpose.md)-driven. No traditional management hierarchy. Decisions via advice process. AI-first orgs tend toward Teal structure — AI absorbs coordination, humans bring wholeness and purpose.
 
 ---
 
 ## Books that address this concept
 
-- [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]]
+- [Reinventing organizations: geillustreerde versie (Dutch Edition)](../books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

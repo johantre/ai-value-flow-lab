@@ -11,14 +11,14 @@ The foundation of all effective collaboration. Two types: vulnerability-based tr
 
 ## Books that address this concept
 
-- [[lencioni-the-five-dysfunctions-of-a-team]]
-- [[mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world]]
-- [[sinek-leaders-eat-last-why-some-teams-pull-together-and-others-don]]
-- [[sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac]]
-- [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]]
+- [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md)
+- [Team of Teams: New Rules of Engagement for a Complex World](../books/mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md)
+- [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](../books/sinek-leaders-eat-last-why-some-teams-pull-together-and-others-don.md)
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action](../books/sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac.md)
+- [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](../books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

@@ -14,7 +14,7 @@ Organizations evolve through developmental stages (Red → Amber → Orange → 
 
 ## Key concepts
 
-[[teal-organizations]], [[self-management]], [[evolutionary-purpose]], [[wholeness]], [[organizational-stages]], [[amber-orange-green-teal]], [[advice-process]]
+[Teal Organizations](../concepts/teal-organizations.md), [Self-Management](../concepts/self-management.md), [[evolutionary-purpose]], [[wholeness]], [[organizational-stages]], [[amber-orange-green-teal]], [[advice-process]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Dit is het enige managementboek dat organisaties beschrijft die fundamenteel and
 
 ### Connection to our work
 
-Begrijpen waar een organisatie *nu* zit bepaalt wat er realistisch mogelijk is — voor elke verandering, inclusief AI-adoptie. AI versterkt het bestaande paradigma: een Oranje organisatie die AI inzet wordt méér Oranje (optimaliseren op schaal), een Amber-organisatie wordt méér Amber (controle geautomatiseerd). AI leidt niet vanzelf naar Teal — Teal vereist een bewustzijnsontwikkeling die los staat van technologie. Related: [[pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu]], [[robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w]], [[beck-spiral-dynamics-integral-learn-to-master-the-memetic-codes-o]]
+Begrijpen waar een organisatie *nu* zit bepaalt wat er realistisch mogelijk is — voor elke verandering, inclusief AI-adoptie. AI versterkt het bestaande paradigma: een Oranje organisatie die AI inzet wordt méér Oranje (optimaliseren op schaal), een Amber-organisatie wordt méér Amber (controle geautomatiseerd). AI leidt niet vanzelf naar Teal — Teal vereist een bewustzijnsontwikkeling die los staat van technologie. Related: [Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization (Betacodex Publishing)](pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md), [Holacracy: The New Management System for a Rapidly Changing World](robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w.md), [Spiral Dynamics Integral: Learn to Master the Memetic Codes of Human Behavior](beck-spiral-dynamics-integral-learn-to-master-the-memetic-codes-o.md)
 
 ---
 

@@ -11,10 +11,10 @@ David Rock's five social threat/reward domains: **S**tatus, **C**ertainty, **A**
 
 ## Books that address this concept
 
-- [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]]
+- [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](../books/rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md)
 
 ---
 
 ## Connection to our work
 
-Explains why people resist AI-first change. Should inform the narrative layer in [[../../toward-ai-native-ai-first]] and the Expected Emergence section (Section 14) of the template.
+Explains why people resist AI-first change. Should inform the narrative layer in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and the Expected Emergence section (Section 14) of the template.

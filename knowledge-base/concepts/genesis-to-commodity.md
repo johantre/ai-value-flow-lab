@@ -11,10 +11,10 @@ Every capability evolves: **Genesis** (new, experimental, differentiating) → *
 
 ## Books that address this concept
 
-- [[wardley-wardley-mapping]]
+- [Wardley Mapping](../books/wardley-wardley-mapping.md)
 
 ---
 
 ## Connection to our work
 
-Added to Section 1 (Context & Constraints) and Section 6 (AI Impact Analysis) of the [[../../AI-First Value Stream Assessment Template]]. Also in the Capability Evolution Lens section of [[../../toward-ai-native-ai-first]].
+Added to Section 1 (Context & Constraints) and Section 6 (AI Impact Analysis) of the [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md). Also in the Capability Evolution Lens section of [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md).

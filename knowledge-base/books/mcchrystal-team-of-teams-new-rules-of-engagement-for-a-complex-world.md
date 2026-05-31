@@ -14,7 +14,7 @@ Traditional command hierarchy fails in complex, fast-changing environments. Solu
 
 ## Key concepts
 
-[[shared-consciousness]], [[empowered-execution]], [[decentralization]], [[trust]], [[network-vs-hierarchy]]
+[Shared Consciousness](../concepts/shared-consciousness.md), [Empowered Execution](../concepts/empowered-execution.md), [[decentralization]], [Trust](../concepts/trust.md), [[network-vs-hierarchy]]
 
 ## What I took from it
 

@@ -24,4 +24,4 @@ Catalog of Scrum anti-patterns: what goes wrong, why, and how to fix it. Covers 
 
 ### Connection to our work
 
-Anti-patterns in Scrum mirror anti-patterns in AI-first transformation: nominal adoption, leadership non-participation, fake sprints. Related: [[jackall-moral-mazes-the-world-of-corporate-managers]]
+Anti-patterns in Scrum mirror anti-patterns in AI-first transformation: nominal adoption, leadership non-participation, fake sprints. Related: [Moral Mazes: The World of Corporate Managers](jackall-moral-mazes-the-world-of-corporate-managers.md)

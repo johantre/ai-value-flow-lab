@@ -14,7 +14,7 @@ A complete system for self-governance. Replaces management hierarchy with define
 
 ## Key concepts
 
-[[holacracy]], [[roles-vs-people]], [[circles]], [[governance-process]], [[distributed-authority]], [[tensions]], [[self-organization]]
+[Holacracy](../concepts/holacracy.md), [[roles-vs-people]], [[circles]], [[governance-process]], [[distributed-authority]], [[tensions]], [Self-Organization](../concepts/self-organization.md)
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ A complete system for self-governance. Replaces management hierarchy with define
 
 ### Connection to our work
 
-One possible structural end state for AI-first org design. When AI absorbs coordination, human governance needs to be lighter and more distributed — Holacracy is one model. Related: [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]], [[pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu]]
+One possible structural end state for AI-first org design. When AI absorbs coordination, human governance needs to be lighter and more distributed — Holacracy is one model. Related: [Reinventing organizations: geillustreerde versie (Dutch Edition)](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md), [Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization (Betacodex Publishing)](pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md)

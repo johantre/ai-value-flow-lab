@@ -24,4 +24,4 @@ LeSS (Large-Scale Scrum): Scrum applied to multiple teams. Two rules: more with 
 
 ### Connection to our work
 
-LeSS organizational design principles — feature teams, whole-product focus — are directly applicable to AI-first value stream design. The "more with less" principle echoes AI efficiency gains. Related: [[larman-scaling-lean-agile-development-thinking-and-organizational-t]]
+LeSS organizational design principles — feature teams, whole-product focus — are directly applicable to AI-first value stream design. The "more with less" principle echoes AI efficiency gains. Related: [Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum](larman-scaling-lean-agile-development-thinking-and-organizational-t.md)

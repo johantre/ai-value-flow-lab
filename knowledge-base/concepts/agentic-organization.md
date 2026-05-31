@@ -30,7 +30,7 @@ Five archetypes emerge from this space:
 
 ## Books that address this concept
 
-- [[appelo-a-map-for-agentic-transformation]]
+- [A Map for Agentic Transformation](../articles/appelo-a-map-for-agentic-transformation.md)
 
 ---
 
@@ -40,6 +40,6 @@ Appelo's archetype map is a diagnostic layer that our template currently lacks. 
 
 The **Zone of Contradiction** is the failure mode we should explicitly call out in the template: organizations that decentralize decision-making but keep structured/rigid processes will see agentic AI initiatives fail regardless of technical quality.
 
-The **Cell Structure** archetype is the implied destination of the transformation journey — it aligns with [[teal-organizations]], [[betacodex]], and [[holacracy]] concept pages.
+The **Cell Structure** archetype is the implied destination of the transformation journey — it aligns with [Teal Organizations](teal-organizations.md), [BetaCodex](betacodex.md), and [Holacracy](holacracy.md) concept pages.
 
-See also [[ai-maturity-spectrum]] — Appelo's framework is orthogonal, not competing: maturity = what AI can do, archetype = what the org can absorb.
+See also [AI Maturity Spectrum](ai-maturity-spectrum.md) — Appelo's framework is orthogonal, not competing: maturity = what AI can do, archetype = what the org can absorb.

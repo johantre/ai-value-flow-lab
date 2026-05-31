@@ -24,4 +24,4 @@ Foundational thinking and organizational tools for large-scale Scrum. Systems th
 
 ### Connection to our work
 
-Queueing theory explains why % Wait Time in the value stream table matters so much. Related: [[larman-large-scale-scrum-more-with-less-addison-wesley-signature-se]], [[womack-jones-lean-thinking]]
+Queueing theory explains why % Wait Time in the value stream table matters so much. Related: [Large-Scale Scrum: More with LeSS (Addison-Wesley Signature Series (Cohn))](larman-large-scale-scrum-more-with-less-addison-wesley-signature-se.md), [Lean Thinking: Banish Waste and Create Wealth in Your Corporation](womack-jones-lean-thinking.md)

@@ -14,11 +14,11 @@ Information networks (language, writing, printing, internet) shape civilizations
 
 ## Key concepts
 
-[[information-networks]], [[cooperation-at-scale]], [[ai-as-network]], [[ai-alignment]], [[intersubjective-reality]], [[information-theory-history]], [[newspeak]]
+[[information-networks]], [[cooperation-at-scale]], [[ai-as-network]], [[ai-alignment]], [[intersubjective-reality]], [[information-theory-history]], [Newspeak](../concepts/newspeak.md)
 
 ## What I took from it
 
-This book, together with the book [[harari-sapiens-a-brief-history-of-humankind]] and [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md]] helped me understanding the position on what AI means, could mean, will mean for humanity.
+This book, together with the book [Sapiens: A Brief History of Humankind](harari-sapiens-a-brief-history-of-humankind.md) and [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md) helped me understanding the position on what AI means, could mean, will mean for humanity.
 
 ### General
 
@@ -34,7 +34,7 @@ Nexus is ongemakkelijker dan Sapiens. Sapiens verklaart hoe we hier gekomen zijn
 
 **The design question**: does this AI system bring people closer together (enable richer cooperation) or push them further apart (increase distance, reduce accountability, erode moral standards)? Both outcomes are possible. Which one depends entirely on how the network is designed.
 
-Related: [[harari-sapiens-a-brief-history-of-humankind]], [[../concepts/cooperation-as-default]], [[../articles/appelo-a-map-for-agentic-transformation]]
+Related: [Sapiens: A Brief History of Humankind](harari-sapiens-a-brief-history-of-humankind.md), [Cooperation as Default](../concepts/cooperation-as-default.md), [A Map for Agentic Transformation](../articles/appelo-a-map-for-agentic-transformation.md)
 
 ---
 

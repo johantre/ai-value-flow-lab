@@ -24,4 +24,4 @@ Human consciousness evolves through value systems (vMemes): Beige → Purple →
 
 ### Connection to our work
 
-AI-first transformation fails if implemented at Orange level (efficiency metrics) when the org is at Green (human values). Understanding the org's vMeme center of gravity determines which narrative works. Related: [[laloux-reinventing-organizations-geillustreerde-versie-dutch-editio]], [[senge-the-fifth-discipline-the-art-practice-of-the-learning-organi]]
+AI-first transformation fails if implemented at Orange level (efficiency metrics) when the org is at Green (human values). Understanding the org's vMeme center of gravity determines which narrative works. Related: [Reinventing organizations: geillustreerde versie (Dutch Edition)](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md), [The Fifth Discipline: The Art & Practice of The Learning Organization](senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md)

@@ -17,4 +17,4 @@ The 1–3 highest-leverage redesign points in an organization where AI-native re
 
 ## Connection to our work
 
-Step 4 of the method in [[../../toward-ai-native-ai-first]]. The highest-leverage starting point for AI-first transformation.
+Step 4 of the method in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md). The highest-leverage starting point for AI-first transformation.

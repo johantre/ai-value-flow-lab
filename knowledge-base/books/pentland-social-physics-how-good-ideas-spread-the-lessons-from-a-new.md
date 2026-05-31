@@ -14,7 +14,7 @@ Ideas spread through social networks via exploration and engagement. High-perfor
 
 ## Key concepts
 
-[[idea-flow]], [[social-learning]], [[exploration-vs-exploitation]], [[engagement]], [[social-network-analysis]], [[data-driven-management]]
+[Idea Flow](../concepts/idea-flow.md), [[social-learning]], [[exploration-vs-exploitation]], [[engagement]], [[social-network-analysis]], [[data-driven-management]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Ideas spread through social networks via exploration and engagement. High-perfor
 
 ### Connection to our work
 
-AI adoption spreads like ideas — social physics explains why some orgs adopt faster than others. The sensing cadence (Section 12) can include idea flow measurement. Related: [[mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world]]
+AI adoption spreads like ideas — social physics explains why some orgs adopt faster than others. The sensing cadence (Section 12) can include idea flow measurement. Related: [Team of Teams: New Rules of Engagement for a Complex World](mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md)

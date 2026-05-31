@@ -14,7 +14,7 @@ Google analyseerde 180+ teams over meerdere jaren. Centrale bevinding: wat een t
 
 ## Key concepts
 
-[[psychological-safety]], [[dependability]], [[structure-clarity]], [[meaning]], [[impact]], [[team-effectiveness]], [[vulnerability-trust]]
+[Psychological Safety](../concepts/psychological-safety.md), [[dependability]], [[structure-clarity]], [[meaning]], [[impact]], [[team-effectiveness]], [[vulnerability-trust]]
 
 ## What I took from it
 
@@ -28,9 +28,9 @@ Het meest onderschatte inzicht: psychologische veiligheid is geen "aardig zijn t
 
 In AI-first transformatie is psychologische veiligheid dubbel kritisch: mensen moeten bereid zijn toe te geven dat ze iets niet weten over AI, dat ze een fout gemaakt hebben, dat een aanpak niet werkt. Zonder die veiligheid wordt AI-adoptie oppervlakkig — compliance in plaats van echte verandering.
 
-**Waarom psychologische veiligheid verdwijnt** — en hoe leiders haar bewust opbouwen — staat uitgewerkt in [[../books/bennis-transparency-how-leaders-create-a-culture-of-candor|Bennis — Transparency]]. Bennis legt het mechanisme bloot dat Aristotle alleen benoemt: withholding is de dominante manier waarop veiligheid erodeert, en het is een rationele reactie op een systeem dat eerlijkheid te duur maakt. De twee zijn elkaars complement — Aristotle levert het bewijs en de urgentie, Bennis levert het mechanisme en de handelingsinstructie.
+**Waarom psychologische veiligheid verdwijnt** — en hoe leiders haar bewust opbouwen — staat uitgewerkt in [Bennis — Transparency](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md). Bennis legt het mechanisme bloot dat Aristotle alleen benoemt: withholding is de dominante manier waarop veiligheid erodeert, en het is een rationele reactie op een systeem dat eerlijkheid te duur maakt. De twee zijn elkaars complement — Aristotle levert het bewijs en de urgentie, Bennis levert het mechanisme en de handelingsinstructie.
 
-Related: [[../books/bennis-transparency-how-leaders-create-a-culture-of-candor]], [[lencioni-the-five-dysfunctions-of-a-team]], [[avery-the-responsibility-process-unlocking-your-natural-ability-to]]
+Related: [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md)
 
 ---
 

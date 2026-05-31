@@ -17,6 +17,6 @@ Five levels of AI integration: **0** AI-unaware, **1** AI-assisted, **2** AI-aug
 
 ## Connection to our work
 
-Referenced in [[../../toward-ai-native-ai-first]] — used to honestly assess where each value stream currently sits and where it needs to go.
+Referenced in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) — used to honestly assess where each value stream currently sits and where it needs to go.
 
-Orthogonal to [[agentic-organization]] (Appelo): maturity = what AI can *do*, archetype = what the org can *absorb*. Both dimensions are needed for a realistic transformation target.
+Orthogonal to [Agentic Organization](agentic-organization.md) (Appelo): maturity = what AI can *do*, archetype = what the org can *absorb*. Both dimensions are needed for a realistic transformation target.

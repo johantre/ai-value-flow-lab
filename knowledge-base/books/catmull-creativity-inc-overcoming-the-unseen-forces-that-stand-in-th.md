@@ -14,7 +14,7 @@ How Pixar built a culture where creativity and commercial success coexist. Key: 
 
 ## Key concepts
 
-[[creative-culture]], [[psychological-safety]], [[candor]], [[brain-trust]], [[failure-as-data]], [[creative-process-protection]]
+[[creative-culture]], [Psychological Safety](../concepts/psychological-safety.md), [Candor](../concepts/candor.md), [[brain-trust]], [[failure-as-data]], [[creative-process-protection]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Het inzicht van dit boek zit niet in de technieken maar in de eerlijkheid: Catmu
 
 ### Connection to our work
 
-Probe-sense-respond requires a culture where probe failure is acceptable data. Psychological safety is the prerequisite. The Brain Trust model is a sensing mechanism. Related: [[lencioni-the-five-dysfunctions-of-a-team]], [[mccord-powerful-building-a-culture-of-freedom-and-responsibility]]
+Probe-sense-respond requires a culture where probe failure is acceptable data. Psychological safety is the prerequisite. The Brain Trust model is a sensing mechanism. Related: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-team.md), [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)
 
 ---
 

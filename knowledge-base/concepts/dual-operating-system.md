@@ -11,10 +11,10 @@ Kotter's model: organizations run two systems simultaneously — the traditional
 
 ## Books that address this concept
 
-- [[kotter-accelerate-building-strategic-agility-for-a-faster-moving-wo]]
+- [Accelerate: Building Strategic Agility for a Faster-Moving World](../books/kotter-accelerate-building-strategic-agility-for-a-faster-moving-wo.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

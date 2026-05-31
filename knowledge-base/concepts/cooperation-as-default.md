@@ -63,18 +63,18 @@ The design question is not "how much AI?" but "what kind of social distance does
 
 ## Books that address this concept
 
-- [[../books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]]
-- [[../books/harari-sapiens-a-brief-history-of-humankind]]
-- [[../books/harari-nexus-a-brief-history-of-information-networks-from-the-stone]]
-- [[../books/mcluhan-understanding-media-the-extensions-of-man]] — "the medium is the message"; the fence *is* the medium; AI as medium shapes behavior
-- [[../books/pink-drive-the-surprising-truth-about-what-motivates-us]]
-- [[../books/rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]]
+- [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](../books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md)
+- [Sapiens: A Brief History of Humankind](../books/harari-sapiens-a-brief-history-of-humankind.md)
+- [Nexus: A Brief History of Information Networks from the Stone Age to AI](../books/harari-nexus-a-brief-history-of-information-networks-from-the-stone.md)
+- [Understanding Media: The Extensions of Man](../books/mcluhan-understanding-media-the-extensions-of-man.md) — "the medium is the message"; the fence *is* the medium; AI as medium shapes behavior
+- [Drive: The Surprising Truth About What Motivates Us](../books/pink-drive-the-surprising-truth-about-what-motivates-us.md)
+- [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](../books/rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md)
 
 ---
 
 ## Connection to our work
 
-**The narrative layer** of [[../../toward-ai-native-ai-first]]: the transformation story is not "we are changing how you work." It is "we are changing the context in which you work — to give you more of what you already love (collaboration, learning, mastery) and less of what you don't (fragmented tasks, isolated execution, coordination overhead)."
+**The narrative layer** of [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md): the transformation story is not "we are changing how you work." It is "we are changing the context in which you work — to give you more of what you already love (collaboration, learning, mastery) and less of what you don't (fragmented tasks, isolated execution, coordination overhead)."
 
 **Section 0 (Strategic Orientation)**: before mapping processes, ask what people in this organization already love about their work. The transformation should amplify that.
 

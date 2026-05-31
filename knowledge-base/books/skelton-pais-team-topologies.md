@@ -177,8 +177,8 @@ Teamtypen en interactiemodi zijn **tijdelijk van aard** — het gaat om de beweg
 ### Verbinding met ons werk
 
 - Stream-aligned teams zijn het equivalent van OT's Driving-archetypes (C3/C4): end-to-end, outcome-gericht
-- Platform teams zijn een institutionalisering van gedeelde capaciteiten — relevant voor [[krivitsky-larman-flemm-org-topologies]] (Delivery vs. Adaptive Topology)
+- Platform teams zijn een institutionalisering van gedeelde capaciteiten — relevant voor [Org Topologies™: Strategic Org Design — The Primer](krivitsky-larman-flemm-org-topologies.md) (Delivery vs. Adaptive Topology)
 - Cognitieve overbelasting is een verklaring voor waarom fragmentatie (dysfunction #5) zo destructief is in AI-context: elk team draagt AI-tools als extra cognitieve last bovenop het domeinwerk
 - Inverse Conway + AI: als AI de softwarearchitectuur fundamenteel verandert (event-driven, microservices, AI-agents als services), moeten teams meeveranderen — anders herhaalt Conway's Law zich als anti-patroon
 
-Related: [[krivitsky-larman-flemm-org-topologies]], [[forsgren-accelerate-building-and-scaling-high-performing-technology-o]], [[appelo-management-30-leading-agile-developers-developing-agile-lead]], [[mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world]]
+Related: [Org Topologies™: Strategic Org Design — The Primer](krivitsky-larman-flemm-org-topologies.md), [Accelerate: Building and Scaling High Performing Technology Organizations](forsgren-accelerate-building-and-scaling-high-performing-technology-o.md), [Management 3.0: Leading Agile Developers, Developing Agile Leaders](appelo-management-30-leading-agile-developers-developing-agile-lead.md), [Team of Teams: New Rules of Engagement for a Complex World](mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md)

@@ -11,13 +11,13 @@ The shared belief that the team is safe for interpersonal risk-taking. The singl
 
 ## Books that address this concept
 
-- [[bennis-[[transparency]]-how-leaders-create-a-culture-of-[[candor]]]]
-- [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]]
-- [[kim-the-devops-handbook-how-to-create-world-class-agility-reliab]]
-- [[sinek-leaders-eat-last-why-some-teams-pull-together-and-others-don.md]]
+- [[bennis-[Transparency](transparency.md)-how-leaders-create-a-culture-of-[Candor](candor.md)]]
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](../books/catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md)
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](../books/kim-the-devops-handbook-how-to-create-world-class-agility-reliab.md)
+- [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](../books/sinek-leaders-eat-last-why-some-teams-pull-together-and-others-don.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

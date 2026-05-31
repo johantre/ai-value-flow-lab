@@ -76,13 +76,13 @@ Geen enkele AI-first transformatie werkt vanuit één perspectief. Het raster he
 
 - **Perspectief 1 (Project Management)**: dit is wat de meeste "AI transformaties" doen. Geschikt voor de Complicated delen van ons template (Part I), maar fataal als enige aanpak voor het Complex deel.
 - **Perspectief 4 (Paradigmaverschuiving)**: dit is wat onze Greenfield-sectie (Section 8) triggert — denken zonder de huidige staat als plafond.
-- **Perspectief 5 (Activist sociale beweging)**: relevant voor de narratieve laag — de transformation vraagt mensen die vanuit purpose bewegen, niet vanuit instructie. Sluit aan bij [[../concepts/cooperation-as-default]].
-- **Perspectief 6 (Ripple effects)**: de adoptiodynamiek van AI-capaciteiten door de organisatie — hoe verspreidt het zich? Wie zijn de early adopters, wie volgt, wie wacht? Complementair aan [[../articles/appelo-stop-chasing-ai-tools]] (FOBO Firewall).
-- **Perspectief 8 (Verwerking)**: de emotionele dimensie — SCARF-bedreigingen, identiteitsverlies bij rolwijzigingen. Sluit aan bij [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]] en [[richo-you-are-not-what-you-think]].
+- **Perspectief 5 (Activist sociale beweging)**: relevant voor de narratieve laag — de transformation vraagt mensen die vanuit purpose bewegen, niet vanuit instructie. Sluit aan bij [Cooperation as Default](../concepts/cooperation-as-default.md).
+- **Perspectief 6 (Ripple effects)**: de adoptiodynamiek van AI-capaciteiten door de organisatie — hoe verspreidt het zich? Wie zijn de early adopters, wie volgt, wie wacht? Complementair aan [Stop Chasing AI Tools](../articles/appelo-stop-chasing-ai-tools.md) (FOBO Firewall).
+- **Perspectief 8 (Verwerking)**: de emotionele dimensie — SCARF-bedreigingen, identiteitsverlies bij rolwijzigingen. Sluit aan bij [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md) en [You Are Not What You Think](richo-you-are-not-what-you-think.md).
 - **Perspectief 9 (Complexe ecosystemen)**: dit is Part II van ons template — Probe → Sense → Respond. Vandamme bevestigt vanuit de change-praktijk wat Snowden zegt vanuit de theorie.
 
-**Persoonlijk leiderschap als fundament**: de corporate activist neemt zichzelf altijd mee. Dit is de change professional die ons template gebruikt — iemand die niet een methode toepast, maar vanuit eigen purpose en stijl werkt. Dat is precies de positionering die we beschrijven in [[../../toward-ai-native-ai-first]] onder het narratief.
+**Persoonlijk leiderschap als fundament**: de corporate activist neemt zichzelf altijd mee. Dit is de change professional die ons template gebruikt — iemand die niet een methode toepast, maar vanuit eigen purpose en stijl werkt. Dat is precies de positionering die we beschrijven in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) onder het narratief.
 
 **De 15 valkuilen**: relevant voor Section 11 (Safe-to-Fail Probes) — wat zijn de meest voorkomende fouten bij AI-transformaties die we als dampeners moeten inbouwen?
 
-Related: [[snowden-cynefin]], [[../concepts/cooperation-as-default]], [[../concepts/role-proliferation]], [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]], [[richo-you-are-not-what-you-think]]
+Related: [Cynefin Framework](snowden-cynefin.md), [Cooperation as Default](../concepts/cooperation-as-default.md), [Role Proliferation](../concepts/role-proliferation.md), [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md), [You Are Not What You Think](richo-you-are-not-what-you-think.md)

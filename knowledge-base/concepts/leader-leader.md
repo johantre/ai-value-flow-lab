@@ -11,10 +11,10 @@ Marquet's model: instead of leader-follower (control and compliance), every pers
 
 ## Books that address this concept
 
-- [[marquet-turn-the-ship-around-a-true-story-of-turning-followers-into]]
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](../books/marquet-turn-the-ship-around-a-true-story-of-turning-followers-into.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

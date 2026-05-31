@@ -72,7 +72,7 @@ Niet vragen "vernietigt AI jobs?" maar: **"wie krijgt de kans om de volgende laa
 
 ## Connection to our work
 
-**Directe link met [[appelo-a-map-for-agentic-transformation]]**: het "Ecosystem" archetype (ver emergent + ver decentralized) is de organisatievorm die widesizing beschrijft. Agents als foundational infrastructure, solopreneurs met agentic workforces — dat is de bestemming van de widsizing-beweging.
+**Directe link met [A Map for Agentic Transformation](appelo-a-map-for-agentic-transformation.md)**: het "Ecosystem" archetype (ver emergent + ver decentralized) is de organisatievorm die widesizing beschrijft. Agents als foundational infrastructure, solopreneurs met agentic workforces — dat is de bestemming van de widsizing-beweging.
 
 **Viability check (Section 14)**: als een grote organisatie mensen ontslaat omdat AI hun werk overneemt, verdwijnt de activiteit niet — ze verhuist naar buiten de organisatie. De institutionele kennis verhuist mee. Widesizing is de macrotrend achter de talent-pipeline waarschuwing in ons template.
 
@@ -80,4 +80,4 @@ Niet vragen "vernietigt AI jobs?" maar: **"wie krijgt de kans om de volgende laa
 
 **Valkuil 14 (Vandamme) verbinding**: wie de transformatie kadrert als "we lossen het kostenprobleem op via AI" mist het punt. Widesizing zegt: de activiteit blijft, maar de structuur verandert. De strategische vraag is niet "hoeveel FTE besparen we?" maar "welke activiteiten willen wij internaliseren, en welke laten we de markt doen?"
 
-Related: [[appelo-a-map-for-agentic-transformation]], [[appelo-future-of-consulting]], [[appelo-why-viability-overrides-agility]], [[appelo-stop-chasing-ai-tools]]
+Related: [A Map for Agentic Transformation](appelo-a-map-for-agentic-transformation.md), [The Future of Consulting](appelo-future-of-consulting.md), [Why Viability Overrides Agility](appelo-why-viability-overrides-agility.md), [Stop Chasing AI Tools](appelo-stop-chasing-ai-tools.md)

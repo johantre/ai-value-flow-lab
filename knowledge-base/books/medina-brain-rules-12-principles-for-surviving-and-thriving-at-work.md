@@ -24,4 +24,4 @@ source: goodreads
 
 ### Connection to our work
 
-Context switching (signal of misalignment in Section 3) is neurologically damaging — Medina proves it. Change management must account for cognitive load. AI should reduce, not increase, cognitive load on humans. Related: [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]], [[heath-switch-how-to-change-things-when-change-is-hard]]
+Context switching (signal of misalignment in Section 3) is neurologically damaging — Medina proves it. Change management must account for cognitive load. AI should reduce, not increase, cognitive load on humans. Related: [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md), [Switch: How to Change Things When Change Is Hard](heath-switch-how-to-change-things-when-change-is-hard.md)

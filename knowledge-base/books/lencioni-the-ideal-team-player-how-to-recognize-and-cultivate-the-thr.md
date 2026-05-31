@@ -26,7 +26,7 @@ De combinaties zijn het meest bruikbare deel van het boek: elke ontbrekende eige
 
 ### Connection to our work
 
-In AI-first orgs, the remaining human roles require high people-smartness and hunger. Automation removes humble-but-not-hungry roles. Related: [[lencioni-the-five-dysfunctions-of-a-team]], [[lencioni-the-advantage-why-organizational-health-trumps-everything-el]]
+In AI-first orgs, the remaining human roles require high people-smartness and hunger. Automation removes humble-but-not-hungry roles. Related: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-team.md), [The Advantage: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)](lencioni-the-advantage-why-organizational-health-trumps-everything-el.md)
 
 ---
 
@@ -147,7 +147,7 @@ De drie eigenschappen zijn de individuele bouwstenen voor de teamdynamieken die 
 | **Smart** | Maakt productief conflict mogelijk (Dysfunction 2: Fear of Conflict) |
 | **Skillful Politician** (Hungry + Smart) | Veroorzaakt achterkamerpolitiek — precies wat Fear of Conflict en Absence of Trust produceren |
 
-Zie ook: [[lencioni-the-five-dysfunctions-of-a-team]]
+Zie ook: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-team.md)
 
 ---
 

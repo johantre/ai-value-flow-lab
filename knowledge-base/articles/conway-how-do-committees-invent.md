@@ -46,4 +46,4 @@ Conway's recommendation is the *opposite* of "build your org around your archite
 
 **Section 9 (AI-First Design Decisions)**: the Inverse Conway Maneuver is an explicit design decision — restructure teams and communication to produce the AI-native architecture you want.
 
-Related: [[krivitsky-flemm-org-topologies]] (Org Topologies archetypes describe communication structures), [[agentic-organization]] (agentic readiness depends on communication structure)
+Related: [Org Topologies™ — Seven Archetypes of Organizational Design](krivitsky-flemm-org-topologies.md) (Org Topologies archetypes describe communication structures), [Agentic Organization](../concepts/agentic-organization.md) (agentic readiness depends on communication structure)

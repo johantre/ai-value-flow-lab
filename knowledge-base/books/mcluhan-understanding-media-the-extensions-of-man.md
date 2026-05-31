@@ -14,7 +14,7 @@ source: recommended
 
 ## Key concepts
 
-[[medium-is-the-message]], [[media-theory]], [[context-design]], [[cooperation-as-default]], [[extensions-of-man]], [[social-distance]]
+[[medium-is-the-message]], [[media-theory]], [[context-design]], [Cooperation as Default](../concepts/cooperation-as-default.md), [[extensions-of-man]], [[social-distance]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ source: recommended
 
 ### Connection to our work
 
-Three illustrations that directly support the narrative layer in [[../../toward-ai-native-ai-first]]:
+Three illustrations that directly support the narrative layer in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md):
 
 **1. The printing press** — Europe was not changed by better texts. It was changed by what the medium *did*: it made information replicable, individual, and private. That structural shift enabled the Reformation, modern individualism, and the nation-state — regardless of what was printed. The medium was the revolution.
 
@@ -40,4 +40,4 @@ Three illustrations that directly support the narrative layer in [[../../toward-
 
 **The design implication**: design AI systems that reduce social distance where it matters, not increase it. AI should be a medium that enables the proximity and accountability of face-to-face, not the distance and anonymity of a tweet.
 
-Related: [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]], [[bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens]], [[../concepts/cooperation-as-default]]
+Related: [Nexus: A Brief History of Information Networks from the Stone Age to AI](harari-nexus-a-brief-history-of-information-networks-from-the-stone.md), [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md), [Cooperation as Default](../concepts/cooperation-as-default.md)

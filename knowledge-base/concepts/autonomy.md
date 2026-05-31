@@ -11,12 +11,12 @@ Self-direction in work: what to do, when, how, and with whom. One of Pink's thre
 
 ## Books that address this concept
 
-- [[pink-drive-the-surprising-truth-about-what-motivates-us]]
-- [[mccord-powerful-building-a-culture-of-freedom-and-responsibility]]
-- [[marquet-turn-the-ship-around-a-true-story-of-turning-followers-into]]
+- [Drive: The Surprising Truth About What Motivates Us](../books/pink-drive-the-surprising-truth-about-what-motivates-us.md)
+- [Powerful: Building a Culture of Freedom and Responsibility](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](../books/marquet-turn-the-ship-around-a-true-story-of-turning-followers-into.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

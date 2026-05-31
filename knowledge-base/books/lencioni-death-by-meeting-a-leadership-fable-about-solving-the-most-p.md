@@ -34,7 +34,7 @@ Een smeltkroes levert alleen een waardig distillaat als de grondstof puur is, he
 
 ### Connection to our work
 
-The sensing cadence (Section 12) maps to Lencioni's meeting types. What disappears in Section 11 (Org Impact) should include bad meetings. Related: [[lencioni-the-advantage-why-organizational-health-trumps-everything-el]]
+The sensing cadence (Section 12) maps to Lencioni's meeting types. What disappears in Section 11 (Org Impact) should include bad meetings. Related: [The Advantage: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)](lencioni-the-advantage-why-organizational-health-trumps-everything-el.md)
 
 ---
 

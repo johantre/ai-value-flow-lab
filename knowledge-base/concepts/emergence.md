@@ -11,12 +11,12 @@ Properties that arise from system interactions that cannot be predicted from com
 
 ## Books that address this concept
 
-- [[kerr-an-introductory-guide-to-[[systems-thinking]]]]
-- [[meadows-thinking-in-systems-a-primer]]
-- [[snowden-cynefin]]
+- [[kerr-an-introductory-guide-to-[Systems Thinking](systems-thinking.md)]]
+- [Thinking In Systems: A Primer](../books/meadows-thinking-in-systems-a-primer.md)
+- [Cynefin Framework](../books/snowden-cynefin.md)
 
 ---
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [[../../toward-ai-native-ai-first]] and [[../../AI-First Value Stream Assessment Template]].
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md).

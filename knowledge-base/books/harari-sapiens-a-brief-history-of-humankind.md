@@ -14,7 +14,7 @@ Humans dominate because cognitive revolution enabled shared fictions (money, nat
 
 ## Key concepts
 
-[[cognitive-revolution]], [[shared-fictions]], [[intersubjective-reality]], [[modernity]], [[humanism]], [[agricultural-revolution]], [[newspeak]]
+[[cognitive-revolution]], [[shared-fictions]], [[intersubjective-reality]], [[modernity]], [[humanism]], [[agricultural-revolution]], [Newspeak](../concepts/newspeak.md)
 
 ## What I took from it
 
@@ -28,13 +28,13 @@ Three layers of relevance:
 
 **1. Organizations are shared fictions.** The org chart, the job titles, the processes — none of these exist in nature. They are intersubjective realities that work because enough people believe in them. AI-first transformation is not a technical project — it is the construction of a new shared fiction. The narrative must be believable *before* it is true.
 
-**2. Cooperation is the superpower, not the exception.** Homo sapiens dominates because of large-scale cooperation enabled by shared narratives — not because of individual intelligence. This is the anthropological basis for [[../concepts/cooperation-as-default]]: collaboration and collective learning are the *ground state* of human capability, not an aspiration.
+**2. Cooperation is the superpower, not the exception.** Homo sapiens dominates because of large-scale cooperation enabled by shared narratives — not because of individual intelligence. This is the anthropological basis for [Cooperation as Default](../concepts/cooperation-as-default.md): collaboration and collective learning are the *ground state* of human capability, not an aspiration.
 
 **3. Homo sapiens is ultra-adaptive.** The species has survived ice ages, deserts, and every possible climate on every continent. "People resist change" is empirically absurd at the species level. What people respond to is context — and that is designable.
 
 The transformation narrative: frame AI-first as building a new shared fiction that enables the cooperation and learning that are already there, rather than threatening the old fiction that people have organized their identity around.
 
-Related: [[harari-nexus-a-brief-history-of-information-networks-from-the-stone]], [[../concepts/cooperation-as-default]], [[../concepts/role-proliferation]]
+Related: [Nexus: A Brief History of Information Networks from the Stone Age to AI](harari-nexus-a-brief-history-of-information-networks-from-the-stone.md), [Cooperation as Default](../concepts/cooperation-as-default.md), [Role Proliferation](../concepts/role-proliferation.md)
 
 ---
 

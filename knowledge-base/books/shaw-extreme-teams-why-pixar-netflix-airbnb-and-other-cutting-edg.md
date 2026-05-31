@@ -24,4 +24,4 @@ High-performing teams at Pixar, Netflix, Airbnb share common traits: obsessive f
 
 ### Connection to our work
 
-AI-first anchor transformations require extreme teams. The probe owners and sensing cadence teams need these characteristics. Related: [[catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th]], [[mccord-powerful-building-a-culture-of-freedom-and-responsibility]]
+AI-first anchor transformations require extreme teams. The probe owners and sensing cadence teams need these characteristics. Related: [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md), [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)

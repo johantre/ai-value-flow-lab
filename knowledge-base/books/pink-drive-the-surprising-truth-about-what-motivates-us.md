@@ -14,7 +14,7 @@ Carrot-and-stick motivation works for simple tasks but destroys performance in c
 
 ## Key concepts
 
-[[intrinsic-motivation]], [[autonomy]], [[mastery]], [[purpose]], [[type-i-vs-type-x]], [[self-determination-theory]]
+[Intrinsic Motivation](../concepts/intrinsic-motivation.md), [Autonomy](../concepts/autonomy.md), [Mastery](../concepts/mastery.md), [Purpose](../concepts/purpose.md), [[type-i-vs-type-x]], [[self-determination-theory]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Carrot-and-stick motivation works for simple tasks but destroys performance in c
 
 ### Connection to our work
 
-AI-first transformation should increase autonomy and mastery for remaining human roles, not decrease them. Resistance to AI adoption often masks a Purpose threat. The narrative must address AMP. Related: [[heath-switch-how-to-change-things-when-change-is-hard]], [[sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac]], [[rock-your-brain-at-work-strategies-for-overcoming-distraction-reg]]
+AI-first transformation should increase autonomy and mastery for remaining human roles, not decrease them. Resistance to AI adoption often masks a Purpose threat. The narrative must address AMP. Related: [Switch: How to Change Things When Change Is Hard](heath-switch-how-to-change-things-when-change-is-hard.md), [Start with Why: How Great Leaders Inspire Everyone to Take Action](sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac.md), [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md)

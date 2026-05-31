@@ -11,10 +11,10 @@ Heath's change framework: the **Rider** (rational mind) knows what to do but tir
 
 ## Books that address this concept
 
-- [[heath-switch-how-to-change-things-when-change-is-hard]]
+- [Switch: How to Change Things When Change Is Hard](../books/heath-switch-how-to-change-things-when-change-is-hard.md)
 
 ---
 
 ## Connection to our work
 
-Informs the narrative layer in [[../../toward-ai-native-ai-first]]. AI-first adoption requires directing the Rider (rational case), motivating the Elephant (emotional resonance), and shaping the Path (org design).
+Informs the narrative layer in [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md). AI-first adoption requires directing the Rider (rational case), motivating the Elephant (emotional resonance), and shaping the Path (org design).

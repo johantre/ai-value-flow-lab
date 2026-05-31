@@ -11,10 +11,10 @@ Probes designed so that if they fail, the organization can recover without serio
 
 ## Books that address this concept
 
-- [[snowden-cynefin]]
+- [Cynefin Framework](../books/snowden-cynefin.md)
 
 ---
 
 ## Connection to our work
 
-Section 11 of the [[../../AI-First Value Stream Assessment Template]] is structured entirely around safe-to-fail probe design.
+Section 11 of the [AI-First Value Stream Assessment](../../AI-First Value Stream Assessment Template.md) is structured entirely around safe-to-fail probe design.

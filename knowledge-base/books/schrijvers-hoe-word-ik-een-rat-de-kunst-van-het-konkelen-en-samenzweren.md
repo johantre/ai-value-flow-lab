@@ -14,7 +14,7 @@ Organizational politics are a fact of life. Understanding how power actually mov
 
 ## Key concepts
 
-[[organizational-politics]], [[power-dynamics]], [[informal-power]], [[scheming]], [[survival-in-organizations]]
+[Organizational Politics](../concepts/organizational-politics.md), [[power-dynamics]], [[informal-power]], [[scheming]], [[survival-in-organizations]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Organizational politics are a fact of life. Understanding how power actually mov
 
 ### Connection to our work
 
-AI-first transformations are political. Anchor transformations have opponents who will use political moves to block them. The narrative must navigate politics, not ignore them. Related: [[jackall-moral-mazes-the-world-of-corporate-managers]]
+AI-first transformations are political. Anchor transformations have opponents who will use political moves to block them. The narrative must navigate politics, not ignore them. Related: [Moral Mazes: The World of Corporate Managers](jackall-moral-mazes-the-world-of-corporate-managers.md)

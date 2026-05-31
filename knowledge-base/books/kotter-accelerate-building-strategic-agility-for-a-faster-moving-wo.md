@@ -14,7 +14,7 @@ Organizations need two simultaneous operating systems: the traditional hierarchy
 
 ## Key concepts
 
-[[dual-operating-system]], [[change-network]], [[urgency]], [[guiding-coalition]], [[volunteer-army]], [[big-opportunity]]
+[Dual Operating System](../concepts/dual-operating-system.md), [[change-network]], [[urgency]], [[guiding-coalition]], [[volunteer-army]], [[big-opportunity]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Organizations need two simultaneous operating systems: the traditional hierarchy
 
 ### Connection to our work
 
-Directly maps to anchor transformation approach. The change network IS the probe design group. Traditional hierarchy continues running while the network experiments. Related: [[heath-switch-how-to-change-things-when-change-is-hard]], [[mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world]]
+Directly maps to anchor transformation approach. The change network IS the probe design group. Traditional hierarchy continues running while the network experiments. Related: [Switch: How to Change Things When Change Is Hard](heath-switch-how-to-change-things-when-change-is-hard.md), [Team of Teams: New Rules of Engagement for a Complex World](mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md)

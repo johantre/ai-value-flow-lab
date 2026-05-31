@@ -14,7 +14,7 @@ High-stakes conversations go wrong because people feel unsafe. Create safety fir
 
 ## Key concepts
 
-[[crucial-conversations]], [[shared-meaning]], [[psychological-safety-conversations]], [[silence-vs-violence]], [[state-your-path]]
+[Crucial Conversations](../concepts/crucial-conversations.md), [[shared-meaning]], [[psychological-safety-conversations]], [[silence-vs-violence]], [[state-your-path]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ High-stakes conversations go wrong because people feel unsafe. Create safety fir
 
 ### Connection to our work
 
-The forcing choices in Section 4 and brutal analysis in Section 5 are crucial conversations. Leaders need these skills to facilitate honest assessment. Related: [[rosenberg-nonviolent-communication-create-your-life-your-relationships]]
+The forcing choices in Section 4 and brutal analysis in Section 5 are crucial conversations. Leaders need these skills to facilitate honest assessment. Related: [Nonviolent Communication: Create Your Life, Your Relationships, and Your World in Harmony with Your Values](rosenberg-nonviolent-communication-create-your-life-your-relationships.md)

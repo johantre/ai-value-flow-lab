@@ -14,7 +14,7 @@ Most problems are caused by system structure, not individual actors. Systems hav
 
 ## Key concepts
 
-[[systems-thinking]], [[feedback-loops]], [[stocks-and-flows]], [[leverage-points]], [[unintended-consequences]], [[delays]], [[archetypes]]
+[Systems Thinking](../concepts/systems-thinking.md), [Feedback Loops](../concepts/feedback-loops.md), [[stocks-and-flows]], [[leverage-points]], [[unintended-consequences]], [[delays]], [[archetypes]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Dit is het meest compacte systeemdenkboek dat bestaat. Meadows schrijft met uitz
 
 ### Connection to our work
 
-Value streams are systems. AI dramatically accelerates feedback loops. Org impact analysis is systems thinking applied. The unintended consequences column in Section 14 (Expected Emergence) is a systems thinking output. Related: [[senge-the-fifth-discipline]], [[kerr-an-introductory-guide-to-systems-thinking]], [[taleb-antifragile-things-that-gain-from-disorder]]
+Value streams are systems. AI dramatically accelerates feedback loops. Org impact analysis is systems thinking applied. The unintended consequences column in Section 14 (Expected Emergence) is a systems thinking output. Related: [[senge-the-fifth-discipline]], [An Introductory Guide to Systems Thinking](kerr-an-introductory-guide-to-systems-thinking.md), [Antifragile: Things That Gain from Disorder](taleb-antifragile-things-that-gain-from-disorder.md)
 
 ---
 

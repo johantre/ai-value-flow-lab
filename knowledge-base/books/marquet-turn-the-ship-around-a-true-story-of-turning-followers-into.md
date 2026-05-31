@@ -14,7 +14,7 @@ On a US nuclear submarine, Marquet replaced "leader-follower" (control) with "le
 
 ## Key concepts
 
-[[leader-leader]], [[intent-based-leadership]], [[distributed-control]], [[competence]], [[clarity-of-intent]], [[resilience]]
+[Leader-Leader](../concepts/leader-leader.md), [[intent-based-leadership]], [Distributed Control](../concepts/distributed-control.md), [[competence]], [[clarity-of-intent]], [[resilience]]
 
 ## What I took from it
 
@@ -24,7 +24,7 @@ Het krachtigste aan dit boek is niet de theorie maar de ernst van de context: ee
 
 ### Connection to our work
 
-AI-first org design moves from leader-follower to leader-leader. AI takes over execution; humans need more judgment and initiative, not less. Directly relevant to Section 9 (AI model design) and org impact. Related: [[mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world]], [[pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu]]
+AI-first org design moves from leader-follower to leader-leader. AI takes over execution; humans need more judgment and initiative, not less. Directly relevant to Section 9 (AI model design) and org impact. Related: [Team of Teams: New Rules of Engagement for a Complex World](mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md), [Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization (Betacodex Publishing)](pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md)
 
 ---
 

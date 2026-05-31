@@ -43,6 +43,6 @@ The Org Topologies map gives a shared vocabulary to name *where the organization
 
 **Relationship to AI maturity**: an org at Y0/Y1 cannot absorb AI-first transformation regardless of technical capability — the team structure creates too much handoff waste for agents to add value. C3 is the minimum viable archetype for Level 3–4 AI maturity.
 
-Related: [[agentic-organization]], [[ai-maturity-spectrum]], [[ramos-pavlichenko-creating-agile-organizations]]
+Related: [Agentic Organization](../concepts/agentic-organization.md), [AI Maturity Spectrum](../concepts/ai-maturity-spectrum.md), [Creating Agile Organizations — Designing Agile Organizations (DAO)](ramos-pavlichenko-creating-agile-organizations.md)
 
 Also see: book companion — *10x ORG: Powered by Org Topologies* (Krivitsky, Larman, Flemm — published via Leanpub)

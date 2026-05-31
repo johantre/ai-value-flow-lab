@@ -29,4 +29,4 @@ Competitive advantage in the AI era comes from *restraint*, not tool accumulatio
 
 Directly applicable to **Section 9 (AI-First Design Decisions)**: which AI capabilities do you adopt now, which do you deliberately trail? The FOBO Firewall logic prevents orgs from AI tool-hopping and provides a decision criterion.
 
-Also relevant for the consultant's own positioning in the narrative layer of [[../../toward-ai-native-ai-first]].
+Also relevant for the consultant's own positioning in the narrative layer of [Toward AI-Native: A Credible Path](../../toward-ai-native-ai-first.md).

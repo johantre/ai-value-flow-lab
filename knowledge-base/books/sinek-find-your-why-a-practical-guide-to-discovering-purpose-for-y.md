@@ -14,7 +14,7 @@ Practical process for discovering individual and team WHY. The WHY comes from th
 
 ## Key concepts
 
-[[why-discovery]], [[purpose]], [[team-why]], [[story-based-discovery]]
+[[why-discovery]], [Purpose](../concepts/purpose.md), [[team-why]], [[story-based-discovery]]
 
 ## What I took from it
 
@@ -24,4 +24,4 @@ Practical process for discovering individual and team WHY. The WHY comes from th
 
 ### Connection to our work
 
-Before designing AI-first transitions, the team needs a shared WHY. Without it, the target attractor (Section 10) has no emotional anchor. Related: [[sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac]]
+Before designing AI-first transitions, the team needs a shared WHY. Without it, the target attractor (Section 10) has no emotional anchor. Related: [Start with Why: How Great Leaders Inspire Everyone to Take Action](sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac.md)
