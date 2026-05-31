@@ -4,7 +4,7 @@ author: "Lisa Crispin"
 year: 2009
 status: read
 rating: 5/5
-tags: [[agile]]
+tags: [agile]
 source: goodreads
 ---
 

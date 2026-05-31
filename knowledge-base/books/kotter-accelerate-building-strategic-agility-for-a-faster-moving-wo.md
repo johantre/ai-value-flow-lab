@@ -4,7 +4,7 @@ author: "John P. Kotter"
 year: 2014
 status: read
 rating: 5/5
-tags: [[change]]
+tags: [change]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Daniel H. Pink"
 year: 2009
 status: read
 rating: 5/5
-tags: [[change]]
+tags: [change]
 source: goodreads
 ---
 

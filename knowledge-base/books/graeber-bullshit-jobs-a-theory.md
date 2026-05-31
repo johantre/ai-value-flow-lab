@@ -4,7 +4,7 @@ author: "David Graeber"
 year: 2018
 status: read
 rating: 5/5
-tags: [[thinking]]
+tags: [thinking]
 source: goodreads
 ---
 

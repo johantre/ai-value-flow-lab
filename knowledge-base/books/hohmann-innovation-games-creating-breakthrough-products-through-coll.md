@@ -4,7 +4,7 @@ author: "Luke Hohmann"
 year: 2006
 status: read
 rating: 5/5
-tags: [[collaboration-techniques]]
+tags: [collaboration-techniques]
 source: goodreads
 ---
 

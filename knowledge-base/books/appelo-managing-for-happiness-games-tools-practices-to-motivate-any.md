@@ -4,7 +4,7 @@ author: "Jurgen Appelo"
 year: 2016
 status: read
 rating: 5/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

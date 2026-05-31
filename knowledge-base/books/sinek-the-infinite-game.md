@@ -4,7 +4,7 @@ author: "Simon Sinek"
 year: 2019
 status: read
 rating: 5/5
-tags: [[leadership]]
+tags: [leadership]
 source: goodreads
 ---
 

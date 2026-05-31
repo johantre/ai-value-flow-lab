@@ -4,7 +4,7 @@ author: "Marshall B. Rosenberg"
 year: 2004
 status: read
 rating: 5/5
-tags: [[communication]]
+tags: [communication]
 source: goodreads
 ---
 

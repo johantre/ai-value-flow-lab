@@ -4,7 +4,7 @@ author: "Ed Catmull"
 year: 2014
 status: read
 rating: 5/5
-tags: [[collaboration]]
+tags: [collaboration]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Craig Larman"
 year: 2008
 status: read
 rating: 5/5
-tags: [[agile]]
+tags: [agile]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Carissa Véliz"
 year: 2026
 status: unread
 rating: not rated
-tags: [[ai-ethics]]
+tags: [ai-ethics]
 source: research
 ---
 

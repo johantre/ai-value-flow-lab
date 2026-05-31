@@ -4,7 +4,7 @@ author: "Dave  Gray"
 year: 2010
 status: read
 rating: 5/5
-tags: [[collaboration-techniques]]
+tags: [collaboration-techniques]
 source: goodreads
 ---
 

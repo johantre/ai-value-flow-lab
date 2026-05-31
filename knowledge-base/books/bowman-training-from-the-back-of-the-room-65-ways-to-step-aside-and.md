@@ -4,7 +4,7 @@ author: "Sharon L. Bowman"
 year: 2008
 status: read
 rating: 4/5
-tags: [[communication, collaboration-techniques]]
+tags: [communication, collaboration-techniques]
 source: goodreads
 ---
 

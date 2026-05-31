@@ -4,7 +4,7 @@ author: "David Rock"
 year: 2009
 status: read
 rating: 5/5
-tags: [[our-brain]]
+tags: [our-brain]
 source: goodreads
 ---
 

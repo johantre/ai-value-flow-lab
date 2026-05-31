@@ -4,7 +4,7 @@ author: "Stephen Denning"
 year: 2010
 status: read
 rating: 5/5
-tags: [[leadership]]
+tags: [leadership]
 source: goodreads
 ---
 

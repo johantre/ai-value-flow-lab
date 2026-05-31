@@ -4,7 +4,7 @@ author: "Stanley McChrystal"
 year: 2015
 status: read
 rating: 5/5
-tags: [[collaboration]]
+tags: [collaboration]
 source: goodreads
 ---
 

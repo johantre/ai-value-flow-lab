@@ -4,7 +4,7 @@ author: "David Kerr"
 year: 2012
 status: read
 rating: 5/5
-tags: [[thinking]]
+tags: [thinking]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Nassim Nicholas Taleb"
 year: 2012
 status: reading
 rating: not rated
-tags: [[organizational]]
+tags: [organizational]
 source: goodreads
 ---
 

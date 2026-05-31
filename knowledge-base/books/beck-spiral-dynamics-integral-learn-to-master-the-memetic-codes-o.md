@@ -4,7 +4,7 @@ author: "Don Edward Beck"
 year: 2006
 status: read
 rating: 5/5
-tags: [[change, thinking]]
+tags: [change, thinking]
 source: goodreads
 ---
 

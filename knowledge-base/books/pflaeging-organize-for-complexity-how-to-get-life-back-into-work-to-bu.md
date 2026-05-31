@@ -4,7 +4,7 @@ author: "Niels Pflaeging"
 year: 2014
 status: read
 rating: 5/5
-tags: [[organizational]]
+tags: [organizational]
 source: goodreads
 ---
 

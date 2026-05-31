@@ -4,7 +4,7 @@ author: "Patrick Lencioni"
 year: 2012
 status: read
 rating: 5/5
-tags: [[leadership, organizational]]
+tags: [leadership, organizational]
 source: goodreads
 ---
 

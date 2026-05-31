@@ -4,7 +4,7 @@ author: "John C. Maxwell"
 year: 2014
 status: read
 rating: 5/5
-tags: [[leadership]]
+tags: [leadership]
 source: goodreads
 ---
 

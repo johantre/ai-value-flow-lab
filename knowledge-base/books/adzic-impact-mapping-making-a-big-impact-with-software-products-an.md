@@ -4,7 +4,7 @@ author: "Gojko Adzic"
 year: 2012
 status: read
 rating: 5/5
-tags: [[collaboration-techniques]]
+tags: [collaboration-techniques]
 source: goodreads
 ---
 

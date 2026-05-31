@@ -4,7 +4,7 @@ author: "Rutger Bregman"
 year: 2019
 status: read
 rating: 5/5
-tags: [[change]]
+tags: [change]
 source: goodreads
 ---
 

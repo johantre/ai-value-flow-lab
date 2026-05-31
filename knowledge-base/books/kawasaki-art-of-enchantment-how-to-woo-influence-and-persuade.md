@@ -4,7 +4,7 @@ author: "Guy Kawasaki"
 year: 2011
 status: read
 rating: 5/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

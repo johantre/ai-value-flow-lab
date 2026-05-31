@@ -4,7 +4,7 @@ author: "David Heinemeier Hansson"
 year: 2013
 status: reading
 rating: not rated
-tags: [[remote-work]]
+tags: [remote-work]
 source: goodreads
 ---
 

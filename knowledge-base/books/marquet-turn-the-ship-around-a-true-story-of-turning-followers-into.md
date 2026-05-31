@@ -4,7 +4,7 @@ author: "L. David Marquet"
 year: 2013
 status: read
 rating: 5/5
-tags: [[leadership]]
+tags: [leadership]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Donella H. Meadows"
 year: 2008
 status: read
 rating: 4/5
-tags: [[thinking]]
+tags: [thinking]
 source: goodreads
 ---
 

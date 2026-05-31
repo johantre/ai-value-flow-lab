@@ -4,7 +4,7 @@ author: "Craig Larman"
 year: 2016
 status: read
 rating: 5/5
-tags: [[agile, collaboration, collaboration-techniques, organizational]]
+tags: [agile, collaboration, collaboration-techniques, organizational]
 source: goodreads
 ---
 

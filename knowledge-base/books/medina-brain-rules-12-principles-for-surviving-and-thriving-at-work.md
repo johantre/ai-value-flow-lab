@@ -4,7 +4,7 @@ author: "John Medina"
 year: 2008
 status: read
 rating: 5/5
-tags: [[our-brain]]
+tags: [our-brain]
 source: goodreads
 ---
 

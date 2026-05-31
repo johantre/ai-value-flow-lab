@@ -4,7 +4,7 @@ author: "Annaka Harris"
 year: 2019
 status: read
 rating: 4/5
-tags: [[our-brain, thinking]]
+tags: [our-brain, thinking]
 source: goodreads
 ---
 

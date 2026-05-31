@@ -4,7 +4,7 @@ author: "Seth Godin"
 year: 2008
 status: read
 rating: 5/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

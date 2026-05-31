@@ -4,7 +4,7 @@ author: "Robert Bruce Shaw"
 year: 2017
 status: read
 rating: 5/5
-tags: [[collaboration]]
+tags: [collaboration]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Gene Kim"
 year: 2016
 status: read
 rating: 5/5
-tags: [[agile]]
+tags: [agile]
 source: goodreads
 ---
 

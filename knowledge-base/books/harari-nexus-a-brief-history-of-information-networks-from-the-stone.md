@@ -4,7 +4,7 @@ author: "Yuval Noah Harari"
 year: 2024
 status: read
 rating: 5/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

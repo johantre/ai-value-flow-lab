@@ -4,7 +4,7 @@ author: "Ken Schwaber"
 year: 2001
 status: read
 rating: 5/5
-tags: [[agile]]
+tags: [agile]
 source: goodreads
 ---
 

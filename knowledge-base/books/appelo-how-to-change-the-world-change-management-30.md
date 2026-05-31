@@ -4,7 +4,7 @@ author: "Jurgen Appelo"
 year: 2012
 status: read
 rating: 5/5
-tags: [[change]]
+tags: [change]
 source: goodreads
 ---
 

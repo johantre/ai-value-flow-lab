@@ -4,7 +4,7 @@ author: "Peter M. Senge"
 year: 2006
 status: read
 rating: 5/5
-tags: [[leadership, organizational]]
+tags: [leadership, organizational]
 source: goodreads
 ---
 

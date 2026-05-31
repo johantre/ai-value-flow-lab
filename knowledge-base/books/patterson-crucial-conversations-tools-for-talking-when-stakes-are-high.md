@@ -4,7 +4,7 @@ author: "Kerry Patterson"
 year: 2002
 status: read
 rating: 5/5
-tags: [[communication]]
+tags: [communication]
 source: goodreads
 ---
 

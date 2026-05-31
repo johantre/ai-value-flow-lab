@@ -4,7 +4,7 @@ author: "Patrick Lencioni"
 year: 2011
 status: read
 rating: 5/5
-tags: [[leadership]]
+tags: [leadership]
 source: goodreads
 ---
 

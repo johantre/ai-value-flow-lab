@@ -4,7 +4,7 @@ author: "Robert Jackall"
 year: 1989
 status: reading
 rating: not rated
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

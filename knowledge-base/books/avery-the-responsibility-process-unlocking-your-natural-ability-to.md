@@ -4,7 +4,7 @@ author: "Christopher Avery"
 year: 2016
 status: read
 rating: 5/5
-tags: [[leadership]]
+tags: [leadership]
 source: goodreads
 ---
 

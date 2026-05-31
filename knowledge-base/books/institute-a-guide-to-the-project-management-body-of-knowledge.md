@@ -4,7 +4,7 @@ author: "Project Management Institute"
 year: 2009
 status: read
 rating: 3/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

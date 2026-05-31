@@ -4,7 +4,7 @@ author: "Jurgen Appelo"
 year: 2010
 status: read
 rating: 5/5
-tags: [[agile]]
+tags: [agile]
 source: goodreads
 ---
 

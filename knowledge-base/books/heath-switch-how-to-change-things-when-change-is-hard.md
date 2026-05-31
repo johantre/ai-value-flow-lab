@@ -4,7 +4,7 @@ author: "Chip Heath"
 year: 2010
 status: read
 rating: 5/5
-tags: [[change]]
+tags: [change]
 source: goodreads
 ---
 

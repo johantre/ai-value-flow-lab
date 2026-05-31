@@ -4,7 +4,7 @@ author: "Google People Analytics (Julia Rozovsky e.a.)"
 year: 2016
 status: reference
 rating: 5/5
-tags: [[team-effectiveness]], [[psychological-safety]], [[leadership]]
+tags: [team-effectiveness, psychological-safety, leadership]
 source: https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/
 ---
 

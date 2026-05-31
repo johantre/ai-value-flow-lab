@@ -4,7 +4,7 @@ author: "Blair Singer"
 year: 2012
 status: read
 rating: 5/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

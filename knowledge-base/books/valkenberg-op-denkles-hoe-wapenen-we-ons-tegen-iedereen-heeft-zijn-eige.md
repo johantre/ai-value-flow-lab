@@ -4,7 +4,7 @@ author: "Sebastien Valkenberg"
 year: 2015
 status: reading
 rating: not rated
-tags: [[thinking]]
+tags: [thinking]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Warren Bennis"
 year: 2008
 status: read
 rating: 5/5
-tags: [[communication]]
+tags: [communication]
 source: goodreads
 ---
 

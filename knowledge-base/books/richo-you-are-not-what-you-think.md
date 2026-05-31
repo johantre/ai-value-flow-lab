@@ -4,7 +4,7 @@ author: "David Richo"
 year: 2016
 status: read
 rating: 5/5
-tags: [[thinking, our-brain]]
+tags: [thinking, our-brain]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Brian J. Robertson"
 year: 2015
 status: read
 rating: 5/5
-tags: [[organizational]]
+tags: [organizational]
 source: goodreads
 ---
 

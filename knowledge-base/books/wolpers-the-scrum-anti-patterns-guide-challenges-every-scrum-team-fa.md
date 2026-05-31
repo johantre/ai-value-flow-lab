@@ -4,7 +4,7 @@ author: "Stefan Wolpers"
 year: 2024
 status: read
 rating: 5/5
-tags: [[agile, collaboration]]
+tags: [agile, collaboration]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Caitlin Walker"
 year: 2014
 status: read
 rating: 4/5
-tags: [[communication]]
+tags: [communication]
 source: goodreads
 ---
 

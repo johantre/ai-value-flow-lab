@@ -4,7 +4,7 @@ author: "Patty McCord"
 year: 2018
 status: read
 rating: 5/5
-tags: [[collaboration]]
+tags: [collaboration]
 source: goodreads
 ---
 

@@ -4,7 +4,7 @@ author: "Linda A. Hill"
 year: 2014
 status: read
 rating: 5/5
-tags: [[]]
+tags: []
 source: goodreads
 ---
 

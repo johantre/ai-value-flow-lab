@@ -4,7 +4,7 @@ author: "Frederic Laloux"
 year: 2016
 status: reading
 rating: 5/5
-tags: [[organizational]]
+tags: [organizational]
 source: goodreads
 ---
 
