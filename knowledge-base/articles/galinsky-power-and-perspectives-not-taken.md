@@ -62,6 +62,21 @@ Het verschil zit niet in intentie maar in automatisme. Mensen met macht corriger
 
 ---
 
+### De andere experimenten — achtergrond en legitimiteit
+
+**Experiment 2 — Curse of knowledge**
+Deelnemers kregen informatie die hun tegenpartij *niet* had. Hoge-macht deelnemers corrigeerden veel minder voor dat kennisverschil: ze gingen er automatisch van uit dat anderen wisten wat zij wisten. Het is hetzelfde ankermechanisme als bij de E — eigen standpunt als vertrekpunt, onvoldoende bijstelling naar de ander.
+
+**Experiment 3 — Emotieherkenning**
+Deelnemers beoordeelden emoties op gezichten en in beschreven situaties. Hoge-macht deelnemers waren significant minder nauwkeurig — niet minder bereid, maar minder capabel. De bias zit in de verwerking, niet in de intentie.
+
+**Correlatiestudie**
+Met een schaal voor dispositionele macht (hoeveel macht iemand structureel ervaart in het dagelijks leven) werd gecorreleerd met perspectief-inname in reële situaties. Dezelfde richting als de experimenten: meer macht, minder perspectief van de ander.
+
+> De vier studies samen tonen dat het effect niet afhankelijk is van één taak of één meting — het duikt op in visuele perspectiefname (E), kennisoverdracht (curse of knowledge), emotielezen, én in dagelijkse machtservaring. Dat maakt het een robuust cognitief patroon, geen laborieus artefact.
+
+---
+
 ### Mechanisme: anchoring op eigen perspectief
 
 Galinsky's verklaring: macht activeert een approach-oriëntatie — focus op eigen doelen, eigen informatie, eigen referentiepunt. Dit is functioneel in veel situaties (daadkracht, besluitvaardigheid), maar het heeft een cognitieve bijwerking: minder automatische bijstelling naar het perspectief van anderen.
@@ -84,6 +99,5 @@ Het is geen arrogantie. Het is het structurele effect van een positie op cogniti
 
 - [Psychological Science — originele publicatie (2006)](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01824.x)
 - [Volledige PDF via MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/Galinsky_et_al_Power-and-Perspectives-Not-Taken.pdf)
-- [Academia.edu — PDF](https://www.academia.edu/116675951/Research_Article_Power_and_Perspectives_Not_Taken)
 - [APS — persbericht bij publicatie](https://www.psychologicalscience.org/news/releases/study-gives-us-a-new-perspective-on-the-powerful.html)
 - [NYU Wagner — publicatiepagina](https://wagner.nyu.edu/impact/research/publications/power-and-perspectives-not-taken)
