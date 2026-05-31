@@ -14,7 +14,7 @@ Information networks (language, writing, printing, internet) shape civilizations
 
 ## Key concepts
 
-[[information-networks]], [[cooperation-at-scale]], [[ai-as-network]], [[ai-alignment]], [[intersubjective-reality]], [[information-theory-history]]
+[[information-networks]], [[cooperation-at-scale]], [[ai-as-network]], [[ai-alignment]], [[intersubjective-reality]], [[information-theory-history]], [[newspeak]]
 
 ## What I took from it
 

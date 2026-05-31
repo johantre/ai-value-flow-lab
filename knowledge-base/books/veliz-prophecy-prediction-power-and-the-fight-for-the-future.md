@@ -14,7 +14,7 @@ Predictie is geen neutrale kennisbron — het is een machtsinstrument. Wie de to
 
 ## Key concepts
 
-[[prediction-as-power]], [[self-fulfilling-prophecy]], [[algorithmic-determinism]], [[autonomy-erosion]], [[accountability-gap]], [[data-surveillance]], [[preparation-vs-prediction]]
+[[prediction-as-power]], [[self-fulfilling-prophecy]], [[algorithmic-determinism]], [[autonomy-erosion]], [[accountability-gap]], [[data-surveillance]], [[preparation-vs-prediction]], [[newspeak]]
 
 ## What I took from it
 

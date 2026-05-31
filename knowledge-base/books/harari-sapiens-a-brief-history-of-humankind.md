@@ -14,7 +14,7 @@ Humans dominate because cognitive revolution enabled shared fictions (money, nat
 
 ## Key concepts
 
-[[cognitive-revolution]], [[shared-fictions]], [[intersubjective-reality]], [[modernity]], [[humanism]], [[agricultural-revolution]]
+[[cognitive-revolution]], [[shared-fictions]], [[intersubjective-reality]], [[modernity]], [[humanism]], [[agricultural-revolution]], [[newspeak]]
 
 ## What I took from it
 

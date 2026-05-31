@@ -14,7 +14,7 @@ Humans are fundamentally cooperative and good, not selfish. Most systems designe
 
 ## Key concepts
 
-[[human-nature]], [[trust-vs-control]], [[nocebo-effect]], [[veneer-theory]], [[compassion]], [[cooperation-as-default]]
+[[human-nature]], [[trust-vs-control]], [[nocebo-effect]], [[veneer-theory]], [[compassion]], [[cooperation-as-default]], [[newspeak]]
 
 ## Samenvatting — de doorprikte mythes
 
