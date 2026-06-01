@@ -28,7 +28,7 @@ Het boek werd breed gelezen als het meest eerlijke en inhoudelijk rijke boek ove
 
 ### Connection to our work
 
-**Containment als institutioneel ontwerp.** Suleyman's containment-framework is de meest uitgewerkte versie van wat Harari noemt als kerneis: bewust gebouwde governance. Harari beschrijft *waarom* het nodig is; Suleyman beschrijft *hoe* — in tien concentrische lagen van technische, bedrijfs- en overheidsmechanismen.
+**Containment als institutioneel ontwerp.** Suleyman's containment-framework is de meest uitgewerkte versie van wat Harari noemt als kern-eis: bewust gebouwde governance. Harari beschrijft *waarom* het nodig is; Suleyman beschrijft *hoe* — in tien concentrische lagen van technische, bedrijfs- en overheidsmechanismen.
 
 **De omni-use paradox.** Elke krachtige technologie is omni-use: dezelfde tool die kanker geneest, kan biologische wapens maken. Dezelfde AI die logistiek optimaliseert, kan surveillance-infrastructuur zijn. Dit is precies de keerzijde die Harari's historische tabel toont bij elk informatienetwerk. Suleyman maakt het concreet voor AI en biotech.
 
