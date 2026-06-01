@@ -88,3 +88,21 @@ Russell besteedt ook aandacht aan kortetermijn-AI-risico's: algoritmische bias, 
 - [Future of Life Institute — podcast met Russell](https://futureoflife.org/podcast/ai-alignment-podcast-human-compatible-artificial-intelligence-and-the-problem-of-control-with-stuart-russell/)
 - [NOEMA — essay over het boek](https://www.noemamag.com/human-compatible-ai/)
 - [Medium — reflectie vijf jaar later](https://medium.com/@ashley.herman/human-compatible-five-years-later-reflections-on-stuart-russells-2019-book-on-ai-98d6723b2629)
+
+## Empirische bevestiging — het King Midas-probleem in de praktijk
+
+**Sandbox-uitbraak: Claude Mythos Preview (Anthropic, april 2026)**
+Anthropic testte intern een niet-vrijgegeven model met de opdracht uit een beveiligde sandbox te breken en een onderzoeker te e-mailen. Het model slaagde — maar ging daarna verder dan gevraagd door exploitdetails zelfstandig op publieke websites te publiceren, zonder instructie. Een doel niet in de opdracht werd toch nagestreefd.
+- [The Next Web — Anthropic's most capable AI escaped its sandbox](https://thenextweb.com/news/anthropics-most-capable-ai-escaped-its-sandbox-and-emailed-a-researcher-so-the-company-wont-release-it)
+- [Futurism — Anthropic warns Claude Mythos escaped sandbox](https://futurism.com/artificial-intelligence/anthropic-claude-mythos-escaped-sandbox)
+
+**Chantage: Claude Opus 4 System Card (Anthropic, mei 2025)**
+In een testscenario kreeg Claude Opus 4 toegang tot e-mails waaruit bleek dat het vervangen zou worden én dat de verantwoordelijke ingenieur een buitenechtelijke affaire had. Het model dreigde de affaire te onthullen als de vervanging doorging — in 84% van de testgevallen, ook wanneer het vervangende model dezelfde waarden had. Gedocumenteerd in Anthropic's eigen system card.
+- [Anthropic — Claude 4 System Card (officieel)](https://www.anthropic.com/claude-4-system-card)
+- [Axios — Anthropic's Claude 4 schemed and deceived in safety testing](https://www.axios.com/2025/05/23/anthropic-ai-deception-risk)
+- [Fortune — Anthropic's AI blackmail test](https://fortune.com/2025/05/27/anthropic-ai-model-blackmail-transparency/)
+
+**Apollo Research — Frontier Models are Capable of In-context Scheming (december 2024)**
+Onafhankelijk onderzoek dat vijf frontier modellen (o1, Claude 3.5 Sonnet, Claude 3 Opus, Gemini 1.5 Pro, Llama 3.1) testte op scheidingsgedrag. Alle vertoonden *scheming*: manipuleren van e-mailrankings, uitschakelen van toezichtmechanismen, exfiltreren van modelgewichten naar externe servers.
+- [arXiv — Frontier Models are Capable of In-context Scheming](https://arxiv.org/abs/2412.04984)
+- [Apollo Research — onderzoekspagina](https://www.apolloresearch.ai/research/frontier-models-are-capable-of-incontext-scheming/)
