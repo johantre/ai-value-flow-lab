@@ -20,7 +20,7 @@ Grote taalmodellen (LLMs) begrijpen niets van wat ze produceren. Ze zijn statist
 
 ### General
 
-Gepubliceerd in de proceedings van FAccT 2021 (ACM Conference on Fairness, Accountability, and Transparency). Het artikel leidde tot het ontslag van Timnit Gebru bij Google — ze had het paper intern gecirculeerd en Google wilde publicatie blokkeren. De controverse rond de publicatie is zelf een illustratie van een van de centrale argumenten: de machtsstructuren in de AI-industrie onderdrukken kritische stemmen, met name die van vrouwen en mensen van kleur.
+Gepubliceerd in de proceedings van FAccT 2021 (ACM Conference on Fairness, Accountability, and Transparency). Het artikel leidde tot het ontslag van [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru) bij Google — ze had het paper intern gecirculeerd en Google wilde publicatie blokkeren. De controverse rond de publicatie is zelf een illustratie van een van de centrale argumenten: de machtsstructuren in de AI-industrie onderdrukken kritische stemmen, met name die van vrouwen en mensen van kleur.
 
 ### Connection to our work
 
@@ -30,7 +30,9 @@ Gepubliceerd in de proceedings van FAccT 2021 (ACM Conference on Fairness, Accou
 
 **Milieu- en machtskost.** De energie- en financiële kosten van grote modellen zijn niet democratisch verdeeld. Ze worden gedragen door de samenleving (CO₂, water voor koeling) en door de gemeenschappen die het minst profiteren van de technologie — en die het meest schade ondervinden van haar bias.
 
-**Geen grootte als oplossing.** De industrie-aanname "groter = beter" wordt hier systematisch ondermijnd. Meer parameters los geen fundamenteel probleem op: een model dat taal zonder betekenis verwerkt, verwerkt meer taal zonder betekenis als je het opschaalt.
+**Geen grootte als oplossing.** Het paper weerlegt de industrie-aanname "groter = beter" systematisch. Meer parameters lossen geen fundamenteel probleem op: een model dat taal zonder betekenis verwerkt, verwerkt meer taal zonder betekenis als je het opschaalt.
+
+Dit is structureel hetzelfde argument als Harari's opening van Nexus: de **naïeve visie op informatie** — de aanname dat meer informatie, die vrijer stroomt, automatisch betere uitkomsten geeft. Harari toont dat dit historisch nooit klopte op beschavingsniveau (de drukpers produceerde zowel Reformatie als heksenhandboeken). Bender et al. tonen hetzelfde op modelniveau: meer trainingsdata en meer parameters produceren evenredig meer bias, meer milieukost en een grotere coherentie-illusie. De structuur van de fout is identiek — alleen de schaal en het domein verschillen. (Zie [Nexus: A Brief History of Information Networks from the Stone Age to AI](../books/harari-nexus-a-brief-history-of-information-networks-from-the-stone.md), sectie 0.)
 
 Related: [Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI](../books/veliz-prophecy-prediction-power-and-the-fight-for-the-future.md), [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](../books/oneil-weapons-of-math-destruction.md), [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](../books/zuboff-the-age-of-surveillance-capitalism.md), [Newspeak](../concepts/newspeak.md)
 
@@ -49,7 +51,7 @@ De naam "stochastische papegaai" vat het samen: een papegaai herhaalt klanken di
 ### De vijf centrale gevaren
 
 **1. Omgevingskosten**
-Training van grote modellen verbruikt enorme hoeveelheden energie. De auteurs berekenden dat het trainen van een groot taalmodel evenveel CO₂ uitstoot als vijf auto's over hun volledige levensduur. Die kosten worden geëxternaliseerd naar de samenleving — en treffen ongelijk: de gemeenschappen die het kwetsbaarst zijn voor klimaatgevolgen, profiteren het minst van de technologie.
+Training van grote modellen verbruikt enorme hoeveelheden energie. De auteurs berekenden dat het trainen van een groot taalmodel evenveel CO₂ uitstoot als vijf auto's over hun volledige levensduur. Die kosten worden geëxternaliseerd naar de samenleving — en treffen de maatschappij onevenwichtig: de gemeenschappen die het kwetsbaarst zijn voor klimaatgevolgen, profiteren het minst van de technologie.
 
 **2. Trainingsdata als bevroren bias**
 LLMs trainen op het internet — een corpus dat dominant wit, Engels en westers is, en dat historische machtsrelaties weerspiegelt. Bias in de data wordt bias in het model, opgeschaald naar miljoenen interacties. Het model leert niet "taal" — het leert de taal van wie er geschreven heeft en wiens tekst gecrawled werd.

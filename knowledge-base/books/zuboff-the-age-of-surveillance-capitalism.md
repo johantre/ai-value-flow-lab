@@ -10,7 +10,7 @@ source: reference
 
 ## Core idea
 
-Menselijke ervaring is de grondstof van een nieuwe economische logica. Gedragsdata — gewonnen uit wat we doen, zeggen, zoeken en voelen — wordt omgezet in voorspellingsproducten die verkocht worden op gedragsfuturesmarkten. Het einddoel is niet kennis van gedrag, maar de modificatie ervan.
+Menselijke ervaring is de grondstof van een nieuwe economische logica. Gedragsdata — gewonnen uit wat we doen, zeggen, zoeken en voelen — wordt omgezet in voorspellingsproducten die verkocht worden op gedragsfuturesmarkten. **Het einddoel is niet kennis van gedrag, maar de modificatie ervan**.
 
 ## Key concepts
 

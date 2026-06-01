@@ -56,7 +56,7 @@ O'Neil's diagnostische criteria — elk algoritme dat aan de drie voldoet is een
 New York City implementeerde in 2009 een model om "slechte leraren" te identificeren op basis van leerlingprestaties. Leraren kregen scores, de laagste werden ontslagen. Probleem: de scores fluctueerden willekeurig van jaar tot jaar voor dezelfde leraren — een statistische eigenschap van het model, niet van de leraren. Leraren verloren hun baan op basis van ruis.
 
 **Kredietmodellen**
-Een student uit een arme buurt krijgt een hoge risicoklasse toegewezen op basis van postcode. Lening geweigerd → geen opleiding → blijft in armoede → bevestigt de risicoscore. De spiraal is gesloten. Het model heeft geen ongelijk — maar het model *creëerde* gelijk.
+Een student uit een arme buurt krijgt een hoge risicoklasse toegewezen op basis van postcode. Lening geweigerd → geen opleiding → blijft in armoede → bevestigt de risicoscore. De spiraal is gesloten. Het model heeft geen ongelijk — maar het model creëerde zijn eigen gelijk.
 
 **Recidive-algoritmen (justitie)**
 COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) voorspelt recidiverisico voor rechtbanken. ProPublica-onderzoek (2016) toonde aan dat het systeem zwarte verdachten significant vaker als hoog-risico classificeerde dan blanke verdachten met vergelijkbare achtergrond.
@@ -75,7 +75,7 @@ Een model is geen objectieve meting van de werkelijkheid. Het is een gecodeerde 
 
 ### Verbinding met Galinsky en Véliz
 
-Galinsky toont dat mensen met macht automatisch minder rekening houden met het perspectief van anderen. O'Neil toont dat algoritmen gebouwd door mensen met macht datzelfde perspectief institutionaliseren — op schaal, consistent, zonder gezicht. Véliz voegt toe: de taal van objectiviteit (het model zegt) maakt dat onzichtbaar.
+Galinsky toont dat mensen met macht automatisch minder rekening houden met het perspectief van anderen. O'Neil toont dat algoritmen gebouwd door mensen met macht datzelfde perspectief institutionaliseren — op schaal, consistent, zonder gezicht. Véliz voegt toe: de taal van objectiviteit ("het model zegt dat") maakt dat onzichtbaar.
 
 ---
 

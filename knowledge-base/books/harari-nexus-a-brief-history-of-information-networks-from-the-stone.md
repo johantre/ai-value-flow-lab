@@ -40,6 +40,18 @@ Related: [Sapiens: A Brief History of Humankind](harari-sapiens-a-brief-history-
 
 ## Samenvatting
 
+### 0. De naïeve visie op informatie — opening van het boek
+
+Harari opent Nexus met een kritiek op wat hij de **naïeve visie op informatie** noemt: de aanname dat meer informatie, die vrijer stroomt, automatisch leidt tot betere beslissingen en een betere samenleving. Deze visie zit diepgeworteld in het Westerse denken — ze onderbouwt de vrije meningsuiting als democratisch ideaal, het techno-optimisme dat internet de wereld verbetert, en het vertrouwen dat AI ons slimmer en beter geïnformeerd maakt.
+
+Harari's weerlegging: informatie is nooit neutraal geweest en meer ervan heeft nooit automatisch betere uitkomsten opgeleverd. Elk informatienetwerk door de geschiedenis heeft zowel waarheid als propaganda, zowel samenwerking als controle mogelijk gemaakt — tegelijk, onlosmakelijk. De drukpers gaf Luther zijn Reformatie én de Inquisitie zijn heksenhandboeken. Internet gaf burgers hun Arabische Lente én regimes hun surveillanceinfrastructuur. Meer informatie maakt de wereld niet beter — het maakt haar *intenser*. Wat er mee gedaan wordt, hangt af van wie het netwerk controleert en waarvoor.
+
+> De naïeve visie ziet informatie als inherent goed en bevrijdend. De historische realiteit is dat informatienetwerken macht versterken — van wie die macht al heeft.
+
+Deze opening is de fundering van het hele boek: niet technologie-pessimisme, maar een afwijzing van technologie-naïviteit.
+
+---
+
 ### Centrale stelling
 
 Elke grote verschuiving in de menselijke beschaving werd mogelijk gemaakt door een nieuw **informatienetwerk** — taal, schrift, drukpers, internet. AI is het volgende, maar met een fundamenteel verschil: alle vorige netwerken waren media *tussen* mensen. AI is een **actieve actor in het netwerk** — het creëert, beslist en beïnvloedt zonder menselijk begrip van wat het doet. Dat maakt het een beschavingsvraagstuk, niet alleen een technologievraagstuk.
