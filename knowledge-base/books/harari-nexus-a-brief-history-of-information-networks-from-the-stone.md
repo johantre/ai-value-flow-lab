@@ -189,3 +189,27 @@ De vergelijking die hij maakt: democratie en wetenschap zijn ook informatienetwe
 > AI is het eerste netwerk dat de handen zelf kan vervangen — en de waarden die die handen stuurden.
 
 De vraag is niet of AI powerful is. De vraag is of de beschaving snel genoeg foutcorrectiesystemen kan bouwen om de schaal bij te houden waarop AI fouten kan maken.
+
+---
+
+## Kritiek op Harari — Nexus
+
+### 1. Zwart-wit framing: dystopisch China vs. utopisch Westen
+Critici signaleren dat Nexus de wereld te simplistisch in twee kampen verdeelt. De complexiteit van hoe democratische landen zelf AI inzetten voor surveillance, hoe autoritaire regimes ook positieve toepassingen kennen, en hoe het Westen zijn eigen AI-governance tekortkomingen heeft — dat alles valt weg in Harari's geopolitieke schema.
+
+*Sector: geopolitieke analisten en technologiejournalisten.* Zie [Reason Magazine — kritische review](https://reason.com/2024/09/10/from-the-roman-past-to-the-ai-future-the-fantastical-scenarios-of-yuval-noah-harari/).
+
+### 2. Technisch begrip schiet tekort
+Reviewers met technische achtergrond stellen dat Harari fundamentele AI-concepten oppervlakkig behandelt en dat zijn historische analogieën (drukpers, internet) de werkelijke mechanismen van moderne AI verhullen in plaats van verhelderen.
+
+*Sector: AI-onderzoekers en technologen.* Zie [I'd Rather Be Writing — uitgebreide technische review](https://idratherbewriting.com/blog/review-harari-nexus-scms-and-alien-intelligence).
+
+### 3. Foutcorrectie bestaat al — Harari mist het
+Een specifieke kritiek: software-ontwikkeling heeft foutcorrectiesystemen al ingebouwd via agile methodologie, continuous integration en gebruikersfeedbackcycli. Harari's eis voor foutcorrectie als revolutionaire nieuwe vereiste negeert bestaande praktijken in de industrie.
+
+*Sector: software engineers en technologiepractitioners.* Zie [I'd Rather Be Writing — review](https://idratherbewriting.com/blog/review-harari-nexus-scms-and-alien-intelligence).
+
+### 4. Dezelfde methodologische zwakheden als Sapiens
+De brede scope, de prikkelende maar onderbouwde stellingen, de populaire stijl ten koste van nuance — critici van Sapiens vinden die patronen terug in Nexus. Het boek is toegankelijk en stimulerend, maar wetenschappelijk minder rigoureus dan de stellingen suggereren.
+
+*Sector: academici en wetenschapsjournalisten.* Zie [Jerusalem Post — review](https://www.jpost.com/opinion/article-832890) en [Medium — boekbespreking](https://medium.com/@karthikgovil/book-review-nexus-yuval-noah-harari-2024-53638aa3b8c6).

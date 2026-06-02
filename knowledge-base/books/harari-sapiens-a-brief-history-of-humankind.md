@@ -149,3 +149,27 @@ Dit betekent:
 - Organisatieverandering is in essentie een **narratieve operatie** — het oude verhaal vervangen door een geloofwaardig nieuw verhaal
 - "Mensen verzetten zich tegen verandering" is onjuist — mensen verzetten zich tegen verhalen die hun identiteit bedreigen
 - AI-first transformatie slaagt alleen als het nieuwe verhaal geloofwaardig is **voordat** het volledig waar is
+
+---
+
+## Kritiek op Harari — Sapiens
+
+### 1. Populaire wetenschap met weinig fact-checking
+De meest fundamentele academische kritiek: Sapiens is zo breed van scope dat geen enkel vakspecialisme het volledig kan controleren. Harari's eigen Oxford-promotor erkende dat hij de fact-checking grotendeels ontliep via de schaal van zijn vragen. Neurowetenschapper Darshana Narayanan onderzocht het boek systematisch en vond fouten van triviaal tot serieus.
+
+*Sector: wetenschapsjournalisten en academici uit aangrenzende disciplines.* Zie [Current Affairs — The Dangerous Populist Science of Yuval Noah Harari](https://www.currentaffairs.org/news/2022/07/the-dangerous-populist-science-of-yuval-noah-harari) en [Why Evolution Is True — kritiek op Harari](https://whyevolutionistrue.com/2022/10/26/a-critique-of-yuval-hararis-popular-science-writing/).
+
+### 2. De breedte als bescherming tegen expertise
+De enorme scope van het boek — van cognitieve revolutie tot de toekomst van de mensheid — maakt gerichte weerlegging structureel moeilijk. Specialisten in één domein kunnen hun deel bekritiseren, maar het geheel onttrekt zich aan vakinhoudelijke toetsing. Critici noemen dit een retorische strategie, bewust of niet.
+
+*Sector: academici uit geschiedenis, anthropologie en biologie.* Zie [Philosophy Now — review](https://philosophynow.org/issues/154/Sapiens_by_Yuval_Noah_Harari).
+
+### 3. Normatieve claims onder de vlag van relativisme
+Harari verdedigt ethisch relativisme — moraal als sociale constructie zonder objectieve grondslag — maar maakt tegelijk normatieve uitspraken over wat goed of slecht is voor de mensheid. Critici vinden dit een fundamentele inconsistentie die hij niet erkent.
+
+*Sector: filosofen en ethici.* Zie [bethinking.org — filosofische kritiek](https://www.bethinking.org/human-life/sapiens-review).
+
+### 4. Reductionisme en speculatie als methode
+Harari's stelling dat tarwe de mensen domesticeerde in plaats van omgekeerd is exemplarisch voor een bredere methodologische keuze: prikkelende omkeringen van de gangbare logica, zonder voldoende empirische onderbouwing. Historici en anthropologen vinden dit entertainend maar wetenschappelijk onverantwoord.
+
+*Sector: historici en anthropologen.* Zie [Wikipedia — receptie van Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind).

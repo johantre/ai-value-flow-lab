@@ -184,3 +184,32 @@ The empirical foundation for the narrative reframe in [Toward AI-Native: A Credi
 **The design implication**: AI-first org design should start from the question "what context enables the cooperation and learning people already want to do?" — not "how do we ensure compliance and productivity?"
 
 Related: [Cooperation as Default](../concepts/cooperation-as-default.md), [Drive: The Surprising Truth About What Motivates Us](pink-drive-the-surprising-truth-about-what-motivates-us.md), [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](rock-your-brain-at-work-strategies-for-overcoming-distraction-reg.md)
+
+---
+
+## Kritiek op Bregman
+
+### 1. Cherry-picking van bewijsmateriaal
+De meest gehoorde methodologische kritiek: Bregman selecteert cases die zijn optimistische these ondersteunen en laat tegenbewijs weg. Simon Burgers (docent onderzoeksvaardigheden en kritisch denken) spreekt van cirkelredenering — Bregman zoekt bewijzen voor wat hij al gelooft. Het Tongaanse eiland-verhaal is reëel; maar één bevestigend geval weerlegt Lord of the Flies niet als algemene these over menselijk gedrag.
+
+*Sector: methodologen en wetenschapsjournalisten.* Zie [Traditions of Conflict — uitgebreide kritiek](https://traditionsofconflict.com/blog/2020/12/13/book-review-humankind-by-rutger-bregman).
+
+### 2. Anthropologische tegenstrijdigheden
+Bregman beschrijft jager-verzamelaarsamenlevingen als relatief gelijkwaardig en vredig. Anthropologen wijzen op het tegendeel: gedwongen huwelijken, vrouwenmishandeling en inter-groepsgeweld waren wijdverspreid in precies die samenlevingen die Bregman aanhaalt als bewijs voor zijn these.
+
+*Sector: anthropologen en evolutionair psychologen.* Zie [The Philosopher — David Livingstone Smith](https://www.thephilosopher1923.org/post/are-we-decent-deep-down) en [Arc Digital — Bregman is Largely Wrong](https://medium.com/arc-digital/rutger-bregman-is-largely-wrong-about-human-nature-b7967cf16976).
+
+### 3. De verklaring voor het kwaad is te gemakkelijk
+Bregman gaat wél uitgebreid in op de Holocaust — hij gebruikt Milgram, Hannah Arendt en Eichmann juist als kern van zijn betoog. Zijn these: Eichmann handelde niet uit inherente slechtheid maar uit geloof in een zaak, en de Milgram-experimenten tonen hoe context en autoriteit gedrag sturen. De kritiek is niet dat hij het kwaad negeert, maar dat zijn verklaring te convenient is: hij interpreteert elk geval van gruwel op een manier die zijn these bevestigt. Critici vinden zijn lezing van Eichmann's motieven te welwillend en te netjes — een verklaring die het kwaad domesticeert om het in zijn optimistisch kader te laten passen.
+
+*Sector: historici, filosofen en politieke wetenschappers.* Zie [The Philosopher — David Livingstone Smith](https://www.thephilosopher1923.org/post/are-we-decent-deep-down) en [LSE Review of Books](https://blogs.lse.ac.uk/lsereviewofbooks/2021/02/11/book-review-humankind-a-hopeful-history-by-rutger-bregman/).
+
+### 4. Natuur-nurture dualisme als problematische basis
+Bregman stelt mensen als inherent goed tegenover systemen als inherent corrumperend. Critici vinden dit een te simplistisch natuur-nurture-kader: mensen zijn noch inherent goed noch inherent slecht — ze zijn contextgevoelig. Zijn these vervangt één essentialisme door een ander.
+
+*Sector: gedragswetenschappers en evolutionair biologen.* Zie [Davood Gozli — review](https://dgozli.com/review-of-humankind-a-hopeful-history-by-rutger-bregman/).
+
+### 5. Gender-blindheid
+Bregman's beschrijving van "de menselijke natuur" is grotendeels gebaseerd op mannelijke ervaringen en mannelijke historische subjecten. De ervaringen van vrouwen — consistent anders door de geschiedenis — worden grotendeels genegeerd, wat zijn claim op een universele these over mensheid ondergraaft.
+
+*Sector: genderstudies en feministische historici.* Zie [LSE Review of Books](https://blogs.lse.ac.uk/lsereviewofbooks/2021/02/11/book-review-humankind-a-hopeful-history-by-rutger-bregman/).
