@@ -79,6 +79,30 @@ Galinsky toont dat mensen met macht automatisch minder rekening houden met het p
 
 ---
 
+## Kritiek op O'Neil
+
+### 1. Oversimplificatie van de systemen die ze beschrijft
+De meest gehoorde academische kritiek: O'Neil vereenvoudigt de werking van de algoritmen die ze bekritiseert. Reviewers — waaronder wiskundigen die de systemen kennen van binnenuit — wijzen erop dat zelfs mensen die de nadelen persoonlijk ondervonden hebben, de positieve aspecten van sommige systemen erkennen.
+
+*Sector: academische wiskundigen en statistici.* Zie [Not Even Wrong — Peter Woit (Columbia)](https://www.math.columbia.edu/~woit/wordpress/?p=8732).
+
+### 2. Inconsequente toepassing van haar eigen criteria
+O'Neil's drie WMD-criteria (opacity, scale, damage) worden niet consistent toegepast. Critici stellen dat ze het WMD-label toekent aan systemen die haar politieke intuïties schenden, ook wanneer die systemen niet aan haar eigen definitie voldoen — en omgekeerd soms slechte algoritmen spaart die wel aan de criteria voldoen.
+
+*Sector: academische reviewers en wiskundigen.* Zie [Tandfonline — academische recensie](https://www.tandfonline.com/doi/full/10.1080/23299460.2018.1495027).
+
+### 3. De oplossingen zijn zwakker dan de diagnose
+Meerdere recensenten — ook lovende — signaleren dat de sectie met aanbevelingen niet evenredig is aan de rijkdom van de probleemanalyse. O'Neil beschrijft wat er fout gaat met grote precisie, maar haar remedies blijven relatief vaag.
+
+*Sector: brede pers en academische recensenten.* Zie [Scientific American — recensie](https://www.scientificamerican.com/blog/roots-of-unity/review-weapons-of-math-destruction/).
+
+### 4. Beperkte originaliteit van de probleemstelling
+Het kernprobleem — slechte algoritmen die zich ongecontroleerd verspreiden — is niet nieuw. Critici vinden dat het boek weinig toevoegt aan wat al bekend was in data-ethiekkringen, en dat de toegevoegde waarde zit in de toegankelijke presentatie, niet in de analytische diepte.
+
+*Sector: technologiejournalisten en academici.* Zie [Wikipedia — receptiesectie](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction).
+
+---
+
 ## Bronnen
 
 - [Wikipedia — Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)

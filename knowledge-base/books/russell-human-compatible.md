@@ -82,6 +82,30 @@ Russell besteedt ook aandacht aan kortetermijn-AI-risico's: algoritmische bias, 
 
 ---
 
+## Kritiek op Russell
+
+### 1. Het leren van menselijke voorkeuren is zelf een alignmentprobleem
+Russell's oplossing vereist dat AI menselijke voorkeuren leert uit observatie. Maar critici stellen: die preferentie-inferentie is op zichzelf een moeilijk en potentieel gevaarlijk probleem. Een AI die voorkeuren verkeerd inleert, optimaliseert even hard als een AI met een verkeerd gespecifieerde doelstelling — alleen is de fout nu verborgen achter de schijn van mensgericht leren.
+
+*Sector: AI-veiligheidsgemeenschap.* Zie [LessWrong — kritische bespreking](https://www.lesswrong.com/posts/JjGh46oPtTe5xntHH/can-we-align-ai-by-having-it-learn-human-preferences-i-m) en [Alignment Forum](https://www.alignmentforum.org/posts/FuGDYNvA6qh4qyFah/thoughts-on-human-compatible).
+
+### 2. Techno-solutionisme — intelligentie als ingenieursprobleem
+Russell wordt verweten dat hij intelligentie behandelt als een technisch probleem dat oplosbaar is via beter ontwerp, terwijl het fundamenteel een menselijk en filosofisch vraagstuk is dat continue kritische reflectie vereist — geen eenmalige architectuurkeuze.
+
+*Sector: filosofen en sciencestudies.* Zie [Silicon Reckoner — kritische review](https://siliconreckoner.substack.com/p/review-of-human-compatible-by-stuart).
+
+### 3. Zijn oplossing optimaliseert nog steeds iets
+Russell bekritiseert AI die een vaste doelstelling maximaliseert. Maar zijn eigen assistance game optimaliseert ook — namelijk het leren en vervullen van menselijke voorkeuren. Critici stellen dat hij het optimalisatieprobleem niet oplost maar één niveau verschuift, zonder te bewijzen dat dit niveau veiliger is.
+
+*Sector: AI-onderzoekers en veiligheidsexperts.* Zie [EA Forum — boekbespreking](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible).
+
+### 4. Het onmeetbare van menselijk leven
+AI kan niet omgaan met het kwalitatieve, niet-meetbare en idiosyncratische van menselijke ervaring. Critici vrezen dat Russell's benadering subtiel dezelfde reductie bevat als het systeem dat hij bekritiseert: alleen wat observeerbaar en leerbaar is, telt.
+
+*Sector: filosofen en humanistisch georiënteerde critici.* Zie [NOEMA — essay](https://www.noemamag.com/human-compatible-ai/).
+
+---
+
 ## Bronnen
 
 - [EA Forum — boeksamenvatting](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible)

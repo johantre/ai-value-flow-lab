@@ -99,6 +99,30 @@ Mollick is enthousiast over AI maar niet naïef. Hij beschrijft de coherentie-il
 
 ---
 
+## Kritiek op Mollick
+
+### 1. Onvoldoende behandeling van ethische en structurele risico's
+Het boek gaat te licht over intellectuele eigendomsvragen, energieverbruik van LLMs en de manier waarop AI bestaande ongelijkheden versterkt. Mollick schrijft voor een professioneel publiek dat AI wil inzetten — maar spaart de systemische kritiek die Véliz, O'Neil en Stochastic Parrots uitgebreid onderbouwen.
+
+*Sector: academische reviewers en onderzoekers.* Zie [ResearchGate — kritische academische review](https://www.researchgate.net/publication/403169841_Co-Intelligence_and_the_Reconfiguration_of_Human_Work_and_Learning_A_Critical_Review_of_Ethan_Mollick's_Living_and_Working_with_AI).
+
+### 2. Te idealistisch — evangelisch van toon
+Recensenten signaleren dat Mollick soms zijn eigen regels vergeet: hij benadrukt dat AI fouten maakt en dat de mens in de loop moet blijven, maar schrijft over bepaalde toepassingen met een enthousiasme dat die nuance doet verdwijnen. Het boek riskeert AI-gebruik te stimuleren zonder voldoende kritisch kader voor wie er onervaren mee is.
+
+*Sector: educators en kritische lezers.* Zie [Substack — kritische bespreking](https://assaph.substack.com/p/book-review-co-intelligence-by-ethan).
+
+### 3. Existentiële risico's te snel terzijde geschoven
+Mollick verklaart expliciet dat hij existentiële AI-risico's buiten beschouwing laat omdat ze onzeker zijn en "disempowering". Critici — met name in de EA-gemeenschap — vinden dit geen overtuigend argument: onzekerheid is juist een reden voor voorzichtigheid, niet voor stilzwijgen.
+
+*Sector: Effectief Altruïsme- en AI-veiligheidsgemeenschap.* Zie [EA Forum — mini-review](https://forum.effectivealtruism.org/posts/huyhcgBqhohin3toh/book-review-mini-co-intelligence-by-ethan-mollick).
+
+### 4. Breed gebruik zonder begrip als systeemrisico
+Het boek moedigt brede AI-adoptie aan, maar critici wijzen op het gevaar: als mensen AI gebruiken zonder te begrijpen hoe het werkt en waar het fout gaat, wordt het boek zelf onderdeel van het probleem dat Stochastic Parrots beschrijft — de coherentie-illusie op organisatieschaal.
+
+*Sector: onderwijs- en organisatieonderzoekers.* Zie [Integrative and Comparative Biology — review](https://integrativeandcomparativebiology.wordpress.com/2025/12/16/co-intelligence-living-and-working-with-ai-by-ethan-mollick-review-by-sophia-hermosillo-ramirez/).
+
+---
+
 ## Bronnen
 
 - [Amazon — boekpagina](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)

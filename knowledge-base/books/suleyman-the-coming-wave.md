@@ -91,6 +91,30 @@ Harari beschrijft foutcorrectie als de onderscheidende factor tussen constructie
 
 ---
 
+## Kritiek op Suleyman
+
+### 1. Technologisch determinisme — de golf als onvermijdelijk
+Historici van technologie bekritiseren de "golf"-metafoor als fundamenteel deterministisch: het impliceert dat technologie zich ontwikkelt in één richting, ongeacht wat de samenleving doet. De werkelijkheid is dat technologische trajecten gevormd worden door beleid, cultuur en economische prikkels — niet alleen door interne technologische logica.
+
+*Sector: wetenschaps- en technologiehistorici, academische reviewers.* Zie [Issues in Science and Technology — recensie](https://issues.org/coming-wave-suleyman-bhaskar-review-mitcham-fuchs/).
+
+### 2. Interne tegenstrijdigheid over klimaat
+Suleyman is optimistisch dat AI de klimaatcrisis kan helpen oplossen — maar pessimistisch dat AI beheersbaar is via governance. Critici wijzen op de inconsistentie: als AI machtig genoeg is om klimaatproblemen op te lossen, waarom kan diezelfde capaciteit dan niet ingezet worden om het containment-probleem zelf te adresseren?
+
+*Sector: beleidsanalisten en technologiejournalisten.* Zie [Medium — boekbespreking](https://medium.com/pagestopractice/review-of-the-coming-wave-4260cfa79268).
+
+### 3. Beleidsvoorstellen missen uitvoerbaarheid
+Suleyman's tien containment-lagen zijn conceptueel aantrekkelijk maar politiek en praktisch nauwelijks uitgewerkt. Kirkus Reviews noemt ze "the most provocative and problematic aspect" — grootschalige internationale verdragen over AI vereisen geopolitieke samenwerking die momenteel niet bestaat.
+
+*Sector: professionele boekrecensenten en beleidsanalisten.* Zie [Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/mustafa-suleyman/the-coming-wave-technology/).
+
+### 4. Onderschatting van de milieukost van AI zelf
+Suleyman schrijft over de gevaren van AI maar onderschat de directe milieu-impact van de technologie die hij beschrijft: energieverbruik, waterkoeling, CO₂-uitstoot van training. Critici vinden dit een blinde vlek bij iemand die mee de infrastructuur heeft gebouwd.
+
+*Sector: milieu- en technologieonderzoekers.* Zie [Goodreads — lezersrecensies](https://www.goodreads.com/book/show/90590134-the-coming-wave).
+
+---
+
 ## Bronnen
 
 - [Officiële boeksite](https://the-coming-wave.com/)
