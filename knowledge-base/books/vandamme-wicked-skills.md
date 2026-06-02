@@ -63,6 +63,8 @@ De wicked skills zijn de competenties die je nodig hebt voor de rechterkolom —
 
 ### De vier delen en tien skills
 
+<img src="vandamme-wicked-skills/wicked-skills-1536x1036.png" alt="Wicked Skills — overzicht tien skills" width="500"/>
+
 **Deel 1 — Persoonlijke ontwikkeling**
 
 **1. Levenslang leren en ontwikkelen (Bildung)**
@@ -92,7 +94,7 @@ Verschillen binnen groepen en teams valoriseren terwijl je gezamenlijke doelen n
 Kunnen bewegen tussen niveaus van complexiteit — van individueel naar team naar organisatie naar systeem. *Inzien waar je zit in het grotere geheel en bewust schakelen*.
 
 **7. Wicked problems systematisch en adaptief aanpakken**
-Complexe vraagstukken benaderen met aandacht voor *emergentie en holarchie* — de eigenschap dat het geheel meer is dan de som van de delen, en dat elk deel zelf ook een geheel is. Holarchie is het structurele tegendeel van [reductionisme](https://en.wikipedia.org/wiki/Reductionism): waar reductionisme een systeem begrijpt door het op te splitsen in afzonderlijke delen, erkent holarchie dat het geheel niet herleidbaar is tot die delen. Dit is de kern van wat Snowden (Cynefin) en Appelo (Management 3.0) bedoelen wanneer ze waarschuwen dat reductionistisch denken in het complexe domein structureel faalt.
+Complexe vraagstukken benaderen met aandacht voor *emergentie en holarchie* — de eigenschap dat het geheel meer is dan de som van de delen, en dat elk deel zelf ook een geheel is. Holarchie is de tegenhanger van [reductionisme](https://en.wikipedia.org/wiki/Reductionism): waar reductionisme een heel systeem begrijpt door het begrijpen van de afzonderlijke delen, erkent holarchie dat het begrip van het geheel niet herleidbaar is tot het begrip van enkel die delen. Dit is de kern van wat [Snowden (Cynefin)](./snowden-cynefin.md) en [Appelo (Management 3.0)](./appelo-management-30-leading-agile-developers-developing-agile-lead.md) bedoelen wanneer ze waarschuwen dat reductionistisch denken in het complexe domein structureel faalt.
 
 **8. Bijdragen vanuit wijsheid bij transities**
 Paradoxen hanteren, moreel verantwoord handelen, en bijdragen vanuit een bredere wijsheid dan louter vakinhoud of methodiek.
@@ -115,7 +117,7 @@ Met inspiratie en zin van betekenis je professionele rol invullen. Bevlogenheid 
 Werk ontwerpen in lijn met persoonlijke waarden en talenten — niet wachten tot de organisatie dat voor je doet, maar actief de grenzen en invulling van je rol vormgeven.
 
 **Weerstand herkaderen**
-Weerstand is geen obstructie maar psychologische stabiliteit — het systeem beschermt wat het waardevol vindt. De professional die dit begrijpt, werkt mét de weerstand in plaats van ertegen.
+Weerstand is geen obstructie maar *psychologische stabiliteit* — het systeem beschermt wat het waardevol vindt. De professional die dit begrijpt, werkt mét de weerstand in plaats van ertegen.
 
 **Holarchie**
 Elk systeem is tegelijk een deel van een groter geheel én zelf een geheel met eigen dynamiek. Effectief werken in complexe organisaties vereist dat je op meerdere niveaus tegelijk kunt denken en handelen.
