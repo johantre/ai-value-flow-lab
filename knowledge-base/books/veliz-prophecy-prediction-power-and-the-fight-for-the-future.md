@@ -219,6 +219,30 @@ Meadows' volledige hiërarchie van interventiepunten (van laag naar hoog impact)
 
 ---
 
+## Kritiek op Véliz
+
+Véliz' werk is breed geaccepteerd in academische kringen — de weerstand komt voornamelijk van beleidsanalisten en industrie. Dat patroon is zelf betekenisvol: haar diagnose wordt zelden aangevochten, haar remedies wel.
+
+### 1. Te pessimistisch — cherry-picking van cases
+De meest voorkomende kritiek in recensies: Véliz selecteert cases die haar thesis ondersteunen en laat domeinen buiten beschouwing waar predictie aantoonbaar voordelen oplevert — vroegdetectie van kanker, epidemiologische modellering, verkeersveiligheid. Haar framework biedt weinig ruimte voor genuanceerd oordeel per domein of toepassing.
+
+*Sector van de kritiek: lezersrecensies en technologiejournalisten.* Zie [Goodreads-discussies](https://www.goodreads.com/book/show/51781479-privacy-is-power) en [Amazon-recensies](https://www.amazon.com/Privacy-Power-Should-Take-Control/dp/1787634043).
+
+### 2. De remedie is niet operationeel
+Haar conclusie in *Privacy is Power* — verbied de handel in persoonlijke data — wordt door beleidsanalisten beschouwd als te radicaal om bruikbaar te zijn als beleidsinstrument. Ze beschrijft het probleem scherper dan de oplossing. "Voorbereiding boven predictie" als conclusie van *Prophecy* klinkt aantrekkelijk maar blijft vaag: hoe bouw je voorbereiding zonder enige predictie?
+
+*Sector van de kritiek: beleidsanalisten en techpolicy-commentatoren.* Zie [TechPolicy.Press](https://www.techpolicy.press/carissa-veliz-privacy-is-power/) en [Public Books](https://www.publicbooks.org/carissa-veliz-on-privacy-and-ending-data-surveillance/).
+
+### 3. De self-fulfilling prophecy werkt ook omgekeerd
+Haar kernargument dat predictie self-fulfilling is, geldt ook voor positieve toepassingen. Een school die voorspelt dat een kind talent heeft en hem daarnaar begeleidt, bevestigt die voorspelling evenzeer. Critici vinden dat ze het mechanisme eenzijdig beschrijft — alleen in de negatieve richting.
+
+*Sector van de kritiek: academische recensenten.* Zie [International Data Privacy Law — Oxford Academic](https://academic.oup.com/idpl/article/12/3/255/6545822).
+
+### 4. Weinig georganiseerde academische tegenkritiek — en wat dat zegt
+Opvallend afwezig: een sterke academische weerlegging van haar kernthese. Véliz publiceert in peer-reviewed journals, is verbonden aan Oxford, en haar argumenten zijn technisch solide opgebouwd. De meeste weerstand komt van industrie en beleidsmakers — niet van andere onderzoekers. Dat suggereert dat haar diagnose breed geaccepteerd is binnen de academische wereld. Het debat gaat niet over *of* predictie een machtsinstrument is, maar over *hoe ver* de remedie mag gaan.
+
+---
+
 ## Bronnen
 
 *Samenvatting gebaseerd op externe bronnen — boek niet persoonlijk gelezen. Gepubliceerd april 2026.*
