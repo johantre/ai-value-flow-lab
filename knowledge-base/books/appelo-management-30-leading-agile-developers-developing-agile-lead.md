@@ -50,11 +50,30 @@ Management 1.0 behandelde mensen als machines. Management 2.0 erkende dat mensen
 
 ### Complexe Adaptieve Systemen
 
-Het theoretische fundament van het boek. Een complex adaptief systeem:
-- Bestaat uit vele actoren die onderling interageren
-- Produceert **emergent gedrag** — het geheel is niet voorspelbaar vanuit de delen
-- Reageert op interventies op niet-lineaire manieren
-- Kan niet volledig gecontroleerd worden — alleen beïnvloed
+Het theoretische fundament van het boek. Een CAS heeft de volgende eigenschappen:
+
+| Eigenschap | Betekenis |
+|---|---|
+| **Samengesteld** | Bestaat uit vele actoren (mensen, teams) die onderling interageren |
+| **Emergentie** | Produceert gedrag en eigenschappen die niet terug te voeren zijn op de afzonderlijke delen |
+| **Zelforganisatie** | Organiseren zich spontaan zonder externe controle — als de condities kloppen |
+| **Adaptief** | Past zich voortdurend aan aan veranderingen in de omgeving |
+| **Feedback loops** | Bevat versterkende én stabiliserende terugkoppellussen die complex gedrag creëren |
+| **Niet-lineair** | Kleine interventies kunnen grote effecten hebben; grote interventies soms helemaal niets |
+| **Edge of chaos** | Functioneert het best in de zone tussen volledige orde en chaos — niet te strak geregeld, niet te los |
+| **Oncontroleerbaar** | Kan niet volledig gestuurd worden — alleen beïnvloed door omgeving en condities te ontwerpen |
+
+**De drie aspecten van een emergente eigenschap:**
+
+Emergentie is niet vanzelfsprekend — het heeft drie kenmerken die samen maken waarom een complex systeem fundamenteel anders is dan een gecompliceerd systeem:
+
+| Aspect | Betekenis | Implicatie |
+|---|---|---|
+| **Nieuw** | De emergente eigenschap bestaat niet op het niveau van de afzonderlijke delen — ze is fundamenteel nieuw | Je kunt ze niet vinden door de delen te bestuderen |
+| **Onherleidbaar** | Ze kan niet verklaard worden door de delen apart te analyseren | Reductionisme faalt structureel |
+| **Onvoorspelbaar** | Ze kon niet voorspeld worden vanuit de eigenschappen van de delen vóór ze ontstond | Planning en controle werken niet — probes en experimenten wel |
+
+Dit is waarom Appelo, volgend op Snowden's Cynefin-framework, stelt dat emergente systemen een fundamenteel andere aanpak vereisen: je kan ze niet analyseren om ze te begrijpen — je moet ze verstoren en observeren wat er verschijnt.
 
 Klassiek management is ontworpen voor **gecompliceerde** systemen (voorspelbaar, analyseerbaar). Dit toepassen op **complexe** systemen leidt structureel tot mislukking — niet door slechte uitvoering, maar door verkeerde aannames, nl dat systemen eenvoudiger (Complicated - Simple/Order/Clear) zijn dan ze in werkelijkheid zijn.
 
