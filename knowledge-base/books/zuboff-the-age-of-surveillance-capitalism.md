@@ -82,6 +82,37 @@ Véliz beschrijft predictie als machtsinstrument in specifieke domeinen (leninge
 
 ---
 
+## Kritiek op Zuboff
+
+De academische kritiek op Zuboff is substantiëler dan die op Véliz — haar boek is groter van schaal en theoretischer van opzet, wat meer aanknopingspunten biedt voor weerlegging.
+
+### 1. Verborgen technologisch determinisme
+Zuboff verzet zich expliciet tegen technologisch determinisme — de gedachte dat technologie zelf de richting bepaalt. Maar critici stellen dat haar eigen framework precies dat impliceert: surveillance capitalism wordt beschreven als een systeem dat zich onvermijdelijk uitbreidt, mensen omsingelt en hun gedrag stuurt. De technologie "regeert" feitelijk, ongeacht haar claim het tegendeel.
+
+*Sector: mediatheoretici en sociologisch-theoretische academici.* Zie [Countering Surveillance Capitalism — Springer](https://link.springer.com/chapter/10.1007/978-3-031-11756-5_16) en [Wikipedia — kritiekensectie](https://en.wikipedia.org/wiki/Surveillance_capitalism).
+
+### 2. De staat ontbreekt in haar economisch model
+Een prominent academisch bezwaar: Zuboff analyseert surveillance capitalism als een marktfenomeen, maar de staat speelt een dubbele rol die ze onderschat — als mede-surveillanceactor (geheime diensten, datadeling met overheden) én als potentiële tegenspeler via regulering. Een economisch-sociologisch model zonder de staat is structureel onvolledig.
+
+*Sector: rechtswetenschappers en politiek economen.* Zie [LSE Review of Books](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/04/book-review-the-age-of-surveillance-capitalism-the-fight-for-the-future-at-the-new-frontier-of-power-by-shoshana-zuboff/).
+
+### 3. De beschreven toestand is nog niet volledig werkelijkheid
+Zuboff beschrijft surveillance capitalism als een voltooid systeem — een totaliserend regime van gedragsmodificatie. Critici stellen dat ze tendensen beschrijft als feiten en capaciteiten als gerealiseerde controle. We zitten in de richting van wat ze beschrijft, maar de graad van totaliteit is overschat.
+
+*Sector: empirisch georiënteerde communicatie- en technologiewetenschappers.* Zie [Antipode — academische review](https://antipodeonline.org/wp-content/uploads/2019/10/Book-review_Whitehead-on-Zuboff.pdf).
+
+### 4. Interne tegenstrijdigheden in haar theoretisch kader
+Zuboff verwerpt marxistische analyses omdat ze economisch deterministisch zijn — maar haar eigen theorie vertoont dezelfde determinististische structuur. Ze vergelijkt surveillance capitalism met totalitarisme en behaviorisme, maar stelt tegelijkertijd dat het fenomeen ongekend en onvergelijkbaar is. Critici vinden dat ze niet beide posities kan innemen.
+
+*Sector: filosofen en sociaaltheoretici.* Zie [Journal of Social and Political Philosophy — review](https://www.euppublishing.com/doi/10.3366/jspp.2022.0034).
+
+### 5. Remedie inspireert tot verlamming, niet tot actie
+Net als bij Véliz: de diagnose is rijker dan de oplossing. Zuboff roept op tot politieke strijd voor digitale soevereiniteit, maar haar beschrijving van het systeem als zo totaal en zo machtig ondermijnt het gevoel van handlingsruimte bij de lezer. Critici vinden dat het boek eerder angst dan mobilisatie genereert.
+
+*Sector: beleidsanalisten en activistisch georiënteerde onderzoekers.* Zie [LSE US Policy Blog](https://blogs.lse.ac.uk/usappblog/2019/11/10/book-review-the-age-of-surveillance-capitalism-the-fight-for-a-human-future-at-the-new-frontier-of-power-by-shoshana-zuboff/).
+
+---
+
 ## Bronnen
 
 - [Harvard Business School — boekpagina](https://www.hbs.edu/faculty/Pages/item.aspx?num=56791)
