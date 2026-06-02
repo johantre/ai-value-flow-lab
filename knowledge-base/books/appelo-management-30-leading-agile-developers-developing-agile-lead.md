@@ -56,7 +56,9 @@ Het theoretische fundament van het boek. Een complex adaptief systeem:
 - Reageert op interventies op niet-lineaire manieren
 - Kan niet volledig gecontroleerd worden — alleen beïnvloed
 
-Klassiek management is ontworpen voor **gecompliceerde** systemen (voorspelbaar, analyseerbaar). Dit toepassen op **complexe** systemen leidt structureel tot mislukking — niet door slechte uitvoering, maar door verkeerde aannames, nl dat systemen eenvoudiger (Complicated - Simple/Order/Clear) zijn dan ze in werkelijkheid zijn. 
+Klassiek management is ontworpen voor **gecompliceerde** systemen (voorspelbaar, analyseerbaar). Dit toepassen op **complexe** systemen leidt structureel tot mislukking — niet door slechte uitvoering, maar door verkeerde aannames, nl dat systemen eenvoudiger (Complicated - Simple/Order/Clear) zijn dan ze in werkelijkheid zijn.
+
+De onderliggende denkfout is [reductionisme](https://en.wikipedia.org/wiki/Reductionism): de aanname dat je een systeem volledig kunt begrijpen door het op te splitsen in afzonderlijke delen en die apart te analyseren. In complexe adaptieve systemen werkt dit niet — emergent gedrag en holarchie (elk deel is tegelijk een geheel én deel van een groter geheel) maken het systeem fundamenteel meer dan de som van zijn delen. Appelo sluit hier aan bij Snowden's Cynefin-framework: in het complexe domein is reductionistisch denken niet alleen onvolledig, het is gevaarlijk. 
 
 ---
 
