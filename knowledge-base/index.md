@@ -19,6 +19,16 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 - [Wardley Mapping](books/wardley-wardley-mapping.md) — *Simon Wardley*
 - [Lean Thinking](books/womack-jones-lean-thinking.md) — *James Womack & Daniel Jones*
 
+### AI-ethiek & maatschappijkritiek
+*(Samengevat op basis van externe bronnen of deels gelezen)*
+
+- [Prophecy: Prediction, Power, and the Fight for the Future](books/veliz-prophecy-prediction-power-and-the-fight-for-the-future.md) — *Carissa Véliz (2026)* — predictie als machtsinstrument; self-fulfilling prophecy; voorbereiding boven predictie
+- [The Age of Surveillance Capitalism](books/zuboff-the-age-of-surveillance-capitalism.md) — *Shoshana Zuboff (2019)* — gedragsdata als grondstof; instrumentarian power; recht op een toekomst
+- [Weapons of Math Destruction](books/oneil-weapons-of-math-destruction.md) — *Cathy O'Neil (2016)* — WMD-diagnostiek: opacity, scale, damage; proxy-discriminatie; feedback loops
+- [Human Compatible](books/russell-human-compatible.md) — *Stuart Russell (2019)* — King Midas-probleem; corrigibele AI; assistance game als alternatief paradigma
+- [The Coming Wave](books/suleyman-the-coming-wave.md) — *Mustafa Suleyman (2023)* — het grote dilemma; tien lagen van containment; insider-perspectief
+- [Co-Intelligence: Living and Working with AI](books/mollick-co-intelligence.md) — *Ethan Mollick (2024)* — vier regels; jagged frontier; centaur vs. cyborg
+
 ---
 
 ## Articles & online resources
@@ -37,6 +47,11 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 
 ### Foundational texts
 - [How Do Committees Invent?](articles/conway-how-do-committees-invent.md) — *Melvin Conway (1968)* — Conway's Law; communication structure mirrors system design; team flexibility over architecture artifacts
+- [Google Project Aristotle](articles/google-project-aristotle-what-makes-a-team-effective.md) — *Google (2012–2016)* — psychologische veiligheid als sterkste voorspeller van teamprestaties
+
+### Onderzoek & experimenten
+- [Power and Perspectives Not Taken](articles/galinsky-power-and-perspectives-not-taken.md) — *Galinsky, Magee, Inesi & Gruenfeld (2006)* — E-experiment; macht vermindert perspectiefname; gemba walk als structureel correctiemechanisme
+- [On the Dangers of Stochastic Parrots](articles/bender-gebru-stochastic-parrots.md) — *Bender, Gebru, McMillan-Major & Mitchell (2021)* — LLMs als statistische papegaaien; coherentie-illusie; bias op schaal
 
 ---
 
@@ -48,6 +63,8 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 - [Conway's Law](concepts/conways-law.md) — law + inverse maneuver + Conway's own nuance on team flexibility
 - [Role Proliferation](concepts/role-proliferation.md) — Taylorist fragmentation; roles that maintain problems; S3 role as solution pattern
 - [AI Maturity Spectrum](concepts/ai-maturity-spectrum.md) — 5 levels (0–4); orthogonal to org archetype
+- [Newspeak](concepts/newspeak.md) — taal als controlemiddel; AI-Newspeak in organisaties; "het systeem zegt" als auteursverhulling
+- [Trialoog](concepts/trialoog.md) — triadisch dialogiseren; derde focuspunt doorbreekt sociale druk; Tomasello's joint attention als basis
 
 ---
 
@@ -70,6 +87,7 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 ---
 
 - [De Corporate Activist: Het transitiecanvas als leidraad](books/vandamme-de-corporate-activist.md) — *Rudy Vandamme* — 9 perspectieven op verandering; transitiecanvas; personal mastery als fundament
+- [Wicked Skills: Floreren op de Plek der Moeite](books/vandamme-wicked-skills.md) — *Rudy Vandamme (2022, deel 2 Deep Evolvement-reeks)* — tien wicked skills; Plek der Moeite; trialoog; holarchie vs. reductionisme
 
 ---
 
@@ -87,6 +105,7 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 - [Transparency: How Leaders Create a Culture of Candor](books/bennis-transparency-how-leaders-create-a-culture-of-candor.md) — *Warren Bennis*
 - [Training From the Back of the Room!: 65 Ways to Step Aside and Let Them Learn](books/bowman-training-from-the-back-of-the-room-65-ways-to-step-aside-and.md) — *Sharon L. Bowman*
 - [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md) — *Rutger Bregman*
+- [Certified Designing Agile Organizations](books/ramos-larman-certified-designing-agile-organizations.md) — *Cesario Ramos & Craig Larman*
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](books/catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md) — *Ed Catmull*
 - [Agile Estimating and Planning (Robert C. Martin Series)](books/cohn-agile-estimating-and-planning-robert-c-martin-series.md) — *Mike Cohn*
 - [User Stories Applied: For Agile Software Development (Addison-Wesley Signature Series (Beck))](books/cohn-user-stories-applied-for-agile-software-development-addison.md) — *Mike Cohn*
