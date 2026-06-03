@@ -123,3 +123,17 @@ Samen zijn ze completer dan elk apart: Aristotle levert het bewijs en de urgenti
 Opaque AI-systemen zijn het structurele equivalent van withholding: niemand liegt, maar niemand verklaart ook wat de aannames zijn. Bennis' remedie geldt evengoed hier: de verantwoordelijke voor een AI-systeem gaat first — benoemt de onzekerheid, deelt de beperkingen, schept ruimte voor anderen om het te bevragen.
 
 "De AI heeft het gegenereerd" is een withholding-strategie. Het verbergt wie de aannames heeft gekozen, wie het systeem heeft geconfigureerd, en wie verantwoordelijk is als het fout gaat. In een wereld waar AI steeds meer beslissingen informeert, is candor over AI-aannames een leiderschapsverantwoordelijkheid — geen technische kwestie.
+
+---
+
+## Het experiment — primaire bronnen en uitwerking
+
+Het centrale experiment in dit boek werd in 1962 gepubliceerd in de Harvard Business Review. Het toont aan dat complexe probleemoplossing het best collectief wordt aangepakt, terwijl een gecentraliseerde communicatiestructuur daarbij structureel faalt.
+
+**Originele bronnen:**
+- [HBR July–August 1962 — highlight: Unhuman Organisations (PDF)](bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf)
+- [Hoe leiders een cultuur van openheid creëren — The Winning Circle Experiment (PDF)](bennis-transparency-how-leaders-create-a-culture-of-candor/HowLeadersCreateACultureOfCandor-TheWinningCircle%20Experiment.pdf)
+
+**Uitwerking van het experiment — Johan Tré (2016):**
+- [The Winning Circle: The Game](bennis-transparency-how-leaders-create-a-culture-of-candor/the-winning-circle/the-winning-circle-the-game.md) — hoe het originele experiment vertaald werd naar een conference-friendly format
+- [The Winning Circle: The Making of](bennis-transparency-how-leaders-create-a-culture-of-candor/the-winning-circle/the-winning-circle-the-making-of.md) — de praktische reconstructie van het spel met Game Canvas
