@@ -131,6 +131,7 @@ Opaque AI-systemen zijn het structurele equivalent van withholding: niemand lieg
 Het centrale experiment in dit boek werd in 1962 gepubliceerd in de Harvard Business Review. Het toont aan dat complexe probleemoplossing het best collectief wordt aangepakt, terwijl een gecentraliseerde communicatiestructuur daarbij structureel faalt.
 
 **Originele bronnen:**
+- [Leavitt — "Unhuman Organizations", HBR 1962 (artikelsamenvatting)](../articles/leavitt-unhuman-organizations-hbr-1962.md)
 - [HBR July–August 1962 — highlight: Unhuman Organisations (PDF)](bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf)
 - [Hoe leiders een cultuur van openheid creëren — The Winning Circle Experiment (PDF)](bennis-transparency-how-leaders-create-a-culture-of-candor/HowLeadersCreateACultureOfCandor-TheWinningCircle%20Experiment.pdf)
 
