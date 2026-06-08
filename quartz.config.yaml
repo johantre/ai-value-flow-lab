@@ -2,7 +2,7 @@
 configuration:
   pageTitle: AI Value Flow Lab — Knowledge Base
   pageTitleSuffix: ""
-  enableSPA: false
+  enableSPA: true
   enablePopovers: true
   analytics: null
   locale: en-US
