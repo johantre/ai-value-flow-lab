@@ -20,4 +20,4 @@ In the Complex domain, cause and effect can only be understood in retrospect. Th
 
 ## Connection to our work
 
-Foundation of Part II (Probe Design) in the [AI-First Value Stream Assessment](../AI-First Value Stream Assessment Template.md). Explains why organizational transformation cannot be planned. See [Toward AI-Native: A Credible Path](../toward-ai-native-ai-first.md) — Domain Awareness section.
+Foundation of Part II (Probe Design) in the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md). Explains why organizational transformation cannot be planned. See [Toward AI-Native: A Credible Path](../toward-ai-native-ai-first.md) — Domain Awareness section.

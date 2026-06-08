@@ -18,4 +18,4 @@ Starting from the customer's perspective and tracing value back through the orga
 
 ## Connection to our work
 
-The foundational principle stated in the preamble of the [AI-First Value Stream Assessment](../AI-First Value Stream Assessment Template.md).
+The foundational principle stated in the preamble of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md).

@@ -17,4 +17,4 @@ Avery's model of how people respond to problems: **Lay blame** â†’ **Justify** â
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../AI-First Value Stream Assessment Template.md).
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md).

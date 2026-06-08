@@ -18,4 +18,4 @@ The 8 wastes identified in Lean: **T**ransport, **I**nventory, **M**otion, **W**
 
 ## Connection to our work
 
-Embedded in the Legend of Section 2 of the [AI-First Value Stream Assessment](../AI-First Value Stream Assessment Template.md). The TIMWOOD framework guides work deconstruction in Section 3.
+Embedded in the Legend of Section 2 of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md). The TIMWOOD framework guides work deconstruction in Section 3.

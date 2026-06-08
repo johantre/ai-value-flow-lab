@@ -20,4 +20,4 @@ A Lean technique for visualizing the end-to-end flow of value creation from cust
 
 ## Connection to our work
 
-The core methodology of Part I of the [AI-First Value Stream Assessment](../AI-First Value Stream Assessment Template.md). Section 2 is the mapping table.
+The core methodology of Part I of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md). Section 2 is the mapping table.
