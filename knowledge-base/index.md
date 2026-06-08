@@ -53,6 +53,17 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 - [Power and Perspectives Not Taken](articles/galinsky-power-and-perspectives-not-taken.md) — *Galinsky, Magee, Inesi & Gruenfeld (2006)* — E-experiment; macht vermindert perspectiefname; gemba walk als structureel correctiemechanisme
 - [On the Dangers of Stochastic Parrots](articles/bender-gebru-stochastic-parrots.md) — *Bender, Gebru, McMillan-Major & Mitchell (2021)* — LLMs als statistische papegaaien; coherentie-illusie; bias op schaal
 
+### AI in teams (2025-2026 onderzoek)
+- [State of AI-Assisted Software Development 2025](articles/dora-2025-state-of-ai-assisted-software-development.md) — *Google Cloud / DORA (2025)* — "AI amplifies what's already there"; 90% adoptie, 30% wantrouwt AI-code
+- [AI Productivity Paradox Report](articles/faros-ai-productivity-paradox.md) — *Faros AI (2025)* — bottleneck verschuift van produceren naar controleren; review-tijd +91%, churn +861%
+- [Beyond Productivity: Measuring the Real Value of AI](articles/workday-beyond-productivity-measuring-real-value-of-ai.md) — *Workday (2026)* — 40% van bespaarde tijd gaat naar reviewen/herstellen van AI-output
+- [Generative AI Enhances Team Performance and Reduces Need for Traditional Teams](articles/li-zhou-mikel-hong-generative-ai-enhances-team-performance.md) — *Li, Zhou & Mikel-Hong (arXiv 2024)* — 122-teams-experiment; gedeeld AI-aanspreekpunt presteert stabieler dan ieder-voor-zich
+- [Unrooted Fluency](articles/hron-unrooted-fluency.md) — *Hron et al. (2025)* — junior consultants leveren AI-gemedieerde output zonder onderliggend begrip; "faster, flatter, more fragile" leren
+- [AI Doesn't Reduce Work—It Intensifies It](articles/ranganathan-ye-ai-doesnt-reduce-work-it-intensifies-it.md) — *Ranganathan & Ye, HBR (2026)* — etnografisch onderzoek; taakuitbreiding, vervagende grenzen, parallel draaien van AI-agents
+- [How to Foster Psychological Safety When AI Erodes Trust on Your Team](articles/edmondson-seth-psychological-safety-ai-erodes-trust.md) — *Edmondson & Seth, HBR (2026)* — "trust ambiguity"; professioneel oordeel gaat ondergronds
+- [AI Fluency Index](articles/anthropic-ai-fluency-index.md) — *Anthropic (2025)* — mensen bevragen gepolijste AI-output minder kritisch dan collega's
+- [Escaping the Build Trap](articles/perri-escaping-the-build-trap.md) — *Melissa Perri (2018)* — output vieren i.p.v. uitkomst; AI maakt de Build Trap duurder, niet nieuw
+
 ---
 
 ## Key concepts (navigational)

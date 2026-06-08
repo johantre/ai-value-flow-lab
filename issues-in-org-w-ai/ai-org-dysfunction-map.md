@@ -189,6 +189,7 @@ Dit is geen apart mechanisme — het is de overkoepelende werking die álle acht
 - Versterkt **HiPPO**: de hoogste betaalde persoon beslist nu nóg sneller, met AI als schijnbare onderbouwing
 - Versterkt **silos**: elk silo werkt sneller in zijn eigen richting, divergentie neemt toe
 - Versterkt **oplossingsgedreven cultuur**: "laten we zien wat AI genereert" vervangt "laten we het probleem begrijpen"
+- Versterkt **Output boven outcome — de Build Trap** (zie [Escaping the Build Trap](../knowledge-base/articles/perri-escaping-the-build-trap.md)): vóór AI zette de *kost* van bouwen vanzelf een rem op het bouwen van dingen die niemand nodig had — iets bouwen kostte weken, dus je dacht na vóór je begon. AI haalt die rem weg: bouwen wordt zo goedkoop dat de vraag "is dit de moeite waard?" voor het eerst geen natuurlijke kostendrempel meer heeft om op te botsen. Niet *hoe snel* of *hoe accuraat* er gebouwd wordt is dan het probleem, maar of er ooit nog gevraagd wordt of het de moeite waard was
 
 *→ Zie [Org Dysfunction Catalog](org-dysfunction-catalog.md) voor beschrijvingen van de genoemde dysfunctions.*
 
