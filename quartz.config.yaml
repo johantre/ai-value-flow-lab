@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/jackyzha0/quartz/v5/quartz/plugins/quartz-plugins.schema.json
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: AI Value Flow Lab — Knowledge Base
   pageTitleSuffix: ""
@@ -19,6 +19,7 @@ configuration:
     - .vscode
     - .claude
     - .github
+  defaultDateType: modified
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -51,7 +52,6 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: modified
       priority:
         - frontmatter
         - git
@@ -77,9 +77,6 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
-    layout:
-      position: right
-      priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -152,7 +149,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 50
+      priority: 30
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -235,24 +232,19 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-community/unlisted-pages
-    enabled: true
-    options: {}
-    order: 45
   - source: github:quartz-community/encrypted-pages
     enabled: true
     options:
+      visibility: icon
       iterations: 600000
       passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
     order: 900
     layout:
       position: body
       priority: 100
       display: all
   - source: github:quartz-community/stacked-pages
-    enabled: false
+    enabled: true
     layout:
       position: afterBody
       priority: 50
