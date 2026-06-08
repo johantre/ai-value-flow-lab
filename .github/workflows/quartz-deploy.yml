@@ -57,11 +57,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Force re-resolve of crawl-links plugin (pinned ref changed in config)
+      - name: Force re-resolve of crawl-links and graph plugins (pinned refs changed in config)
         run: |
-          jq 'del(.plugins["crawl-links"])' quartz.lock.json > quartz.lock.json.tmp
+          jq 'del(.plugins["crawl-links"], .plugins["graph"])' quartz.lock.json > quartz.lock.json.tmp
           mv quartz.lock.json.tmp quartz.lock.json
-          rm -rf .quartz/plugins/crawl-links
+          rm -rf .quartz/plugins/crawl-links .quartz/plugins/graph
 
       - name: Install Quartz plugins
         run: npx quartz plugin install
