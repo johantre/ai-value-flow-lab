@@ -77,7 +77,7 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
-  - source: github:quartz-community/crawl-links
+  - source: github:quartz-community/crawl-links#main
     enabled: true
     options:
       markdownLinkResolution: shortest
