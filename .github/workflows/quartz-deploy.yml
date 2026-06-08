@@ -1,0 +1,80 @@
+name: Deploy knowledge base to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Quartz becomes the project root; our repo is checked out as its content/ folder
+      - name: Checkout Quartz
+        uses: actions/checkout@v6
+        with:
+          repository: jackyzha0/quartz
+          ref: v5.0.0
+
+      - name: Checkout this repo as content
+        uses: actions/checkout@v6
+        with:
+          path: content
+          fetch-depth: 0 # full history so Quartz can read git "last modified" dates
+
+      - name: Use this repo's Quartz config
+        run: cp content/quartz.config.yaml quartz.config.yaml
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Cache dependencies
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Quartz plugins
+        run: npx quartz plugin install --from-config
+
+      - name: Build site
+        run: npx quartz build -d . -o public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
