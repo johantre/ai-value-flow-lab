@@ -48,6 +48,7 @@ li.section-li {
 
 li.section-li > .section {
   grid-template-columns: max-content max-content 1fr auto;
+  column-gap: 0.75rem;
   align-items: center;
   padding: 2px 0 !important;
 
