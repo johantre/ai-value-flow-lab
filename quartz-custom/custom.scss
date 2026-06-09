@@ -129,6 +129,11 @@ li.section-li > .section > p.tags {
   font-weight: 400;
 }
 
+// Backlinks: link symbol before each item so it reads as a list of links, not a wall of text.
+.backlinks ul li a::before {
+  content: "🔗 ";
+}
+
 // Per-folder icons in the Explorer — anchors the eye at the start of each title.
 .explorer-content li > a::before {
   content: "📄 ";
