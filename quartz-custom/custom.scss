@@ -17,7 +17,6 @@
 // rules force the scrollbar visible on macOS/Chrome where it's hidden by default.
 .explorer-content {
   overflow-x: auto;
-  overflow-y: clip; // prevents vertical scroll-event capture while keeping horizontal scroll
   scrollbar-width: thin; // Firefox
 
   &::-webkit-scrollbar {
