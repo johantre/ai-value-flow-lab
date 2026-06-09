@@ -47,7 +47,7 @@ li.section-li {
 }
 
 li.section-li > .section {
-  grid-template-columns: 1fr 0.5fr 3fr 1.5fr;
+  grid-template-columns: max-content max-content 1fr auto;
   align-items: center;
   padding: 2px 0 !important;
 
@@ -130,9 +130,12 @@ li.section-li > .section > p.tags {
 }
 
 
-// Resizable left sidebar drag handle
+// Left sidebar: stretch to full content height instead of capping at viewport.
 .sidebar.left {
   position: relative;
+  align-self: stretch;
+  height: auto !important;
+  max-height: unset !important;
 }
 
 #sidebar-drag-handle {
