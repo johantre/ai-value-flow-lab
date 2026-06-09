@@ -65,6 +65,14 @@ li.section-li > .section {
   }
 }
 
+// Tags column: enforce the 1fr grid bound (grid cells default to min-width:auto
+// which lets them expand beyond their column definition).
+li.section-li > .section > ul.tags,
+li.section-li > .section > p.tags {
+  min-width: 0;
+  overflow: hidden;
+}
+
 // Tags: single line, max 2 shown, each tag text never breaks mid-word.
 .section ul.tags {
   display: flex;
@@ -77,6 +85,7 @@ li.section-li > .section {
   align-items: center;
 
   li { white-space: nowrap; }
+  li:nth-child(n+3) { display: none; }
 }
 
 // Per-folder icons in the Explorer — anchors the eye at the start of each title.
