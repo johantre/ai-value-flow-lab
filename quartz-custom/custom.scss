@@ -77,7 +77,6 @@ li.section-li > .section {
   align-items: center;
 
   li { white-space: nowrap; }
-  li:nth-child(n+3) { display: none; }
 }
 
 // Per-folder icons in the Explorer — anchors the eye at the start of each title.
