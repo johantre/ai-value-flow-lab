@@ -1,0 +1,13 @@
+// Widen the content column on desktop by reducing side panel widths and
+// increasing the outer container max-width. Side panels go from 320px to 220px,
+// giving the center article column ~25% more space on a 1440px screen and
+// ~85% more on a 1920px screen.
+@media (min-width: 1200px) {
+  .page {
+    max-width: min(97vw, 2000px);
+  }
+
+  .page > #quartz-body {
+    grid-template-columns: 220px auto 220px;
+  }
+}

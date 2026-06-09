@@ -34,6 +34,9 @@ jobs:
       - name: Use this repo's Quartz config
         run: cp content/quartz.config.yaml quartz.config.yaml
 
+      - name: Apply custom styles
+        run: cp content/quartz-custom/custom.scss quartz/styles/custom.scss
+
       - uses: actions/setup-node@v6
         with:
           node-version: 24
