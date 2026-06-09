@@ -24,12 +24,13 @@
     var a = li.querySelector('.desc h3 a');
     if (!a) return '';
     var href = a.getAttribute('href') || '';
-    href = href.replace(/^(\.\.\/)+/, '');
-    var base = getBase();
-    if (base && href.indexOf(base.replace(/^\//, '') + '/') === 0) {
-      href = href.slice(base.length);
+    href = href.replace(/^(\.\.\/)+/, ''); // strip relative ../
+    href = href.replace(/^\//, '');        // strip leading /
+    var base = getBase().replace(/^\//, ''); // e.g. 'ai-value-flow-lab'
+    if (base && href.indexOf(base + '/') === 0) {
+      href = href.slice(base.length + 1); // +1 for the /
     }
-    return href.replace(/^\//, '').replace(/\/$/, '');
+    return href.replace(/\/$/, '');
   }
 
   function addBylines(items, meta) {
