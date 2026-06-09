@@ -1,6 +1,5 @@
 (function () {
   var metaCache = null;
-  var lastInitPath = '';
   var checkTimer = null;
 
   function getBase() {
@@ -100,37 +99,30 @@
   }
 
   function checkAndInit() {
-    if (metaCache === null) return;
+    if (!metaCache) return;
     var ul = document.querySelector('ul.section-ul');
-    if (!ul) {
-      // Left listing page — reset so next visit always re-runs
-      lastInitPath = '';
-      return;
-    }
+    // ul.dataset.sortInit marks that THIS ul element was already processed.
+    // Quartz replaces the DOM on SPA nav, so the new ul is always a fresh element.
+    if (!ul || ul.dataset.sortInit) return;
     var items = ul.querySelectorAll('li.section-li');
-    if (items.length === 0) return; // ul exists but Quartz hasn't filled it yet
-    var path = window.location.pathname;
-    if (path === lastInitPath) return; // Already initialized for this path
-    lastInitPath = path;
+    if (!items.length) return; // ul exists but Quartz hasn't filled it yet — observer will retry
+    ul.dataset.sortInit = '1';
     initListing(ul, metaCache);
   }
 
   function scheduleCheck() {
-    if (checkTimer) clearTimeout(checkTimer);
-    // 150ms debounce: wait for Quartz to finish all post-nav DOM updates
+    clearTimeout(checkTimer);
     checkTimer = setTimeout(checkAndInit, 150);
   }
 
-  // One persistent observer covers all cases: fresh load, SPA nav, Quartz re-renders
+  // Persistent observer: detects new ul.section-ul on every SPA nav and on initial load
   new MutationObserver(scheduleCheck)
     .observe(document.documentElement, { childList: true, subtree: true });
 
-  // Also trigger on fetch completion in case DOM is already stable
   document.addEventListener('DOMContentLoaded', function () {
     fetchMeta().then(scheduleCheck);
   });
 
-  // Trigger fetch on nav too so metaCache is ready
   document.addEventListener('nav', function () {
     fetchMeta().then(scheduleCheck);
   });
