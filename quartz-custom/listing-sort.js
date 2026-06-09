@@ -22,7 +22,15 @@
   function getSlug(li) {
     var a = li.querySelector('.desc h3 a');
     if (!a) return '';
-    return (a.getAttribute('href') || '').replace(getBase() + '/', '').replace(/\/$/, '');
+    var href = a.getAttribute('href') || '';
+    // Quartz emits relative hrefs like '../books/foo' — strip leading '../'
+    href = href.replace(/^(\.\.\/)+/, '');
+    // Also handle absolute hrefs with basepath prefix
+    var base = getBase();
+    if (base && href.indexOf(base.replace(/^\//, '') + '/') === 0) {
+      href = href.slice(base.length);
+    }
+    return href.replace(/^\//, '').replace(/\/$/, '');
   }
 
   function addBylines(items, meta) {
