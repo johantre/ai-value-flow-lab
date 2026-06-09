@@ -47,15 +47,19 @@
   list-style: none;
 }
 
-// Folder listing pages: hide modification date and redefine the grid
-// without the date column (plugin default is 3 columns: date | title | tags).
-// Simply hiding .meta with display:none shifts .desc into the narrow 8em
-// first column — so we override the grid template too.
+// Folder listing pages: hide modification date, redefine 2-column grid,
+// and reduce title font so author/year can sit alongside later.
 li.section-li > .section {
   grid-template-columns: 3fr 1fr;
 
   & > .meta {
     display: none;
+  }
+
+  & > .desc h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 0;
   }
 }
 

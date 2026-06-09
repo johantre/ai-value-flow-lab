@@ -72,6 +72,12 @@ jobs:
       - name: Build site
         run: npx quartz build -o public
 
+      - name: Inject listing sort script
+        run: |
+          cp content/quartz-custom/listing-sort.js public/static/listing-sort.js
+          find public -name "*.html" -exec sed -i \
+            's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script></head>|' {} \;
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
