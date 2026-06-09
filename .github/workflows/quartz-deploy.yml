@@ -78,10 +78,21 @@ jobs:
           cp content/quartz-custom/listing-sort.js public/static/listing-sort.js
           cp content/quartz-custom/sidebar-resize.js public/static/sidebar-resize.js
           cp content/quartz-custom/og-image.png public/static/og-image.png
+          # Inject scripts
           find public -name "*.html" -exec sed -i \
             's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script><script src="/ai-value-flow-lab/static/sidebar-resize.js" data-persist="true"></script></head>|' {} \;
+          # Remove Quartz's per-page webp OG tags to avoid duplicates
           find public -name "*.html" -exec sed -i \
-            's|<head>|<head><meta property="og:image" content="https://johantre.github.io/ai-value-flow-lab/static/og-image.png"><meta property="og:site_name" content="OrgForge">|' {} \;
+            's|<meta property="og:image" content="[^"]*\.webp"/>||g;
+             s|<meta property="og:image:url" content="[^"]*\.webp"/>||g;
+             s|<meta name="twitter:image" content="[^"]*\.webp"/>||g;
+             s|<meta property="og:image:type" content="image/webp"/>||g;
+             s|<meta property="og:image:width" content="[^"]*"/>||g;
+             s|<meta property="og:image:height" content="[^"]*"/>||g;
+             s|<meta name="og:site_name" content="[^"]*"/>||g' {} \;
+          # Inject our branded OG image + clean site_name at top of <head>
+          find public -name "*.html" -exec sed -i \
+            's|<head>|<head><meta property="og:image" content="https://johantre.github.io/ai-value-flow-lab/static/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://johantre.github.io/ai-value-flow-lab/static/og-image.png"><meta property="og:site_name" content="OrgForge">|' {} \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
