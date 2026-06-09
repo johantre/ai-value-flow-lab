@@ -8,14 +8,28 @@
   }
 }
 
-// Explorer: no word-wrap, horizontal scroll so full titles are reachable.
-// The plugin sets overflow:hidden on both .explorer and .explorer-content;
-// both need to be overridden for the scrollbar to appear.
-.explorer {
-  overflow-x: auto;
-}
+// Explorer: no word-wrap + always-visible horizontal scrollbar.
+// min-width:max-content on the ul makes it as wide as its widest item,
+// so the container actually has something to scroll. The ::-webkit-scrollbar
+// rules force the scrollbar visible on macOS/Chrome where it's hidden by default.
 .explorer-content {
   overflow-x: auto;
+  scrollbar-width: thin; // Firefox
+
+  &::-webkit-scrollbar {
+    height: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--lightgray);
+    border-radius: 3px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ul {
+    min-width: max-content;
+  }
 
   li > a,
   .folder-title span {
@@ -31,6 +45,11 @@
   padding: 0;
   margin: 0;
   list-style: none;
+}
+
+// Hide modification date in folder listing pages — not useful there.
+.section .meta {
+  display: none;
 }
 
 // Per-folder icons in the Explorer — anchors the eye at the start of each title.
