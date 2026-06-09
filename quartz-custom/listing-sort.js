@@ -1,10 +1,13 @@
 (function () {
-  var BASE = (document.body.dataset.basepath || '').replace(/\/$/, '');
   var metaPromise = null;
+
+  function getBase() {
+    return ((document.body && document.body.dataset.basepath) || '').replace(/\/$/, '');
+  }
 
   function fetchMeta() {
     if (metaPromise) return metaPromise;
-    metaPromise = fetch(BASE + '/static/listing-meta.json')
+    metaPromise = fetch(getBase() + '/static/listing-meta.json')
       .then(function (r) { return r.json(); })
       .catch(function () { return {}; });
     return metaPromise;
@@ -19,7 +22,7 @@
   function getSlug(li) {
     var a = li.querySelector('.desc h3 a');
     if (!a) return '';
-    return (a.getAttribute('href') || '').replace(BASE + '/', '').replace(/\/$/, '');
+    return (a.getAttribute('href') || '').replace(getBase() + '/', '').replace(/\/$/, '');
   }
 
   function addBylines(items, meta) {
@@ -34,7 +37,7 @@
       if (!ln && !yr) return;
       var span = document.createElement('span');
       span.className = 'listing-byline';
-      span.textContent = [ln, yr].filter(Boolean).join(' ') + ' — ';
+      span.textContent = [ln, yr].filter(Boolean).join(' ') + ' — ';
       a.parentNode.insertBefore(span, a);
     });
   }
@@ -95,5 +98,5 @@
   }
 
   document.addEventListener('nav', init);
-  init();
+  document.addEventListener('DOMContentLoaded', init);
 })();
