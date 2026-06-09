@@ -40,14 +40,14 @@
   }
 }
 
-// Folder listing pages: compact rows, hide date, 2-column grid.
+// Folder listing pages: compact table rows — title | author | year | tags
 li.section-li {
   padding: 0 !important;
   margin: 0 !important;
 }
 
 li.section-li > .section {
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 3fr 1fr 0.5fr 1.5fr;
   align-items: center;
   padding: 2px 0 !important;
 
@@ -66,6 +66,13 @@ li.section-li > .section {
     margin: 0;
     line-height: 1.3;
   }
+}
+
+.listing-col-author,
+.listing-col-year {
+  font-size: 0.78rem;
+  color: var(--gray);
+  white-space: nowrap;
 }
 
 // Tags column: enforce the 1fr grid bound.
@@ -122,12 +129,6 @@ li.section-li > .section > p.tags {
   }
 }
 
-// Author + year byline preceding the title link
-.listing-byline {
-  font-size: 0.78rem;
-  color: var(--gray);
-  font-weight: 400;
-}
 
 // Backlinks: link symbol before each item so it reads as a list of links, not a wall of text.
 .backlinks ul li a::before {

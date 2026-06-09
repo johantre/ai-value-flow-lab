@@ -35,18 +35,29 @@
 
   function addBylines(items, meta) {
     items.forEach(function (li) {
-      var a = li.querySelector('.desc h3 a');
-      if (!a) return;
-      li.querySelectorAll('.listing-byline').forEach(function (el) { el.remove(); });
-      var m = meta[getSlug(li)];
-      if (!m) return;
-      var ln = lastName(m.author);
-      var yr = m.year;
-      if (!ln && !yr) return;
-      var span = document.createElement('span');
-      span.className = 'listing-byline';
-      span.textContent = [ln, yr].filter(Boolean).join(' ') + ' — ';
-      a.parentNode.insertBefore(span, a);
+      li.querySelectorAll('.listing-col-author, .listing-col-year').forEach(function (el) { el.remove(); });
+
+      var section = li.querySelector('.section');
+      if (!section) return;
+      var m = meta[getSlug(li)] || {};
+
+      var authorSpan = document.createElement('span');
+      authorSpan.className = 'listing-col-author';
+      authorSpan.textContent = lastName(m.author || '');
+
+      var yearSpan = document.createElement('span');
+      yearSpan.className = 'listing-col-year';
+      yearSpan.textContent = m.year || '';
+
+      // Insert after .desc, before .tags — keeps grid column order: title | author | year | tags
+      var tags = section.querySelector('ul.tags, p.tags');
+      if (tags) {
+        section.insertBefore(yearSpan, tags);
+        section.insertBefore(authorSpan, yearSpan);
+      } else {
+        section.appendChild(authorSpan);
+        section.appendChild(yearSpan);
+      }
     });
   }
 
