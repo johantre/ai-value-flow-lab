@@ -37,20 +37,26 @@
   }
 }
 
-// Folder/page listings (books, articles, etc.): show tags inline instead of vertically stacked.
+// Folder/page listings: tags inline, single line only — no wrapping so rows stay compact.
 .section ul.tags {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 4px;
   padding: 0;
   margin: 0;
   list-style: none;
+  overflow: hidden;
 }
 
 // Folder listing pages: hide modification date, redefine 2-column grid,
 // and reduce title font so author/year can sit alongside later.
+li.section-li {
+  padding: 0.15rem 0;
+}
+
 li.section-li > .section {
   grid-template-columns: 3fr 1fr;
+  align-items: center;
 
   & > .meta {
     display: none;
