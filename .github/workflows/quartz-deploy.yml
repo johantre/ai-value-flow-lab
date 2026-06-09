@@ -78,6 +78,7 @@ jobs:
           cp content/quartz-custom/listing-sort.js public/static/listing-sort.js
           cp content/quartz-custom/sidebar-resize.js public/static/sidebar-resize.js
           cp content/quartz-custom/og-image.png public/static/og-image.png
+          cp content/quartz-custom/icon.png public/static/icon.png
           # Inject scripts
           find public -name "*.html" -exec sed -i \
             's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script><script src="/ai-value-flow-lab/static/sidebar-resize.js" data-persist="true"></script></head>|' {} \;
