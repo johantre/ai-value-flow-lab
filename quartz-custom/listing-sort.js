@@ -92,21 +92,35 @@
     });
   }
 
-  function initListing(meta) {
-    var ul = document.querySelector('ul.section-ul');
-    if (!ul) return;
+  function initListing(ul, meta) {
     var items = Array.from(ul.querySelectorAll('li.section-li'));
     addBylines(items, meta);
     addSortButtons(ul, meta);
     sortListing(ul, 'title', meta);
   }
 
-  function init() {
-    fetchMeta().then(function (meta) {
-      // setTimeout(0) ensures Quartz has finished populating the DOM
-      // before we query for ul.section-ul (nav event fires before DOM is ready)
-      setTimeout(function () { initListing(meta); }, 0);
+  var pendingObserver = null;
+
+  function waitForListing(meta) {
+    if (pendingObserver) { pendingObserver.disconnect(); pendingObserver = null; }
+    var ul = document.querySelector('ul.section-ul');
+    if (ul) { initListing(ul, meta); return; }
+    // Quartz fetches folder-page content async after firing nav —
+    // observe until ul.section-ul appears in the DOM.
+    pendingObserver = new MutationObserver(function (_, obs) {
+      var ul = document.querySelector('ul.section-ul');
+      if (!ul) return;
+      obs.disconnect(); pendingObserver = null;
+      initListing(ul, meta);
     });
+    pendingObserver.observe(document.body, { childList: true, subtree: true });
+    setTimeout(function () {
+      if (pendingObserver) { pendingObserver.disconnect(); pendingObserver = null; }
+    }, 3000);
+  }
+
+  function init() {
+    fetchMeta().then(function (meta) { waitForListing(meta); });
   }
 
   document.addEventListener('nav', init);
