@@ -102,7 +102,11 @@
   }
 
   function init() {
-    fetchMeta().then(function (meta) { initListing(meta); });
+    fetchMeta().then(function (meta) {
+      // setTimeout(0) ensures Quartz has finished populating the DOM
+      // before we query for ul.section-ul (nav event fires before DOM is ready)
+      setTimeout(function () { initListing(meta); }, 0);
+    });
   }
 
   document.addEventListener('nav', init);
