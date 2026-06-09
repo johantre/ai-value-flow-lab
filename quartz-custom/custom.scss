@@ -47,9 +47,16 @@
   list-style: none;
 }
 
-// Hide modification date in folder listing pages — not useful there.
-.section .meta {
-  display: none;
+// Folder listing pages: hide modification date and redefine the grid
+// without the date column (plugin default is 3 columns: date | title | tags).
+// Simply hiding .meta with display:none shifts .desc into the narrow 8em
+// first column — so we override the grid template too.
+li.section-li > .section {
+  grid-template-columns: 3fr 1fr;
+
+  & > .meta {
+    display: none;
+  }
 }
 
 // Per-folder icons in the Explorer — anchors the eye at the start of each title.

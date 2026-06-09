@@ -132,9 +132,9 @@ Het centrale experiment in dit boek werd in 1962 gepubliceerd in de Harvard Busi
 
 **Originele bronnen:**
 - [Leavitt — "Unhuman Organizations", HBR 1962 (artikelsamenvatting)](../articles/leavitt-unhuman-organizations-hbr-1962.md)
-- [HBR July–August 1962 — highlight: Unhuman Organisations (PDF)](bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf)
-- [Hoe leiders een cultuur van openheid creëren — The Winning Circle Experiment (PDF)](bennis-transparency-how-leaders-create-a-culture-of-candor/HowLeadersCreateACultureOfCandor-TheWinningCircle%20Experiment.pdf)
+- [HBR July–August 1962 — highlight: Unhuman Organisations (PDF)](bennis-transparency-experiment/HBR-July-August-1962-highlight.pdf)
+- [Hoe leiders een cultuur van openheid creëren — The Winning Circle Experiment (PDF)](bennis-transparency-experiment/HowLeadersCreateACultureOfCandor-TheWinningCircle%20Experiment.pdf)
 
 **Uitwerking van het experiment — Johan Tré (2016):**
-- [The Winning Circle: The Game](bennis-transparency-how-leaders-create-a-culture-of-candor/the-winning-circle/the-winning-circle-the-game.md) — hoe het originele experiment vertaald werd naar een conference-friendly format
-- [The Winning Circle: The Making of](bennis-transparency-how-leaders-create-a-culture-of-candor/the-winning-circle/the-winning-circle-the-making-of.md) — de praktische reconstructie van het spel met Game Canvas
+- [The Winning Circle: The Game](bennis-transparency-experiment/the-winning-circle/the-winning-circle-the-game.md) — hoe het originele experiment vertaald werd naar een conference-friendly format
+- [The Winning Circle: The Making of](bennis-transparency-experiment/the-winning-circle/the-winning-circle-the-making-of.md) — de praktische reconstructie van het spel met Game Canvas
