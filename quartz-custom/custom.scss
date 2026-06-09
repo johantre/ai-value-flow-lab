@@ -130,6 +130,28 @@ li.section-li > .section > p.tags {
 }
 
 
+// Resizable left sidebar drag handle
+.sidebar.left {
+  position: relative;
+}
+
+#sidebar-drag-handle {
+  position: absolute;
+  top: 0;
+  right: -4px;
+  width: 8px;
+  height: 100%;
+  cursor: col-resize;
+  z-index: 100;
+  border-radius: 4px;
+  transition: background 0.15s;
+
+  &:hover {
+    background: var(--secondary);
+    opacity: 0.35;
+  }
+}
+
 // Backlinks: link symbol before each item so it reads as a list of links, not a wall of text.
 .backlinks ul li a::before {
   content: "🔗 ";

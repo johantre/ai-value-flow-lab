@@ -76,8 +76,9 @@ jobs:
         run: |
           python3 content/quartz-custom/extract-listing-meta.py content > public/static/listing-meta.json
           cp content/quartz-custom/listing-sort.js public/static/listing-sort.js
+          cp content/quartz-custom/sidebar-resize.js public/static/sidebar-resize.js
           find public -name "*.html" -exec sed -i \
-            's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script></head>|' {} \;
+            's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script><script src="/ai-value-flow-lab/static/sidebar-resize.js" data-persist="true"></script></head>|' {} \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
