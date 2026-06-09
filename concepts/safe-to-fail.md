@@ -17,4 +17,4 @@ Probes designed so that if they fail, the organization can recover without serio
 
 ## Connection to our work
 
-Section 11 of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md) is structured entirely around safe-to-fail probe design.
+Section 11 of the [AI-First Value Stream Assessment](../ai-first/value-stream-assessment-template.md) is structured entirely around safe-to-fail probe design.

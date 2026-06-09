@@ -17,4 +17,4 @@ Rosenberg's four-step framework: **Observe** (without evaluating), **Feel** (ide
 
 ## Connection to our work
 
-Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md).
+Relevant to the human side of AI-first transformation. See [Toward AI-Native: A Credible Path](../toward-ai-native-ai-first.md) and [AI-First Value Stream Assessment](../ai-first/value-stream-assessment-template.md).

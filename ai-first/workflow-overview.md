@@ -9,8 +9,8 @@ Dit document illustreert hoe de drie bestanden samenwerken om van een blanco tem
 | Bestand | Rol |
 |---|---|
 | `toward-ai-native-ai-first.md` | Conceptuele basis — de *waarom* en *hoe* van de methodologie |
-| `ai-first-value-stream-assessment-template.md` | Blanco template — wordt ingevuld voor een specifieke organisatie |
-| `ai-first-transformation-prompt.md` | System prompt — activeert Claude als AI-first consultant |
+| `value-stream-assessment-template.md` | Blanco template — wordt ingevuld voor een specifieke organisatie |
+| `transformation-prompt.md` | System prompt — activeert Claude als AI-first consultant |
 
 ---
 
@@ -35,7 +35,7 @@ flowchart TD
     subgraph CLAUDE["③ Analyse in Claude Web (claude.ai)"]
         direction TB
         F["🆕 Nieuwe conversatie openen"]
-        G["📌 Paste als eerste bericht:\nai-first-transformation-prompt.md\n= de system prompt / rol van Claude"]
+        G["📌 Paste als eerste bericht:\ntransformation-prompt.md\n= de system prompt / rol van Claude"]
         H["📎 Paste als tweede bericht:\nBedrijfsnaam - AI-First Value\nStream Assessment.md"]
         I{"Claude leest & oriënteert\nintern — niet getoond"}
         J["❓ Claude stelt\n3–5 clarifying questions\ngericht op lacunes & ambiguïteit"]
@@ -110,4 +110,4 @@ flowchart TD
 
 ---
 
-*Zie ook: [[toward-ai-native-ai-first]] · [[ai-first-value-stream-assessment-template]] · [[ai-first-transformation-prompt]]*
+*Zie ook: [[toward-ai-native-ai-first]] · [[ai-first/value-stream-assessment-template]] · [[ai-first/transformation-prompt]]*

@@ -17,4 +17,4 @@ The correct response pattern for the **Complex** domain (Cynefin). Instead of pl
 
 ## Connection to our work
 
-The operating logic of Part II of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md). Sections 11 (Safe-to-Fail Probes), 12 (Sensing Cadence), 13 (Amplifiers & Dampeners) implement this pattern.
+The operating logic of Part II of the [AI-First Value Stream Assessment](../ai-first/value-stream-assessment-template.md). Sections 11 (Safe-to-Fail Probes), 12 (Sensing Cadence), 13 (Amplifiers & Dampeners) implement this pattern.

@@ -17,4 +17,4 @@ In Complex systems, you cannot plan a destination — you can define an attracto
 
 ## Connection to our work
 
-Section 10 of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md). The AI-native direction, not a blueprint.
+Section 10 of the [AI-First Value Stream Assessment](../ai-first/value-stream-assessment-template.md). The AI-native direction, not a blueprint.

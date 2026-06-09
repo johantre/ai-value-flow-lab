@@ -203,5 +203,5 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 
 ## Working documents
 
-- [[ai-first-value-stream-assessment-template|AI-First Value Stream Assessment Template]]
+- [[ai-first/value-stream-assessment-template|AI-First Value Stream Assessment Template]]
 - [[toward-ai-native-ai-first|Toward AI-Native: A Credible Path]]

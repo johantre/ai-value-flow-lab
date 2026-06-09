@@ -26,7 +26,7 @@ The cockroach business wins by being resilient, not merely fast.
 
 ## Connection to our work
 
-This is the missing dimension in **Section 14 (Expected Emergence)** of the [AI-First Value Stream Assessment](../ai-first-value-stream-assessment-template.md): we describe what *can* emerge, but not whether it is *viable over time*. Adding a viability check — talent pipeline, maintainability, organizational identity preservation — makes the section honest.
+This is the missing dimension in **Section 14 (Expected Emergence)** of the [AI-First Value Stream Assessment](../ai-first/value-stream-assessment-template.md): we describe what *can* emerge, but not whether it is *viable over time*. Adding a viability check — talent pipeline, maintainability, organizational identity preservation — makes the section honest.
 
 Also connects to [Antifragility](../concepts/antifragility.md): antifragile ≠ just fast. It gains from disorder while maintaining structural coherence.
 
