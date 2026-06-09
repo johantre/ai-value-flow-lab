@@ -49,10 +49,10 @@
       yearSpan.className = 'listing-col-year';
       yearSpan.textContent = m.year || '';
 
-      // Insert after .desc, before .tags — keeps grid column order: title | author | year | tags
-      var tags = section.querySelector('ul.tags, p.tags');
-      if (tags) {
-        section.insertBefore(yearSpan, tags);
+      // Insert before .desc — keeps grid column order: author | year | title | tags
+      var desc = section.querySelector('.desc');
+      if (desc) {
+        section.insertBefore(yearSpan, desc);
         section.insertBefore(authorSpan, yearSpan);
       } else {
         section.appendChild(authorSpan);
