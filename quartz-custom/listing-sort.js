@@ -1,16 +1,18 @@
 (function () {
-  var metaPromise = null;
+  var metaCache = null;
+  var lastInitPath = '';
+  var checkTimer = null;
 
   function getBase() {
     return ((document.body && document.body.dataset.basepath) || '').replace(/\/$/, '');
   }
 
   function fetchMeta() {
-    if (metaPromise) return metaPromise;
-    metaPromise = fetch(getBase() + '/static/listing-meta.json')
+    if (metaCache !== null) return Promise.resolve(metaCache);
+    return fetch(getBase() + '/static/listing-meta.json')
       .then(function (r) { return r.json(); })
-      .catch(function () { return {}; });
-    return metaPromise;
+      .catch(function () { return {}; })
+      .then(function (data) { metaCache = data; return data; });
   }
 
   function lastName(author) {
@@ -23,9 +25,7 @@
     var a = li.querySelector('.desc h3 a');
     if (!a) return '';
     var href = a.getAttribute('href') || '';
-    // Quartz emits relative hrefs like '../books/foo' — strip leading '../'
     href = href.replace(/^(\.\.\/)+/, '');
-    // Also handle absolute hrefs with basepath prefix
     var base = getBase();
     if (base && href.indexOf(base.replace(/^\//, '') + '/') === 0) {
       href = href.slice(base.length);
@@ -99,30 +99,39 @@
     sortListing(ul, 'title', meta);
   }
 
-  var pendingObserver = null;
-
-  function waitForListing(meta) {
-    if (pendingObserver) { pendingObserver.disconnect(); pendingObserver = null; }
+  function checkAndInit() {
+    if (metaCache === null) return;
     var ul = document.querySelector('ul.section-ul');
-    if (ul) { initListing(ul, meta); return; }
-    // Quartz fetches folder-page content async after firing nav —
-    // observe until ul.section-ul appears in the DOM.
-    pendingObserver = new MutationObserver(function (_, obs) {
-      var ul = document.querySelector('ul.section-ul');
-      if (!ul) return;
-      obs.disconnect(); pendingObserver = null;
-      initListing(ul, meta);
-    });
-    pendingObserver.observe(document.body, { childList: true, subtree: true });
-    setTimeout(function () {
-      if (pendingObserver) { pendingObserver.disconnect(); pendingObserver = null; }
-    }, 3000);
+    if (!ul) {
+      // Left listing page — reset so next visit always re-runs
+      lastInitPath = '';
+      return;
+    }
+    var items = ul.querySelectorAll('li.section-li');
+    if (items.length === 0) return; // ul exists but Quartz hasn't filled it yet
+    var path = window.location.pathname;
+    if (path === lastInitPath) return; // Already initialized for this path
+    lastInitPath = path;
+    initListing(ul, metaCache);
   }
 
-  function init() {
-    fetchMeta().then(function (meta) { waitForListing(meta); });
+  function scheduleCheck() {
+    if (checkTimer) clearTimeout(checkTimer);
+    // 150ms debounce: wait for Quartz to finish all post-nav DOM updates
+    checkTimer = setTimeout(checkAndInit, 150);
   }
 
-  document.addEventListener('nav', init);
-  document.addEventListener('DOMContentLoaded', init);
+  // One persistent observer covers all cases: fresh load, SPA nav, Quartz re-renders
+  new MutationObserver(scheduleCheck)
+    .observe(document.documentElement, { childList: true, subtree: true });
+
+  // Also trigger on fetch completion in case DOM is already stable
+  document.addEventListener('DOMContentLoaded', function () {
+    fetchMeta().then(scheduleCheck);
+  });
+
+  // Trigger fetch on nav too so metaCache is ready
+  document.addEventListener('nav', function () {
+    fetchMeta().then(scheduleCheck);
+  });
 })();

@@ -76,7 +76,9 @@ li.section-li > .section > p.tags {
   overflow: hidden !important;
 }
 
-// Tags: single line, max 2 shown, each tag text never breaks mid-word.
+// Tags: single line, max 3 shown, each tag text never breaks mid-word.
+// overflow:hidden alone doesn't constrain a flex row in a 1fr grid cell;
+// the nth-child cap is the reliable fallback.
 .section ul.tags {
   display: flex;
   flex-wrap: nowrap;
@@ -88,6 +90,7 @@ li.section-li > .section > p.tags {
   align-items: center;
 
   li { white-space: nowrap; }
+  li:nth-child(n+4) { display: none; }
 }
 
 // Listing sort bar
