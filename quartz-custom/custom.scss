@@ -88,6 +88,42 @@ li.section-li > .section > p.tags {
   li:nth-child(n+3) { display: none; }
 }
 
+// Listing sort bar
+#listing-sort-bar {
+  margin-bottom: 0.6rem;
+  display: flex;
+  gap: 6px;
+}
+
+.sort-btn {
+  background: none;
+  border: 1px solid var(--lightgray);
+  border-radius: 3px;
+  padding: 2px 10px;
+  cursor: pointer;
+  font-size: 0.78rem;
+  color: var(--darkgray);
+  line-height: 1.6;
+
+  &.sort-active {
+    background: var(--secondary);
+    color: var(--light);
+    border-color: var(--secondary);
+  }
+
+  &:hover:not(.sort-active) {
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
+}
+
+// Author + year byline preceding the title link
+.listing-byline {
+  font-size: 0.78rem;
+  color: var(--gray);
+  font-weight: 400;
+}
+
 // Per-folder icons in the Explorer — anchors the eye at the start of each title.
 .explorer-content li > a::before {
   content: "📄 ";

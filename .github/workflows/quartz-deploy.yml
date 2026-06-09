@@ -72,8 +72,9 @@ jobs:
       - name: Build site
         run: npx quartz build -o public
 
-      - name: Inject listing sort script
+      - name: Inject listing sort script and metadata
         run: |
+          python3 content/quartz-custom/extract-listing-meta.py content > public/static/listing-meta.json
           cp content/quartz-custom/listing-sort.js public/static/listing-sort.js
           find public -name "*.html" -exec sed -i \
             's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script></head>|' {} \;
