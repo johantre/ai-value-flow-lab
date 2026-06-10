@@ -1,4 +1,11 @@
 @media (min-width: 1200px) {
+  // .center, .sidebar.left and .sidebar.right are each capped at 100vh with
+  // their own overflow-y: auto (see below) — so the document itself never
+  // needs to scroll. Hiding it here removes the redundant page-level scrollbar.
+  html, body {
+    overflow: hidden;
+  }
+
   .page {
     max-width: 100vw;
     width: 100%;
@@ -8,6 +15,17 @@
 
   .page > #quartz-body {
     grid-template-columns: 600px 1fr 400px;
+  }
+
+  // Left sidebar: own sticky scroll, mirroring .center below. Its scrollbar
+  // then sits next to the nav tree instead of at the far right of the page,
+  // and its scroll position survives the Explorer's per-nav DOM rebuild.
+  .sidebar.left {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden; // .explorer-content has its own horizontal scrollbar
   }
 }
 
@@ -162,21 +180,9 @@ li.section-li > .section > p.tags {
 }
 
 
-// Left sidebar: stretch to full content height instead of capping at viewport.
-.sidebar.left {
-  position: relative;
-  align-self: stretch;
-  height: auto !important;
-  max-height: unset !important;
-}
-
 // Center content column: sticky + own scroll, independent of the left
-// sidebar's scroll position. Without this, .center sits in normal flow at
-// its full content height (matching the left sidebar's height), so document
-// scroll — which positions the sidebar — also scrolls the article. A new
-// article would then open at whatever depth the sidebar happened to be
-// scrolled to, instead of from the top. .right.sidebar already uses this
-// same sticky+100vh pattern.
+// sidebar's scroll position (see .sidebar.left above). .right.sidebar
+// already uses this same sticky+100vh pattern.
 .center {
   position: sticky;
   top: 0;

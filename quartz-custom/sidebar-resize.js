@@ -1,29 +1,58 @@
 (function () {
-  // Preserve page scroll position across SPA nav when the link that triggered
-  // it lives in the left sidebar. Quartz resets scroll to the top on every
-  // nav, which visually "jumps" the explorer tree back to its start even
-  // though its expand/collapse state (and thus its height) is unchanged.
-  var savedScrollY = null;
+  // Preserve the left sidebar's own scroll position across SPA nav. Quartz
+  // rebuilds the Explorer's tree DOM on every nav (clearing then repopulating
+  // it), which momentarily empties .sidebar.left and clamps its scrollTop to
+  // 0 — visually "jumping" the tree back to its start even though its
+  // expand/collapse state (and thus its height) is unchanged.
+  var savedLeftScrollTop = null;
 
   document.addEventListener('click', function (e) {
     var a = e.target.closest('.sidebar.left a');
-    if (a) savedScrollY = window.scrollY;
+    if (!a) return;
+    var left = document.querySelector('.sidebar.left');
+    if (left) savedLeftScrollTop = left.scrollTop;
   }, true);
 
   document.addEventListener('nav', function () {
-    // .center now scrolls independently (see custom.scss) — reset it so a
+    // .center scrolls independently (see custom.scss) — reset it so a
     // newly loaded page starts at the top regardless of the sidebar's depth.
     var center = document.querySelector('.center');
     if (center) center.scrollTop = 0;
 
-    if (savedScrollY !== null) {
-      var y = savedScrollY;
-      savedScrollY = null;
+    if (savedLeftScrollTop !== null) {
+      var top = savedLeftScrollTop;
+      savedLeftScrollTop = null;
       requestAnimationFrame(function () {
-        window.scrollTo(0, y);
+        var left = document.querySelector('.sidebar.left');
+        if (left) left.scrollTop = top;
       });
     }
   });
+
+  // Footer: Quartz renders it as a row below #quartz-body's columns, but
+  // .center scrolls independently at 100vh, so the footer no longer lines up
+  // with the end of the article and the page-level scrollbar (now hidden,
+  // see custom.scss) used to be the only way to reach it. Hide the original
+  // and append a clone to the end of .center's content instead, so it
+  // scrolls in with the article. Re-run on every nav since .center's content
+  // (and possibly the footer itself) is replaced.
+  var FOOTER_CLONE_CLASS = 'footer-in-center';
+
+  function relocateFooter() {
+    var footer = document.querySelector('#quartz-body > footer, #quartz-body > .footer');
+    var center = document.querySelector('.center');
+    if (!footer || !center) return;
+
+    footer.style.setProperty('display', 'none', 'important');
+
+    var oldClone = center.querySelector('.' + FOOTER_CLONE_CLASS);
+    if (oldClone) oldClone.remove();
+
+    var clone = footer.cloneNode(true);
+    clone.classList.add(FOOTER_CLONE_CLASS);
+    clone.style.removeProperty('display');
+    center.appendChild(clone);
+  }
 
   var LEFT_KEY = 'sidebar-left-width';
   var RIGHT_KEY = 'sidebar-right-width';
@@ -108,6 +137,8 @@
         function (w) { rightWidth = w; },
         true);
     }
+
+    relocateFooter();
   }
 
   document.addEventListener('DOMContentLoaded', init);
