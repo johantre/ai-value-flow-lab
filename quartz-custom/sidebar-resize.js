@@ -1,4 +1,25 @@
 (function () {
+  // Preserve page scroll position across SPA nav when the link that triggered
+  // it lives in the left sidebar. Quartz resets scroll to the top on every
+  // nav, which visually "jumps" the explorer tree back to its start even
+  // though its expand/collapse state (and thus its height) is unchanged.
+  var savedScrollY = null;
+
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('.sidebar.left a');
+    if (a) savedScrollY = window.scrollY;
+  }, true);
+
+  document.addEventListener('nav', function () {
+    if (savedScrollY !== null) {
+      var y = savedScrollY;
+      savedScrollY = null;
+      requestAnimationFrame(function () {
+        window.scrollTo(0, y);
+      });
+    }
+  });
+
   var LEFT_KEY = 'sidebar-left-width';
   var RIGHT_KEY = 'sidebar-right-width';
   var LEFT_DEFAULT = 600, LEFT_MIN = 160, LEFT_MAX = 900;
