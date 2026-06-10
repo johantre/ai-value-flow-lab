@@ -59,7 +59,7 @@
   var LEFT_DEFAULT = 600, LEFT_MIN = 160, LEFT_MAX = 900;
   var RIGHT_DEFAULT = 400, RIGHT_MIN = 160, RIGHT_MAX = 700;
 
-  var leftWidth, rightWidth;
+  var leftWidth, rightWidth, rightSidebarVisible;
 
   function getQuartzBody() {
     return document.getElementById('quartz-body');
@@ -72,7 +72,10 @@
 
   function applyWidths() {
     var body = getQuartzBody();
-    if (body) body.style.gridTemplateColumns = leftWidth + 'px 1fr ' + rightWidth + 'px';
+    if (!body) return;
+    body.style.gridTemplateColumns = rightSidebarVisible
+      ? leftWidth + 'px 1fr ' + rightWidth + 'px'
+      : leftWidth + 'px 1fr';
   }
 
   // growsLeft: true when dragging the handle left increases the sidebar's width
@@ -119,6 +122,16 @@
 
     leftWidth = getSaved(LEFT_KEY, LEFT_DEFAULT, LEFT_MIN, LEFT_MAX);
     rightWidth = getSaved(RIGHT_KEY, RIGHT_DEFAULT, RIGHT_MIN, RIGHT_MAX);
+
+    // Folder/tag pages render an empty .sidebar.right (no Graph/Backlinks —
+    // see quartz.config.yaml's right: [] for those page types). Collapse its
+    // grid column instead of reserving 400px of dead space for it.
+    var rightSidebar = document.querySelector('.sidebar.right');
+    rightSidebarVisible = !!rightSidebar && rightSidebar.children.length > 0;
+    if (rightSidebar && !rightSidebarVisible) {
+      rightSidebar.style.setProperty('display', 'none', 'important');
+    }
+
     applyWidths();
 
     var leftSidebar = document.querySelector('.sidebar.left');
@@ -129,9 +142,7 @@
         false);
     }
 
-    // Folder/tag pages have no right sidebar — only attach if present.
-    var rightSidebar = document.querySelector('.sidebar.right');
-    if (rightSidebar) {
+    if (rightSidebarVisible) {
       makeHandle('sidebar-drag-handle-right', rightSidebar, RIGHT_MIN, RIGHT_MAX, RIGHT_KEY,
         function () { return rightWidth; },
         function (w) { rightWidth = w; },
