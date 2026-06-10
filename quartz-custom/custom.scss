@@ -15,8 +15,19 @@
 // min-width:max-content on the ul makes it as wide as its widest item,
 // so the container actually has something to scroll. The ::-webkit-scrollbar
 // rules force the scrollbar visible on macOS/Chrome where it's hidden by default.
+//
+// overflow-y:visible on .explorer-ul, .explorer-content and .nav-files-container:
+// Quartz sets overflow-y to auto/hidden on all three (nested) elements. Our sidebar
+// is height:auto so the tree never needs to scroll internally — but each of those
+// overflow-y values forms a scroll-chain boundary that swallows wheel events meant
+// for the page. All three must be cleared for page scroll to pass through.
+.nav-files-container {
+  overflow-y: visible !important;
+}
+
 .explorer-content {
   overflow-x: auto;
+  overflow-y: visible !important;
   scrollbar-width: thin; // Firefox
 
   &::-webkit-scrollbar {
@@ -32,6 +43,7 @@
 
   ul {
     min-width: max-content;
+    overflow-y: visible !important;
   }
 
   li > a,
