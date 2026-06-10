@@ -11,6 +11,11 @@
   }, true);
 
   document.addEventListener('nav', function () {
+    // .center now scrolls independently (see custom.scss) — reset it so a
+    // newly loaded page starts at the top regardless of the sidebar's depth.
+    var center = document.querySelector('.center');
+    if (center) center.scrollTop = 0;
+
     if (savedScrollY !== null) {
       var y = savedScrollY;
       savedScrollY = null;

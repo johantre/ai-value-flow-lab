@@ -170,6 +170,20 @@ li.section-li > .section > p.tags {
   max-height: unset !important;
 }
 
+// Center content column: sticky + own scroll, independent of the left
+// sidebar's scroll position. Without this, .center sits in normal flow at
+// its full content height (matching the left sidebar's height), so document
+// scroll — which positions the sidebar — also scrolls the article. A new
+// article would then open at whatever depth the sidebar happened to be
+// scrolled to, instead of from the top. .right.sidebar already uses this
+// same sticky+100vh pattern.
+.center {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
 // Drag handles for resizable left/right sidebars.
 .sidebar-drag-handle {
   position: absolute;
