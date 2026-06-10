@@ -7,7 +7,7 @@
   }
 
   .page > #quartz-body {
-    grid-template-columns: 600px 1fr 200px;
+    grid-template-columns: 600px 1fr 400px;
   }
 }
 
@@ -170,10 +170,10 @@ li.section-li > .section > p.tags {
   max-height: unset !important;
 }
 
-#sidebar-drag-handle {
+// Drag handles for resizable left/right sidebars.
+.sidebar-drag-handle {
   position: absolute;
   top: 0;
-  right: -4px;
   width: 8px;
   height: 100%;
   cursor: col-resize;
@@ -185,6 +185,14 @@ li.section-li > .section > p.tags {
     background: var(--secondary);
     opacity: 0.35;
   }
+}
+
+#sidebar-drag-handle-left {
+  right: -4px;
+}
+
+#sidebar-drag-handle-right {
+  left: -4px;
 }
 
 // Backlinks: link symbol before each item so it reads as a list of links, not a wall of text.

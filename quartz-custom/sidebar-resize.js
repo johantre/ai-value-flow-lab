@@ -1,50 +1,49 @@
 (function () {
-  var STORAGE_KEY = 'sidebar-left-width';
-  var DEFAULT_WIDTH = 600;
-  var MIN_WIDTH = 160;
-  var MAX_WIDTH = 900;
+  var LEFT_KEY = 'sidebar-left-width';
+  var RIGHT_KEY = 'sidebar-right-width';
+  var LEFT_DEFAULT = 600, LEFT_MIN = 160, LEFT_MAX = 900;
+  var RIGHT_DEFAULT = 400, RIGHT_MIN = 160, RIGHT_MAX = 700;
+
+  var leftWidth, rightWidth;
 
   function getQuartzBody() {
     return document.getElementById('quartz-body');
   }
 
-  function getSaved() {
-    var w = parseInt(localStorage.getItem(STORAGE_KEY));
-    return w >= MIN_WIDTH && w <= MAX_WIDTH ? w : DEFAULT_WIDTH;
+  function getSaved(key, def, min, max) {
+    var w = parseInt(localStorage.getItem(key));
+    return w >= min && w <= max ? w : def;
   }
 
-  function applyWidth(w) {
+  function applyWidths() {
     var body = getQuartzBody();
-    if (body) body.style.gridTemplateColumns = w + 'px 1fr 200px';
+    if (body) body.style.gridTemplateColumns = leftWidth + 'px 1fr ' + rightWidth + 'px';
   }
 
-  function init() {
-    if (window.innerWidth < 1200) return;
-
-    var existing = document.getElementById('sidebar-drag-handle');
+  // growsLeft: true when dragging the handle left increases the sidebar's width
+  // (right sidebar, whose handle sits on its left edge). False for the left
+  // sidebar, whose handle is on its right edge and grows when dragged right.
+  function makeHandle(id, sidebar, min, max, storageKey, getWidth, setWidth, growsLeft) {
+    var existing = document.getElementById(id);
     if (existing) existing.remove();
 
-    var sidebar = document.querySelector('.sidebar.left');
-    if (!sidebar) return;
-
-    var currentWidth = getSaved();
-    applyWidth(currentWidth);
-
     var handle = document.createElement('div');
-    handle.id = 'sidebar-drag-handle';
+    handle.id = id;
+    handle.className = 'sidebar-drag-handle';
     sidebar.appendChild(handle);
 
     handle.addEventListener('mousedown', function (e) {
       e.preventDefault();
       var startX = e.clientX;
-      var startWidth = currentWidth;
+      var startWidth = getWidth();
       document.body.style.cursor = 'col-resize';
       document.body.style.userSelect = 'none';
 
       function onMove(e) {
-        var newWidth = Math.min(MAX_WIDTH, Math.max(MIN_WIDTH, startWidth + (e.clientX - startX)));
-        currentWidth = newWidth;
-        applyWidth(newWidth);
+        var delta = e.clientX - startX;
+        var raw = growsLeft ? startWidth - delta : startWidth + delta;
+        setWidth(Math.min(max, Math.max(min, raw)));
+        applyWidths();
       }
 
       function onUp() {
@@ -52,12 +51,37 @@
         document.body.style.userSelect = '';
         document.removeEventListener('mousemove', onMove);
         document.removeEventListener('mouseup', onUp);
-        localStorage.setItem(STORAGE_KEY, currentWidth);
+        localStorage.setItem(storageKey, getWidth());
       }
 
       document.addEventListener('mousemove', onMove);
       document.addEventListener('mouseup', onUp);
     });
+  }
+
+  function init() {
+    if (window.innerWidth < 1200) return;
+
+    leftWidth = getSaved(LEFT_KEY, LEFT_DEFAULT, LEFT_MIN, LEFT_MAX);
+    rightWidth = getSaved(RIGHT_KEY, RIGHT_DEFAULT, RIGHT_MIN, RIGHT_MAX);
+    applyWidths();
+
+    var leftSidebar = document.querySelector('.sidebar.left');
+    if (leftSidebar) {
+      makeHandle('sidebar-drag-handle-left', leftSidebar, LEFT_MIN, LEFT_MAX, LEFT_KEY,
+        function () { return leftWidth; },
+        function (w) { leftWidth = w; },
+        false);
+    }
+
+    // Folder/tag pages have no right sidebar — only attach if present.
+    var rightSidebar = document.querySelector('.sidebar.right');
+    if (rightSidebar) {
+      makeHandle('sidebar-drag-handle-right', rightSidebar, RIGHT_MIN, RIGHT_MAX, RIGHT_KEY,
+        function () { return rightWidth; },
+        function (w) { rightWidth = w; },
+        true);
+    }
   }
 
   document.addEventListener('DOMContentLoaded', init);
