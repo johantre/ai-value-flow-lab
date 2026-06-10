@@ -15,15 +15,8 @@
 // min-width:max-content on the ul makes it as wide as its widest item,
 // so the container actually has something to scroll. The ::-webkit-scrollbar
 // rules force the scrollbar visible on macOS/Chrome where it's hidden by default.
-//
-// overflow-y:visible here resolves to 'auto' (because overflow-x:auto is set —
-// per spec, visible+non-visible pairs both become auto). Quartz's stock CSS sets
-// overflow-y:hidden on .explorer-content, which hard-blocks wheel scroll chaining
-// to the page even when there's nothing to scroll. auto-with-nothing-to-scroll
-// lets the wheel event pass through to the document instead.
 .explorer-content {
   overflow-x: auto;
-  overflow-y: visible;
   scrollbar-width: thin; // Firefox
 
   &::-webkit-scrollbar {
