@@ -54,6 +54,28 @@
     center.appendChild(clone);
   }
 
+  // Book covers: a book page whose content starts with a single image
+  // (the cover, e.g. books/<slug>/cover.jpg) gets that image moved next to
+  // the Properties table instead of inline at the top of the article.
+  // Books without such a leading image are left untouched.
+  function relocateCover() {
+    if (!document.body.dataset.slug || document.body.dataset.slug.indexOf('books/') !== 0) return;
+
+    var details = document.querySelector('.note-properties');
+    var firstP = document.querySelector('.markdown-preview-view > p:first-child');
+    var img = firstP && firstP.children.length === 1 && firstP.firstElementChild.tagName === 'IMG'
+      ? firstP.firstElementChild : null;
+    if (!details || !img || details.parentElement.classList.contains('properties-with-cover')) return;
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'properties-with-cover';
+    details.parentNode.insertBefore(wrapper, details);
+    wrapper.appendChild(details);
+    wrapper.appendChild(img);
+    img.classList.add('book-cover');
+    firstP.remove();
+  }
+
   var LEFT_KEY = 'sidebar-left-width';
   var RIGHT_KEY = 'sidebar-right-width';
   var LEFT_DEFAULT = 600, LEFT_MIN = 160, LEFT_MAX = 900;
@@ -150,6 +172,7 @@
     }
 
     relocateFooter();
+    relocateCover();
   }
 
   document.addEventListener('DOMContentLoaded', init);

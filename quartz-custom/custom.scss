@@ -215,6 +215,29 @@ li.section-li > .section > p.tags {
   left: -4px;
 }
 
+// Book cover: shown beside the Properties table, height-matched to it
+// (see sidebar-resize.js's relocateCover()). object-fit: cover crops the
+// image to this 180px-wide box — fine for a typical ~2:3 portrait book
+// cover, but a wide/non-cover image will lose its left and right edges.
+.properties-with-cover {
+  display: flex;
+  align-items: stretch;
+  gap: 1rem;
+
+  .note-properties {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+}
+
+.book-cover {
+  flex: 0 0 auto;
+  width: 180px;
+  align-self: stretch;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
 // Backlinks: link symbol before each item so it reads as a list of links, not a wall of text.
 .backlinks ul li a::before {
   content: "🔗 ";
