@@ -1,16 +1,24 @@
 (function () {
-  // Preserve the left sidebar's own scroll position across SPA nav. Quartz
-  // rebuilds the Explorer's tree DOM on every nav (clearing then repopulating
-  // it), which momentarily empties .sidebar.left and clamps its scrollTop to
-  // 0 — visually "jumping" the tree back to its start even though its
-  // expand/collapse state (and thus its height) is unchanged.
-  var savedLeftScrollTop = null;
+  // Preserve the Explorer's scroll position across SPA nav. The actual
+  // vertical scroll container is .explorer-content, not .sidebar.left —
+  // see custom.scss: overflow-x:auto + overflow-y:visible computes BOTH to
+  // auto per the CSS overflow spec. Quartz rebuilds the Explorer's tree DOM
+  // on every nav (clearing .explorer-ul, then asynchronously repopulating
+  // nested <ul> elements via fetch), which clamps .explorer-content's
+  // scrollTop to 0 — visually "jumping" the tree back to its start even
+  // though its expand/collapse state (and thus its height) is unchanged.
+  //
+  // Restoring scrollTop must happen after the rebuild settles: a
+  // MutationObserver with subtree:true catches the nested <ul> mutations,
+  // and a short debounce re-applies scrollTop on every mutation until the
+  // (multi-step, async) rebuild stops changing the tree.
+  var savedTop = null;
 
   document.addEventListener('click', function (e) {
     var a = e.target.closest('.sidebar.left a');
     if (!a) return;
-    var left = document.querySelector('.sidebar.left');
-    if (left) savedLeftScrollTop = left.scrollTop;
+    var content = document.querySelector('.explorer-content');
+    savedTop = content ? content.scrollTop : null;
   }, true);
 
   document.addEventListener('nav', function () {
@@ -19,14 +27,26 @@
     var center = document.querySelector('.center');
     if (center) center.scrollTop = 0;
 
-    if (savedLeftScrollTop !== null) {
-      var top = savedLeftScrollTop;
-      savedLeftScrollTop = null;
-      requestAnimationFrame(function () {
-        var left = document.querySelector('.sidebar.left');
-        if (left) left.scrollTop = top;
-      });
-    }
+    if (savedTop === null) return;
+    var top = savedTop;
+    savedTop = null;
+
+    var ul = document.querySelector('.explorer-ul');
+    var content = document.querySelector('.explorer-content');
+    if (!ul || !content) return;
+
+    var settleTimer = null;
+    var obs = new MutationObserver(function () {
+      content.scrollTop = top;
+      clearTimeout(settleTimer);
+      settleTimer = setTimeout(function () {
+        obs.disconnect();
+        content.scrollTop = top;
+      }, 150);
+    });
+    obs.observe(ul, { childList: true, subtree: true });
+
+    setTimeout(function () { obs.disconnect(); }, 3000);
   });
 
   // Footer: Quartz renders it as a row below #quartz-body's columns, but
