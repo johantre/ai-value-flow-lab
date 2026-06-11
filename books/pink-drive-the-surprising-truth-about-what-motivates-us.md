@@ -8,6 +8,8 @@ tags: [change]
 source: goodreads
 ---
 
+![cover](./pink-drive-the-surprising-truth-about-what-motivates-us/cover.jpg)
+
 ## Core idea
 
 Carrot-and-stick motivation works for simple tasks but destroys performance in complex knowledge work. Intrinsic motivation (Autonomy, Mastery, Purpose) drives high performance.

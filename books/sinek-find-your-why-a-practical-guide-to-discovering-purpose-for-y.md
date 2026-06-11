@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./sinek-find-your-why-a-practical-guide-to-discovering-purpose-for-y/cover.jpg)
+
 ## Core idea
 
 Practical process for discovering individual and team WHY. The WHY comes from the past, is expressed in the present, and guides the future. Team WHY emerges from stories.

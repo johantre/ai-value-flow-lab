@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./avery-the-responsibility-process-unlocking-your-natural-ability-to/cover.jpg)
+
 ## Core idea
 
 The Responsibility Process: people respond to problems by cycling through Denial → Blame → Justify → Shame → Obligation → Quit → Responsibility. Only Responsibility creates freedom and power.

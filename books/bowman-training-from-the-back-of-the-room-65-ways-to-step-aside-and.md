@@ -8,6 +8,8 @@ tags: [communication, collaboration-techniques]
 source: goodreads
 ---
 
+![cover](./bowman-training-from-the-back-of-the-room-65-ways-to-step-aside-and/cover.jpg)
+
 ## Core idea
 
 65 training techniques based on brain science. Four C's: Connections (activate prior knowledge), Concepts (present new info), Concrete Practice (apply it), Conclusions (summarize and plan next steps).

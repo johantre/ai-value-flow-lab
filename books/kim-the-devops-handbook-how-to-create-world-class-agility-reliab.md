@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./kim-the-devops-handbook-how-to-create-world-class-agility-reliab/cover.jpg)
+
 ## Core idea
 
 DevOps creates fast, reliable software delivery through Three Ways: Flow (fast left-to-right delivery), Feedback (amplify signals right-to-left), Continuous Learning (experiment and improve). Psychological safety enables all three.

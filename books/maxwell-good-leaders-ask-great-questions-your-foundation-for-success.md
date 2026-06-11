@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./maxwell-good-leaders-ask-great-questions-your-foundation-for-success/cover.jpg)
+
 ## Core idea
 
 Leadership is fundamentally about asking better questions. Questions unlock insights, motivate action, build relationships, and solve problems. Great leaders are perpetual learners through questions.

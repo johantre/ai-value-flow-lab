@@ -8,6 +8,8 @@ tags: [change]
 source: goodreads
 ---
 
+![cover](./kotter-accelerate-building-strategic-agility-for-a-faster-moving-wo/cover.jpg)
+
 ## Core idea
 
 Organizations need two simultaneous operating systems: the traditional hierarchy (reliability, efficiency) and an agile network (strategic change, speed). The network accelerates without destabilizing operations.

@@ -8,6 +8,8 @@ tags: [remote-work]
 source: goodreads
 ---
 
+![cover](./hansson-remote-office-not-required/cover.jpg)
+
 ## Core idea
 
 Remote work is not a compromise — it can produce better work than office environments. Async communication, trust, and results over presence.

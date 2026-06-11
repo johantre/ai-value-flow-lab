@@ -8,6 +8,8 @@ tags: [thinking]
 source: goodreads
 ---
 
+![cover](./meadows-thinking-in-systems-a-primer/cover.jpg)
+
 ## Core idea
 
 Most problems are caused by system structure, not individual actors. Systems have stocks, flows, feedback loops, and delays. To change behavior, change structure — not people.

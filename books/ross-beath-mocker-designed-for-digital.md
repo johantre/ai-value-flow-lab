@@ -8,6 +8,8 @@ tags: [organizational, strategy, digital]
 source: reference
 ---
 
+![cover](./ross-beath-mocker-designed-for-digital/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

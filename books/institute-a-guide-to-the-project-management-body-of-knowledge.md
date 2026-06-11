@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./institute-a-guide-to-the-project-management-body-of-knowledge/cover.jpg)
+
 ## Core idea
 
 The PMBOK: standard reference for project management. Process groups, knowledge areas, tools and techniques. Waterfall-oriented framework.

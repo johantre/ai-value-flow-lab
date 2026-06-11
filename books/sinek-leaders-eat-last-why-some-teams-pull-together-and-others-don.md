@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./sinek-leaders-eat-last-why-some-teams-pull-together-and-others-don/cover.jpg)
+
 ## Core idea
 
 Great leaders sacrifice their own comfort for those they lead. The Circle of Safety: inside feels safe, outside feels dangerous. Neurochemistry of leadership: oxytocin, serotonin, cortisol.

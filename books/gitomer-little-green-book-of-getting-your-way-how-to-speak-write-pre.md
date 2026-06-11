@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./gitomer-little-green-book-of-getting-your-way-how-to-speak-write-pre/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

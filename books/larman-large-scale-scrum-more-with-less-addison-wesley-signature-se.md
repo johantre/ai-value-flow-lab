@@ -8,6 +8,8 @@ tags: [agile, collaboration, collaboration-techniques, organizational]
 source: goodreads
 ---
 
+![cover](./larman-large-scale-scrum-more-with-less-addison-wesley-signature-se/cover.jpg)
+
 ## Core idea
 
 LeSS (Large-Scale Scrum): Scrum applied to multiple teams. Two rules: more with LeSS (do less, keep it simple), and feature teams over component teams. Organizational design is the key lever.

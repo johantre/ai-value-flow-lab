@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./sinek-together-is-better/cover.jpg)
+
 ## Core idea
 
 Short illustrated book on the power of human connection and courage in leadership. Core message: we accomplish more together, and leadership is about giving, not taking.

@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./hill-collective-genius-the-art-and-practice-of-leading-innovation/cover.jpg)
+
 ## Core idea
 
 Innovation requires collective genius, not one leader's vision. Leaders create conditions for creative abrasion (productive conflict of ideas), creative agility (experiment fast), and creative resolution (integrate diverse solutions).

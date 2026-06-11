@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./marquet-turn-the-ship-around-a-true-story-of-turning-followers-into/cover.jpg)
+
 ## Core idea
 
 On a US nuclear submarine, Marquet replaced "leader-follower" (control) with "leader-leader" (intent). Give control, create competence, ensure clarity. Performance transformed.

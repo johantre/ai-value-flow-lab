@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./gebler-the-3-power-values-how-commitment-integrity-and-transparency/cover.jpg)
+
 ## Core idea
 
 Three values that clear performance roadblocks: Commitment (align behavior with purpose), Integrity (close gap between stated and actual values), Transparency (make information available).

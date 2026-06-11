@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./cohn-agile-estimating-and-planning-robert-c-martin-series/cover.jpg)
+
 ## Core idea
 
 Story points, velocity, release planning, and iterative planning. Estimation is about relative effort and uncertainty, not precise prediction.

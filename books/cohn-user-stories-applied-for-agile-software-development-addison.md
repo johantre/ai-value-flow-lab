@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./cohn-user-stories-applied-for-agile-software-development-addison/cover.jpg)
+
 ## Core idea
 
 User stories as a requirements technique: "As a [role], I want [goal], so that [reason]." Acceptance criteria, story splitting, backlog management.

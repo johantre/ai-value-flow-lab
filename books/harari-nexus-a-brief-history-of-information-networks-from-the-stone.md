@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./harari-nexus-a-brief-history-of-information-networks-from-the-stone/cover.jpg)
+
 ## Core idea
 
 Information networks (language, writing, printing, internet) shape civilizations. AI is a new kind of information network that can operate without human understanding or values. Questions of AI alignment and governance are civilization-level.

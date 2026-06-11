@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./jackall-moral-mazes-the-world-of-corporate-managers/cover.jpg)
+
 ## Core idea
 
 Corporate managers make decisions based on loyalty to superiors and organizational survival, not ethics or merit. "What is right is what the boss wants." Bureaucracy creates moral relativism.

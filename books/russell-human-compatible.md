@@ -8,6 +8,8 @@ tags: [ai-ethics, ai-alignment, control-problem, human-preferences, constructive
 source: reference
 ---
 
+![cover](./russell-human-compatible/cover.jpg)
+
 ## Core idea
 
 Het standaardmodel van AI — een machine die een vastgelegde doelstelling maximaliseert — is fundamenteel gevaarlijk. Niet omdat AI kwaadaardig wordt, maar omdat ze te competent wordt in het nastreven van verkeerd gedefinieerde doelen. De oplossing is een paradigmawisseling: bouw AI die inherent onzeker is over wat mensen willen, en die daarom voortdurend vraagt, leert en corrigeert.

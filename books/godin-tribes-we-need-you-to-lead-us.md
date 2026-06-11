@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./godin-tribes-we-need-you-to-lead-us/cover.jpg)
+
 ## Core idea
 
 Leadership is about connecting people around a shared idea. The internet enables tribe formation at scale. Heretics (people who challenge the status quo) drive meaningful change.

@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./harari-sapiens-a-brief-history-of-humankind/cover.jpg)
+
 ## Core idea
 
 Humans dominate because cognitive revolution enabled shared fictions (money, nations, religions, companies). Agricultural revolution was a trap. Modernity accelerates but doesn't necessarily improve human wellbeing.

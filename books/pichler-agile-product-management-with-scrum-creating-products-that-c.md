@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./pichler-agile-product-management-with-scrum-creating-products-that-c/cover.jpg)
+
 ## Core idea
 
 De Product Owner is de spil van waardecreatie in Scrum — niet een schrijver van stories of een backlog-beheerder, maar een **product leider** die visie, strategie en dagelijkse beslissingen verbindt. Zonder een sterke PO wordt Scrum een delivery-machine zonder richting.

@@ -8,6 +8,8 @@ tags: [consciousness, philosophy-of-mind, neuroscience, panpsychism, qualia]
 source: goodreads
 ---
 
+![cover](./harris-conscious-a-brief-guide-to-the-fundamental-mystery-of-the-mi/cover.jpg)
+
 ## Core idea
 
 Bewustzijn is het meest fundamentele en meest raadselachtige fenomeen in de wetenschap. Geen enkele huidige theorie verklaart afdoende waarom materie subjectieve ervaring heeft. Harris legt systematisch bloot waarom onze intuïties over bewustzijn ons in de steek laten — en waarom panpsychisme (bewustzijn als eigenschap van materie zelf) serieuzer genomen moet worden dan de wetenschappelijke mainstream toelaat.

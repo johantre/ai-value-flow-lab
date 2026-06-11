@@ -8,6 +8,8 @@ tags: [collaboration-techniques]
 source: goodreads
 ---
 
+![cover](./gray-gamestorming-a-playbook-for-innovators-rulebreakers-and-chan/cover.jpg)
+
 ## Core idea
 
 Games as tools for innovation and problem-solving. Opening games (diverge), exploring games (go deep), closing games (converge). Visual thinking and play as serious methods.

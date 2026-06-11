@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./rosenberg-nonviolent-communication-create-your-life-your-relationships/cover.jpg)
+
 ## Core idea
 
 All human behavior is an attempt to meet universal needs. NVC: observe without evaluating, identify feelings, identify needs, make requests (not demands). Reduces conflict, builds connection.

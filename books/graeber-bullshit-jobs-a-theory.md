@@ -8,6 +8,8 @@ tags: [thinking]
 source: goodreads
 ---
 
+![cover](./graeber-bullshit-jobs-a-theory/cover.jpg)
+
 ## Core idea
 
 A significant portion of modern jobs are "bullshit jobs" — work that even the people doing it believe is pointless. Five types: flunkies, goons, duct tapers, box tickers, taskmasters. This is systemic, not individual.

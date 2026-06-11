@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./bennis-transparency-how-leaders-create-a-culture-of-candor/cover.jpg)
+
 ## Core idea
 
 Leaders must create cultures of candor where truth can be spoken at all levels. Three barriers: lying, spinning, withholding. Transparency builds trust and speeds decision-making.

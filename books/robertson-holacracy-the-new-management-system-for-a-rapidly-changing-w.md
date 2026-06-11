@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w/cover.jpg)
+
 ## Core idea
 
 A complete system for self-governance. Replaces management hierarchy with defined structure of roles, circles, and governance processes. Power distributed to roles, not people. Tensions drive evolution.

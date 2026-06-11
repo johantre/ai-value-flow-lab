@@ -8,6 +8,8 @@ tags: [collaboration]
 source: goodreads
 ---
 
+![cover](./catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th/cover.jpg)
+
 ## Core idea
 
 How Pixar built a culture where creativity and commercial success coexist. Key: protect the creative process, trust people with truth, treat failure as data not defeat, build the Brain Trust for candid feedback.

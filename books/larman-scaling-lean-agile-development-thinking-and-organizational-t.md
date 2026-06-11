@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./larman-scaling-lean-agile-development-thinking-and-organizational-t/cover.jpg)
+
 ## Core idea
 
 Foundational thinking and organizational tools for large-scale Scrum. Systems thinking, queueing theory, and lean product development applied to organizational design.

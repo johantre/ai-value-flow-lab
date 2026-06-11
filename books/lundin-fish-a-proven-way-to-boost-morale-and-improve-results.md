@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./lundin-fish-a-proven-way-to-boost-morale-and-improve-results/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

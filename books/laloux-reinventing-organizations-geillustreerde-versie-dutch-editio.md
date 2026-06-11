@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./laloux-reinventing-organizations-geillustreerde-versie-dutch-editio/cover.jpg)
+
 ## Core idea
 
 Organizations evolve through developmental stages (Red → Amber → Orange → Green → Teal). Teal organizations are self-managing, wholeness-oriented, and evolutionary-purpose-driven. Each stage is appropriate for its context.

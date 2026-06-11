@@ -8,6 +8,8 @@ tags: [ai-ethics, containment, power, technology, governance, constructive]
 source: reference
 ---
 
+![cover](./suleyman-the-coming-wave/cover.jpg)
+
 ## Core idea
 
 AI en biotechnologie zijn omni-use technologieën die zich razendsnel verspreiden en die elk domein van de samenleving raken. Ze kunnen niet gestopt worden. Het centrale dilemma van de 21e eeuw is daarom niet: wel of niet? Maar: hoe beheersen we iets dat zich per definitie wil verspreiden? Suleyman's antwoord: gelaagde containment — geen perfecte controle, maar voortdurende, bewuste begrenzing.

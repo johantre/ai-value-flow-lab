@@ -8,6 +8,8 @@ tags: [collaboration-techniques]
 source: goodreads
 ---
 
+![cover](./hohmann-innovation-games-creating-breakthrough-products-through-coll/cover.jpg)
+
 ## Core idea
 
 Structured games for understanding customer needs and facilitating product decisions. Games create psychological safety for honest, creative conversations.

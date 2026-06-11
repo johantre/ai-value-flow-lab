@@ -8,6 +8,8 @@ tags: [change]
 source: goodreads
 ---
 
+![cover](./appelo-how-to-change-the-world-change-management-30/cover.jpg)
+
 ## Core idea
 
 Change management 3.0: evolutionary, distributed, context-sensitive. Change doesn't start at the top; it starts with individuals. Twelve steps across four areas: dance with the system, mind the people, stimulate the network, change the environment.

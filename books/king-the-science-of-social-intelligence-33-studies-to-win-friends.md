@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./king-the-science-of-social-intelligence-33-studies-to-win-friends/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

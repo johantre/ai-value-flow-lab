@@ -8,6 +8,8 @@ tags: [ai-ethics, surveillance, power, data, behavioral-modification]
 source: reference
 ---
 
+![cover](./zuboff-the-age-of-surveillance-capitalism/cover.jpg)
+
 ## Core idea
 
 Menselijke ervaring is de grondstof van een nieuwe economische logica. Gedragsdata — gewonnen uit wat we doen, zeggen, zoeken en voelen — wordt omgezet in voorspellingsproducten die verkocht worden op gedragsfuturesmarkten. **Het einddoel is niet kennis van gedrag, maar de modificatie ervan**.

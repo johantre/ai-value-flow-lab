@@ -8,6 +8,8 @@ tags: [collaboration]
 source: goodreads
 ---
 
+![cover](./willink-extreme-ownership-how-us-navy-seals-lead-and-win/cover.jpg)
+
 ## Core idea
 
 True leaders take extreme ownership of everything in their world — no excuses, no blame. Decentralized command: everyone leads. Prioritize and execute. Cover and move.

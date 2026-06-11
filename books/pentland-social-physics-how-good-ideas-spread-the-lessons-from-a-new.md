@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./pentland-social-physics-how-good-ideas-spread-the-lessons-from-a-new/cover.jpg)
+
 ## Core idea
 
 Ideas spread through social networks via exploration and engagement. High-performing teams have specific patterns of idea flow measurable in data. Too much exploitation (using existing ideas) kills innovation; too much exploration destabilizes.

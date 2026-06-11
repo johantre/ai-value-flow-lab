@@ -8,6 +8,8 @@ tags: [thinking, organizational, strategy]
 source: reference
 ---
 
+![cover](./brynjolfsson-mcafee-the-second-machine-age/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

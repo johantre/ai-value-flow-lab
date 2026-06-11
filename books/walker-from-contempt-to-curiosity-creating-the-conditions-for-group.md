@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./walker-from-contempt-to-curiosity-creating-the-conditions-for-group/cover.jpg)
+
 ## Core idea
 
 Clean Language and Systemic Modelling help groups collaborate by using the other person's own words and metaphors. Moves from contempt (I know better) to curiosity (what is your experience?).

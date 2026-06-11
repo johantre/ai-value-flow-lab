@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./appelo-management-30-leading-agile-developers-developing-agile-lead/cover.jpg)
+
 ## Core idea
 
 Management needs to evolve for complex adaptive systems. Six views (MAMAPIG): Manage the System, Aim at goals and goals, Motivate people, Allow self-organization, Push competence, Improve everything.

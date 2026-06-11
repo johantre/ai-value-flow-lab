@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./jones-exactly-what-to-say-the-magic-words-for-influence-and-impact/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

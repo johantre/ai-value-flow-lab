@@ -8,6 +8,8 @@ tags: [our-brain]
 source: goodreads
 ---
 
+![cover](./medina-brain-rules-12-principles-for-surviving-and-thriving-at-work/cover.jpg)
+
 ## Core idea
 
 12 neuroscience-based principles about how the brain actually works. Key: brains were built for movement, attention degrades after 10 minutes, multitasking is a myth, stress damages cognition, sleep is non-negotiable.

@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./sinek-the-infinite-game/cover.jpg)
+
 ## Core idea
 
 Business is an infinite game with no final winners. Finite mindset (win/lose) destroys organizations over time. Infinite mindset requires: just cause, trusting teams, worthy rivals, existential flexibility, courage to lead.

@@ -8,6 +8,8 @@ tags: [lean, organizational, flow]
 source: reference
 ---
 
+![cover](./womack-jones-lean-thinking/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

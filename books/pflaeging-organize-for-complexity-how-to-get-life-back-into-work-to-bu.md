@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu/cover.jpg)
+
 ## Core idea
 
 Complexity requires a fundamentally different organizational logic. The BetaCodex: organizations need a cell structure with periphery (value creation, customer-facing) and center (coordination), not traditional hierarchy.

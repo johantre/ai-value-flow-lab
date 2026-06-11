@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./larman-practices-for-scaling-lean-agile-development-large-multisite/cover.jpg)
+
 ## Core idea
 
 Practical guide for large, multisite, and offshore product development using LeSS. Feature teams, requirement areas, multi-team sprints.

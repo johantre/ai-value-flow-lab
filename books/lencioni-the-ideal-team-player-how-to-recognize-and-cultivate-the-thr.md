@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./lencioni-the-ideal-team-player-how-to-recognize-and-cultivate-the-thr/cover.jpg)
+
 ## Core idea
 
 Three virtues of ideal team players: humble, hungry, and smart (people-smart). The absence of any one creates predictable dysfunctions. Hiring and developing for these three matters more than skills.

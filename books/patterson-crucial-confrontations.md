@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./patterson-crucial-confrontations/cover.jpg)
+
 ## Core idea
 
 Follow-up to Crucial Conversations focused on accountability: holding others to commitments. CPR framework: Content (what happened), Pattern (recurring issue), Relationship (what it signals).

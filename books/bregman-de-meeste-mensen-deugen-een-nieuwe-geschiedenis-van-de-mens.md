@@ -8,6 +8,8 @@ tags: [change]
 source: goodreads
 ---
 
+![cover](./bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens/cover.jpg)
+
 ## Core idea
 
 Humans are fundamentally cooperative and good, not selfish. Most systems designed around distrust create the very behavior they fear (nocebo effect). Trust is more productive than control.

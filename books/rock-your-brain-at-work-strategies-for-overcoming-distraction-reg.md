@@ -8,6 +8,8 @@ tags: [our-brain]
 source: goodreads
 ---
 
+![cover](./rock-your-brain-at-work-strategies-for-overcoming-distraction-reg/cover.jpg)
+
 ## Core idea
 
 The prefrontal cortex (director) depletes quickly. SCARF model: Status, Certainty, Autonomy, Relatedness, Fairness — threats to any of these trigger the same brain response as physical danger.

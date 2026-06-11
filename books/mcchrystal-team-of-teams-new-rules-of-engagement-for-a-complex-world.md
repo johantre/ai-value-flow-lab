@@ -8,6 +8,8 @@ tags: [collaboration]
 source: goodreads
 ---
 
+![cover](./mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world/cover.jpg)
+
 ## Core idea
 
 Traditional command hierarchy fails in complex, fast-changing environments. Solution: build shared consciousness (everyone sees everything) and empowered execution (anyone can act).

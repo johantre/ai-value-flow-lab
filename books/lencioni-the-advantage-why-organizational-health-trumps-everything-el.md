@@ -8,6 +8,8 @@ tags: [leadership, organizational]
 source: goodreads
 ---
 
+![cover](./lencioni-the-advantage-why-organizational-health-trumps-everything-el/cover.jpg)
+
 ## Core idea
 
 Organizational health is the single greatest competitive advantage. Health = minimal politics, minimal confusion, high morale, low turnover. Built through cohesive leadership, clarity, over-communication, and reinforcement of culture.

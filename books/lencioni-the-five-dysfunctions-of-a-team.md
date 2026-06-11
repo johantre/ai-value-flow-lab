@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./lencioni-the-five-dysfunctions-of-a-team/cover.jpg)
+
 ## Core idea
 
 Teams fail due to five stacked dysfunctions: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, inattention to results. Each dysfunction enables the one above it.

@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./patterson-crucial-conversations-tools-for-talking-when-stakes-are-high/cover.jpg)
+
 ## Core idea
 
 High-stakes conversations go wrong because people feel unsafe. Create safety first, then speak honestly. Pool the Shared Meaning. State your path: facts → story → feelings → ask → talk tentatively → encourage testing.

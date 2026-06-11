@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./anderson-kanban-successful-evolutionary-change-for-your-technology-bu/cover.jpg)
+
 ## Core idea
 
 Evolutionary change through workflow visualization, WIP limits, and flow management. Kanban respects current roles and processes while enabling gradual improvement. Start where you are.

@@ -8,6 +8,8 @@ tags: [organizational, thinking, flow]
 source: reference
 ---
 
+![cover](./goldratt-the-goal/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

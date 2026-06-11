@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./denning-the-leaders-guide-to-radical-management-reinventing-the-work/cover.jpg)
+
 ## Core idea
 
 Traditional management (plan-and-control) fails in a world of rapid change. Radical management: iterative work focused on customer delight, self-organizing teams, radical transparency, continuous improvement.

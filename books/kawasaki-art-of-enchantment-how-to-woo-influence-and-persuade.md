@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./kawasaki-art-of-enchantment-how-to-woo-influence-and-persuade/cover.jpg)
+
 ## Core idea
 
 Enchantment = changing people's hearts, minds, and actions through likability, trustworthiness, and great cause. Not manipulation — genuine transformation.

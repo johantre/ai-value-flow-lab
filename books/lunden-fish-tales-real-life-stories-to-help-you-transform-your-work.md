@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./lunden-fish-tales-real-life-stories-to-help-you-transform-your-work/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

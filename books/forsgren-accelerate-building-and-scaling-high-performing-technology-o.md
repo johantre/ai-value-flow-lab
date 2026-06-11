@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./forsgren-accelerate-building-and-scaling-high-performing-technology-o/cover.jpg)
+
 ## Core idea
 
 Research-backed evidence that software delivery performance predicts organizational performance. Four key metrics (DORA): Deployment Frequency, Lead Time for Changes, MTTR, Change Failure Rate.

@@ -8,6 +8,8 @@ tags: [thinking, our-brain]
 source: goodreads
 ---
 
+![cover](./richo-you-are-not-what-you-think/cover.jpg)
+
 ## Core idea
 
 Most of what we call "self" is learned patterns, ego, and defense mechanisms. Mindfulness and self-awareness reveal the constructed nature of identity and open space for genuine change.

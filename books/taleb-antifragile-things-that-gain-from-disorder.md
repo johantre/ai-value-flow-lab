@@ -8,6 +8,8 @@ tags: [organizational]
 source: goodreads
 ---
 
+![cover](./taleb-antifragile-things-that-gain-from-disorder/cover.jpg)
+
 ## Core idea
 
 Some systems not only withstand shocks but get stronger from them. Three categories: fragile (breaks under stress), robust (survives stress), antifragile (gains from stress). Modern organizations over-optimize for efficiency, making them brittle.

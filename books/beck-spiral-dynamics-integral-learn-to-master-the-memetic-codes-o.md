@@ -8,6 +8,8 @@ tags: [change, thinking]
 source: goodreads
 ---
 
+![cover](./beck-spiral-dynamics-integral-learn-to-master-the-memetic-codes-o/cover.jpg)
+
 ## Core idea
 
 Human consciousness evolves through value systems (vMemes): Beige → Purple → Red → Blue → Orange → Green → Yellow → Turquoise. Different organizational problems require solutions matched to the right vMeme level.

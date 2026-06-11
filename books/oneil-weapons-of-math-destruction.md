@@ -8,6 +8,8 @@ tags: [ai-ethics, algorithmic-bias, inequality, data, discrimination]
 source: reference
 ---
 
+![cover](./oneil-weapons-of-math-destruction/cover.jpg)
+
 ## Core idea
 
 Algoritmen die ingezet worden bij onderwijs, krediet, aanwerving en justitie zijn niet neutraal — ze zijn verpakte vooroordelen op schaal. Ze zijn ondoorzichtig, moeilijk aanvechtbaar, en versterken systematisch de ongelijkheid die ze beweren objectief te meten. O'Neil noemt ze Weapons of Math Destruction (WMD's).

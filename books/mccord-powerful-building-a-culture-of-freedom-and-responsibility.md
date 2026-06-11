@@ -8,6 +8,8 @@ tags: [collaboration]
 source: goodreads
 ---
 
+![cover](./mccord-powerful-building-a-culture-of-freedom-and-responsibility/cover.jpg)
+
 ## Core idea
 
 Netflix culture: give people real freedom, hold them to high standards, treat them as adults. Talent density matters more than process. Radical honesty prevents politics.

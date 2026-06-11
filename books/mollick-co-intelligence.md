@@ -8,6 +8,8 @@ tags: [ai-adoption, co-intelligence, human-ai-collaboration, practical, construc
 source: reference
 ---
 
+![cover](./mollick-co-intelligence/cover.jpg)
+
 ## Core idea
 
 AI is geen tool die je inzet en ook geen autonome agent die je vervangt — het is een nieuw soort intelligentie waarmee je samenwerkt. Effectief gebruik vereist een andere relatie: AI actief uitnodigen, jezelf als mens in de loop houden, de begrenzingen kennen, en de samenwerking als vaardigheid ontwikkelen.

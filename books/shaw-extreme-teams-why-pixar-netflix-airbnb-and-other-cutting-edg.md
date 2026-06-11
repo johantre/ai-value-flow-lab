@@ -8,6 +8,8 @@ tags: [collaboration]
 source: goodreads
 ---
 
+![cover](./shaw-extreme-teams-why-pixar-netflix-airbnb-and-other-cutting-edg/cover.jpg)
+
 ## Core idea
 
 High-performing teams at Pixar, Netflix, Airbnb share common traits: obsessive focus, strong values, productive conflict, deep trust. They push each other harder than traditional teams would.

@@ -8,6 +8,8 @@ tags: [organizational, strategy, leadership]
 source: reference
 ---
 
+![cover](./bryar-carr-working-backwards/cover.jpg)
+
 ## Core idea
 
 *(To be filled in)*

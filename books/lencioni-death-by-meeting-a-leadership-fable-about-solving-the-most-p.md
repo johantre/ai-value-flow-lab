@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./lencioni-death-by-meeting-a-leadership-fable-about-solving-the-most-p/cover.jpg)
+
 ## Core idea
 
 Meetings are the most painful and wasteful activity in organizational life — but only because they are designed wrong. Four meeting types serve four purposes: daily check-in, weekly tactical, monthly strategic, quarterly off-site.

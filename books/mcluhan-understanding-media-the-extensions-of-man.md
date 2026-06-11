@@ -8,6 +8,8 @@ tags: [media-theory, communication, context, technology, behavior]
 source: recommended
 ---
 
+![cover](./mcluhan-understanding-media-the-extensions-of-man/cover.jpg)
+
 ## Core idea
 
 **"The medium is the message."** The channel through which information is transmitted shapes human behavior and society more profoundly than the content it carries. Every medium — print, radio, television, digital tools, AI — is an extension of human capability, and each extension changes how we perceive, think, relate, and organize.

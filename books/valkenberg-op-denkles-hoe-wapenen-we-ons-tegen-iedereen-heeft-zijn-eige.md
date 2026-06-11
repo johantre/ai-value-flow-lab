@@ -8,6 +8,8 @@ tags: [thinking]
 source: goodreads
 ---
 
+![cover](./valkenberg-op-denkles-hoe-wapenen-we-ons-tegen-iedereen-heeft-zijn-eige/cover.jpg)
+
 ## Core idea
 
 Critical thinking as a skill. How to recognize and counter "everyone has their own truth" relativism, motivated reasoning, and other modern epistemic failures.

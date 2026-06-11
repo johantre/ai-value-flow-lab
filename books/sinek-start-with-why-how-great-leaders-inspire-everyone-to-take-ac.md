@@ -8,6 +8,8 @@ tags: [leadership]
 source: goodreads
 ---
 
+![cover](./sinek-start-with-why-how-great-leaders-inspire-everyone-to-take-ac/cover.jpg)
+
 ## Core idea
 
 Great leaders start with WHY (purpose/belief), then HOW (process), then WHAT (product). The Golden Circle. People don't buy what you do; they buy why you do it.

@@ -8,6 +8,8 @@ tags: [collaboration-techniques]
 source: goodreads
 ---
 
+![cover](./adzic-impact-mapping-making-a-big-impact-with-software-products-an/cover.jpg)
+
 ## Core idea
 
 Impact maps align delivery with strategic goals: WHY (goal) → WHO (actors) → HOW (impacts) → WHAT (deliverables). Prevents building things that don't matter. \

@@ -8,6 +8,8 @@ tags: [lean, organizational, flow, waste, gemba]
 source: reference
 ---
 
+![cover](./ohno-the-toyota-production-system/cover.jpg)
+
 ## Core idea
 
 Elimineer alles wat geen waarde toevoegt voor de klant. Produceer wat nodig is, wanneer het nodig is, in de hoeveelheid die nodig is — niet meer. De twee pijlers: **Just-in-Time** (flow zonder buffer) en **Jidoka** (stop zodra er een probleem is, los het op aan de bron).

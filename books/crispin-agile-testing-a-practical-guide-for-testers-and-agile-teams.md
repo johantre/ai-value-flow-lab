@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./crispin-agile-testing-a-practical-guide-for-testers-and-agile-teams/cover.jpg)
+
 ## Core idea
 
 Testing in agile environments: whole-team approach, four quadrants of testing, continuous integration. Quality is everyone's responsibility.

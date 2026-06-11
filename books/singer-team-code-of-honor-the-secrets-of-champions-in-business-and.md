@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./singer-team-code-of-honor-the-secrets-of-champions-in-business-and/cover.jpg)
+
 ## Core idea
 
 High-performing teams have an explicit code of honor — shared agreements about behavior. Leaders uphold the code even when uncomfortable. The code creates identity and accountability.

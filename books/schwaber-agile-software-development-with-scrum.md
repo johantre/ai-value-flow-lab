@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./schwaber-agile-software-development-with-scrum/cover.jpg)
+
 ## Core idea
 
 The original Scrum book. Scrum as an empirical process control framework: transparency, inspection, adaptation. Three roles, three ceremonies, three artifacts.

@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./appelo-managing-for-happiness-games-tools-practices-to-motivate-any/cover.jpg)
+
 ## Core idea
 
 Practical games and tools for Management 3.0: Kudo cards, Moving Motivators, Delegation Poker, Merit Money. Makes management practices concrete and playful.

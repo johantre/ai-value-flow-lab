@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./godin-all-marketers-are-liars-the-power-of-telling-authentic-stori/cover.jpg)
+
 ## Core idea
 
 Marketing works through authentic stories that match the audience's worldview. The best stories are true. Authenticity matters because people sense inauthenticity.

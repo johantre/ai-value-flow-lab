@@ -8,6 +8,8 @@ tags: [agile]
 source: goodreads
 ---
 
+![cover](./schwaber-agile-project-management-with-scrum-developer-best-practices/cover.jpg)
+
 ## Core idea
 
 Practical Scrum application in project management contexts. Backlog management, sprint planning, impediment removal.

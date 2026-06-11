@@ -8,6 +8,8 @@ tags: [leadership, organizational]
 source: goodreads
 ---
 
+![cover](./senge-the-fifth-discipline-the-art-practice-of-the-learning-organi/cover.jpg)
+
 ## Core idea
 
 Learning organizations master five disciplines: systems thinking, personal mastery, mental models, shared vision, and team learning. Without continuous learning, organizations cannot adapt to complexity.

@@ -8,6 +8,8 @@ tags: [change]
 source: goodreads
 ---
 
+![cover](./heath-switch-how-to-change-things-when-change-is-hard/cover.jpg)
+
 ## Core idea
 
 Change fails when emotional brain (Elephant) overpowers rational brain (Rider). Three levers: direct the Rider (rational clarity), motivate the Elephant (emotional resonance), shape the Path (environmental design).
