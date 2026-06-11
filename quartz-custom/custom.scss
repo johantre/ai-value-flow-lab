@@ -215,26 +215,14 @@ li.section-li > .section > p.tags {
   left: -4px;
 }
 
-// Book cover: shown beside the Properties table, height-matched to it
-// (see sidebar-resize.js's relocateCover()). object-fit: cover crops the
-// image to this 180px-wide box — fine for a typical ~2:3 portrait book
-// cover, but a wide/non-cover image will lose its left and right edges.
-.properties-with-cover {
-  display: flex;
-  align-items: stretch;
-  gap: 1rem;
-
-  .note-properties {
-    flex: 1 1 auto;
-    min-width: 0;
-  }
-}
-
+// Book cover: shown at the top of the right sidebar, above Graph View
+// (see sidebar-resize.js's relocateCover()), so it stays visible while
+// reading regardless of the Properties panel's collapsed state.
 .book-cover {
-  flex: 0 0 auto;
-  width: 180px;
-  align-self: stretch;
-  object-fit: cover;
+  display: block;
+  width: 150px;
+  max-width: 100%;
+  margin: 0 auto 1rem;
   border-radius: 4px;
 }
 
