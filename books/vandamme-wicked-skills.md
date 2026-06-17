@@ -10,6 +10,12 @@ source: personal-library
 
 ![cover](./vandamme-wicked-skills/cover.jpg)
 
+> [!note]- Bronnen
+> - [Managementboek.nl — boekpagina](https://www.managementboek.nl/boek/9789490384364/wicked-skills-rudy-vandamme)
+> - [Managementboek.nl — recensie](https://www.managementboek.nl/magazine/recensie/22067/wicked-skills--theoretisch-sterk-en-praktisch-toepasbaar)
+> - [Deep Evolvement — tien Wicked Skills](https://deepevolvement.com/wicked-skills-lab/)
+> - [rudyvandamme.net — auteurspagina](https://rudyvandamme.net/aanbod/)
+
 ## Core idea
 
 Professionals in complexe, veranderende omgevingen hebben een specifieke set van vaardigheden nodig die verder gaan dan technische expertise. Vandamme noemt ze **wicked skills** — tien generieke competenties en de bijhorende mindset om richting te houden wanneer situaties weerstand oproepen, geen eenduidig antwoord hebben, en persoonlijk engagement vragen. Het boek is deel 2 van de *Deep Evolvement*-reeks.
@@ -125,10 +131,3 @@ Weerstand is geen obstructie maar *psychologische stabiliteit* — het systeem b
 Elk systeem is tegelijk een deel van een groter geheel én zelf een geheel met eigen dynamiek. Effectief werken in complexe organisaties vereist dat je op meerdere niveaus tegelijk kunt denken en handelen.
 
 ---
-
-## Bronnen
-
-- [Managementboek.nl — boekpagina](https://www.managementboek.nl/boek/9789490384364/wicked-skills-rudy-vandamme)
-- [Managementboek.nl — recensie](https://www.managementboek.nl/magazine/recensie/22067/wicked-skills--theoretisch-sterk-en-praktisch-toepasbaar)
-- [Deep Evolvement — tien Wicked Skills](https://deepevolvement.com/wicked-skills-lab/)
-- [rudyvandamme.net — auteurspagina](https://rudyvandamme.net/aanbod/)

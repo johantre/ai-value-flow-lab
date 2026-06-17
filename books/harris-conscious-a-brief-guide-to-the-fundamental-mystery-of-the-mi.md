@@ -10,6 +10,13 @@ source: goodreads
 
 ![cover](./harris-conscious-a-brief-guide-to-the-fundamental-mystery-of-the-mi/cover.jpg)
 
+> [!note]- Bronnen
+> - [Annaka Harris — officiële boekpagina](https://annakaharris.com/conscious/)
+> - [Sloww — uitgebreide boeksamenvatting](https://www.sloww.co/conscious-annaka-harris/)
+> - [Medium — Colin Mathers over Harris](https://medium.com/@matherscd/annaka-harris-on-the-fundamental-mystery-of-consciousness-be8ba0d64559)
+> - [Big Think — Harris over de definitie van bewustzijn](https://bigthink.com/series/the-big-think-interview/annaka-harris-defining-consciousness/)
+> - [Goodreads — lezersinformatie](https://www.goodreads.com/en/book/show/41571759)
+
 ## Core idea
 
 Bewustzijn is het meest fundamentele en meest raadselachtige fenomeen in de wetenschap. Geen enkele huidige theorie verklaart afdoende waarom materie subjectieve ervaring heeft. Harris legt systematisch bloot waarom onze intuïties over bewustzijn ons in de steek laten — en waarom panpsychisme (bewustzijn als eigenschap van materie zelf) serieuzer genomen moet worden dan de wetenschappelijke mainstream toelaat.
@@ -163,11 +170,3 @@ Het boek telt minder dan honderd pagina's. Critici vinden dat Harris de tegenarg
 *Sector: wetenschapsjournalisten en academische recensenten.* Zie [Amazon — lezersrecensies](https://www.amazon.com/Conscious-Brief-Guide-Fundamental-Mystery/dp/0062906712).
 
 ---
-
-## Bronnen
-
-- [Annaka Harris — officiële boekpagina](https://annakaharris.com/conscious/)
-- [Sloww — uitgebreide boeksamenvatting](https://www.sloww.co/conscious-annaka-harris/)
-- [Medium — Colin Mathers over Harris](https://medium.com/@matherscd/annaka-harris-on-the-fundamental-mystery-of-consciousness-be8ba0d64559)
-- [Big Think — Harris over de definitie van bewustzijn](https://bigthink.com/series/the-big-think-interview/annaka-harris-defining-consciousness/)
-- [Goodreads — lezersinformatie](https://www.goodreads.com/en/book/show/41571759)
