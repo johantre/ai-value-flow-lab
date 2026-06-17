@@ -30,3 +30,4 @@ order: 0
 | [[cases/handelsbanken\|Handelsbanken]] | 🔵 Teal | Filiaalprestaties, geen targets | Geen bonus, Oktogonen (gelijk bij pensioen) | Filiaalcijfers transparant |
 | [[cases/haier\|Haier]] | 🔵 Teal | Gebruikersevaluatie van ME | ME-winstdeling, betaald door gebruikers | Marktgedreven |
 | [[cases/mondragon\|Mondragon]] | 🟢 Groen | Democratisch bestuur | Loonratio max 1:6, winst- én verliesverdeling | Volledig intern |
+| [[cases/aes\|AES Corporation]] | 🔵 Teal | Adviesproces + peer-audits | Salarisopties voor alle medewerkers | Intern via task forces |

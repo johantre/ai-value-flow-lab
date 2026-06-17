@@ -12,7 +12,7 @@ order: 2
 
 ## Aanpak
 
-Twaalf organisaties zijn geselecteerd die elk op een andere manier omgaan met evaluatie en beloning. De selectie is bewust divers: verschillende sectoren, schaalgroottes en Laloux-niveaus. Elk geval is onderzocht op drie assen:
+Dertien organisaties zijn geselecteerd die elk op een andere manier omgaan met evaluatie en beloning. De selectie is bewust divers: verschillende sectoren, schaalgroottes en Laloux-niveaus. Elk geval is onderzocht op drie assen:
 
 1. **Evaluatie** — hoe beoordelen ze bijdrage en gedrag?
 2. **Beloning** — hoe bepalen ze loon, en wie beslist?
@@ -34,3 +34,4 @@ Twaalf organisaties zijn geselecteerd die elk op een andere manier omgaan met ev
 | [[cases/handelsbanken\|🏢 Handelsbanken]] | 🔵 Teal | Geen bonus, gelijke winstdeling via Oktogonen |
 | [[cases/haier\|🏢 Haier]] | 🔵 Teal | Betaald door gebruikers, micro-onderneming winstdeling |
 | [[cases/mondragon\|🏢 Mondragon]] | 🟢 Groen | Democratisch loon, ratio max 1:6 |
+| [[cases/aes\|🏢 AES Corporation]] | 🔵 Teal | Adviesproces & peer-audits over fabrieken heen |
