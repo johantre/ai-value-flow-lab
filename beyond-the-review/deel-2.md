@@ -12,7 +12,7 @@ order: 2
 
 ## Aanpak
 
-Zeven organisaties zijn geselecteerd die elk op een andere manier omgaan met evaluatie en beloning. De selectie is bewust divers: verschillende sectoren, schaalgroottes en Laloux-niveaus. Elk geval is onderzocht op drie assen:
+Acht organisaties zijn geselecteerd die elk op een andere manier omgaan met evaluatie en beloning. De selectie is bewust divers: verschillende sectoren, schaalgroottes en Laloux-niveaus. Elk geval is onderzocht op drie assen:
 
 1. **Evaluatie** — hoe beoordelen ze bijdrage en gedrag?
 2. **Beloning** — hoe bepalen ze loon, en wie beslist?
@@ -29,3 +29,4 @@ Zeven organisaties zijn geselecteerd die elk op een andere manier omgaan met eva
 | [[cases/netflix\|🏢 Netflix]] | 🟡 Oranje | Keeper Test & top-of-market loon |
 | [[cases/buffer\|🏢 Buffer]] | 🟡→🟢 Groen | Publieke salarisformule |
 | [[cases/management-3-0\|🏢 Management 3.0]] | 🟢→🔵 | Merit Money & Kudo Cards |
+| [[cases/favi\|🏢 FAVI]] | 🔵 Teal | Gelijke winstdeling & geen tijdklokken |

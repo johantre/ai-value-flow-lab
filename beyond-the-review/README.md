@@ -25,3 +25,4 @@ order: 0
 | [[cases/netflix\|Netflix]] | 🟡 Oranje | Keeper Test + continue feedback | Top-of-market, geen bonus | Marktgericht |
 | [[cases/buffer\|Buffer]] | 🟡→🟢 Groen | Continue check-ins | Publieke formule | Volledig publiek |
 | [[cases/management-3-0\|Management 3.0]] | 🟢→🔵 | Peer feedback, Moving Motivators | Merit Money + Kudos | Configureerbaar |
+| [[cases/favi\|FAVI]] | 🔵 Teal | Zelfgestelde doelen, geen beoordeling | Gelijke winstdeling (7% cashflow) | Intern transparant |
