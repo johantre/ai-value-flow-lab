@@ -7,6 +7,8 @@ tags: [motivatie, beloning, evaluatie, psychologie, organizational]
 source: goodreads
 ---
 
+![cover](./kohn-punished-by-rewards/cover.jpg)
+
 ## Core idea
 
 Externe beloningen — bonussen, cijfers, lof, privileges — ondermijnen intrinsieke motivatie. Hoe groter en zichtbaarder de beloning, hoe meer mensen ophouden te doen wat ze deden omdat ze het wilden, en beginnen te doen wat nodig is om de beloning te krijgen. Het systeem dat gedrag wil sturen, vernietigt precies de motivatie die het probeert te benutten.

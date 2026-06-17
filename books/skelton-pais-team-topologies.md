@@ -8,6 +8,8 @@ tags: [organizational-design, team-design, software-delivery, flow, cognitive-lo
 source: paper
 ---
 
+![cover](./skelton-pais-team-topologies/cover.jpg)
+
 ![4 fundamental topologies](./skelton-pais-team-topologies/tt-4-team-types.png)
 
 ![4 topologies — flow of change](./skelton-pais-team-topologies/tt-4-team-types-interacting.png)

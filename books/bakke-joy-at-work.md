@@ -7,6 +7,8 @@ tags: [motivatie, zelforganisatie, zelfsturing, adviesproces, organizational]
 source: goodreads
 ---
 
+![cover](./bakke-joy-at-work/cover.jpg)
+
 > [!note]- Bronnen
 > - [Bakke, D. (2005). *Joy at Work*. PVG. — Officiële samenvatting op dennisbakke.com](https://dennisbakke.com/summary/)
 > - [Reinventing Organizations Wiki. *AES (Applied Energy Services)*](https://reinventingorganizationswiki.com/en/cases/aes-applied-energy-services/) — Contextuele beschrijving van de AES-praktijken uit het boek.

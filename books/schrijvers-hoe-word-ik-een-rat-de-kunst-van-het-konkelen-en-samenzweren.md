@@ -8,6 +8,8 @@ tags: [communication]
 source: goodreads
 ---
 
+![cover](./schrijvers-hoe-word-ik-een-rat-de-kunst-van-het-konkelen-en-samenzweren/cover.jpg)
+
 ## Core idea
 
 Organizational politics are a fact of life. Understanding how power actually moves — through scheming, alliances, and informal networks — is necessary for survival and change.
