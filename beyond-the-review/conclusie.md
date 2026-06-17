@@ -4,6 +4,13 @@ tags: [conclusie, belgie, toepasbaarheid, beyond-the-review]
 order: 5
 ---
 
+> [!note]- Bronnen
+> - [[beyond-the-review/deel-3|EU Pay Transparency Directive & België]] — bronnen en analyse van de richtlijn en Belgische context.
+> - [Corporate Rebels (2025). *10 Questions About Buurtzorg's Self-Management Model*](https://www.corporate-rebels.com/blog/10-questions-about-buurtzorgs-self-management-model-answered) — bron voor Jos de Blok-citaat.
+> - [Laloux, F. (2014). *Reinventing Organizations*](https://www.reinventingorganizations.com/) — kader voor de paradigmashift; zie ook [[books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio|onze samenvatting]].
+> - Kohn, A. (1993). *Punished by Rewards*. Houghton Mifflin. — empirische basis voor de kritiek op prestatiebeloning; zie ook [[books/kohn-punished-by-rewards|onze samenvatting]].
+> - Individuele cases: zie [[beyond-the-review/cases/buurtzorg|Buurtzorg]], [[beyond-the-review/cases/buffer|Buffer]], [[beyond-the-review/cases/management-3-0|Management 3.0]] en overige casepagina's voor primaire bronnen per organisatie.
+
 ## De rode draad doorheen alle cases
 
 Ondanks de grote verscheidenheid in sector, schaal en cultuur, zijn er **drie consistente patronen** bij de voorlopers:
