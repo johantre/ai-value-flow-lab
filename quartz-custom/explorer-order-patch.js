@@ -38,6 +38,9 @@
     })
   }
 
+  // Re-patch on every SPA navigation before Explorer reads the attribute.
+  document.addEventListener("nav", patchExplorerSort)
+
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", patchExplorerSort)
   } else {
