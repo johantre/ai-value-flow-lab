@@ -1,5 +1,5 @@
 ---
-title: "Inleiding & Laloux-kader"
+title: "Deel 1: Inleiding & Laloux-kader"
 tags: [laloux, evaluatie, beloning, beyond-the-review]
 order: 1
 ---

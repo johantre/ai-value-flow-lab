@@ -1,5 +1,5 @@
 ---
-title: "EU Pay Transparency Directive & België"
+title: "Deel 3: EU Pay Transparency Directive & België"
 tags: [eu-richtlijn, loontransparantie, belgie, beyond-the-review]
 order: 4
 ---
