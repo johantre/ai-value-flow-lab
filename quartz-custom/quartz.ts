@@ -24,6 +24,16 @@ const customExplorer = Explorer({
   },
 })
 
+console.log(
+  "[quartz.ts] left components:",
+  (defaults.left ?? []).map((c: any) => ({
+    name: c?.name,
+    keys: c ? Object.keys(c) : [],
+    afterDOMLoadedType: typeof c?.afterDOMLoaded,
+    afterDOMLoadedSnippet: c?.afterDOMLoaded?.substring?.(0, 80),
+  }))
+)
+
 export const layout = {
   defaults: {
     ...defaults,
