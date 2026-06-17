@@ -28,7 +28,10 @@ export const layout = {
   defaults: {
     ...defaults,
     left: (defaults.left ?? []).map((c: any) =>
-      c.name === "ExplorerComponent" ? customExplorer : c
+      // afterDOMLoaded contains "[Explorer]" log strings — stable across esbuild minification
+      typeof c.afterDOMLoaded === "string" && c.afterDOMLoaded.includes("[Explorer]")
+        ? customExplorer
+        : c
     ),
   },
   byPageType,
