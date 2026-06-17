@@ -14,6 +14,7 @@ tags: [oranje, prestatie, talentdensiteit, beyond-the-review]
 > - [Deel (2026). *How to Run Employee Performance Reviews Like Netflix*](https://www.deel.com/blog/employee-performance-reviews-at-netflix/)
 > - [AOL/Business Insider (2025). *Netflix CTO Says the Company Has No Formal Performance Reviews*](https://www.aol.com/articles/netflix-cto-says-company-no-165053403.html)
 > - Hastings, R. & Meyer, E. (2020). *No Rules Rules*. Penguin Press.
+> - McCord, P. (2018). *Powerful: Building a Culture of Freedom and Responsibility*. Silicon Guild. — Patty McCord was Chief Talent Officer bij Netflix en de architect van de Netflix Culture Deck; zie ook [[books/mccord-powerful-building-a-culture-of-freedom-and-responsibility|onze samenvatting]].
 
 ## Context
 
