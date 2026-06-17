@@ -12,7 +12,7 @@ tags: [teal, zelforganisatie, adviesproces, beyond-the-review]
 > [!note]- Bronnen
 > - [Reinventing Organizations Wiki. *AES (Applied Energy Services)*](https://reinventingorganizationswiki.com/en/cases/aes-applied-energy-services/)
 > - [ethix.org (2004). *Dennis Bakke: Creating Real Fun at Work*](https://ethix.org/2004/06/01/creating-real-fun-at-work)
-> - Bakke, D. (2005). *Joy at Work*. PVG. — Bakke's eigen verslag van het AES-experiment.
+> - Bakke, D. (2005). *Joy at Work*. PVG. — Bakke's eigen verslag van het AES-experiment; zie ook [[books/bakke-joy-at-work|onze samenvatting]].
 
 ## Context
 
