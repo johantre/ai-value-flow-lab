@@ -1,6 +1,6 @@
 ---
 icon: 🏢
-title: "Netflix"
+title: "🏢 Netflix"
 sector: Streaming / Tech
 land: Verenigde Staten
 opgericht: 1997

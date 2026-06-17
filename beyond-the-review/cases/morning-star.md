@@ -1,6 +1,6 @@
 ---
 icon: 🏢
-title: "Morning Star"
+title: "🏢 Morning Star"
 sector: Voedingsverwerking (tomaten)
 land: Verenigde Staten
 opgericht: 1970

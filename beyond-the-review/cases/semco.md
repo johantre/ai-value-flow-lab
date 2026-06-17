@@ -1,6 +1,6 @@
 ---
 icon: 🏢
-title: "Semco / Ricardo Semler"
+title: "🏢 Semco / Ricardo Semler"
 sector: "Industriële machines"
 land: Brazilië
 opgericht: "1952, getransformeerd vanaf 1980"

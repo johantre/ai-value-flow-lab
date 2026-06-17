@@ -1,6 +1,6 @@
 ---
 icon: 🏢
-title: "Buffer"
+title: "🏢 Buffer"
 sector: SaaS / Social media tool
 land: "VS / Remote"
 opgericht: 2010

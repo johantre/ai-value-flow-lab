@@ -1,6 +1,6 @@
 ---
 icon: 🏢
-title: "Patagonia"
+title: "🏢 Patagonia"
 sector: Outdoor kleding
 land: Verenigde Staten
 opgericht: 1973

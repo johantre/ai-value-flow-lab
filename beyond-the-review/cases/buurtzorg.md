@@ -1,6 +1,6 @@
 ---
 icon: 🏢
-title: "Buurtzorg"
+title: "🏢 Buurtzorg"
 sector: Thuiszorg
 land: Nederland
 opgericht: 2007
