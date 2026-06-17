@@ -2,8 +2,7 @@
 title: "Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes"
 author: "Alfie Kohn"
 year: 1993
-status: read
-rating: 5/5
+status: unread
 tags: [motivatie, beloning, evaluatie, psychologie, organizational]
 source: goodreads
 ---
