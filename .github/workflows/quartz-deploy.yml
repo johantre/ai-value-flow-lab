@@ -69,6 +69,12 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Apply custom quartz.ts override
+        run: |
+          if [ -f content/quartz-custom/quartz.ts ]; then
+            cp content/quartz-custom/quartz.ts quartz.ts
+          fi
+
       - name: Build site
         run: npx quartz build -o public
 

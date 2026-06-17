@@ -2,6 +2,7 @@
 title: "Beyond the Review"
 subtitle: "Evaluatie & Beloning in de nieuwe wereld van werken"
 tags: [evaluatie, beloning, laloux, beyond-the-review]
+order: 0
 ---
 
 > Onderzoek naar hoe toonaangevende organisaties evalueren en belonen — gekleurd naar het Laloux-model — met een conclusie naar toepasbaarheid in België.

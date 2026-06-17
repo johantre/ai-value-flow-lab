@@ -1,6 +1,7 @@
 ---
 title: "EU Pay Transparency Directive & België"
 tags: [eu-richtlijn, loontransparantie, belgie, beyond-the-review]
+order: 3
 ---
 
 > [!note]- Bronnen

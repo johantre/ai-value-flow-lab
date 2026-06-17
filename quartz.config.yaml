@@ -221,6 +221,8 @@ plugins:
       includeAll: true
       excludedProperties:
         - title
+        - order
+        - icon
       hidePropertiesView: false
       delimiters: ---
       language: yaml

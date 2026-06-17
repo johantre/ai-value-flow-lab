@@ -1,6 +1,7 @@
 ---
 title: "Conclusie & Toepasbaarheid in België"
 tags: [conclusie, belgie, toepasbaarheid, beyond-the-review]
+order: 4
 ---
 
 ## De rode draad doorheen alle cases

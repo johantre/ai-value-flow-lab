@@ -1,6 +1,7 @@
 ---
 title: "Inleiding & Laloux-kader"
 tags: [laloux, evaluatie, beloning, beyond-the-review]
+order: 1
 ---
 
 ## Inleiding: Waarom dit onderzoek?
