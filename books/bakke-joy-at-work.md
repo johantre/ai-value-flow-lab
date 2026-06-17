@@ -7,6 +7,12 @@ tags: [motivatie, zelforganisatie, zelfsturing, adviesproces, organizational]
 source: goodreads
 ---
 
+> [!note]- Bronnen
+> - [Bakke, D. (2005). *Joy at Work*. PVG. — Officiële samenvatting op dennisbakke.com](https://dennisbakke.com/summary/)
+> - [Reinventing Organizations Wiki. *AES (Applied Energy Services)*](https://reinventingorganizationswiki.com/en/cases/aes-applied-energy-services/) — Contextuele beschrijving van de AES-praktijken uit het boek.
+> - [ethix.org (2004). *Dennis Bakke: Creating Real Fun at Work*](https://ethix.org/2004/06/01/creating-real-fun-at-work) — Interview met Bakke voor publicatie van het boek.
+> - [getAbstract. *Joy at Work — summary*](https://www.getabstract.com/en/summary/joy-at-work/4716)
+
 ## Core idea
 
 Werk hoort leuk te zijn — niet als bijproduct van succes, maar als doel op zich. Bakke, co-oprichter en voormalig CEO van AES, beschrijft hoe hij een energiebedrijf van 40.000 medewerkers bouwde op één centraal principe: mensen zijn creatieve, betrouwbare volwassenen die in staat zijn tot grote beslissingen. Alles wat dat vertrouwen ondermijnt — procedures, goedkeuringen, centrale stafdiensten — is verspilling.
