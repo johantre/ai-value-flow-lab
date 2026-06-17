@@ -26,3 +26,7 @@ order: 0
 | [[cases/buffer\|Buffer]] | 🟡→🟢 Groen | Continue check-ins | Publieke formule | Volledig publiek |
 | [[cases/management-3-0\|Management 3.0]] | 🟢→🔵 | Peer feedback, Moving Motivators | Merit Money + Kudos | Configureerbaar |
 | [[cases/favi\|FAVI]] | 🔵 Teal | Zelfgestelde doelen, geen beoordeling | Gelijke winstdeling (7% cashflow) | Intern transparant |
+| [[cases/wl-gore\|W.L. Gore]] | 🔵 Teal | Peer-ranking (20-30 collega's) | Loon bepaald door peer-ranking | Intern via comité |
+| [[cases/handelsbanken\|Handelsbanken]] | 🔵 Teal | Filiaalprestaties, geen targets | Geen bonus, Oktogonen (gelijk bij pensioen) | Filiaalcijfers transparant |
+| [[cases/haier\|Haier]] | 🔵 Teal | Gebruikersevaluatie van ME | ME-winstdeling, betaald door gebruikers | Marktgedreven |
+| [[cases/mondragon\|Mondragon]] | 🟢 Groen | Democratisch bestuur | Loonratio max 1:6, winst- én verliesverdeling | Volledig intern |

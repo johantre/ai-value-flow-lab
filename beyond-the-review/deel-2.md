@@ -12,7 +12,7 @@ order: 2
 
 ## Aanpak
 
-Acht organisaties zijn geselecteerd die elk op een andere manier omgaan met evaluatie en beloning. De selectie is bewust divers: verschillende sectoren, schaalgroottes en Laloux-niveaus. Elk geval is onderzocht op drie assen:
+Twaalf organisaties zijn geselecteerd die elk op een andere manier omgaan met evaluatie en beloning. De selectie is bewust divers: verschillende sectoren, schaalgroottes en Laloux-niveaus. Elk geval is onderzocht op drie assen:
 
 1. **Evaluatie** — hoe beoordelen ze bijdrage en gedrag?
 2. **Beloning** — hoe bepalen ze loon, en wie beslist?
@@ -30,3 +30,7 @@ Acht organisaties zijn geselecteerd die elk op een andere manier omgaan met eval
 | [[cases/buffer\|🏢 Buffer]] | 🟡→🟢 Groen | Publieke salarisformule |
 | [[cases/management-3-0\|🏢 Management 3.0]] | 🟢→🔵 | Merit Money & Kudo Cards |
 | [[cases/favi\|🏢 FAVI]] | 🔵 Teal | Gelijke winstdeling & geen tijdklokken |
+| [[cases/wl-gore\|🏢 W.L. Gore]] | 🔵 Teal | Peer-ranking bepaalt loon |
+| [[cases/handelsbanken\|🏢 Handelsbanken]] | 🔵 Teal | Geen bonus, gelijke winstdeling via Oktogonen |
+| [[cases/haier\|🏢 Haier]] | 🔵 Teal | Betaald door gebruikers, micro-onderneming winstdeling |
+| [[cases/mondragon\|🏢 Mondragon]] | 🟢 Groen | Democratisch loon, ratio max 1:6 |
