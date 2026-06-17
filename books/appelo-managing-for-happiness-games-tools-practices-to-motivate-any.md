@@ -10,6 +10,12 @@ source: goodreads
 
 ![cover](./appelo-managing-for-happiness-games-tools-practices-to-motivate-any/cover.jpg)
 
+> [!note]- Bronnen
+> - [Management 3.0. *Managing for Happiness — book page*](https://management30.com/books/managing-for-happiness/)
+> - [O'Reilly. *Chapter 1: Kudo Box and Kudo Cards*](https://www.oreilly.com/library/view/managing-for-happiness/9781119268680/c01.xhtml)
+> - [Management 3.0. *Merit Money practice*](https://management30.com/practice/merit-money/)
+> - Zie ook [[beyond-the-review/cases/management-3-0|Happy Melly / Management 3.0 case]] in Beyond the Review.
+
 ## Core idea
 
 Practical games and tools for Management 3.0: Kudo cards, Moving Motivators, Delegation Poker, Merit Money. Makes management practices concrete and playful.
