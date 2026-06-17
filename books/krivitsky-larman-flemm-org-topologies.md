@@ -8,6 +8,8 @@ tags: [organizational-design, agile, systems-thinking, change-management, AI, st
 source: primer-pdf
 ---
 
+![cover](./krivitsky-larman-flemm-org-topologies/cover.jpg)
+
 ![ot-primer-cover](./krivitsky-larman-flemm-org-topologies/ot-primer-cover.jpg)
 
 ## Core idea

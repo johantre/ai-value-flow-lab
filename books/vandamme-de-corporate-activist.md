@@ -8,6 +8,8 @@ tags: [change-management, transformation, personal-leadership, systems-thinking,
 source: personal-library
 ---
 
+![cover](./vandamme-de-corporate-activist/cover.jpg)
+
 ## Core idea
 
 Effectieve verandering begint bij persoonlijk leiderschap en professionele identiteit — niet bij methodiek. De "corporate activist" is iemand die zijn eigen purpose verbindt aan organisatorische transitie, en daarin als change professional zijn eigen stijl ontwikkelt vanuit een samenhang van frameworks, ervaring, context en waarden.

@@ -8,6 +8,8 @@ tags: [remote-work, collaboration, collaboration-techniques]
 source: goodreads
 ---
 
+![cover](./sutherland-work-together-anywhere-a-handbook-on-working-remotelysuccess/cover.jpg)
+
 ## Core idea
 
 Remote work is not a degraded version of office work — it is a different mode that, done well, produces better results. Success requires explicit agreements, deliberate communication rhythms, and trust-based culture. Most remote work fails because teams apply office habits to a distributed context.

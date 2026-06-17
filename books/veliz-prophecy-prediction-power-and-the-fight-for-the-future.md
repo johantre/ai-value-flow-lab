@@ -8,6 +8,8 @@ tags: [ai-ethics]
 source: research
 ---
 
+![cover](./veliz-prophecy-prediction-power-and-the-fight-for-the-future/cover.jpg)
+
 ## Core idea
 
 Predictie is geen neutrale kennisbron — het is een machtsinstrument. Wie de toekomst van anderen voorspelt, beslist ook over die toekomst. Algoritmische voorspellingen worden self-fulfilling prophecies. Een vrije samenleving heeft geen betere voorspellingen nodig, maar betere voorbereiding.

@@ -1,3 +1,37 @@
+---
+title: "Creating Agile Organizations: A Systemic Approach"
+author: "Cesário Ramos, Ilia Pavlichenko"
+year: 2020
+status: unread
+rating: not rated
+tags: [organizational-design, agile, LeSS, product-groups, systems-thinking, scaling, dependencies]
+source: cdao-training
+---
+
+![cover](./ramos-pavlichenko-creating-agile-organizations/cover.jpg)
+
+## Core idea
+
+Organisaties die snel en flexibel willen zijn, moeten hun structuur afstemmen op de stroom van waarde — niet op functies of technologie. Het boek biedt een systemisch model voor het ontwerpen van **product groups**: semi-autonome eenheden die end-to-end waarde leveren, met minimale externe dependencies. Het overkoepelende criterium is het verminderen van coördinatie-overhead door reciprocale afhankelijkheden zoveel mogelijk *binnen* dezelfde product group te houden.
+
+## Key concepts
+
+[[product-groups]], [[dependency-structure-matrix]], [[flow-efficiency]], [[resource-efficiency]], [[inverse-conway]], [[structural-adaptability]], [[systems-thinking]], [[cost-of-delay]]
+
+## What I took from it
+
+### General
+
+*(To be filled in)*
+
+### Connection to our work
+
+Relevant voor AI-first organisatieontwerp: product groups als eenheden die onafhankelijk AI-tools kunnen adopteren en snelle feedbackloops naar klanten hebben. De vier perspectieven voor structurering (frequentie, criticality, dependencies, cost of delay) zijn een praktisch complement op Team Topologies en Org Topologies. Related: [[books/skelton-pais-team-topologies|Team Topologies]], [[books/krivitsky-larman-flemm-org-topologies|Org Topologies]]
+
+---
+
+## Aantekeningen CDAO-training
+
 # CDAO - Designing Agile Organizations
 
 ## 1. Structuur & Organisatiedesign

@@ -116,7 +116,7 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 - [Transparency: How Leaders Create a Culture of Candor](books/bennis-transparency-how-leaders-create-a-culture-of-candor.md) — *Warren Bennis*
 - [Training From the Back of the Room!: 65 Ways to Step Aside and Let Them Learn](books/bowman-training-from-the-back-of-the-room-65-ways-to-step-aside-and.md) — *Sharon L. Bowman*
 - [De meeste mensen deugen: Een nieuwe geschiedenis van de mens](books/bregman-de-meeste-mensen-deugen-een-nieuwe-geschiedenis-van-de-mens.md) — *Rutger Bregman*
-- [Certified Designing Agile Organizations](books/ramos-larman-certified-designing-agile-organizations.md) — *Cesario Ramos & Craig Larman*
+- [Creating Agile Organizations](books/ramos-pavlichenko-creating-agile-organizations.md) — *Cesário Ramos & Ilia Pavlichenko*
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](books/catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md) — *Ed Catmull*
 - [Agile Estimating and Planning (Robert C. Martin Series)](books/cohn-agile-estimating-and-planning-robert-c-martin-series.md) — *Mike Cohn*
 - [User Stories Applied: For Agile Software Development (Addison-Wesley Signature Series (Beck))](books/cohn-user-stories-applied-for-agile-software-development-addison.md) — *Mike Cohn*

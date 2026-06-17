@@ -8,6 +8,8 @@ tags: [agile, collaboration]
 source: goodreads
 ---
 
+![cover](./wolpers-the-scrum-anti-patterns-guide-challenges-every-scrum-team-fa/cover.jpg)
+
 ## Core idea
 
 Catalog of Scrum anti-patterns: what goes wrong, why, and how to fix it. Covers team, product owner, scrum master, and organizational anti-patterns.

@@ -8,6 +8,8 @@ tags: [personal-development, complexity, systems-thinking, professional-identity
 source: personal-library
 ---
 
+![cover](./vandamme-wicked-skills/cover.jpg)
+
 ## Core idea
 
 Professionals in complexe, veranderende omgevingen hebben een specifieke set van vaardigheden nodig die verder gaan dan technische expertise. Vandamme noemt ze **wicked skills** — tien generieke competenties en de bijhorende mindset om richting te houden wanneer situaties weerstand oproepen, geen eenduidig antwoord hebben, en persoonlijk engagement vragen. Het boek is deel 2 van de *Deep Evolvement*-reeks.
