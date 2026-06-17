@@ -14,4 +14,4 @@ Organisaties die het anders doen — elk geanalyseerd op evaluatie, beloning en 
 | [[patagonia\|🏢 Patagonia]] | 🟢 Groen | Waarden-gedreven | Winstdeling + flexibiliteit |
 | [[netflix\|🏢 Netflix]] | 🟡 Oranje | Keeper Test | Top-of-market |
 | [[buffer\|🏢 Buffer]] | 🟡→🟢 Groen | Continue check-ins | Publieke formule |
-| [[management-3-0\|🏢 Management 3.0]] | 🟢→🔵 | Peer feedback | Merit Money + Kudos |
+| [[happy-melly\|🏢 Happy Melly]] | 🟢→🔵 | Peer feedback | Merit Money + Kudos |

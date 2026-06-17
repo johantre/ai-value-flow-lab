@@ -14,7 +14,7 @@ source: goodreads
 > - [Management 3.0. *Managing for Happiness — book page*](https://management30.com/books/managing-for-happiness/)
 > - [O'Reilly. *Chapter 1: Kudo Box and Kudo Cards*](https://www.oreilly.com/library/view/managing-for-happiness/9781119268680/c01.xhtml)
 > - [Management 3.0. *Merit Money practice*](https://management30.com/practice/merit-money/)
-> - Zie ook [[beyond-the-review/cases/management-3-0|Happy Melly / Management 3.0 case]] in Beyond the Review.
+> - Zie ook [[beyond-the-review/cases/happy-melly|Happy Melly case]] in Beyond the Review.
 
 ## Core idea
 
@@ -34,7 +34,7 @@ Het centrale idee: *"management is too important to leave to managers."* Motivat
 
 ### Connection to our work
 
-De tools in dit boek zijn de praktische uitwerking van wat de [[beyond-the-review/cases/management-3-0|Management 3.0-case]] in Beyond the Review beschrijft. Merit Money en Kudo Cards zijn direct toepasbaar als alternatief voor klassieke prestatiebeoordelingen. Moving Motivators maakt expliciet wat mensen drijft — essentieel voor eerlijke evaluatiegesprekken. Related: [[books/kohn-punished-by-rewards|Kohn]], [[books/appelo-management-30-leading-agile-developers-developing-agile-lead|Management 3.0]]
+De tools in dit boek zijn de praktische uitwerking van wat de [[beyond-the-review/cases/happy-melly|Happy Melly-case]] in Beyond the Review beschrijft. Merit Money en Kudo Cards zijn direct toepasbaar als alternatief voor klassieke prestatiebeoordelingen. Moving Motivators maakt expliciet wat mensen drijft — essentieel voor eerlijke evaluatiegesprekken. Related: [[books/kohn-punished-by-rewards|Kohn]], [[books/appelo-management-30-leading-agile-developers-developing-agile-lead|Management 3.0]]
 
 ---
 

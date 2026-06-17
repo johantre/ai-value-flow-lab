@@ -28,7 +28,7 @@ Dertien organisaties zijn geselecteerd die elk op een andere manier omgaan met e
 | [[cases/patagonia\|🏢 Patagonia]] | 🟢 Groen | Purpose-gedreven evaluatie & winstdeling |
 | [[cases/netflix\|🏢 Netflix]] | 🟡 Oranje | Keeper Test & top-of-market loon |
 | [[cases/buffer\|🏢 Buffer]] | 🟡→🟢 Groen | Publieke salarisformule |
-| [[cases/management-3-0\|🏢 Management 3.0]] | 🟢→🔵 | Merit Money & Kudo Cards |
+| [[cases/happy-melly\|🏢 Happy Melly]] | 🟢→🔵 | Merit Money & Kudo Cards |
 | [[cases/favi\|🏢 FAVI]] | 🔵 Teal | Gelijke winstdeling & geen tijdklokken |
 | [[cases/wl-gore\|🏢 W.L. Gore]] | 🔵 Teal | Peer-ranking bepaalt loon |
 | [[cases/handelsbanken\|🏢 Handelsbanken]] | 🔵 Teal | Geen bonus, gelijke winstdeling via Oktogonen |

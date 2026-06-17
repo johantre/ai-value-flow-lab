@@ -9,7 +9,7 @@ order: 5
 > - [Corporate Rebels (2025). *10 Questions About Buurtzorg's Self-Management Model*](https://www.corporate-rebels.com/blog/10-questions-about-buurtzorgs-self-management-model-answered) — bron voor Jos de Blok-citaat.
 > - [Laloux, F. (2014). *Reinventing Organizations*](https://www.reinventingorganizations.com/) — kader voor de paradigmashift; zie ook [[books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio|onze samenvatting]].
 > - Kohn, A. (1993). *Punished by Rewards*. Houghton Mifflin. — empirische basis voor de kritiek op prestatiebeloning; zie ook [[books/kohn-punished-by-rewards|onze samenvatting]].
-> - Individuele cases: zie [[beyond-the-review/cases/buurtzorg|Buurtzorg]], [[beyond-the-review/cases/buffer|Buffer]], [[beyond-the-review/cases/management-3-0|Management 3.0]] en overige casepagina's voor primaire bronnen per organisatie.
+> - Individuele cases: zie [[beyond-the-review/cases/buurtzorg|Buurtzorg]], [[beyond-the-review/cases/buffer|Buffer]], [[beyond-the-review/cases/happy-melly|Happy Melly]] en overige casepagina's voor primaire bronnen per organisatie.
 
 ## De rode draad doorheen alle cases
 
@@ -34,7 +34,7 @@ Begin niet met alle salarissen publiek te maken, maar wel met de *logica* achter
 Vacatures publiceren met salarisbandbreedtes (verplicht vanaf de richtlijn). Intern: medewerkers kunnen opvragen in welke band collega's met vergelijkbare functies vallen.
 
 **Stap 3 — Peer feedback in evaluatie integreren (oranje → groen)**
-[[cases/management-3-0|Management 3.0]]'s Kudo Cards of Merit Money zijn laagdrempelig en kunnen naast een bestaand evaluatiesysteem geplaatst worden. Geen revolutie, maar een evolutie.
+[[cases/happy-melly|Happy Melly]]'s Kudo Cards of Merit Money zijn laagdrempelig en kunnen naast een bestaand evaluatiesysteem geplaatst worden. Geen revolutie, maar een evolutie.
 
 **Stap 4 — Zelfevaluatie als vertrekpunt (groen)**
 In plaats van de manager die de evaluatie schrijft: medewerker schrijft eerst zelf. Manager reageert. Dit verschuift de focus van beoordeling naar groei.

@@ -1,8 +1,9 @@
 ---
 icon: 🏢
-title: "🏢 Management 3.0 / Jurgen Appelo"
-type: "Denker + methodiek"
-publicatie: "2010 (Management 3.0), 2016 (Managing for Happiness)"
+title: "🏢 Happy Melly / Jurgen Appelo"
+sector: Kenniswerk (consultancy & community)
+land: Internationaal (remote)
+opgericht: 2012
 laloux: "🟢→🔵 Groen tot Teal"
 tags: [groen, teal, merit-money, kudos, beyond-the-review]
 ---
@@ -11,11 +12,11 @@ tags: [groen, teal, merit-money, kudos, beyond-the-review]
 > - [Management 3.0. *Merit Money Practice*](https://management30.com/practice/merit-money/)
 > - [Management 3.0 (2022). *Decide Your Own Salary*](https://management30.com/blog/decide-your-own-salary/)
 > - [Knowledge21 (2020). *Merit Money: A Collaborative Reward System*](https://knowledge21.com/blog/merit-money-reward-system/)
-> - Appelo, J. (2016). *Managing for Happiness*. Wiley.
+> - Appelo, J. (2016). *Managing for Happiness*. Wiley. — zie ook [[books/appelo-managing-for-happiness-games-tools-practices-to-motivate-any|onze samenvatting]].
 
 ## Context
 
-Jurgen Appelo is geen bedrijf maar een denker en methodoloog. Zijn Management 3.0-aanpak biedt concrete praktijken voor agile organisaties om evaluatie en beloning anders te organiseren. Zijn eigen bedrijf Happy Melly paste deze praktijken ook toe.
+Happy Melly was een internationaal, volledig remote netwerk van consultants en coaches rond geluk en bevlogenheid op het werk, opgericht door Jurgen Appelo in 2012. Het was het levend laboratorium voor de Management 3.0-praktijken: de tools die Appelo beschreef in [[books/appelo-managing-for-happiness-games-tools-practices-to-motivate-any|Managing for Happiness]] werden hier effectief toegepast op de eigen organisatie.
 
 ## Evaluatie: Moving Motivators & Delegation Boards
 

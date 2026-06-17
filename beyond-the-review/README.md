@@ -24,7 +24,7 @@ order: 0
 | [[cases/patagonia\|Patagonia]] | 🟢 Groen | Waarden-gedreven, 7 leidersvragen | Winstdeling, flexibiliteit als comp. | Financieel open |
 | [[cases/netflix\|Netflix]] | 🟡 Oranje | Keeper Test + continue feedback | Top-of-market, geen bonus | Marktgericht |
 | [[cases/buffer\|Buffer]] | 🟡→🟢 Groen | Continue check-ins | Publieke formule | Volledig publiek |
-| [[cases/management-3-0\|Management 3.0]] | 🟢→🔵 | Peer feedback, Moving Motivators | Merit Money + Kudos | Configureerbaar |
+| [[cases/happy-melly\|Happy Melly]] | 🟢→🔵 | Peer feedback, Moving Motivators | Merit Money + Kudos | Configureerbaar |
 | [[cases/favi\|FAVI]] | 🔵 Teal | Zelfgestelde doelen, geen beoordeling | Gelijke winstdeling (7% cashflow) | Intern transparant |
 | [[cases/wl-gore\|W.L. Gore]] | 🔵 Teal | Peer-ranking (20-30 collega's) | Loon bepaald door peer-ranking | Intern via comité |
 | [[cases/handelsbanken\|Handelsbanken]] | 🔵 Teal | Filiaalprestaties, geen targets | Geen bonus, Oktogonen (gelijk bij pensioen) | Filiaalcijfers transparant |
