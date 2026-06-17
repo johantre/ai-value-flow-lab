@@ -82,12 +82,13 @@ jobs:
         run: |
           python3 content/quartz-custom/extract-listing-meta.py content > public/static/listing-meta.json
           cp content/quartz-custom/listing-sort.js public/static/listing-sort.js
+          cp content/quartz-custom/explorer-order-patch.js public/static/explorer-order-patch.js
           cp content/quartz-custom/sidebar-resize.js public/static/sidebar-resize.js
           cp content/quartz-custom/og-image.png public/static/og-image.png
           cp content/quartz-custom/icon.png public/static/icon.png
           # Inject scripts
           find public -name "*.html" -exec sed -i \
-            's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script><script src="/ai-value-flow-lab/static/sidebar-resize.js" data-persist="true"></script></head>|' {} \;
+            's|</head>|<script src="/ai-value-flow-lab/static/listing-sort.js" data-persist="true"></script><script src="/ai-value-flow-lab/static/explorer-order-patch.js" data-persist="true"></script><script src="/ai-value-flow-lab/static/sidebar-resize.js" data-persist="true"></script></head>|' {} \;
           # Remove Quartz's per-page webp OG tags to avoid duplicates
           find public -name "*.html" -exec sed -i \
             's|<meta property="og:image" content="[^"]*\.webp"/>||g;
