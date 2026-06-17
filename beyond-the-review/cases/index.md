@@ -1,7 +1,7 @@
 ---
 title: "Cases"
 tags: [beyond-the-review]
-order: 2
+order: 3
 ---
 
 Organisaties die het anders doen — elk geanalyseerd op evaluatie, beloning en transparantie, gekleurd naar het [[deel-1|Laloux-model]].

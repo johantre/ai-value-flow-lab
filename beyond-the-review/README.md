@@ -10,13 +10,7 @@ order: 0
 ## Structuur
 
 - [[deel-1]] — Inleiding, Laloux-kader & contrast met lagere kleuren
-- [[cases/buurtzorg]] — 🔵 Teal | Zelfsturende thuiszorg zonder managers
-- [[cases/morning-star]] — 🔵 Teal | CLOU-systeem & zelfbepaald loon
-- [[cases/semco]] — 🔵 Teal | Radicale democratie & publieke salarissen
-- [[cases/patagonia]] — 🟢 Groen | Purpose-gedreven evaluatie & beloning
-- [[cases/netflix]] — 🟡 Oranje | Keeper Test & top-of-market loon
-- [[cases/buffer]] — 🟡→🟢 Groen | Publieke salarisformule
-- [[cases/management-3-0]] — 🟢→🔵 | Merit Money & Kudo Cards
+- [[deel-2]] — Organisatiecases: hoe doen toonaangevende bedrijven het?
 - [[deel-3]] — EU Pay Transparency Directive & België
 - [[conclusie]] — Rode draad & toepasbaarheid in België
 

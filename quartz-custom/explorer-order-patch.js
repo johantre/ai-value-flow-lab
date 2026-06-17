@@ -4,9 +4,10 @@
   window.__explorerSlugOrder = {
     "beyond-the-review/readme": 0,
     "beyond-the-review/deel-1": 1,
-    "beyond-the-review/cases": 2,
-    "beyond-the-review/deel-3": 3,
-    "beyond-the-review/conclusie": 4,
+    "beyond-the-review/deel-2": 2,
+    "beyond-the-review/cases": 3,
+    "beyond-the-review/deel-3": 4,
+    "beyond-the-review/conclusie": 5,
   }
 
   function patchExplorerSort() {
