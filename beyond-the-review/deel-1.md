@@ -8,7 +8,7 @@ order: 1
 > - Laloux, F. (2014). *Reinventing Organizations*. Nelson Parker. — Primaire bron voor alle kleurkarakteristieken.
 > - [Strategy+Business (2015). *The Future of Management is Teal*](https://www.strategy-business.com/article/00344) — Bevat Laloux's eigen beschrijving van beloning per kleur.
 > - [Reinventing Organizations Wiki. *Organizational Structure*](https://reinventingorganizationswiki.com/en/theory/organizational-structure/)
-> - Kohn, A. (1993). *Punished by Rewards*. Houghton Mifflin. — Onderbouwing van de kritiek op oranje bonussystemen.
+> - Kohn, A. (1993). *Punished by Rewards*. Houghton Mifflin. — Onderbouwing van de kritiek op oranje bonussystemen; zie ook [[books/kohn-punished-by-rewards|onze samenvatting]].
 > - [Wikipedia. *Teal Organisation*](https://en.wikipedia.org/wiki/Teal_organisation) — Synthese van de Laloux-paradigma's.
 
 ## Inleiding: Waarom dit onderzoek?
