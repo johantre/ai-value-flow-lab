@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Patagonia"
 sector: Outdoor kleding
 land: Verenigde Staten

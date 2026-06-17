@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Netflix"
 sector: Streaming / Tech
 land: Verenigde Staten

@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Management 3.0 / Jurgen Appelo"
 type: "Denker + methodiek"
 publicatie: "2010 (Management 3.0), 2016 (Managing for Happiness)"

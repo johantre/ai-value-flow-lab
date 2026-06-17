@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Buffer"
 sector: SaaS / Social media tool
 land: "VS / Remote"

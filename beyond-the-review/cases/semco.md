@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Semco / Ricardo Semler"
 sector: "Industriële machines"
 land: Brazilië

@@ -26,13 +26,13 @@ Begin niet met alle salarissen publiek te maken, maar wel met de *logica* achter
 Vacatures publiceren met salarisbandbreedtes (verplicht vanaf de richtlijn). Intern: medewerkers kunnen opvragen in welke band collega's met vergelijkbare functies vallen.
 
 **Stap 3 — Peer feedback in evaluatie integreren (oranje → groen)**
-[[management-3-0|Management 3.0]]'s Kudo Cards of Merit Money zijn laagdrempelig en kunnen naast een bestaand evaluatiesysteem geplaatst worden. Geen revolutie, maar een evolutie.
+[[cases/management-3-0|Management 3.0]]'s Kudo Cards of Merit Money zijn laagdrempelig en kunnen naast een bestaand evaluatiesysteem geplaatst worden. Geen revolutie, maar een evolutie.
 
 **Stap 4 — Zelfevaluatie als vertrekpunt (groen)**
 In plaats van de manager die de evaluatie schrijft: medewerker schrijft eerst zelf. Manager reageert. Dit verschuift de focus van beoordeling naar groei.
 
 **Stap 5 — Formulegebaseerde beloning (groen → teal)**
-Naar het model van [[buffer|Buffer]]: een transparante formule die loon berekent op basis van objectieve factoren. Geen onderhandelingen meer, minder gender- en etniciteitskloof.
+Naar het model van [[cases/buffer|Buffer]]: een transparante formule die loon berekent op basis van objectieve factoren. Geen onderhandelingen meer, minder gender- en etniciteitskloof.
 
 **Stap 6 — Peer-bepaalde beloningselementen (teal)**
 Merit Money of gelijkaardige systemen als variabele component bovenop een vast loon. Niet als vervanging, maar als aanvulling.
@@ -41,12 +41,12 @@ Merit Money of gelijkaardige systemen als variabele component bovenop een vast l
 
 - **Paritaire comités**: functieclassificaties en minimumlonen zijn sectoraal bepaald. Elke aanpak moet daarbinnen passen of via cao-overleg worden aangepast.
 - **Vakbonden als partner**: transparantie over lonen is ook wat vakbonden al jaren vragen. De EU-richtlijn geeft hen meer tools. Slimme werkgevers maken van vakbonden een bondgenoot in dit proces.
-- **Privacywetgeving**: volledig openbare salarissen zoals bij [[buffer|Buffer]] zijn in België juridisch complexer door GDPR. Een transparante formule zonder namen is een elegante tussenweg.
+- **Privacywetgeving**: volledig openbare salarissen zoals bij [[cases/buffer|Buffer]] zijn in België juridisch complexer door GDPR. Een transparante formule zonder namen is een elegante tussenweg.
 - **KMO's**: de meeste Belgische bedrijven zijn klein. De rapportageverplichting geldt pas vanaf 150 medewerkers. Maar de cultuuromslag is ook voor KMO's relevant en haalbaar.
 
 ## De vraag achter de vraag
 
-De bedrijven in dit onderzoek slagen niet in transparantie en zelfevaluatie *ondanks* hun vertrouwen in mensen — ze slagen *dankzij* dat vertrouwen. [[buurtzorg|Buurtzorg]]'s CEO Jos de Blok verwoordt het simpel:
+De bedrijven in dit onderzoek slagen niet in transparantie en zelfevaluatie *ondanks* hun vertrouwen in mensen — ze slagen *dankzij* dat vertrouwen. [[cases/buurtzorg|Buurtzorg]]'s CEO Jos de Blok verwoordt het simpel:
 
 > *"We start with trust. We believe professionals don't need managers telling them what to do."*
 

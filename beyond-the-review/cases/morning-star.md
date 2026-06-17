@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Morning Star"
 sector: Voedingsverwerking (tomaten)
 land: Verenigde Staten

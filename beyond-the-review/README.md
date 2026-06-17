@@ -9,13 +9,13 @@ tags: [evaluatie, beloning, laloux, beyond-the-review]
 ## Structuur
 
 - [[deel-1]] — Inleiding, Laloux-kader & contrast met lagere kleuren
-- [[buurtzorg]] — 🔵 Teal | Zelfsturende thuiszorg zonder managers
-- [[morning-star]] — 🔵 Teal | CLOU-systeem & zelfbepaald loon
-- [[semco]] — 🔵 Teal | Radicale democratie & publieke salarissen
-- [[patagonia]] — 🟢 Groen | Purpose-gedreven evaluatie & beloning
-- [[netflix]] — 🟡 Oranje | Keeper Test & top-of-market loon
-- [[buffer]] — 🟡→🟢 Groen | Publieke salarisformule
-- [[management-3-0]] — 🟢→🔵 | Merit Money & Kudo Cards
+- [[cases/buurtzorg]] — 🔵 Teal | Zelfsturende thuiszorg zonder managers
+- [[cases/morning-star]] — 🔵 Teal | CLOU-systeem & zelfbepaald loon
+- [[cases/semco]] — 🔵 Teal | Radicale democratie & publieke salarissen
+- [[cases/patagonia]] — 🟢 Groen | Purpose-gedreven evaluatie & beloning
+- [[cases/netflix]] — 🟡 Oranje | Keeper Test & top-of-market loon
+- [[cases/buffer]] — 🟡→🟢 Groen | Publieke salarisformule
+- [[cases/management-3-0]] — 🟢→🔵 | Merit Money & Kudo Cards
 - [[deel-3]] — EU Pay Transparency Directive & België
 - [[conclusie]] — Rode draad & toepasbaarheid in België
 
@@ -23,10 +23,10 @@ tags: [evaluatie, beloning, laloux, beyond-the-review]
 
 | Organisatie | Laloux | Evaluatie | Beloning | Transparantie |
 |-------------|--------|-----------|----------|---------------|
-| [[buurtzorg\|Buurtzorg]] | 🔵 Teal | Zelfsturend team, geen manager | Vaste schaal + 1 niveau hoger | Data voor team, niet als controle |
-| [[morning-star\|Morning Star]] | 🔵 Teal | CLOU + jaarlijkse peer-presentatie | Zelf bepaald, peer-gevalideerd | Volledig intern |
-| [[semco\|Semco]] | 🔵 Teal | 360° door team, managers afzetbaar | Zelf bepaald, publiek gemaakt | Volledig openbaar |
-| [[patagonia\|Patagonia]] | 🟢 Groen | Waarden-gedreven, 7 leidersvragen | Winstdeling, flexibiliteit als comp. | Financieel open |
-| [[netflix\|Netflix]] | 🟡 Oranje | Keeper Test + continue feedback | Top-of-market, geen bonus | Marktgericht |
-| [[buffer\|Buffer]] | 🟡→🟢 Groen | Continue check-ins | Publieke formule | Volledig publiek |
-| [[management-3-0\|Management 3.0]] | 🟢→🔵 | Peer feedback, Moving Motivators | Merit Money + Kudos | Configureerbaar |
+| [[cases/buurtzorg\|Buurtzorg]] | 🔵 Teal | Zelfsturend team, geen manager | Vaste schaal + 1 niveau hoger | Data voor team, niet als controle |
+| [[cases/morning-star\|Morning Star]] | 🔵 Teal | CLOU + jaarlijkse peer-presentatie | Zelf bepaald, peer-gevalideerd | Volledig intern |
+| [[cases/semco\|Semco]] | 🔵 Teal | 360° door team, managers afzetbaar | Zelf bepaald, publiek gemaakt | Volledig openbaar |
+| [[cases/patagonia\|Patagonia]] | 🟢 Groen | Waarden-gedreven, 7 leidersvragen | Winstdeling, flexibiliteit als comp. | Financieel open |
+| [[cases/netflix\|Netflix]] | 🟡 Oranje | Keeper Test + continue feedback | Top-of-market, geen bonus | Marktgericht |
+| [[cases/buffer\|Buffer]] | 🟡→🟢 Groen | Continue check-ins | Publieke formule | Volledig publiek |
+| [[cases/management-3-0\|Management 3.0]] | 🟢→🔵 | Peer feedback, Moving Motivators | Merit Money + Kudos | Configureerbaar |

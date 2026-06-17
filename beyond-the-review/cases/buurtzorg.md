@@ -1,4 +1,5 @@
 ---
+icon: 🏢
 title: "Buurtzorg"
 sector: Thuiszorg
 land: Nederland
