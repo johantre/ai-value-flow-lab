@@ -1,5 +1,6 @@
 ---
 title: "Beyond the Bonus"
+icon: 🗺️
 author: "Johan Trenson (synthesis)"
 year: 2026
 order: 1
