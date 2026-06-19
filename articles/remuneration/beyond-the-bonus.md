@@ -20,17 +20,28 @@ Klassieke beloningssystemen bouwen op drie aannames: individuele prestaties zijn
 
 ### Cases
 
-| Case | Kern van het beloningsmodel |
-|---|---|
-| [Buffer](../../beyond-the-review/cases/buffer.md) | Transparante formule, publieke salarissen, geen onderhandelingen |
-| [Handelsbanken](../../beyond-the-review/cases/handelsbanken.md) | Geen individuele bonussen; Oktogonen: collectief fonds, gelijk aandeel voor iedereen bij 60 jaar |
-| [Mondragon](../../beyond-the-review/cases/mondragon.md) | Democratisch loonbeleid; max 6:1 ratio; winst én verlies gedeeld |
-| [FAVI](../../beyond-the-review/cases/favi.md) | Bonus geïntegreerd in basissalaris; 7% cashflow-winst gelijk verdeeld |
-| [Semco](../../beyond-the-review/cases/semco.md) | 25% zet eigen loon vast; peer-comité geeft feedback; publiek zichtbaar |
-| [AES](../../beyond-the-review/cases/aes.md) | Compensatiebeslissingen via task forces; aandelenopties voor iedereen inclusief fabrieksarbeiders |
-| [Happy Melly](../../beyond-the-review/cases/happy-melly.md) | Merit Money: peer-verdeeld budget, onverwacht, wisselende criteria; Kudo Cards |
-| [W.L. Gore](../../beyond-the-review/cases/wl-gore.md) | Loon bepaald door peer-ranking (20–30 collega's); geen vaste schalen; geen individuele prestatiegebonden bonus |
-| [Netflix](../../beyond-the-review/cases/netflix.md) | Geen bonussen; top-of-market basisloon; actief aanmoedigen om marktwaarde te kennen bij concurrenten |
+| Case | Wie bepaalt het loon | Variabel element | Transparantie |
+|---|---|---|---|
+| [Buffer](../../beyond-the-review/cases/buffer.md) | Formule (automatisch) | Geen | Volledig publiek — ook extern |
+| [Handelsbanken](../../beyond-the-review/cases/handelsbanken.md) | Collectief resultaat | Oktogonen: gelijk aandeel voor iedereen bij 60j | Intern |
+| [Mondragon](../../beyond-the-review/cases/mondragon.md) | Leden stemmen (democratisch) | Winst én verlies gedeeld; max 6:1 ratio | Intern |
+| [FAVI](../../beyond-the-review/cases/favi.md) | Systeem (vaste basis + collectief) | 7% cashflow gelijk verdeeld | Niet vermeld |
+| [Semco](../../beyond-the-review/cases/semco.md) | Individu (~25%) + peer-comité geeft feedback | Winstdeling standaard | Intern publiek |
+| [AES](../../beyond-the-review/cases/aes.md) | Task forces (incl. fabrieksarbeiders) | Aandelenopties voor iedereen | Niet vermeld |
+| [Happy Melly](../../beyond-the-review/cases/happy-melly.md) | Peers (Merit Money maandelijks) | Merit Money: onverwacht, wisselende criteria | Niet vermeld |
+| [W.L. Gore](../../beyond-the-review/cases/wl-gore.md) | Peers (ranking door 20–30 collega's) | Aandelenopties | Niet vermeld |
+| [Netflix](../../beyond-the-review/cases/netflix.md) | Markt (top-of-market actief bewaakt) | Geen bonus; keuze cash of opties | Actief aangespoord |
+
+### Patronen in de cases
+
+**Rode draad — bijna universeel:**
+- Geen individuele prestatiegebonden bonus (Buffer, Handelsbanken, FAVI, W.L. Gore, Netflix, Mondragon)
+
+**Semi-rode draden — consistent cluster, niet universeel:**
+- *Collectieve winstverdeling* — Handelsbanken, FAVI, Mondragon, Semco, AES: succes wordt gedeeld, maar de vorm verschilt sterk
+- *Peers betrokken bij loonbepaling* — W.L. Gore, Happy Melly, Semco: collega's beslissen mee of geven formeel feedback
+- *Eigenaarschap voor iedereen* — Mondragon (lid = mede-eigenaar), AES + Gore (opties voor alle medewerkers): geen privilege van het management
+- *Loon losgekoppeld van beoordeling* — Netflix, FAVI, S3.0: feedbackgesprek en loonbeslissing worden bewust gescheiden
 
 ### Boeken
 
