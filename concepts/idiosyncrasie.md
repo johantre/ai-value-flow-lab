@@ -52,8 +52,8 @@ Buckingham & Goodall (2015, 2019) trekken twee conclusies:
 
 ## Artikels die dit concept uitwerken
 
-- [Reinventing Performance Management — Buckingham & Goodall (HBR 2015)](../articles/buckingham-goodall-reinventing-performance-management.md)
-- [The Feedback Fallacy — Buckingham & Goodall (HBR 2019)](../articles/buckingham-goodall-the-feedback-fallacy.md)
+- [Reinventing Performance Management — Buckingham & Goodall (HBR 2015)](../articles/performance-and-evaluation/buckingham-goodall-reinventing-performance-management.md)
+- [The Feedback Fallacy — Buckingham & Goodall (HBR 2019)](../articles/performance-and-evaluation/buckingham-goodall-the-feedback-fallacy.md)
 
 ---
 
