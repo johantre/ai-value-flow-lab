@@ -10,6 +10,18 @@ source: research
 
 ![cover](./veliz-prophecy-prediction-power-and-the-fight-for-the-future/cover.jpg)
 
+> [!note]- Bronnen
+> - [Officiële boekpagina — carissaveliz.com](https://www.carissaveliz.com/prophecy)
+> - [Penguin Random House — boekbeschrijving](https://www.penguinrandomhouse.com/books/759692/prophecy-by-carissa-veliz/)
+> - [Oxford Institute for Ethics in AI — aankondiging nieuw boek](https://www.oxford-aiethics.ox.ac.uk/news/new-book-dr-carissa-veliz-explores-power-prediction-ancient-oracles-ai)
+> - [PhilPapers — academische referentie](https://philpapers.org/rec/VLIPPY)
+> - [Goodreads — lezersinformatie](https://www.goodreads.com/book/show/239151058-prophecy)
+> - [Interview — Privacy Guides (april 2026)](https://www.privacyguides.org/videos/2026/04/19/interview-with-carissa-veliz-author-of-privacy-is-power-and-prophecy/)
+> - [TED Talk — "Beware the power of prediction"](https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction)
+> - [Amazon — boekpagina met beschrijving](https://www.amazon.com/Prophecy-Prediction-Future-Ancient-Oracles/dp/0385550979)
+> - [Publishers Weekly — recensie](https://www.publishersweekly.com/9780385550970)
+> - [Book Marks — verzamelde recensies](https://bookmarks.reviews/reviews/prophecy-prediction-power-and-the-fight-for-the-future-from-ancient-oracles-to-ai/)
+
 ## Core idea
 
 Predictie is geen neutrale kennisbron — het is een machtsinstrument. Wie de toekomst van anderen voorspelt, beslist ook over die toekomst. Algoritmische voorspellingen worden self-fulfilling prophecies. Een vrije samenleving heeft geen betere voorspellingen nodig, maar betere voorbereiding.
@@ -244,18 +256,3 @@ Haar kernargument dat predictie self-fulfilling is, geldt ook voor positieve toe
 Opvallend afwezig: een sterke academische weerlegging van haar kernthese. Véliz publiceert in peer-reviewed journals, is verbonden aan Oxford, en haar argumenten zijn technisch solide opgebouwd. De meeste weerstand komt van industrie en beleidsmakers — niet van andere onderzoekers. Dat suggereert dat haar diagnose breed geaccepteerd is binnen de academische wereld. Het debat gaat niet over *of* predictie een machtsinstrument is, maar over *hoe ver* de remedie mag gaan.
 
 ---
-
-## Bronnen
-
-*Samenvatting gebaseerd op externe bronnen — boek niet persoonlijk gelezen. Gepubliceerd april 2026.*
-
-- [Officiële boekpagina — carissaveliz.com](https://www.carissaveliz.com/prophecy)
-- [Penguin Random House — boekbeschrijving](https://www.penguinrandomhouse.com/books/759692/prophecy-by-carissa-veliz/)
-- [Oxford Institute for Ethics in AI — aankondiging nieuw boek](https://www.oxford-aiethics.ox.ac.uk/news/new-book-dr-carissa-veliz-explores-power-prediction-ancient-oracles-ai)
-- [PhilPapers — academische referentie](https://philpapers.org/rec/VLIPPY)
-- [Goodreads — lezersinformatie](https://www.goodreads.com/book/show/239151058-prophecy)
-- [Interview — Privacy Guides (april 2026)](https://www.privacyguides.org/videos/2026/04/19/interview-with-carissa-veliz-author-of-privacy-is-power-and-prophecy/)
-- [TED Talk — "Beware the power of prediction"](https://www.ted.com/talks/carissa_veliz_beware_the_power_of_prediction)
-- [Amazon — boekpagina met beschrijving](https://www.amazon.com/Prophecy-Prediction-Future-Ancient-Oracles/dp/0385550979)
-- [Publishers Weekly — recensie](https://www.publishersweekly.com/9780385550970)
-- [Book Marks — verzamelde recensies](https://bookmarks.reviews/reviews/prophecy-prediction-power-and-the-fight-for-the-future-from-ancient-oracles-to-ai/)
