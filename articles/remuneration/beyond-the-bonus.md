@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Bonus"
+title: "🗺️ Beyond the Bonus"
 icon: 🗺️
 author: "Synthese"
 year: 2026

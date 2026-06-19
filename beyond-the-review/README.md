@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Review"
+title: "🗺️ Beyond the Review"
 icon: 🗺️
 subtitle: "Evaluatie & Beloning in de nieuwe wereld van werken"
 tags: [evaluatie, beloning, laloux, beyond-the-review]

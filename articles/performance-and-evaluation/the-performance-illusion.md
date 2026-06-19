@@ -1,5 +1,5 @@
 ---
-title: "The Performance Illusion"
+title: "🗺️ The Performance Illusion"
 icon: 🗺️
 author: "Synthese"
 year: 2026
