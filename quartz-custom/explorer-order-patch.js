@@ -8,6 +8,8 @@
     "beyond-the-review/cases": 3,
     "beyond-the-review/deel-3": 4,
     "beyond-the-review/conclusie": 5,
+    "articles/performance-and-evaluation/the-performance-illusion": 0,
+    "articles/remuneration/beyond-the-bonus": 0,
   }
 
   function patchExplorerSort() {
