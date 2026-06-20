@@ -80,13 +80,13 @@ Overtreedt normen van respect: pesten, kwetsende opmerkingen, publiek vernederen
 
 ```mermaid
 graph LR
-    A["1. Episodisch negatief gedrag"] --> B["2. Chronisch negatief lid"]
-    B --> C["3. Psychologische reacties"]
-    C --> D["5. Defensief gedrag"]
-    D --> E["6. Groepsprocessen"]
-    E --> F["7. Groepsuitkomsten"]
-    G["4. Moderatoren"] --> C
-    H["Relatieve macht"] --> B
+    A[Episodisch negatief gedrag] --> B[Chronisch negatief lid]
+    B --> C[Psychologische reacties]
+    C --> D[Defensief gedrag]
+    D --> E[Groepsprocessen]
+    E --> F[Groepsuitkomsten]
+    G[Moderatoren] --> C
+    H[Relatieve macht] --> B
 ```
 
 **Stap 3 — Psychologische reacties bij teammates:**
