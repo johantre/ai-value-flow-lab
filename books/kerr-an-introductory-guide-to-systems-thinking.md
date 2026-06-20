@@ -8,6 +8,8 @@ tags: [thinking]
 source: goodreads
 ---
 
+![cover](./kerr-an-introductory-guide-to-systems-thinking/cover.jpg)
+
 ## Core idea
 
 Accessible introduction to systems thinking concepts: interdependence, feedback, emergence, and non-linearity. Primer for understanding why simple cause-and-effect thinking fails in complex environments.

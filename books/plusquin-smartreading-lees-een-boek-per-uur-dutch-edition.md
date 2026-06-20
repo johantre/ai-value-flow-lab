@@ -8,6 +8,8 @@ tags: []
 source: goodreads
 ---
 
+![cover](./plusquin-smartreading-lees-een-boek-per-uur-dutch-edition/cover.jpg)
+
 ## Core idea
 
 Techniques for reading non-fiction more efficiently: skimming, scanning, selecting what to read deeply. Reading strategy for knowledge workers.
