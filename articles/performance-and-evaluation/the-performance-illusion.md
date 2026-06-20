@@ -8,6 +8,13 @@ status: reference
 tags: [performance-management, evaluatie, feedback, evidence-based, organizational, overzicht]
 ---
 
+> [!note]- Bronnen
+> Synthese op basis van vier sleutelartikels:
+> - [Reinventing Performance Management](buckingham-goodall-reinventing-performance-management.md) — Buckingham & Goodall (HBR, 2015)
+> - [The Feedback Fallacy](buckingham-goodall-the-feedback-fallacy.md) — Buckingham & Goodall (HBR, 2019)
+> - [Performance Management: Could Do Better?](cipd-what-works-in-performance-management.md) — CIPD (2016)
+> - [Peer Review — S3.0](sociocracy30-peer-review.md) — Priest, David, Bockelbrink (2018)
+
 # The Performance Illusion
 
 Organisaties investeren massaal in performance management: jaarlijkse reviews, 360-graden feedback, doelcascades, ratings, rankings. De aanname is dat dit systeem prestaties stuurt, ontwikkeling bevordert, en eerlijke beslissingen over beloning en promotie mogelijk maakt.
@@ -29,11 +36,11 @@ Het wetenschappelijk onderzoek vertelt een ander verhaal.
 
 ## Conclusie 1: Evaluaties meten het verkeerde
 
-Het meest fundamentele probleem is methodologisch, niet cultureel. Onderzoek van Mount, Scullen & Goff (2000) toont dat **meer dan 62% van de variantie in een prestatiescore** toe te schrijven is aan de [idiosyncrasieën](../../concepts/idiosyncrasie.md) van de beoordelaar — niet aan de prestaties van de beoordeelde.
+Het meest fundamentele probleem is methodologisch, niet cultureel. Onderzoek van Mount, Scullen & Goff (2000) toont dat **meer dan 62% van de variantie in een prestatiescore** toe te schrijven is aan de [idiosyncrasieën](idiosyncrasie.md) van de beoordelaar — niet aan de prestaties van de beoordeelde.
 
 Ratings zijn betrouwbare maatstaven voor de rater. Niet voor de ratee.
 
-Dit is het **[idiosyncratic rater effect](../../concepts/idiosyncrasie.md)**: elke beoordelaar hanteert eigen definities van "goed werk", "initiatief" of "samenwerking" — definities die stabiel zijn over tijd, maar niet gedeeld worden met anderen. Bijkomende ratertraining reduceert dit effect nauwelijks.
+Dit is het **[idiosyncratic rater effect](idiosyncrasie.md)**: elke beoordelaar hanteert eigen definities van "goed werk", "initiatief" of "samenwerking" — definities die stabiel zijn over tijd, maar niet gedeeld worden met anderen. Bijkomende ratertraining reduceert dit effect nauwelijks.
 
 **Gevolg**: zelfs goedbedoelde beoordelingssystemen produceren structureel onbetrouwbare data over de beoordeelde.
 
@@ -66,7 +73,7 @@ Voor kenniswerk, creatief werk en samenwerking zijn **lerende doelen** ("ontwikk
 
 Wanneer één gesprek zowel "wat kan jij nog leren?" als "wat verdien jij?" beslist, activeren die vragen fundamenteel verschillende cognitieve processen. Medewerkers kunnen niet tegelijk lerend en defensief zijn.
 
-Organisaties die dit splitsen — ontwikkelgesprekken los van compensatiebeslissingen — rapporteren betere kwaliteit van beide. Dit is consistent zichtbaar in de Teal-cases van [Beyond the Review](../../beyond-the-review/README.md).
+Organisaties die dit splitsen — ontwikkelgesprekken los van compensatiebeslissingen — rapporteren betere kwaliteit van beide. Dit is consistent zichtbaar in de Teal-cases van [Beyond the Review](README.md).
 
 ---
 
@@ -111,12 +118,12 @@ Het alternatief is niet "geen evaluatie". Het is evaluatie die:
 ## Verwant in de kennisbank
 
 **Boeken**
-- [Punished by Rewards — Kohn](../../books/kohn-punished-by-rewards.md) — theoretische onderbouwing van de nadelen van externe evaluatie
-- [Powerful — McCord](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) — Netflix: radicale eerlijkheid zonder formele reviews
-- [Managing for Happiness — Appelo](../../books/appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md) — Merit Money en peer-evaluatie in de praktijk
+- [Punished by Rewards — Kohn](kohn-punished-by-rewards.md) — theoretische onderbouwing van de nadelen van externe evaluatie
+- [Powerful — McCord](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) — Netflix: radicale eerlijkheid zonder formele reviews
+- [Managing for Happiness — Appelo](appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md) — Merit Money en peer-evaluatie in de praktijk
 
 **Cases**
-- [W.L. Gore](../../beyond-the-review/cases/wl-gore.md) — peer-ranking door 20–30 collega's
-- [Happy Melly](../../beyond-the-review/cases/happy-melly.md) — Merit Money: peer-verdeeld, onverwacht, wisselende criteria
-- [Netflix](../../beyond-the-review/cases/netflix.md) — geen formele reviews; Keeper Test en continue feedback
-- [Buurtzorg](../../beyond-the-review/cases/buurtzorg.md) — zelfsturende teams zonder managerbeoordeling
+- [W.L. Gore](wl-gore.md) — peer-ranking door 20–30 collega's
+- [Happy Melly](happy-melly.md) — Merit Money: peer-verdeeld, onverwacht, wisselende criteria
+- [Netflix](netflix.md) — geen formele reviews; Keeper Test en continue feedback
+- [Buurtzorg](buurtzorg.md) — zelfsturende teams zonder managerbeoordeling

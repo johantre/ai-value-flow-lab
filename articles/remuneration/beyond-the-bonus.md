@@ -8,6 +8,14 @@ status: reference
 tags: [remuneration, verloning, bonus, transparantie, peer-evaluatie, eigenaarschap, organizational, overzicht]
 ---
 
+> [!note]- Bronnen
+> Synthese op basis van 9 organisatiecases en 4 boeken uit de kennisbank:
+> - [Beyond the Review — cases](README.md) — Buffer, Handelsbanken, Mondragon, FAVI, Semco, AES, Happy Melly, W.L. Gore, Netflix
+> - [Punished by Rewards](kohn-punished-by-rewards.md) — Kohn (1993)
+> - [Joy at Work](bakke-joy-at-work.md) — Bakke (2005)
+> - [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) — McCord (2018)
+> - [Managing for Happiness](appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md) — Appelo (2016)
+
 # Beyond the Bonus
 
 Organisaties betalen mensen op een bepaalde manier. Die manier communiceert wat de organisatie werkelijk waardeert — ongeacht wat de missie op de website zegt.
@@ -22,15 +30,15 @@ Klassieke beloningssystemen bouwen op drie aannames: individuele prestaties zijn
 
 | Case | Kern van het beloningsmodel | Wie bepaalt het loon | Variabel element | Transparantie |
 |---|---|---|---|---|
-| [Buffer](../../beyond-the-review/cases/buffer.md) | Transparante formule, publieke salarissen, geen onderhandelingen | Formule (automatisch) | Geen | Volledig publiek — ook extern |
-| [Handelsbanken](../../beyond-the-review/cases/handelsbanken.md) | Geen individuele bonussen; Oktogonen: collectief fonds, gelijk aandeel voor iedereen bij 60 jaar | Collectief resultaat | Oktogonen: gelijk aandeel bij 60j | Intern |
-| [Mondragon](../../beyond-the-review/cases/mondragon.md) | Democratisch loonbeleid; max 6:1 ratio; winst én verlies gedeeld | Leden stemmen (democratisch) | Winst én verlies gedeeld; max 6:1 ratio | Intern |
-| [FAVI](../../beyond-the-review/cases/favi.md) | Bonus geïntegreerd in basissalaris; 7% cashflow-winst gelijk verdeeld | Systeem (vaste basis + collectief) | 7% cashflow gelijk verdeeld | Niet vermeld |
-| [Semco](../../beyond-the-review/cases/semco.md) | 25% zet eigen loon vast; peer-comité geeft feedback; publiek zichtbaar | Individu (~25%) + peer-comité | Winstdeling standaard | Intern publiek |
-| [AES](../../beyond-the-review/cases/aes.md) | Compensatiebeslissingen via task forces; aandelenopties voor iedereen inclusief fabrieksarbeiders | Task forces (incl. fabrieksarbeiders) | Aandelenopties voor iedereen | Niet vermeld |
-| [Happy Melly](../../beyond-the-review/cases/happy-melly.md) | Merit Money: peer-verdeeld budget, onverwacht, wisselende criteria; Kudo Cards | Peers (Merit Money maandelijks) | Merit Money: onverwacht, wisselende criteria | Niet vermeld |
-| [W.L. Gore](../../beyond-the-review/cases/wl-gore.md) | Loon bepaald door peer-ranking (20–30 collega's); geen vaste schalen; geen individuele prestatiegebonden bonus | Peers (ranking door 20–30 collega's) | Aandelenopties | Niet vermeld |
-| [Netflix](../../beyond-the-review/cases/netflix.md) | Geen bonussen; top-of-market basisloon; actief aanmoedigen om marktwaarde te kennen bij concurrenten | Markt (top-of-market actief bewaakt) | Geen bonus; keuze cash of opties | Actief aangespoord |
+| [Buffer](buffer.md) | Transparante formule, publieke salarissen, geen onderhandelingen | Formule (automatisch) | Geen | Volledig publiek — ook extern |
+| [Handelsbanken](handelsbanken.md) | Geen individuele bonussen; Oktogonen: collectief fonds, gelijk aandeel voor iedereen bij 60 jaar | Collectief resultaat | Oktogonen: gelijk aandeel bij 60j | Intern |
+| [Mondragon](mondragon.md) | Democratisch loonbeleid; max 6:1 ratio; winst én verlies gedeeld | Leden stemmen (democratisch) | Winst én verlies gedeeld; max 6:1 ratio | Intern |
+| [FAVI](favi.md) | Bonus geïntegreerd in basissalaris; 7% cashflow-winst gelijk verdeeld | Systeem (vaste basis + collectief) | 7% cashflow gelijk verdeeld | Niet vermeld |
+| [Semco](semco.md) | 25% zet eigen loon vast; peer-comité geeft feedback; publiek zichtbaar | Individu (~25%) + peer-comité | Winstdeling standaard | Intern publiek |
+| [AES](aes.md) | Compensatiebeslissingen via task forces; aandelenopties voor iedereen inclusief fabrieksarbeiders | Task forces (incl. fabrieksarbeiders) | Aandelenopties voor iedereen | Niet vermeld |
+| [Happy Melly](happy-melly.md) | Merit Money: peer-verdeeld budget, onverwacht, wisselende criteria; Kudo Cards | Peers (Merit Money maandelijks) | Merit Money: onverwacht, wisselende criteria | Niet vermeld |
+| [W.L. Gore](wl-gore.md) | Loon bepaald door peer-ranking (20–30 collega's); geen vaste schalen; geen individuele prestatiegebonden bonus | Peers (ranking door 20–30 collega's) | Aandelenopties | Niet vermeld |
+| [Netflix](netflix.md) | Geen bonussen; top-of-market basisloon; actief aanmoedigen om marktwaarde te kennen bij concurrenten | Markt (top-of-market actief bewaakt) | Geen bonus; keuze cash of opties | Actief aangespoord |
 
 ### Patronen in de cases
 
@@ -47,10 +55,10 @@ Klassieke beloningssystemen bouwen op drie aannames: individuele prestaties zijn
 
 | Boek | Wat het toevoegt |
 |---|---|
-| [Punished by Rewards](../../books/kohn-punished-by-rewards.md) — Kohn (1993) | Wetenschappelijke onderbouwing: externe beloningen ondermijnen intrinsieke motivatie structureel |
-| [Joy at Work](../../books/bakke-joy-at-work.md) — Bakke (2005) | AES-model in de praktijk: iedereen een "business person", compensatie als gedeelde verantwoordelijkheid |
-| [Powerful](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) — McCord (2018) | Netflix: geen bonussysteem, radicale marktloon-transparantie, beloning losgekoppeld van feedback |
-| [Managing for Happiness](../../books/appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md) — Appelo (2016) | Merit Money en Kudo Cards als concrete tools voor peer-gedreven erkenning |
+| [Punished by Rewards](kohn-punished-by-rewards.md) — Kohn (1993) | Wetenschappelijke onderbouwing: externe beloningen ondermijnen intrinsieke motivatie structureel |
+| [Joy at Work](bakke-joy-at-work.md) — Bakke (2005) | AES-model in de praktijk: iedereen een "business person", compensatie als gedeelde verantwoordelijkheid |
+| [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) — McCord (2018) | Netflix: geen bonussysteem, radicale marktloon-transparantie, beloning losgekoppeld van feedback |
+| [Managing for Happiness](appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md) — Appelo (2016) | Merit Money en Kudo Cards als concrete tools voor peer-gedreven erkenning |
 
 ---
 
@@ -122,8 +130,8 @@ Het alternatief is niet "geen verloning". Het is een beloningsfilosofie die:
 ## Verwant in de kennisbank
 
 **Performance & evaluatie**
-- [The Performance Illusion](../performance-and-evaluation/the-performance-illusion.md) — overzicht van evaluatiesystemen
-- [The Feedback Fallacy](../performance-and-evaluation/buckingham-goodall-the-feedback-fallacy.md) — waarom feedback losgekoppeld moet zijn van beloning
+- [The Performance Illusion](the-performance-illusion.md) — overzicht van evaluatiesystemen
+- [The Feedback Fallacy](buckingham-goodall-the-feedback-fallacy.md) — waarom feedback losgekoppeld moet zijn van beloning
 
 **Organisatiecases**
-- [Beyond the Review — Organisatiecases](../../beyond-the-review/index.md) — alle cases met Laloux-niveau en modelanalyse
+- [Beyond the Review — Organisatiecases](README.md) — alle cases met Laloux-niveau en modelanalyse
