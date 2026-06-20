@@ -8,6 +8,12 @@ tags: [power-dynamics, perspective-taking, leadership, cognitive-bias, hierarchy
 source: https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01824.x
 ---
 
+> [!note]- Bronnen
+> - [Psychological Science — originele publicatie (2006)](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01824.x)
+> - [Volledige PDF via MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/Galinsky_et_al_Power-and-Perspectives-Not-Taken.pdf)
+> - [APS — persbericht bij publicatie](https://www.psychologicalscience.org/news/releases/study-gives-us-a-new-perspective-on-the-powerful.html)
+> - [NYU Wagner — publicatiepagina](https://wagner.nyu.edu/impact/research/publications/power-and-perspectives-not-taken)
+
 ## Core idea
 
 Macht vermindert het vermogen om andermans perspectief in te nemen. Hoe meer macht iemand heeft, hoe meer hij zijn eigen standpunt als vertrekpunt neemt — en hoe minder hij corrigeert voor het perspectief van anderen. Geen kwade wil: een automatisch cognitief effect van positie.
@@ -102,9 +108,3 @@ Het is geen arrogantie. Het is het structurele effect van een positie op cogniti
 
 ---
 
-## Bronnen
-
-- [Psychological Science — originele publicatie (2006)](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01824.x)
-- [Volledige PDF via MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/Galinsky_et_al_Power-and-Perspectives-Not-Taken.pdf)
-- [APS — persbericht bij publicatie](https://www.psychologicalscience.org/news/releases/study-gives-us-a-new-perspective-on-the-powerful.html)
-- [NYU Wagner — publicatiepagina](https://wagner.nyu.edu/impact/research/publications/power-and-perspectives-not-taken)

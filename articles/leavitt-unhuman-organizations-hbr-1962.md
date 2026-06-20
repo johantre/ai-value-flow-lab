@@ -8,6 +8,9 @@ tags: [organizational-design, communication, transparency, complexity, leadershi
 source: ../books/bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf
 ---
 
+> [!note]- Bronnen
+> - [HBR July–August 1962 — origineel artikel (PDF)](../books/bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf)
+
 ## Core idea
 
 De dominante managementopvatting van de jaren '40 en '50 — dat organisaties in essentie menselijke systemen zijn en participatie altijd beter is — is te nauw. Leavitt pleit niet voor een terugkeer naar Taylorisme, maar voor **differentiatie**: de juiste managementvorm is afhankelijk van het type taak. Voor eenvoudige problemen werkt gecentraliseerde aansturing het best. Voor complexe problemen is gedecentraliseerde samenwerking superieur.
@@ -142,6 +145,3 @@ Johan Tré heeft dit experiment in 2016 omgezet naar een praktisch conferentiefo
 
 ---
 
-## Bronnen
-
-- [HBR July–August 1962 — origineel artikel (PDF)](../books/bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf)

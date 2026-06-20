@@ -8,6 +8,12 @@ tags: [ai-ethics, large-language-models, bias, environmental-cost, meaning]
 source: https://dl.acm.org/doi/10.1145/3442188.3445922
 ---
 
+> [!note]- Bronnen
+> - [ACM Digital Library — originele publicatie](https://dl.acm.org/doi/10.1145/3442188.3445922)
+> - [PDF via auteurs](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf)
+> - [Wikipedia — Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
+> - [Science for the People — toegankelijke uitleg](https://magazine.scienceforthepeople.org/vol24-2-dont-be-evil/stochastic-parrots/)
+
 ## Core idea
 
 Grote taalmodellen (LLMs) begrijpen niets van wat ze produceren. Ze zijn statistische papegaaien — ze combineren taalpatronen uit trainingsdata zonder enige referentie aan betekenis. Dat is niet alleen een technisch probleem: het heeft directe gevolgen voor bias, milieu, en de illusie van begrip die ze wekken.
@@ -80,9 +86,3 @@ Beide beschrijven hetzelfde mechanisme op verschillende niveaus: de taal van aut
 
 ---
 
-## Bronnen
-
-- [ACM Digital Library — originele publicatie](https://dl.acm.org/doi/10.1145/3442188.3445922)
-- [PDF via auteurs](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf)
-- [Wikipedia — Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
-- [Science for the People — toegankelijke uitleg](https://magazine.scienceforthepeople.org/vol24-2-dont-be-evil/stochastic-parrots/)
