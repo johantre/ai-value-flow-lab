@@ -69,7 +69,7 @@ Graeber wijst op een structurele logica die hij **"manageriaal feodalisme"** noe
 
 - De macht en status van een manager worden vaak gemeten aan de grootte van zijn team → incentive om mensen in dienst te nemen ook als dat niet nodig is
 - Organisaties verkiezen mensen te betalen om te doen alsof ze werken boven toegeven dat het werk niet bestaat
-- In onze samenleving is betaald werk gekoppeld aan morele waarde — een job hebben is goed, geen job hebben is verdacht, zelfs als de job zinloos is
+- In onze samenleving is betaald werk gekoppeld aan morele waarde — een job hebben is goed, zelfs als de job zinloos is, geen job hebben is verdacht
 - Grote organisaties ontwikkelen eigen interne logica waarbij administratief overhead zichzelf in stand houdt
 
 ---
