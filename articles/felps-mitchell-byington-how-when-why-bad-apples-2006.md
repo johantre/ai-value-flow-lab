@@ -26,19 +26,26 @@ Eén negatief teamlid kan het functioneren van een heel team ernstig beschadigen
 
 ### General
 
-Dit is een **review- en theoriepaer**, geen laboratoriumexperiment. Felps et al. integreren bestaand onderzoek en bouwen een causaal model. **Belangrijk voor de KB**: het 30–40% prestatieverlies dat Reed Hastings in *No Rules Rules* aan Felps toeschrijft, komt in werkelijkheid uit eerder onderzoek dat Felps reviewt — met name Barrick, Stewart, Neubert & Mount (1998), die in 51 productie-teams aantoonden dat de laagste teamscores op consciëntieusheid, inschikkelijkheid en emotionele stabiliteit sterke voorspellers zijn van groepsprestatie. Felps' bijdrage is het causale mechanisme dat verklaart *waarom* en *hoe* dit effect optreedt.
+Dit is een **review- en theoriepaper**, geen laboratoriumexperiment. Felps et al. integreren bestaand onderzoek en bouwen een causaal model. **Belangrijk voor de KB**: het 30–40% prestatieverlies dat Reed Hastings in *[No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md)* aan Felps toeschrijft, komt in werkelijkheid uit eerder onderzoek dat Felps reviewt — met name Barrick, Stewart, Neubert & Mount (1998), die in 51 productie-teams aantoonden dat de laagste teamscores op consciëntieusheid, inschikkelijkheid en emotionele stabiliteit sterke voorspellers zijn van groepsprestatie. Felps' bijdrage is het causale mechanisme dat verklaart *waarom* en *hoe* dit effect optreedt.
 
 ### Connection to our work
 
 **De free-rider is type 1 van drie.** Felps definieert drie types negatief teamlid. De free-rider ("withholder of effort") is er één van — en het paper toont dat alle drie hetzelfde besmettingsmechanisme activeren. Dat betekent dat de free-rider-discussie in onze KB eigenlijk breder is: ook de chronisch pessimistische collega en de interpersoonlijke overtreder ondermijnen teamfunctioneren via hetzelfde pad.
 
-**Het mechanisme verklaart waarom zwijgen het probleem verergert.** Wanneer teamleden niet kunnen ingrijpen (geen macht, geen veiligheid, organisatorische beperkingen), wordt defensiviteit de enige uitweg — en defensiviteit is zelf een vorm van slacking off, terugtrekken en verborgen wraak. Het vat spoilt niet door de bad apple alleen, maar door wat het team doet als het niet kan reageren. Dit is de wetenschappelijke onderbouwing van wat Bennis noemt: withholding als rationele reactie op een onveilig systeem.
+**Het mechanisme verklaart waarom zwijgen het probleem verergert.** Wanneer teamleden niet kunnen ingrijpen, wordt defensiviteit de enige uitweg — en defensiviteit is zelf een vorm van slacking off, terugtrekken en verborgen wraak. Het vat spoilt niet door de bad apple alleen, maar door wat het team doet als het niet kan reageren. Dit is de wetenschappelijke onderbouwing van wat [Bennis](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md) noemt: withholding als rationele reactie op een onveilig systeem.
 
-**Team-interdependentie als moderator.** Hoe meer teamleden van elkaar afhankelijk zijn, hoe groter de impact van een negatief lid. Dit verklaart waarom kleine, hecht samenhangende teams (Buurtzorg, Gore) tegelijk het meest kwetsbaar zijn voor één bad apple én de sterkste sociale controle hebben om eraan te ontsnappen.
+```mermaid
+graph LR
+    A["❌ Geen macht"] --> D["☠️ Defensiviteit"]
+    B["❌ Geen veiligheid"] --> D
+    C["❌ Organisatorische beperkingen"] --> D
+```
+
+**Team-interdependentie als moderator.** Hoe meer teamleden van elkaar afhankelijk zijn, hoe groter de impact van een negatief lid. Dit verklaart waarom kleine, hecht samenhangende teams ([Buurtzorg](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore](../beyond-the-review/cases/wl-gore.md)) tegelijk het meest kwetsbaar zijn voor één bad apple én de sterkste sociale controle hebben om eraan te ontsnappen.
 
 **De drie reacties als model voor candor-gesprekken.** Felps beschrijft drie teamresponsen: motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen.
 
-Related: [No Rules Rules](../../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](../google-project-aristotle-what-makes-a-team-effective.md)
+Related: [No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](google-project-aristotle-what-makes-a-team-effective.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [How Netflix Reinvented HR](performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix — case](../beyond-the-review/cases/netflix.md), [Buurtzorg — case](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore — case](../beyond-the-review/cases/wl-gore.md)
 
 ---
 
@@ -57,13 +64,13 @@ Drie kenmerken van de definitie:
 
 ### Drie types negatief teamlid
 
-**1. Withholder of effort** (= free rider / social loafer / shirker)
+**1. [Withholder of effort](../concepts/free-rider.md)** (= free rider / social loafer / shirker)
 Ontwijkt verantwoordelijkheid, voltooit taken niet, neemt geen risico's, hoopt dat anderen compenseren. In de literatuur ook wel *shirking* (economen), *free riding* (sociologen) of *social loafing* (psychologen) genoemd — Felps beschouwt dit als beschrijvingen van hetzelfde fenomeen in verschillende contexten.
 
-**2. Affectively negative**
+**2. [Affectively negative](../concepts/affectively-negative.md)**
 Persistent pessimistisch, angstig, geïrriteerd. Verspreidt negatieve emoties door het team — ook als er objectief geen reden voor is. Bijzonder moeilijk aan te pakken via motivationele interventie, omdat teammates weinig geloof hebben dat ze iemands stemming kunnen veranderen.
 
-**3. Interpersonal deviant**
+**3. [Interpersonal deviant](../concepts/interpersonal-deviant.md)**
 Overtreedt normen van respect: pesten, kwetsende opmerkingen, publiek vernederen, gemene grappen. Zeven gedragingen die consistent als deviant worden beoordeeld (Robinson & Bennett, 1995): iemand belachelijk maken, iets kwetsends zeggen, etnische/religieuze opmerkingen, vloeken, gemene grappen, grof gedrag, iemand publiek in verlegenheid brengen.
 
 ---
@@ -72,13 +79,13 @@ Overtreedt normen van respect: pesten, kwetsende opmerkingen, publiek vernederen
 
 ```mermaid
 graph LR
-    A[1. Episodisch\nnegatief gedrag] --> B[2. Chronisch\nnegatief lid]
-    B --> C[3. Psychologische\nreacties]
-    C --> D[5. Defensief\ngedrag]
-    D --> E[6. Groeps-\nprocessen]
-    E --> F[7. Groeps-\nuitkomsten]
-    G[4. Moderatoren] --> C
-    H[Relatieve macht] --> B
+    A["1. Episodisch negatief gedrag"] --> B["2. Chronisch negatief lid"]
+    B --> C["3. Psychologische reacties"]
+    C --> D["5. Defensief gedrag"]
+    D --> E["6. Groepsprocessen"]
+    E --> F["7. Groepsuitkomsten"]
+    G["4. Moderatoren"] --> C
+    H["Relatieve macht"] --> B
 ```
 
 **Stap 3 — Psychologische reacties bij teammates:**
