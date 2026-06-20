@@ -44,14 +44,11 @@ Related: [Powerful: Building a Culture of Freedom and Responsibility](mccord-pow
 
 Het boek is gestructureerd als drie fases die elkaar versterken:
 
-```
-Talentdichtheid verhogen
-       ↓
-Meer openheid mogelijk maken
-       ↓
-Controles verwijderen
-       ↓
-(versterkt talentdichtheid opnieuw)
+```mermaid
+graph LR
+    A[Talentdichtheid verhogen] --> B[Meer openheid mogelijk maken]
+    B --> C[Controles verwijderen]
+    C --> A
 ```
 
 Elke fase wordt twee keer behandeld: eerst de basis, dan de gevorderde versie.
