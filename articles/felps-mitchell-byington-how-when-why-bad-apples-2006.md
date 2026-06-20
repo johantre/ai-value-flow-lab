@@ -85,8 +85,9 @@ graph LR
     C --> D[❺ Defensief gedrag]
     D --> E[❻ Groepsprocessen]
     E --> F[❼ Groepsuitkomsten]
-    G[❹ Moderatoren] --> C
+    G([❹ Moderatoren]) -.-> C
     H[Relatieve macht] --> B
+    style G fill:#cce5ff,stroke:#66a3ff,color:#000
 ```
 
 **Stap 1 — Episodisch negatief gedrag:**
