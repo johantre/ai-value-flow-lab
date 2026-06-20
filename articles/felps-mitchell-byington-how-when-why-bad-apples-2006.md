@@ -44,7 +44,7 @@ graph LR
 
 **Team-interdependentie als moderator.** Dit verklaart het paradox van teams als [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md): hoge interdependentie maakt hen zowel kwetsbaarder als weerbaarder — zie [Stap 4](#stap-4).
 
-**De drie reacties als model voor candor-gesprekken.** Felps beschrijft drie teamresponsen: motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen.
+**De drie reacties als model voor candor-gesprekken.** Felps beschrijft [drie teamresponsen](#drie-reacties): motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen.
 
 Related: [No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](google-project-aristotle-what-makes-a-team-effective.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [How Netflix Reinvented HR](performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix — case](../beyond-the-review/cases/netflix.md), [Buurtzorg — case](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore — case](../beyond-the-review/cases/wl-gore.md)
 
@@ -139,11 +139,7 @@ graph LR
 
 ---
 
-### Moderatoren
-
-*(zie [Stap 4](#stap-4) in het causale model hierboven)*
-
----
+<a id="drie-reacties"></a>
 
 ### Drie reacties van teammates
 
