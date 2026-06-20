@@ -36,9 +36,10 @@ Dit is een **review- en theoriepaper**, geen laboratoriumexperiment. Felps et al
 
 ```mermaid
 graph LR
-    A["❌ Geen macht"] --> D["☠️ Defensiviteit"]
+    A["❌ Geen macht"] --> D["☣️ Defensiviteit"]
     B["❌ Geen veiligheid"] --> D
     C["❌ Organisatorische beperkingen"] --> D
+    style D fill:#39ff14,color:#000
 ```
 
 **Team-interdependentie als moderator.** Hoe meer teamleden van elkaar afhankelijk zijn, hoe groter de impact van een negatief lid. Dit verklaart waarom kleine, hecht samenhangende teams ([Buurtzorg](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore](../beyond-the-review/cases/wl-gore.md)) tegelijk het meest kwetsbaar zijn voor één bad apple én de sterkste sociale controle hebben om eraan te ontsnappen.
