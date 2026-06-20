@@ -107,12 +107,12 @@ graph LR
 
 **Stap 4 — Moderatoren:**
 
-| Moderator | Effect |
-|---|---|
-| **Intensiteit van het negatieve gedrag** | Hoe extremer, hoe sneller defensiviteit optreedt |
-| **Team-interdependentie** | Hoe meer leden van elkaar afhangen, hoe groter de impact |
-| **Recente uitkomsten** | Na successen is het team veerkrachtiger; na mislukkingen kwetsbaarder |
-| **Persoonlijke copingvaardigheden** | Individuen met sterke regulatie absorberen meer voordat defensiviteit optreedt |
+Een moderator is geen stap in het proces en geen actor — het is een **omstandigheid die bepaalt hoe sterk** de bad apple's gedrag doorwerkt op de psychologische reacties van teammates. Denk aan het weer bij een voetbalwedstrijd: het speelt niet mee, maar het bepaalt wel hoe zwaar de wedstrijd uitvalt. Hoge team-interdependentie ná een reeks mislukkingen = storm. Losjes gekoppeld team ná een succes = zonnig.
+
+- **Intensiteit van het negatieve gedrag** — hoe extremer, hoe sneller defensiviteit optreedt
+- **Team-interdependentie** — hoe meer leden van elkaar afhangen, hoe groter de impact
+- **Recente uitkomsten** — na successen is het team veerkrachtiger; na mislukkingen kwetsbaarder
+- **Persoonlijke copingvaardigheden** — individuen met sterke regulatie absorberen meer voordat defensiviteit optreedt
 
 *Kritische implicatie van team-interdependentie*: kleine, hecht samenhangende teams zijn het meest kwetsbaar voor één bad apple — maar hebben ook de sterkste sociale controle (zichtbaarheid van bijdrage, directe feedback, geen anonimiteit).
 
