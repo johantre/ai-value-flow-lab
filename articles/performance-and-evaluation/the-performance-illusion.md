@@ -9,11 +9,12 @@ tags: [performance-management, evaluatie, feedback, evidence-based, organization
 ---
 
 > [!note]- Bronnen
-> Synthese op basis van vier sleutelartikels:
+> Synthese op basis van vijf sleutelartikels:
 > - [Reinventing Performance Management](buckingham-goodall-reinventing-performance-management.md) — Buckingham & Goodall (HBR, 2015)
 > - [The Feedback Fallacy](buckingham-goodall-the-feedback-fallacy.md) — Buckingham & Goodall (HBR, 2019)
 > - [Performance Management: Could Do Better?](cipd-what-works-in-performance-management.md) — CIPD (2016)
 > - [Peer Review — S3.0](sociocracy30-peer-review.md) — Priest, David, Bockelbrink (2018)
+> - [How Netflix Reinvented HR](mccord-how-netflix-reinvented-hr-hbr-2014.md) — McCord (HBR, 2014)
 
 # The Performance Illusion
 
