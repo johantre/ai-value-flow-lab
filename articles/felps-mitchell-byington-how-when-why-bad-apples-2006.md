@@ -42,7 +42,7 @@ graph LR
     style D fill:#39ff14,color:#000
 ```
 
-**Team-interdependentie als moderator.** Hoe meer teamleden van elkaar afhankelijk zijn, hoe groter de impact van een negatief lid. Dit verklaart waarom kleine, hecht samenhangende teams ([Buurtzorg](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore](../beyond-the-review/cases/wl-gore.md)) tegelijk het meest kwetsbaar zijn voor één bad apple én de sterkste sociale controle hebben om eraan te ontsnappen.
+**Team-interdependentie als moderator.** Dit verklaart het paradox van teams als [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md): hoge interdependentie maakt hen zowel kwetsbaarder als weerbaarder — zie [Stap 4](#stap-4).
 
 **De drie reacties als model voor candor-gesprekken.** Felps beschrijft drie teamresponsen: motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen.
 
@@ -102,11 +102,18 @@ graph LR
 - Negatieve emoties
 - Beschadigd vertrouwen
 
+<a id="stap-4"></a>
+
 **Stap 4 — Moderatoren:**
-- Intensiteit van het negatieve gedrag
-- Team-interdependentie
-- Recente uitkomsten (successen maken veerkrachtiger; mislukkingen maken kwetsbaarder)
-- Persoonlijke copingvaardigheden van teammates
+
+| Moderator | Effect |
+|---|---|
+| **Intensiteit van het negatieve gedrag** | Hoe extremer, hoe sneller defensiviteit optreedt |
+| **Team-interdependentie** | Hoe meer leden van elkaar afhangen, hoe groter de impact |
+| **Recente uitkomsten** | Na successen is het team veerkrachtiger; na mislukkingen kwetsbaarder |
+| **Persoonlijke copingvaardigheden** | Individuen met sterke regulatie absorberen meer voordat defensiviteit optreedt |
+
+*Kritische implicatie van team-interdependentie*: kleine, hecht samenhangende teams zijn het meest kwetsbaar voor één bad apple — maar hebben ook de sterkste sociale controle (zichtbaarheid van bijdrage, directe feedback, geen anonimiteit).
 
 **Stap 5 — Defensief gedrag:**
 - Explosies / uitbarstingen
@@ -134,14 +141,7 @@ graph LR
 
 ### Moderatoren
 
-| Moderator | Effect |
-|---|---|
-| **Intensiteit van het negatieve gedrag** | Hoe extremer, hoe sneller defensiviteit optreedt |
-| **Team-interdependentie** | Hoe meer leden van elkaar afhangen, hoe groter de impact |
-| **Recente uitkomsten** | Na successen is het team veerkrachtiger; na mislukkingen kwetsbaarder |
-| **Persoonlijke copingvaardigheden** | Individuen met sterke regulatie absorberen meer voordat defensiviteit optreedt |
-
-**Kritische implicatie van team-interdependentie**: kleine, hecht samenhangende teams zijn het meest kwetsbaar voor één bad apple — maar hebben ook de sterkste sociale controle (zichtbaarheid van bijdrage, directe feedback, geen anonimiteit).
+*(zie [Stap 4](#stap-4) in het causale model hierboven)*
 
 ---
 
