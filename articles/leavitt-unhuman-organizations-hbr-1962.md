@@ -5,7 +5,6 @@ year: 1962
 status: reference
 rating: 5/5
 tags: [organizational-design, communication, transparency, complexity, leadership, decision-making]
-source: ../books/bennis-transparency-how-leaders-create-a-culture-of-candor/HBR-July-August-1962-highlight.pdf
 ---
 
 > [!note]- Bronnen
