@@ -10,6 +10,13 @@ source: reference
 
 ![cover](./mollick-co-intelligence/cover.jpg)
 
+> [!note]- Bronnen
+> - [Amazon — boekpagina](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
+> - [Knowledge at Wharton — interview Mollick](https://knowledge.wharton.upenn.edu/article/co-intelligence-how-to-live-and-work-with-ai/)
+> - [Medium — boekbespreking](https://nassrakhaled.medium.com/aibook-review-co-intelligence-by-ethan-mollick-16839949b31c)
+> - [Substack — uitgebreide samenvatting](https://jeremierostan.substack.com/p/co-intelligence-by-ethan-mollick)
+> - [Medium — de vier principes](https://medium.com/@andregualtierioliveira/co-intelligence-ethan-mollicks-4-principles-for-a-partnership-between-humans-and-ai-a3ab359350ed)
+
 ## Core idea
 
 AI is geen tool die je inzet en ook geen autonome agent die je vervangt — het is een nieuw soort intelligentie waarmee je samenwerkt. Effectief gebruik vereist een andere relatie: AI actief uitnodigen, jezelf als mens in de loop houden, de begrenzingen kennen, en de samenwerking als vaardigheid ontwikkelen.
@@ -123,12 +130,3 @@ Het boek moedigt brede AI-adoptie aan, maar critici wijzen op het gevaar: als me
 
 *Sector: onderwijs- en organisatieonderzoekers.* Zie [Integrative and Comparative Biology — review](https://integrativeandcomparativebiology.wordpress.com/2025/12/16/co-intelligence-living-and-working-with-ai-by-ethan-mollick-review-by-sophia-hermosillo-ramirez/).
 
----
-
-## Bronnen
-
-- [Amazon — boekpagina](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
-- [Knowledge at Wharton — interview Mollick](https://knowledge.wharton.upenn.edu/article/co-intelligence-how-to-live-and-work-with-ai/)
-- [Medium — boekbespreking](https://nassrakhaled.medium.com/aibook-review-co-intelligence-by-ethan-mollick-16839949b31c)
-- [Substack — uitgebreide samenvatting](https://jeremierostan.substack.com/p/co-intelligence-by-ethan-mollick)
-- [Medium — de vier principes](https://medium.com/@andregualtierioliveira/co-intelligence-ethan-mollicks-4-principles-for-a-partnership-between-humans-and-ai-a3ab359350ed)

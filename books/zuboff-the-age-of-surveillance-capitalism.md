@@ -10,6 +10,12 @@ source: reference
 
 ![cover](./zuboff-the-age-of-surveillance-capitalism/cover.jpg)
 
+> [!note]- Bronnen
+> - [Harvard Business School — boekpagina](https://www.hbs.edu/faculty/Pages/item.aspx?num=56791)
+> - [Wikipedia — The Age of Surveillance Capitalism](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
+> - [Profile Books — uitgeversbeschrijving](https://profilebooks.com/work/the-age-of-surveillance-capitalism/)
+> - [ResearchGate — academische recensie](https://www.researchgate.net/publication/346844216_Shoshana_Zuboff_The_age_of_surveillance_capitalism_the_fight_for_a_human_future_at_the_new_frontier_of_power_New_York_Public_Affairs_2019_704_pp_ISBN_978-1-61039-569-4_hardcover_978-1-61039-270-0_eboo)
+
 ## Core idea
 
 Menselijke ervaring is de grondstof van een nieuwe economische logica. Gedragsdata — gewonnen uit wat we doen, zeggen, zoeken en voelen — wordt omgezet in voorspellingsproducten die verkocht worden op gedragsfuturesmarkten. **Het einddoel is niet kennis van gedrag, maar de modificatie ervan**.
@@ -115,9 +121,3 @@ Net als bij Véliz: de diagnose is rijker dan de oplossing. Zuboff roept op tot 
 
 ---
 
-## Bronnen
-
-- [Harvard Business School — boekpagina](https://www.hbs.edu/faculty/Pages/item.aspx?num=56791)
-- [Wikipedia — The Age of Surveillance Capitalism](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
-- [Profile Books — uitgeversbeschrijving](https://profilebooks.com/work/the-age-of-surveillance-capitalism/)
-- [ResearchGate — academische recensie](https://www.researchgate.net/publication/346844216_Shoshana_Zuboff_The_age_of_surveillance_capitalism_the_fight_for_a_human_future_at_the_new_frontier_of_power_New_York_Public_Affairs_2019_704_pp_ISBN_978-1-61039-569-4_hardcover_978-1-61039-270-0_eboo)

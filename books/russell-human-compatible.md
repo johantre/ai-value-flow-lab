@@ -10,6 +10,12 @@ source: reference
 
 ![cover](./russell-human-compatible/cover.jpg)
 
+> [!note]- Bronnen
+> - [EA Forum — boeksamenvatting](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible)
+> - [Future of Life Institute — podcast met Russell](https://futureoflife.org/podcast/ai-alignment-podcast-human-compatible-artificial-intelligence-and-the-problem-of-control-with-stuart-russell/)
+> - [NOEMA — essay over het boek](https://www.noemamag.com/human-compatible-ai/)
+> - [Medium — reflectie vijf jaar later](https://medium.com/@ashley.herman/human-compatible-five-years-later-reflections-on-stuart-russells-2019-book-on-ai-98d6723b2629)
+
 ## Core idea
 
 Het standaardmodel van AI — een machine die een vastgelegde doelstelling maximaliseert — is fundamenteel gevaarlijk. Niet omdat AI kwaadaardig wordt, maar omdat ze te competent wordt in het nastreven van verkeerd gedefinieerde doelen. De oplossing is een paradigmawisseling: bouw AI die inherent onzeker is over wat mensen willen, en die daarom voortdurend vraagt, leert en corrigeert.
@@ -107,13 +113,6 @@ AI kan niet omgaan met het kwalitatieve, niet-meetbare en idiosyncratische van m
 *Sector: filosofen en humanistisch georiënteerde critici.* Zie [NOEMA — essay](https://www.noemamag.com/human-compatible-ai/).
 
 ---
-
-## Bronnen
-
-- [EA Forum — boeksamenvatting](https://forum.effectivealtruism.org/posts/tsHfFdAGehzoH6BZR/summary-of-stuart-russell-s-new-book-human-compatible)
-- [Future of Life Institute — podcast met Russell](https://futureoflife.org/podcast/ai-alignment-podcast-human-compatible-artificial-intelligence-and-the-problem-of-control-with-stuart-russell/)
-- [NOEMA — essay over het boek](https://www.noemamag.com/human-compatible-ai/)
-- [Medium — reflectie vijf jaar later](https://medium.com/@ashley.herman/human-compatible-five-years-later-reflections-on-stuart-russells-2019-book-on-ai-98d6723b2629)
 
 ## Empirische bevestiging — het King Midas-probleem in de praktijk
 

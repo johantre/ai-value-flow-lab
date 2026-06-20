@@ -10,6 +10,13 @@ source: reference
 
 ![cover](./suleyman-the-coming-wave/cover.jpg)
 
+> [!note]- Bronnen
+> - [Officiële boeksite](https://the-coming-wave.com/)
+> - [Amazon — boekbeschrijving](https://www.amazon.com/Coming-Wave-Technology-Twenty-first-Centurys/dp/0593593952)
+> - [Next Big Idea Club — samenvatting](https://nextbigideaclub.com/magazine/coming-wave-technology-power-twenty-first-centurys-greatest-dilemma-bookbite/45473/)
+> - [Klover.ai — analyse containment framework](https://www.klover.ai/the-coming-wave-ai-containment-mustafa-suleymans-risk-framework/)
+> - [I'd Rather Be Writing — uitgebreide bespreking](https://idratherbewriting.com/blog/suleyman-the-coming-wave-notes)
+
 ## Core idea
 
 AI en biotechnologie zijn omni-use technologieën die zich razendsnel verspreiden en die elk domein van de samenleving raken. Ze kunnen niet gestopt worden. Het centrale dilemma van de 21e eeuw is daarom niet: wel of niet? Maar: hoe beheersen we iets dat zich per definitie wil verspreiden? Suleyman's antwoord: gelaagde containment — geen perfecte controle, maar voortdurende, bewuste begrenzing.
@@ -117,10 +124,3 @@ Suleyman schrijft over de gevaren van AI maar onderschat de directe milieu-impac
 
 ---
 
-## Bronnen
-
-- [Officiële boeksite](https://the-coming-wave.com/)
-- [Amazon — boekbeschrijving](https://www.amazon.com/Coming-Wave-Technology-Twenty-first-Centurys/dp/0593593952)
-- [Next Big Idea Club — samenvatting](https://nextbigideaclub.com/magazine/coming-wave-technology-power-twenty-first-centurys-greatest-dilemma-bookbite/45473/)
-- [Klover.ai — analyse containment framework](https://www.klover.ai/the-coming-wave-ai-containment-mustafa-suleymans-risk-framework/)
-- [I'd Rather Be Writing — uitgebreide bespreking](https://idratherbewriting.com/blog/suleyman-the-coming-wave-notes)

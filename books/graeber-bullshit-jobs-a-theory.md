@@ -10,6 +10,13 @@ source: goodreads
 
 ![cover](./graeber-bullshit-jobs-a-theory/cover.jpg)
 
+> [!note]- Bronnen
+> - [Strike! Magazine — origineel essay (2013)](https://strikemag.org/bullshit-jobs/) — het essay dat de stroom reacties op gang bracht en de basis vormt van het boek
+> - [Simon & Schuster — boekpagina](https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335)
+> - [The Guardian — boekbespreking](https://www.theguardian.com/books/2018/may/25/bullshit-jobs-a-theory-by-david-graeber-review)
+> - [getAbstract — samenvatting](https://www.getabstract.com/en/summary/bullshit-jobs/38483)
+> - [Keynes, J.M. (1930). *Economic Possibilities for our Grandchildren*](https://www.aspeninstitute.org/wp-content/uploads/files/content/upload/Intro_and_Section_I.pdf) — de voorspelling van 15-uur werkweken waar Graeber op terugverwijst
+
 ## Centrale these
 
 In 2013 schreef Graeber een essay in *Strike! Magazine* met de stelling dat een groot deel van de moderne banen zinloos is — en dat de mensen die ze uitvoeren dat zelf het best weten. Hij werd overladen met reacties van mensen die hun eigen werk herkenden. Het boek is de uitwerking van die these.
@@ -104,6 +111,20 @@ De productiviteitswinsten zijn niet omgezet in vrije tijd — ze zijn geabsorbee
 3. **Ze veroorzaken psychologische schade** — zelfs (of juist) als ze goed betaald zijn
 4. **Marktwaarde en sociale waarde zijn omgekeerd evenredig** — de meest nuttige jobs zijn het slechtst betaald
 5. **De oplossing vereist een ander denken over werk en inkomen** — Graeber was sympathiek aan Universal Basic Income als manier om de koppeling tussen werk en morele waarde te doorbreken
+
+---
+
+## Relatie tot ons werk
+
+**Bullshit jobs als organisatiediagnose.** De vijf types zijn een concreet diagnostisch instrument: voordat je een proces automatiseert of een functie herdenkt, kun je jezelf afvragen welk type bullshit job er eventueel in schuilt. Box tickers en duct tapers zijn bijzonder herkenbaar in grote organisaties met veel coördinatieoverhead.
+
+**AI gaat de werkweek reduceren — net zoals de stoommachine dat zou doen.** Keynes voorspelde in 1930 dat industriële automatisering ons tegen 2000 zou bevrijden tot 15-uur werkweken. In plaats daarvan werden de productiviteitswinsten geabsorbeerd in nieuwe lagen administratie, compliance en management — grotendeels bullshit jobs.
+
+Vandaag wordt exact dezelfde belofte gemaakt over AI. Graeber's analyse suggereert: zonder bewuste organisatiekeuzes zullen de winsten van AI opnieuw worden omgezet in nieuwe vormen van zinloos werk — AI-compliance officers (box tickers), AI-coördinatoren die niemand vroeg (taskmasters), of medewerkers die manueel AI-output corrigeren die structureel gefixed had kunnen worden (duct tapers).
+
+**De AI-first vraag die Graeber opwerpt:** zijn we bezig bullshit jobs te elimineren — of creëren we er nieuwe? Het antwoord hangt niet af van de technologie maar van de organisatiekeuzes die eromheen gemaakt worden.
+
+**Signalen van misalignment zijn vaak bullshit job-symptomen.** Wanneer mensen in een organisatie niet kunnen uitleggen waarvoor hun werk bijdraagt, of wanneer hun echte werk verborgen zit achter administratieve verplichtingen, is dat een diagnostisch signaal — niet van individueel falen maar van structurele verspilling.
 
 ---
 

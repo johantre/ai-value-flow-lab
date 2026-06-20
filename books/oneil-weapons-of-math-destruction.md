@@ -10,6 +10,12 @@ source: reference
 
 ![cover](./oneil-weapons-of-math-destruction/cover.jpg)
 
+> [!note]- Bronnen
+> - [Wikipedia — Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
+> - [Ford Foundation — interview O'Neil](https://www.fordfoundation.org/news-and-stories/stories/weapons-of-math-destruction-data-scientist-cathy-oneil-on-how-unfair-algorithms-perpetuate-inequality/)
+> - [Scientific American — recensie](https://www.scientificamerican.com/blog/roots-of-unity/review-weapons-of-math-destruction/)
+> - [ResearchGate — academische recensie](https://www.researchgate.net/publication/314165204_Cathy_O'Neil_Weapons_of_Math_Destruction_How_Big_Data_Increases_Inequality_and_Threatens_Democracy_New_York_Crown_Publishers_2016_272p_Hardcover_26_ISBN_978-0553418811)
+
 ## Core idea
 
 Algoritmen die ingezet worden bij onderwijs, krediet, aanwerving en justitie zijn niet neutraal — ze zijn verpakte vooroordelen op schaal. Ze zijn ondoorzichtig, moeilijk aanvechtbaar, en versterken systematisch de ongelijkheid die ze beweren objectief te meten. O'Neil noemt ze Weapons of Math Destruction (WMD's).
@@ -103,11 +109,3 @@ Het kernprobleem — slechte algoritmen die zich ongecontroleerd verspreiden —
 
 *Sector: technologiejournalisten en academici.* Zie [Wikipedia — receptiesectie](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction).
 
----
-
-## Bronnen
-
-- [Wikipedia — Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
-- [Ford Foundation — interview O'Neil](https://www.fordfoundation.org/news-and-stories/stories/weapons-of-math-destruction-data-scientist-cathy-oneil-on-how-unfair-algorithms-perpetuate-inequality/)
-- [Scientific American — recensie](https://www.scientificamerican.com/blog/roots-of-unity/review-weapons-of-math-destruction/)
-- [ResearchGate — academische recensie](https://www.researchgate.net/publication/314165204_Cathy_O'Neil_Weapons_of_Math_Destruction_How_Big_Data_Increases_Inequality_and_Threatens_Democracy_New_York_Crown_Publishers_2016_272p_Hardcover_26_ISBN_978-0553418811)
