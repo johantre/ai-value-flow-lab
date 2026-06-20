@@ -14,13 +14,13 @@ Deloitte ontdekte dat hun traditioneel prestatiebeheersysteem — jaarlijkse 360
 
 ## Key concepts
 
-[Idiosyncratic rater effect](../../concepts/idiosyncrasie.md), [[performance-snapshot]], [[check-in]], [[toekomstgerichte-feedback]], [[rater-bias]], [[continuous-performance-management]]
+[Idiosyncratic rater effect](idiosyncrasie.md), [[performance-snapshot]], [[check-in]], [[toekomstgerichte-feedback]], [[rater-bias]], [[continuous-performance-management]]
 
 ## What I took from it
 
 ### General
 
-De centrale doorbraak van dit artikel is empirisch: Deloitte ontdekte dat beoordelingen meer zeggen over de beoordelaar dan over de beoordeelde — het **[idiosyncratic rater effect](../../concepts/idiosyncrasie.md)**. Meer dan 60% van een prestatiescore is een maatstaf voor de idiosyncrasieën van de beoordelaar, niet voor de vaardigheden van de beoordeelde. Dit maakt traditionele ratings fundamenteel onbetrouwbaar als feedbackinstrument.
+De centrale doorbraak van dit artikel is empirisch: Deloitte ontdekte dat beoordelingen meer zeggen over de beoordelaar dan over de beoordeelde — het **[idiosyncratic rater effect](idiosyncrasie.md)**. Meer dan 60% van een prestatiescore is een maatstaf voor de idiosyncrasieën van de beoordelaar, niet voor de vaardigheden van de beoordeelde. Dit maakt traditionele ratings fundamenteel onbetrouwbaar als feedbackinstrument.
 
 De oplossing van Deloitte is elegant: vraag teamleiders niet *over* hun medewerkers, maar vraag hen naar hun *eigen toekomstige gedrag* tegenover die medewerker. Vier vragen, beantwoord op een 5-puntschaal:
 
@@ -47,7 +47,7 @@ Deloitte telde hoeveel tijd hun performance management systeem kostte: **2 miljo
 
 ### De oorzaak: het idiosyncratic rater effect
 
-Onderzoek door Michael Mount, Steven Scullen en Maynard Goff (2000, Journal of Applied Psychology) toonde aan dat meer dan **62% van de variantie in een prestatiescore** toe te schrijven is aan de beoordelaar, niet aan de beoordeelde. Zie concept: [Idiosyncrasie](../../concepts/idiosyncrasie.md). Mensen beoordelen anderen consistent — maar consistent *vanuit hun eigen perspectief*, niet vanuit objectieve maatstaven.
+Onderzoek door Michael Mount, Steven Scullen en Maynard Goff (2000, Journal of Applied Psychology) toonde aan dat meer dan **62% van de variantie in een prestatiescore** toe te schrijven is aan de beoordelaar, niet aan de beoordeelde. Zie concept: [Idiosyncrasie](idiosyncrasie.md). Mensen beoordelen anderen consistent — maar consistent *vanuit hun eigen perspectief*, niet vanuit objectieve maatstaven.
 
 Gevolg: ratings zijn betrouwbare maatstaven voor de rater, niet voor de ratee. Ze zeggen meer over wie je beoordeelt dan over wie je beoordeelt.
 

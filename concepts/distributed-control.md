@@ -13,7 +13,7 @@ Decision-making power distributed to those closest to the information and the cu
 
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](../books/marquet-turn-the-ship-around-a-true-story-of-turning-followers-into.md)
 - [Team of Teams: New Rules of Engagement for a Complex World](../books/mcchrystal-team-of-teams-new-rules-of-engagement-for-a-complex-world.md)
-- [[pflaeging-organize-for-[Complexity (Cynefin)](complexity.md)-how-to-get-life-back-into-work-to-bu]]
+- [Organize for Complexity](../books/pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md)
 
 ---
 

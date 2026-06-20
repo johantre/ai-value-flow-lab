@@ -12,7 +12,7 @@ Teams and individuals managing their own work, direction, and coordination witho
 ## Books that address this concept
 
 - [Reinventing organizations: geillustreerde versie (Dutch Edition)](../books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)
-- [[robertson-[Holacracy](holacracy.md)-the-new-management-system-for-a-rapidly-changing-w]]
+- [Holacracy](../books/robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w.md)
 
 ---
 

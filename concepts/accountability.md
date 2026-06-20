@@ -14,7 +14,7 @@ Taking ownership of outcomes, not just tasks. Different from responsibility (bei
 - [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md)
 - [Team Code of Honor: The Secrets of Champions in Business and in Life](../books/singer-team-code-of-honor-the-secrets-of-champions-in-business-and.md)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](../books/willink-extreme-ownership-how-us-navy-seals-lead-and-win.md)
-- [[avery-the-[The Responsibility Process](responsibility-process.md)-unlocking-your-natural-ability-to]]
+- [The Responsibility Process](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md)
 
 ---
 

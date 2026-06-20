@@ -11,7 +11,7 @@ Mechanisms where output becomes input, creating circular causality. Reinforcing 
 
 ## Books that address this concept
 
-- [[kerr-an-introductory-guide-to-[Systems Thinking](systems-thinking.md)]]
+- [An Introductory Guide to Systems Thinking](../books/kerr-an-introductory-guide-to-systems-thinking.md)
 - [Thinking In Systems: A Primer](../books/meadows-thinking-in-systems-a-primer.md)
 - [The Fifth Discipline: The Art & Practice of The Learning Organization](../books/senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md)
 

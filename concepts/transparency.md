@@ -11,7 +11,6 @@ Making information visible to those who need it. One of Scrum's three pillars (a
 
 ## Books that address this concept
 
-- [[bennis-transparency-how-leaders-create-a-culture-of-[Candor](candor.md)-j-b-warr]]
 - [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md)
 - [The 3 Power Values: How Commitment, Integrity, and Transparency Clear the Roadblocks to Performance](../books/gebler-the-3-power-values-how-commitment-integrity-and-transparency.md)
 - [Agile Software Development with Scrum](../books/schwaber-agile-software-development-with-scrum.md)

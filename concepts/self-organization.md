@@ -12,8 +12,8 @@ The capacity of a system to organize itself without external control. In organiz
 ## Books that address this concept
 
 - [Management 3.0: Leading Agile Developers, Developing Agile Leaders](../books/appelo-management-30-leading-agile-developers-developing-agile-lead.md)
-- [[pflaeging-organize-for-[Complexity (Cynefin)](complexity.md)-how-to-get-life-back-into-work-to-bu]]
-- [[robertson-[Holacracy](holacracy.md)-the-new-management-system-for-a-rapidly-changing-w]]
+- [Organize for Complexity](../books/pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md)
+- [Holacracy](../books/robertson-holacracy-the-new-management-system-for-a-rapidly-changing-w.md)
 - [Reinventing organizations: geillustreerde versie (Dutch Edition)](../books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)
 
 ---

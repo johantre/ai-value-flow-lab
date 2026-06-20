@@ -14,7 +14,7 @@ Feedback werkt niet zoals we denken. De aanname dat kritische, gedetailleerde fe
 
 ## Key concepts
 
-[Idiosyncratic rater effect](../../concepts/idiosyncrasie.md), [[neurologie-van-leren]], [[source-credibility]], [[strengths-based-feedback]], [[excellence-vs-deficit]], [[psychologische-veiligheid]]
+[Idiosyncratic rater effect](idiosyncrasie.md), [[neurologie-van-leren]], [[source-credibility]], [[strengths-based-feedback]], [[excellence-vs-deficit]], [[psychologische-veiligheid]]
 
 ## What I took from it
 
@@ -22,7 +22,7 @@ Feedback werkt niet zoals we denken. De aanname dat kritische, gedetailleerde fe
 
 Het scherpste inzicht van dit artikel: **feedback is informatie over de gever, niet over de ontvanger**. De drie pijlers:
 
-**1. Het [idiosyncratic rater effect](../../concepts/idiosyncrasie.md)** (zie ook [Reinventing Performance Management](buckingham-goodall-reinventing-performance-management.md)): wanneer je iemand beoordeelt, zegt de score meer over jouw eigen standaarden, voorkeuren en idiosyncrasieën dan over de persoon die je evalueert. We zijn geen betrouwbare maatstaven voor anderen.
+**1. Het [idiosyncratic rater effect](idiosyncrasie.md)** (zie ook [Reinventing Performance Management](buckingham-goodall-reinventing-performance-management.md)): wanneer je iemand beoordeelt, zegt de score meer over jouw eigen standaarden, voorkeuren en idiosyncrasieën dan over de persoon die je evalueert. We zijn geen betrouwbare maatstaven voor anderen.
 
 **2. Leren werkt niet via deficitherstel**: de hersenen groeien het sterkst wanneer ze succeservaringen verwerken, niet wanneer ze fouten corrigeren. Kritische feedback activeert de "fight or flight"-respons — wat precies het tegenovergestelde is van de staat die leren bevordert. Negatieve feedback bevriest de neuroplasticiteit in plaats van haar te stimuleren.
 
@@ -41,7 +41,7 @@ Dit artikel geeft de neurobiologische onderbouwing voor wat de S3.0 Peer Review 
 ### De drie aannames die we moeten loslaten
 
 **Aanname 1: "Anderen kunnen ons accuraat beoordelen."**
-Het [idiosyncratic rater effect](../../concepts/idiosyncrasie.md) toont dat dit niet klopt. Wanneer we iemand een score geven op "strategisch denken" of "samenwerking", meten we in werkelijkheid onze eigen definitie van strategisch denken en samenwerking. Onze ratings zijn betrouwbaar — maar ze meten onszelf, niet de ander.
+Het [idiosyncratic rater effect](idiosyncrasie.md) toont dat dit niet klopt. Wanneer we iemand een score geven op "strategisch denken" of "samenwerking", meten we in werkelijkheid onze eigen definitie van strategisch denken en samenwerking. Onze ratings zijn betrouwbaar — maar ze meten onszelf, niet de ander.
 
 **Aanname 2: "Feedback corrigeert fouten en verbetert prestaties."**
 Neurobiologisch onderzoek (David Rock, Carol Dweck e.a.) toont dat de hersenen in twee fundamenteel verschillende staten opereren: leren (exploratie, neuroplasticiteit, dopamine) en verdedigen (bedreiging, cortisol, freeze). Kritische feedback activeert de verdedigingsstaat. In die staat leer je niet — je overleeft.

@@ -26,7 +26,7 @@ Dit is het meest compacte systeemdenkboek dat bestaat. Meadows schrijft met uitz
 
 ### Connection to our work
 
-Value streams are systems. AI dramatically accelerates feedback loops. Org impact analysis is systems thinking applied. The unintended consequences column in Section 14 (Expected Emergence) is a systems thinking output. Related: [[senge-the-fifth-discipline]], [An Introductory Guide to Systems Thinking](kerr-an-introductory-guide-to-systems-thinking.md), [Antifragile: Things That Gain from Disorder](taleb-antifragile-things-that-gain-from-disorder.md)
+Value streams are systems. AI dramatically accelerates feedback loops. Org impact analysis is systems thinking applied. The unintended consequences column in Section 14 (Expected Emergence) is a systems thinking output. Related: [The Fifth Discipline](senge-the-fifth-discipline-the-art-practice-of-the-learning-organi.md), [An Introductory Guide to Systems Thinking](kerr-an-introductory-guide-to-systems-thinking.md), [Antifragile: Things That Gain from Disorder](taleb-antifragile-things-that-gain-from-disorder.md)
 
 ---
 
