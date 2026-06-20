@@ -80,14 +80,20 @@ Overtreedt normen van respect: pesten, kwetsende opmerkingen, publiek vernederen
 
 ```mermaid
 graph LR
-    A[Episodisch negatief gedrag] --> B[Chronisch negatief lid]
-    B --> C[Psychologische reacties]
-    C --> D[Defensief gedrag]
-    D --> E[Groepsprocessen]
-    E --> F[Groepsuitkomsten]
-    G[Moderatoren] --> C
+    A[① Episodisch negatief gedrag] --> B[② Chronisch negatief lid]
+    B --> C[③ Psychologische reacties]
+    C --> D[⑤ Defensief gedrag]
+    D --> E[⑥ Groepsprocessen]
+    E --> F[⑦ Groepsuitkomsten]
+    G[④ Moderatoren] --> C
     H[Relatieve macht] --> B
 ```
+
+**Stap 1 — Episodisch negatief gedrag:**
+Incidenteel negatief gedrag van één teamlid — een hobbel, nog geen structureel probleem. Pas wanneer dit gedrag chronisch wordt, treedt het model in werking.
+
+**Stap 2 — Chronisch negatief lid:**
+Wanneer episodisch gedrag een patroon wordt, is er sprake van een chronisch negatief teamlid. De **relatieve macht** van die persoon (senioriteit, formele rol, bescherming door organisatiestructuur) bepaalt mee hoe moeilijk het is voor teammates om in te grijpen.
 
 **Stap 3 — Psychologische reacties bij teammates:**
 - Perceptie van ongelijkheid (inequity)
