@@ -10,7 +10,7 @@ tags: [remuneration, verloning, bonus, transparantie, peer-evaluatie, eigenaarsc
 
 > [!note]- Bronnen
 > Synthese op basis van 9 organisatiecases en 4 boeken uit de kennisbank:
-> - [Beyond the Review — cases](beyond-the-review.md) — Buffer, Handelsbanken, Mondragon, FAVI, Semco, AES, Happy Melly, W.L. Gore, Netflix
+> - [Beyond the Review — cases](../beyond-the-review/beyond-the-review.md) — Buffer, Handelsbanken, Mondragon, FAVI, Semco, AES, Happy Melly, W.L. Gore, Netflix
 > - [Punished by Rewards](kohn-punished-by-rewards.md) — Kohn (1993)
 > - [Joy at Work](bakke-joy-at-work.md) — Bakke (2005)
 > - [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) — McCord (2018)
@@ -134,4 +134,4 @@ Het alternatief is niet "geen verloning". Het is een beloningsfilosofie die:
 - [The Feedback Fallacy](buckingham-goodall-the-feedback-fallacy.md) — waarom feedback losgekoppeld moet zijn van beloning
 
 **Organisatiecases**
-- [Beyond the Review — Organisatiecases](beyond-the-review.md) — alle cases met Laloux-niveau en modelanalyse
+- [Beyond the Review — Organisatiecases](../beyond-the-review/beyond-the-review.md) — alle cases met Laloux-niveau en modelanalyse

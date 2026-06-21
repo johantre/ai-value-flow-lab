@@ -74,7 +74,7 @@ Voor kenniswerk, creatief werk en samenwerking zijn **lerende doelen** ("ontwikk
 
 Wanneer één gesprek zowel "wat kan jij nog leren?" als "wat verdien jij?" beslist, activeren die vragen fundamenteel verschillende cognitieve processen. Medewerkers kunnen niet tegelijk lerend en defensief zijn.
 
-Organisaties die dit splitsen — ontwikkelgesprekken los van compensatiebeslissingen — rapporteren betere kwaliteit van beide. Dit is consistent zichtbaar in de Teal-cases van [Beyond the Review](beyond-the-review.md).
+Organisaties die dit splitsen — ontwikkelgesprekken los van compensatiebeslissingen — rapporteren betere kwaliteit van beide. Dit is consistent zichtbaar in de Teal-cases van [Beyond the Review](../beyond-the-review/beyond-the-review.md).
 
 ---
 

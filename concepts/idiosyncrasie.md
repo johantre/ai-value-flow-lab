@@ -43,7 +43,7 @@ Buckingham & Goodall (2015, 2019) trekken twee conclusies:
 
 ## Verwante concepten
 
-- [Cognitieve bias](cognitieve-bias.md)
+- cognitieve bias
 - [[halo-effect]]
 - [[recency-bias]]
 - [[psychologische-veiligheid]]

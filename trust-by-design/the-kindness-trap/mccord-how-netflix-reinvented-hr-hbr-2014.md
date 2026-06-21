@@ -92,6 +92,6 @@ HR-professionals die zich richten op morale-initiatieven, "Best Places to Work"-
 **Wat dit artikel niet beantwoordt**: de frequentie van de 360-sessies. McCord zegt "regular" maar geeft geen cadans. Voor de All Hands-context is [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) de betere bron.
 
 **Verwant:**
-- [The Performance Illusion](the-performance-illusion.md) — overzicht van het onderzoek achter waarom formele reviews niet werken
+- [The Performance Illusion](../the-performance-illusion/the-performance-illusion.md) — overzicht van het onderzoek achter waarom formele reviews niet werken
 - [Reinventing Performance Management](buckingham-goodall-reinventing-performance-management.md) — Deloitte's herontwerp als parallel
 - [Netflix-case](netflix.md) — de praktische uitwerking in Beyond the Review

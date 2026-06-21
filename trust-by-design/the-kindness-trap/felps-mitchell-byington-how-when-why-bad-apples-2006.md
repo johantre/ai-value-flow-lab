@@ -9,7 +9,7 @@ source: https://www.sciencedirect.com/science/article/abs/pii/S0191308506270059
 ---
 
 > [!note]- Bronnen
-> - [PDF — lokale kopie](felps-2006-bad-apples-spoil-the-barrel.pdf)
+> - [PDF — lokale kopie](felps-mitchell-byington-how-when-why-bad-apples-2006/felps-2006-bad-apples-spoil-the-barrel.pdf)
 > - [Research in Organizational Behavior, Volume 27, pp. 175–222 (2006) — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0191308506270059)
 > - [Semantic Scholar — open access versie](https://www.semanticscholar.org/paper/How,-When,-and-Why-Bad-Apples-Spoil-the-Barrel:-and-Felps-Mitchell/6b3a863c267088743fc18232ab35cc47feb8522c)
 > - [DOI: 10.1016/S0191-3085(06)27005-9](https://doi.org/10.1016/S0191-3085(06)27005-9)
