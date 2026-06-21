@@ -14,7 +14,7 @@ source: goodreads
 
 ## Core idea
 
-Goede managers [[care-personally|Care Personally]] én [[challenge-directly|Challenge Directly]]. Wie alleen het eerste doet, fàalt de mensen die hij wil beschermen — **[[ruinous-empathy|Ruinous Empathy]]** is de meest voorkomende managementfout. Eerlijkheid zonder zorg is bruutheid. Zorg zonder eerlijkheid is verraad.
+Goede managers [Care Personally](../concepts/care-personally.md) én [Challenge Directly](../concepts/challenge-directly.md). Wie alleen het eerste doet, fàalt de mensen die hij wil beschermen — **[Ruinous Empathy](../concepts/ruinous-empathy.md)** is de meest voorkomende managementfout. Eerlijkheid zonder zorg is bruutheid. Zorg zonder eerlijkheid is verraad.
 
 ## Key concepts
 
@@ -48,27 +48,14 @@ Related: [Bad Apples — Felps](../articles/felps-mitchell-byington-how-when-why
 
 Het hart van het boek: twee assen, vier kwadranten.
 
-<table>
-<tr>
-  <th></th>
-  <th style="text-align:center">Challenge Directly: laag</th>
-  <th style="text-align:center">Challenge Directly: hoog</th>
-</tr>
-<tr>
-  <th>Care Personally: hoog</th>
-  <td>⚠️ <strong>[[ruinous-empathy|Ruinous Empathy]]</strong><br/><em>"Ik wil je niet kwetsen"</em><br/>De meest voorkomende fout</td>
-  <td>✅ <strong>Radical Candor</strong><br/><em>Het doel</em></td>
-</tr>
-<tr>
-  <th>Care Personally: laag</th>
-  <td>❌ <strong>Manipulative Insincerity</strong><br/><em>Politiek, passief-agressief</em></td>
-  <td>❌ <strong>Obnoxious Aggression</strong><br/><em>"Being an asshole"</em></td>
-</tr>
-</table>
+| | Challenge Directly: laag | Challenge Directly: hoog |
+|---|---|---|
+| **Care Personally: hoog** | ⚠️ **[Ruinous Empathy](../concepts/ruinous-empathy.md)**<br/>*"Ik wil je niet kwetsen"*<br/>De meest voorkomende fout | ✅ **Radical Candor**<br/>*Het doel* |
+| **Care Personally: laag** | ❌ **Manipulative Insincerity**<br/>*Politiek, passief-agressief* | ❌ **Obnoxious Aggression**<br/>*"Being an asshole"* |
 
 ---
 
-### [[care-personally|Care Personally]]
+### [Care Personally](../concepts/care-personally.md)
 
 Geen "aardig zijn" — echte interesse in de persoon achter de functie. Wat motiveert hen? Wat is er gaande buiten het werk? Waar willen ze over vijf jaar zijn?
 
@@ -76,7 +63,7 @@ Zonder Care Personally is Challenge Directly gewoon bruutheid. Care Personally i
 
 ---
 
-### [[challenge-directly|Challenge Directly]]
+### [Challenge Directly](../concepts/challenge-directly.md)
 
 Eerlijk zijn ook als het ongemakkelijk is. Onmiddellijk, specifiek, in persoon. Zowel over wat goed gaat als wat beter kan.
 
@@ -84,7 +71,7 @@ Kritiek in het moment is een gunst — weggeslikte kritiek stapelt zich op en le
 
 ---
 
-### [[ruinous-empathy|Ruinous Empathy]] — de meest voorkomende fout
+### [Ruinous Empathy](../concepts/ruinous-empathy.md) — de meest voorkomende fout
 
 Je geeft om de persoon maar zegt niet wat gezegd moet worden. Je beschermt hen tegen kortetermijn-ongemak en fàalt hen op de lange termijn.
 
