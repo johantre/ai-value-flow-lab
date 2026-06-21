@@ -13,6 +13,7 @@ source: https://dl.acm.org/doi/10.1145/3442188.3445922
 > - [PDF via auteurs](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf)
 > - [Wikipedia — Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
 > - [Science for the People — toegankelijke uitleg](https://magazine.scienceforthepeople.org/vol24-2-dont-be-evil/stochastic-parrots/)
+> - [DOI: 10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922)
 
 ## Core idea
 

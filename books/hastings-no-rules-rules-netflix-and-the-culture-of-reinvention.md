@@ -11,11 +11,8 @@ source: https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/198487786
 ![cover](./hastings-no-rules-rules-netflix-and-the-culture-of-reinvention/cover.jpg)
 
 > [!note]- Bronnen
-> - [No Rules Rules — Amazon](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
+> - [No Rules Rules — Penguin Press (Amazon)](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
 > - [No Rules Rules — Goodreads](https://www.goodreads.com/book/show/49099937-no-rules-rules)
-> - Uitgever: Penguin Press (Penguin Random House), september 2020
-> - ISBN-13: 978-1984877864
-> - Auteurs: Reed Hastings (CEO Netflix) & Erin Meyer (auteur van *The Culture Map*, professor INSEAD)
 
 ## Core idea
 

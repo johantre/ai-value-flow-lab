@@ -8,6 +8,9 @@ tags: [performance-management, evaluatie, feedback, beloning, organizational]
 source: https://hbr.org/2015/04/reinventing-performance-management
 ---
 
+> [!note]- Bronnen
+> - [Harvard Business Review, april 2015](https://hbr.org/2015/04/reinventing-performance-management)
+
 ## Core idea
 
 Deloitte ontdekte dat hun traditioneel prestatiebeheersysteem — jaarlijkse 360-graden reviews, rankings, doelcascades — **2 miljoen uur per jaar** kostte zonder aantoonbaar effect op prestaties. Ze schaaften het af en ontwierpen iets radicaal anders: frequente, toekomstgerichte check-ins en een systeem dat de eigenaardigheid van beoordelaars elimineert.

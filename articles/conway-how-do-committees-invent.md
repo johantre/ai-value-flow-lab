@@ -7,6 +7,9 @@ tags: [organizational-design, system-design, communication-structure, conways-la
 source: https://www.melconway.com/research/committees.html
 ---
 
+> [!note]- Bronnen
+> - [Datamation, april 1968 — gearchiveerd door de auteur](https://www.melconway.com/research/committees.html)
+
 ## Core idea
 
 Any organization that designs a system will produce a design whose structure is a copy of that organization's communication structure. This is Conway's Law — the homomorphism between organizational communication and system architecture.

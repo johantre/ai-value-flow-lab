@@ -7,6 +7,9 @@ tags: [de-skilling, junior-professionals, learning, ai-adoption, professional-id
 source: https://www.researchgate.net/publication/393974831_Unrooted_Fluency_How_Junior_Professionals_Use_AI_to_Navigate_Learning_and_Performance
 ---
 
+> [!note]- Bronnen
+> - [ResearchGate — working paper (2025)](https://www.researchgate.net/publication/393974831_Unrooted_Fluency_How_Junior_Professionals_Use_AI_to_Navigate_Learning_and_Performance)
+
 ## Core finding
 
 Kwalitatief onderzoek (30 interviews met junior consultants bij de Big Four en gevestigde boutique-consultancies in Centraal-, West- en Noord-Europa, najaar 2024–zomer 2025) van Michal Hron (Ghent University) introduceert het begrip **"unrooted fluency"**, letterlijk [gedefinieerd](https://www.researchgate.net/publication/393974831_Unrooted_Fluency_How_Junior_Professionals_Use_AI_to_Navigate_Learning_and_Performance) als *"the ability to simulate professional competence without having internalized it through socialization or situated practice"* — het vermogen om professionele competentie te simuleren zonder die te hebben verinnerlijkt via socialisatie of praktijkervaring.

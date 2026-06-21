@@ -8,6 +8,9 @@ tags: [feedback, performance-management, evaluatie, leren, organizational]
 source: https://hbr.org/2019/03/the-feedback-fallacy
 ---
 
+> [!note]- Bronnen
+> - [Harvard Business Review, maart 2019](https://hbr.org/2019/03/the-feedback-fallacy)
+
 ## Core idea
 
 Feedback werkt niet zoals we denken. De aanname dat kritische, gedetailleerde feedback mensen helpt groeien is niet alleen onbewezen — ze is neurologisch onjuist. Buckingham & Goodall bouwen op drie onderzoeksbevindingen om een radicaal ander model voor leren en groei voor te stellen.

@@ -13,6 +13,7 @@ source: https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01824.x
 > - [Volledige PDF via MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/Galinsky_et_al_Power-and-Perspectives-Not-Taken.pdf)
 > - [APS — persbericht bij publicatie](https://www.psychologicalscience.org/news/releases/study-gives-us-a-new-perspective-on-the-powerful.html)
 > - [NYU Wagner — publicatiepagina](https://wagner.nyu.edu/impact/research/publications/power-and-perspectives-not-taken)
+> - [DOI: 10.1111/j.1467-9280.2006.01824.x](https://doi.org/10.1111/j.1467-9280.2006.01824.x)
 
 ## Core idea
 

@@ -7,6 +7,11 @@ tags: [team-performance, experiment, ai-adoption, team-design, shared-practice]
 source: https://arxiv.org/abs/2405.17924
 ---
 
+> [!note]- Bronnen
+> - [arXiv — preprint (2024)](https://arxiv.org/abs/2405.17924)
+> - [Volledige PDF via arXiv](https://arxiv.org/pdf/2405.17924)
+> - [DOI: 10.48550/arXiv.2405.17924](https://doi.org/10.48550/arXiv.2405.17924)
+
 ## Core finding
 
 Gerandomiseerd gecontroleerd experiment met 435 deelnemers verdeeld over 122 teams: generatieve AI verhoogt teamprestaties sterk — maar **hoe** een team AI inzet, bepaalt of dat winst of extreme spreiding oplevert.
