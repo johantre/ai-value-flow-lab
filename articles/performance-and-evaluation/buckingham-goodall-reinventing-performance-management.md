@@ -36,7 +36,7 @@ Deze formuleringen meten de reactie van de teamleider — niet de abstracte kwal
 
 ### Connection to our work
 
-Dit artikel is de empirische onderbouwing voor wat de cases in Beyond the Review in de praktijk doen. Buckingham & Goodall laten zien dat het probleem niet alleen cultureel is — het is methodologisch. Zelfs goedbedoelde beoordelingssystemen meten het verkeerde. Zie ook [Deel 1: Inleiding & Laloux-kader](../../beyond-the-review/deel-1.md) en de verbinding met [Kohn](../../books/kohn-punished-by-rewards.md) over de nadelen van externe evaluatie.
+Dit artikel is de empirische onderbouwing voor wat de cases in Beyond the Review in de praktijk doen. Buckingham & Goodall laten zien dat het probleem niet alleen cultureel is — het is methodologisch. Zelfs goedbedoelde beoordelingssystemen meten het verkeerde. Zie ook [Deel 1: Inleiding & Laloux-kader](../beyond-the-review/deel-1.md) en de verbinding met [Kohn](../../books/kohn-punished-by-rewards.md) over de nadelen van externe evaluatie.
 
 Related: [The Feedback Fallacy](buckingham-goodall-the-feedback-fallacy.md), [What Works in Performance Management (CIPD)](cipd-what-works-in-performance-management.md), [Powerful — McCord](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)
 

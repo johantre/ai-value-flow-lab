@@ -20,7 +20,7 @@ High-stakes conversations gaan mis omdat mensen zich onveilig voelen. De oplossi
 
 ## Key concepts
 
-[Crucial Conversations](../concepts/crucial-conversations.md), [[shared-meaning]], [silence-vs-violence](../concepts/silence-vs-violence.md), [[path-to-action]], [[villain-stories]], [[state-your-path]], [AMPP](../concepts/ampp.md), [Mutual Purpose](../concepts/mutual-purpose.md), [[psychological-safety]]
+[Crucial Conversations](../concepts/crucial-conversations.md), [[shared-meaning]], [Silence or Violence](../concepts/silence-vs-violence.md), [[path-to-action]], [[villain-stories]], [[state-your-path]], [AMPP](../concepts/ampp.md), [Mutual Purpose](../concepts/mutual-purpose.md), [[psychological-safety]]
 
 ## What I took from it
 
@@ -52,7 +52,7 @@ Related: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-t
 
 **Good dialogue** = vrije stroom van relevante informatie → **[Pool of Shared Meaning](../concepts/shared-meaning.md)**: het gedeelde begrip dat ontstaat wanneer iedereen zijn perspectief, feiten en gevoelens eerlijk inbrengt. Hoe groter de Pool, hoe beter de beslissing — en hoe sterker het commitment aan de uitkomst.
 
-Het tegenovergestelde is **[silence-vs-violence](../concepts/silence-vs-violence.md)**:
+Het tegenovergestelde is **[Silence or Violence](../concepts/silence-vs-violence.md)**:
 - **Silence** — terugtrekken: masken, vermijden, zwijgen
 - **Violence** — aanvallen: controleren, labelen, forceren
 

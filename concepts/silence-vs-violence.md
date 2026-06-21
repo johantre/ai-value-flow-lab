@@ -3,4 +3,4 @@ type: concept
 tags: [concept]
 ---
 
-# Silence Vs Violence
+# Silence or Violence
