@@ -1,9 +1,11 @@
 ---
 title: "🗺️ Beyond the Review"
 icon: 🗺️
-subtitle: "Evaluatie & Beloning in de nieuwe wereld van werken"
-tags: [evaluatie, beloning, laloux, beyond-the-review]
+author: "Synthese"
+year: 2026
 order: 0
+status: reference
+tags: [evaluatie, beloning, laloux, beyond-the-review, organizational, overzicht]
 ---
 
 > Onderzoek naar hoe toonaangevende organisaties evalueren en belonen — gekleurd naar het Laloux-model — met een conclusie naar toepasbaarheid in België.
