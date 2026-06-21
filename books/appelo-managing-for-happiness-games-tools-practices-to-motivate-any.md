@@ -34,7 +34,7 @@ Het centrale idee: *"management is too important to leave to managers."* Motivat
 
 ### Connection to our work
 
-De tools in dit boek zijn de praktische uitwerking van wat de [[beyond-the-review/cases/happy-melly|Happy Melly-case]] in Beyond the Review beschrijft. Merit Money en Kudo Cards zijn direct toepasbaar als alternatief voor klassieke prestatiebeoordelingen. Moving Motivators maakt expliciet wat mensen drijft — essentieel voor eerlijke evaluatiegesprekken. Related: [[books/kohn-punished-by-rewards|Kohn]], [[books/appelo-management-30-leading-agile-developers-developing-agile-lead|Management 3.0]]
+De tools in dit boek zijn de praktische uitwerking van wat de [[happy-melly|Happy Melly-case]] in Beyond the Review beschrijft. Merit Money en Kudo Cards zijn direct toepasbaar als alternatief voor klassieke prestatiebeoordelingen. Moving Motivators maakt expliciet wat mensen drijft — essentieel voor eerlijke evaluatiegesprekken. Related: [[books/kohn-punished-by-rewards|Kohn]], [[books/appelo-management-30-leading-agile-developers-developing-agile-lead|Management 3.0]]
 
 ---
 
