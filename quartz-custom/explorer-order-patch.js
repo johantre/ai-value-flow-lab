@@ -2,14 +2,29 @@
   // Content index does not expose frontmatter 'order', so we use a slug map.
   // Keys are slugSegments joined with '/' (full path without extension).
   window.__explorerSlugOrder = {
-    "beyond-the-review/readme": 0,
-    "beyond-the-review/deel-1": 1,
-    "beyond-the-review/deel-2": 2,
-    "beyond-the-review/cases": 3,
-    "beyond-the-review/deel-3": 4,
-    "beyond-the-review/conclusie": 5,
-    "articles/performance-and-evaluation/the-performance-illusion": 0,
-    "articles/remuneration/beyond-the-bonus": 0,
+    // Top-level folder order
+    "ai-first": 0,
+    "trust-by-design": 1,
+    "articles": 2,
+
+    // trust-by-design sub-folders
+    "trust-by-design/beyond-the-review": 0,
+    "trust-by-design/the-performance-illusion": 1,
+    "trust-by-design/beyond-the-bonus": 2,
+    "trust-by-design/the-kindness-trap": 3,
+
+    // beyond-the-review internal order
+    "trust-by-design/beyond-the-review/readme": 0,
+    "trust-by-design/beyond-the-review/deel-1": 1,
+    "trust-by-design/beyond-the-review/deel-2": 2,
+    "trust-by-design/beyond-the-review/cases": 3,
+    "trust-by-design/beyond-the-review/deel-3": 4,
+    "trust-by-design/beyond-the-review/conclusie": 5,
+
+    // synthesis index pages first within their folders
+    "trust-by-design/the-performance-illusion/the-performance-illusion": 0,
+    "trust-by-design/beyond-the-bonus/beyond-the-bonus": 0,
+    "trust-by-design/the-kindness-trap/the-kindness-trap": 0,
   }
 
   function patchExplorerSort() {
