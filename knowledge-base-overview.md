@@ -43,7 +43,7 @@ Books link to [[concepts/]] pages. Concept pages link back to books and to our w
 
 ### Org Design Frameworks (trainings attended)
 - [Org Topologies™](articles/krivitsky-flemm-org-topologies.md) — *Alexey Krivitsky & Roland Flemm* — 7 archetypes, team × product fluency axes *(C-OTC training 2025)*
-- [Creating Agile Organizations / DAO](articles/ramos-pavlichenko-creating-agile-organizations.md) — *Cesario Ramos & Ilia Pavlichenko* — 12 design guides, operating model design *(DAO training 2024)*
+- [Creating Agile Organizations / DAO](articles/ramos-pavlichenko-creating-agile-organizations-dao.md) — *Cesario Ramos & Ilia Pavlichenko* — 12 design guides, operating model design *(DAO training 2024)*
 
 ### Foundational texts
 - [How Do Committees Invent?](articles/conway-how-do-committees-invent.md) — *Melvin Conway (1968)* — Conway's Law; communication structure mirrors system design; team flexibility over architecture artifacts
