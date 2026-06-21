@@ -36,7 +36,7 @@ Cruciaal: criteria 3 en 4 gaan niet over de rolhouder maar over de *structuur* e
 
 ### Connection to our work
 
-S3.0 Peer Review is het meest uitgewerkte alternatief voor performance reviews in een zelfsturende context. Het combineert wat de Teal-cases in Beyond the Review in de praktijk doen — peer-evaluatie, geen managerbeoordeling, focus op ontwikkeling — in een gestructureerd patroon. Related: [Feedback Fallacy — Buckingham & Goodall](buckingham-goodall-the-feedback-fallacy.md), [W.L. Gore case](../../beyond-the-review/cases/wl-gore.md), [Happy Melly case](../../beyond-the-review/cases/happy-melly.md), [Managing for Happiness](../../books/appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md)
+S3.0 Peer Review is het meest uitgewerkte alternatief voor performance reviews in een zelfsturende context. Het combineert wat de Teal-cases in Beyond the Review in de praktijk doen — peer-evaluatie, geen managerbeoordeling, focus op ontwikkeling — in een gestructureerd patroon. Related: [Feedback Fallacy — Buckingham & Goodall](buckingham-goodall-the-feedback-fallacy.md), [W.L. Gore case](wl-gore.md), [Happy Melly case](happy-melly.md), [Managing for Happiness](appelo-managing-for-happiness-games-tools-practices-to-motivate-any.md)
 
 ---
 

@@ -35,7 +35,7 @@ Praktisch alternatief: benoem concrete momenten van excellentie ("dat — wat de
 
 ### Connection to our work
 
-Dit artikel geeft de neurobiologische onderbouwing voor wat de S3.0 Peer Review patroon structureel inbouwt: gesprek over groei, niet oordeel over gebreken. Het verklaart ook waarom de Netflix-aanpak van radicale eerlijkheid werkt *enkel* als er een sterke cultuur van psychologische veiligheid is — zonder die veiligheid activeert directe feedback precies het verkeerde neurologische circuit. Related: [Peer Review — S3.0](sociocracy30-peer-review.md), [Powerful — McCord](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Netflix case](../../beyond-the-review/cases/netflix.md)
+Dit artikel geeft de neurobiologische onderbouwing voor wat de S3.0 Peer Review patroon structureel inbouwt: gesprek over groei, niet oordeel over gebreken. Het verklaart ook waarom de Netflix-aanpak van radicale eerlijkheid werkt *enkel* als er een sterke cultuur van psychologische veiligheid is — zonder die veiligheid activeert directe feedback precies het verkeerde neurologische circuit. Related: [Peer Review — S3.0](sociocracy30-peer-review.md), [Powerful — McCord](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Netflix case](netflix.md)
 
 ---
 

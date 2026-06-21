@@ -87,11 +87,11 @@ HR-professionals die zich richten op morale-initiatieven, "Best Places to Work"-
 
 ## Relatie tot de kennisbank
 
-**Wat dit artikel toevoegt aan [Powerful](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)**: het HBR-artikel is beknopter en gefocust op de vijf principes. Powerful gaat dieper in op de *waarom* en het verhaal achter elke keuze. Dit artikel is de primaire bron voor de evolutie van het 360°-format (anoniem → getekend → face-to-face) en de expliciete afwijzing van PIPs.
+**Wat dit artikel toevoegt aan [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)**: het HBR-artikel is beknopter en gefocust op de vijf principes. Powerful gaat dieper in op de *waarom* en het verhaal achter elke keuze. Dit artikel is de primaire bron voor de evolutie van het 360°-format (anoniem → getekend → face-to-face) en de expliciete afwijzing van PIPs.
 
-**Wat dit artikel niet beantwoordt**: de frequentie van de 360-sessies. McCord zegt "regular" maar geeft geen cadans. Voor de All Hands-context is [Powerful](../../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) de betere bron.
+**Wat dit artikel niet beantwoordt**: de frequentie van de 360-sessies. McCord zegt "regular" maar geeft geen cadans. Voor de All Hands-context is [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) de betere bron.
 
 **Verwant:**
 - [The Performance Illusion](the-performance-illusion.md) — overzicht van het onderzoek achter waarom formele reviews niet werken
 - [Reinventing Performance Management](buckingham-goodall-reinventing-performance-management.md) — Deloitte's herontwerp als parallel
-- [Netflix-case](../../beyond-the-review/cases/netflix.md) — de praktische uitwerking in Beyond the Review
+- [Netflix-case](netflix.md) — de praktische uitwerking in Beyond the Review

@@ -32,7 +32,7 @@ Drie inzichten springen eruit:
 
 ### Connection to our work
 
-Dit rapport geeft de evidence-base voor het onderscheid dat alle Teal-cases in Beyond the Review al in de praktijk maken: loskoppelen van beoordeling en beloning, scheiden van ontwikkeling en administratie, en werken met frequente informele gesprekken in plaats van rituele jaarlijkse reviews. Related: [Reinventing Performance Management — Buckingham & Goodall](buckingham-goodall-reinventing-performance-management.md), [Kohn — Punished by Rewards](../../books/kohn-punished-by-rewards.md), [Deel 1: Inleiding & Laloux-kader](../../beyond-the-review/deel-1.md)
+Dit rapport geeft de evidence-base voor het onderscheid dat alle Teal-cases in Beyond the Review al in de praktijk maken: loskoppelen van beoordeling en beloning, scheiden van ontwikkeling en administratie, en werken met frequente informele gesprekken in plaats van rituele jaarlijkse reviews. Related: [Reinventing Performance Management — Buckingham & Goodall](buckingham-goodall-reinventing-performance-management.md), [Kohn — Punished by Rewards](kohn-punished-by-rewards.md), [Deel 1: Inleiding & Laloux-kader](deel-1.md)
 
 ---
 
