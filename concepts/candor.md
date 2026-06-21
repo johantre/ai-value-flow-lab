@@ -11,6 +11,7 @@ Speaking truth clearly, kindly, and in time for it to matter. The opposite of sp
 
 ## Books that address this concept
 
+- [Radical Candor](../books/scott-radical-candor-be-a-kick-ass-boss-without-losing-your-humanity.md)
 - [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md)
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](../books/catmull-creativity-inc-overcoming-the-unseen-forces-that-stand-in-th.md)
 - [Powerful: Building a Culture of Freedom and Responsibility](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md)
