@@ -83,6 +83,6 @@ The Kindness Trap is de culturele laag die alle andere syntheses mogelijk of onm
 |---|---|
 | Candor | Beoordelingen worden strategisch, niet eerlijk — zie [The Performance Illusion](the-performance-illusion.md) |
 | Eerlijk spreken over loon | Beloningssystemen worden politiek — zie [Beyond the Bonus](beyond-the-bonus.md) |
-| Veiligheid om te spreken | Organisatiemodellen die op zelfsturing bouwen, falen — zie [Beyond the Review](README.md) |
+| Veiligheid om te spreken | Organisatiemodellen die op zelfsturing bouwen, falen — zie [Beyond the Review](beyond-the-review.md) |
 
 De piramide van Lencioni begint bij kwetsbaarheidsvertrouwen. The Kindness Trap beschrijft wat er structureel in de weg staat.

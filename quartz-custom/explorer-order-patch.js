@@ -14,7 +14,7 @@
     "trust-by-design/the-kindness-trap": 3,
 
     // beyond-the-review internal order
-    "trust-by-design/beyond-the-review/readme": 0,
+    "trust-by-design/beyond-the-review/beyond-the-review": 0,
     "trust-by-design/beyond-the-review/deel-1": 1,
     "trust-by-design/beyond-the-review/deel-2": 2,
     "trust-by-design/beyond-the-review/cases": 3,

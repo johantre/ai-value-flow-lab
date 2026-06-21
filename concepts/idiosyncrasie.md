@@ -59,4 +59,4 @@ Buckingham & Goodall (2015, 2019) trekken twee conclusies:
 
 ## Verband met ons werk
 
-Het idiosyncratic rater effect is de wetenschappelijke onderbouwing voor de kritiek op klassieke prestatiebeoordelingen in [Beyond the Review](../trust-by-design/beyond-the-review/README.md). Organisaties zoals [[wl-gore|W.L. Gore]] en [[happy-melly|Happy Melly]] vermijden managerbeoordeling precies omdat de machtsdynamiek en subjectiviteit van individuele ratings het effect versterken. Peer-systemen reduceren het effect niet volledig, maar verdelen het over meerdere perspectieven.
+Het idiosyncratic rater effect is de wetenschappelijke onderbouwing voor de kritiek op klassieke prestatiebeoordelingen in [Beyond the Review](../trust-by-design/beyond-the-review/beyond-the-review.md). Organisaties zoals [[wl-gore|W.L. Gore]] en [[happy-melly|Happy Melly]] vermijden managerbeoordeling precies omdat de machtsdynamiek en subjectiviteit van individuele ratings het effect versterken. Peer-systemen reduceren het effect niet volledig, maar verdelen het over meerdere perspectieven.
