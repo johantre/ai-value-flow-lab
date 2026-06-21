@@ -31,7 +31,7 @@ Dit is het interne verslag van het AES-experiment — geschreven door de archite
 
 ### Connection to our work
 
-Dit boek is de primaire bron voor de [[beyond-the-review/cases/aes|AES-case]] in Beyond the Review. Het maakt de redenering achter het adviesproces expliciet: maximaliseer het aantal mensen dat in hun werkzame leven écht grote beslissingen kan nemen. Dat is een definitie van goed werk die radicaal verschilt van klassiek prestatiemanagement. Related: [[books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio|Laloux]], [[books/kohn-punished-by-rewards|Kohn]]
+Dit boek is de primaire bron voor de [[aes|AES-case]] in Beyond the Review. Het maakt de redenering achter het adviesproces expliciet: maximaliseer het aantal mensen dat in hun werkzame leven écht grote beslissingen kan nemen. Dat is een definitie van goed werk die radicaal verschilt van klassiek prestatiemanagement. Related: [[books/laloux-reinventing-organizations-geillustreerde-versie-dutch-editio|Laloux]], [[books/kohn-punished-by-rewards|Kohn]]
 
 ---
 

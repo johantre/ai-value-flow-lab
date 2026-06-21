@@ -52,11 +52,11 @@ Buckingham & Goodall (2015, 2019) trekken twee conclusies:
 
 ## Artikels die dit concept uitwerken
 
-- [Reinventing Performance Management — Buckingham & Goodall (HBR 2015)](../articles/performance-and-evaluation/buckingham-goodall-reinventing-performance-management.md)
-- [The Feedback Fallacy — Buckingham & Goodall (HBR 2019)](../articles/performance-and-evaluation/buckingham-goodall-the-feedback-fallacy.md)
+- [Reinventing Performance Management — Buckingham & Goodall (HBR 2015)](../trust-by-design/the-performance-illusion/buckingham-goodall-reinventing-performance-management.md)
+- [The Feedback Fallacy — Buckingham & Goodall (HBR 2019)](../trust-by-design/the-performance-illusion/buckingham-goodall-the-feedback-fallacy.md)
 
 ---
 
 ## Verband met ons werk
 
-Het idiosyncratic rater effect is de wetenschappelijke onderbouwing voor de kritiek op klassieke prestatiebeoordelingen in [Beyond the Review](../beyond-the-review/README.md). Organisaties zoals [[beyond-the-review/cases/wl-gore|W.L. Gore]] en [[beyond-the-review/cases/happy-melly|Happy Melly]] vermijden managerbeoordeling precies omdat de machtsdynamiek en subjectiviteit van individuele ratings het effect versterken. Peer-systemen reduceren het effect niet volledig, maar verdelen het over meerdere perspectieven.
+Het idiosyncratic rater effect is de wetenschappelijke onderbouwing voor de kritiek op klassieke prestatiebeoordelingen in [Beyond the Review](../trust-by-design/beyond-the-review/README.md). Organisaties zoals [[wl-gore|W.L. Gore]] en [[happy-melly|Happy Melly]] vermijden managerbeoordeling precies omdat de machtsdynamiek en subjectiviteit van individuele ratings het effect versterken. Peer-systemen reduceren het effect niet volledig, maar verdelen het over meerdere perspectieven.

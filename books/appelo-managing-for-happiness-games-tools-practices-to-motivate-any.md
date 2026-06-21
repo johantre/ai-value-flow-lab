@@ -14,7 +14,7 @@ source: goodreads
 > - [Management 3.0. *Managing for Happiness — book page*](https://management30.com/books/managing-for-happiness/)
 > - [O'Reilly. *Chapter 1: Kudo Box and Kudo Cards*](https://www.oreilly.com/library/view/managing-for-happiness/9781119268680/c01.xhtml)
 > - [Management 3.0. *Merit Money practice*](https://management30.com/practice/merit-money/)
-> - Zie ook [Happy Melly case](../beyond-the-review/cases/happy-melly.md) in Beyond the Review.
+> - Zie ook [Happy Melly case](../trust-by-design/beyond-the-review/cases/happy-melly.md) in Beyond the Review.
 
 ## Core idea
 

@@ -132,5 +132,5 @@ Vandaag wordt exact dezelfde belofte gemaakt over AI. Graeber's analyse suggeree
 
 - [Moral Mazes](jackall-moral-mazes-the-world-of-corporate-managers.md) — hoe bureaucratische logica managers drijft tot gedrag dat niemand wil
 - [Organize for Complexity](pflaeging-organize-for-complexity-how-to-get-life-back-into-work-to-bu.md) — alternatief organisatiemodel dat zinvol werk centraal stelt
-- [The Performance Illusion](../articles/performance-and-evaluation/the-performance-illusion.md) — hoe beoordelingssystemen bullshit-activiteit in stand houden (box tickers, taskmasters)
-- [Beyond the Bonus](../articles/remuneration/beyond-the-bonus.md) — verloning losgekoppeld van zingeving als structureel probleem
+- [The Performance Illusion](../trust-by-design/the-performance-illusion/the-performance-illusion.md) — hoe beoordelingssystemen bullshit-activiteit in stand houden (box tickers, taskmasters)
+- [Beyond the Bonus](../trust-by-design/beyond-the-bonus/beyond-the-bonus.md) — verloning losgekoppeld van zingeving als structureel probleem

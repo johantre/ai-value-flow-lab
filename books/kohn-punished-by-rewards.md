@@ -27,19 +27,19 @@ De kracht van het boek: het is geen intuïtie, het is een systematische doorlich
 
 ### Connection to our work
 
-Dit is de empirische onderbouwing achter de kritiek op oranje bonussystemen in [Beyond the Review — Inleiding](../beyond-the-review/deel-1.md). Organisaties die willen bewegen naar Groen of Teal (zie [Laloux](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)) stoten op precies dit probleem: de beloningsmechanismen die ze geërfd hebben van Oranje ondermijnen de waarden die ze willen uitdragen. Kohn geeft de theoretische grond voor wat de cases in Beyond the Review in de praktijk doen.
+Dit is de empirische onderbouwing achter de kritiek op oranje bonussystemen in [Beyond the Review — Inleiding](../trust-by-design/beyond-the-review/deel-1.md). Organisaties die willen bewegen naar Groen of Teal (zie [Laloux](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md)) stoten op precies dit probleem: de beloningsmechanismen die ze geërfd hebben van Oranje ondermijnen de waarden die ze willen uitdragen. Kohn geeft de theoretische grond voor wat de cases in Beyond the Review in de praktijk doen.
 
 **Bevestigen Kohn's kritiek op prestatiebeloning** — ze schaften het af of gingen er nooit mee van start:
-- [FAVI](../beyond-the-review/cases/favi.md): bonus was 20% van maandloon, bepaald door stemming van de chef → precies wat Kohn beschrijft als willekeurig en demotiverend. Zobrist schafte het af en integreerde het in het basissalaris.
-- [Handelsbanken](../beyond-the-review/cases/handelsbanken.md): geen individuele bonussen in een sector waar ze norm zijn. Collectieve Oktogonen-uitkering bij pensioen vervangt de prikkel volledig.
-- [AES](../beyond-the-review/cases/aes.md): geen manager-bepaalde bonussen; iedereen — ook fabrieksarbeiders — kreeg toegang tot stock options.
-- [Buurtzorg](../beyond-the-review/cases/buurtzorg.md), [Morning Star](../beyond-the-review/cases/morning-star.md), [Semco](../beyond-the-review/cases/semco.md): beloning losgekoppeld van individuele beoordeling.
+- [FAVI](../trust-by-design/beyond-the-review/cases/favi.md): bonus was 20% van maandloon, bepaald door stemming van de chef → precies wat Kohn beschrijft als willekeurig en demotiverend. Zobrist schafte het af en integreerde het in het basissalaris.
+- [Handelsbanken](../trust-by-design/beyond-the-review/cases/handelsbanken.md): geen individuele bonussen in een sector waar ze norm zijn. Collectieve Oktogonen-uitkering bij pensioen vervangt de prikkel volledig.
+- [AES](../trust-by-design/beyond-the-review/cases/aes.md): geen manager-bepaalde bonussen; iedereen — ook fabrieksarbeiders — kreeg toegang tot stock options.
+- [Buurtzorg](../trust-by-design/beyond-the-review/cases/buurtzorg.md), [Morning Star](../trust-by-design/beyond-the-review/cases/morning-star.md), [Semco](../trust-by-design/beyond-the-review/cases/semco.md): beloning losgekoppeld van individuele beoordeling.
 
 **Passen Kohn's alternatieven toe** — collaboratie, autonomie, onverwachte erkenning:
-- [Happy Melly](../beyond-the-review/cases/happy-melly.md): Merit Money = peer-verdeeld, onverwacht, criteria wisselen maandelijks → voldoet aan Kohn's zes regels voor effectieve beloningen.
-- [W.L. Gore](../beyond-the-review/cases/wl-gore.md): peer-ranking vervangt managerbeoordeling → verwijdert de subjectiviteit en machtsdynamiek die Kohn bekritiseert.
-- [Mondragon](../beyond-the-review/cases/mondragon.md): democratisch loonbeleid, winst- én verliesverdeling → collectief boven individueel.
-- [Buffer](../beyond-the-review/cases/buffer.md): transparante formule zonder onderhandeling → geen strategisch gedrag, geen politiek.
+- [Happy Melly](../trust-by-design/beyond-the-review/cases/happy-melly.md): Merit Money = peer-verdeeld, onverwacht, criteria wisselen maandelijks → voldoet aan Kohn's zes regels voor effectieve beloningen.
+- [W.L. Gore](../trust-by-design/beyond-the-review/cases/wl-gore.md): peer-ranking vervangt managerbeoordeling → verwijdert de subjectiviteit en machtsdynamiek die Kohn bekritiseert.
+- [Mondragon](../trust-by-design/beyond-the-review/cases/mondragon.md): democratisch loonbeleid, winst- én verliesverdeling → collectief boven individueel.
+- [Buffer](../trust-by-design/beyond-the-review/cases/buffer.md): transparante formule zonder onderhandeling → geen strategisch gedrag, geen politiek.
 
 Related: [Laloux](laloux-reinventing-organizations-geillustreerde-versie-dutch-editio.md), [[books/appelo-managing-for-happiness-games-tools-practices-to-motivate-any|Managing for Happiness]], [[books/bakke-joy-at-work|Joy at Work]]
 
@@ -119,11 +119,11 @@ Autonomie — het gevoel dat je keuzes hebt, dat je werk je eigen keuze is — i
 
 Kohn schrijft over scholen en bedrijven, maar de implicaties zijn het scherpst voor organisaties die willen bewegen voorbij klassieke prestatiemanagement:
 
-- **Geen prestatiegebonden loon**: beloning los van beoordeling — [Buurtzorg](../beyond-the-review/cases/buurtzorg.md), [Morning Star](../beyond-the-review/cases/morning-star.md), [FAVI](../beyond-the-review/cases/favi.md), [Handelsbanken](../beyond-the-review/cases/handelsbanken.md)
-- **Geen rankings of ratings**: het systeem dat beoordeelt vernielt wat het probeert te meten — zie ook Microsoft's stack ranking (afgeschaft 2013) in [deel-1](../beyond-the-review/deel-1.md)
-- **Peer-evaluatie als alternatief voor managerbeoordeling**: verwijdert de machtsdynamiek zonder de subjectiviteit te vergroten — [W.L. Gore](../beyond-the-review/cases/wl-gore.md), [Happy Melly](../beyond-the-review/cases/happy-melly.md)
-- **Collectieve beloning boven individuele bonus**: succes is zelden individueel — [Mondragon](../beyond-the-review/cases/mondragon.md), [Handelsbanken](../beyond-the-review/cases/handelsbanken.md), [FAVI](../beyond-the-review/cases/favi.md)
-- **Transparante formule zonder onderhandeling**: verwijdert politiek en strategisch gedrag — [Buffer](../beyond-the-review/cases/buffer.md), [Semco](../beyond-the-review/cases/semco.md)
-- **Vertrouwen als standaard**: de vraag is niet "hoe stimuleer ik mensen?" maar "waarom zouden mensen hier niet willen bijdragen?" — [AES](../beyond-the-review/cases/aes.md), [Buurtzorg](../beyond-the-review/cases/buurtzorg.md)
+- **Geen prestatiegebonden loon**: beloning los van beoordeling — [Buurtzorg](../trust-by-design/beyond-the-review/cases/buurtzorg.md), [Morning Star](../trust-by-design/beyond-the-review/cases/morning-star.md), [FAVI](../trust-by-design/beyond-the-review/cases/favi.md), [Handelsbanken](../trust-by-design/beyond-the-review/cases/handelsbanken.md)
+- **Geen rankings of ratings**: het systeem dat beoordeelt vernielt wat het probeert te meten — zie ook Microsoft's stack ranking (afgeschaft 2013) in [deel-1](../trust-by-design/beyond-the-review/deel-1.md)
+- **Peer-evaluatie als alternatief voor managerbeoordeling**: verwijdert de machtsdynamiek zonder de subjectiviteit te vergroten — [W.L. Gore](../trust-by-design/beyond-the-review/cases/wl-gore.md), [Happy Melly](../trust-by-design/beyond-the-review/cases/happy-melly.md)
+- **Collectieve beloning boven individuele bonus**: succes is zelden individueel — [Mondragon](../trust-by-design/beyond-the-review/cases/mondragon.md), [Handelsbanken](../trust-by-design/beyond-the-review/cases/handelsbanken.md), [FAVI](../trust-by-design/beyond-the-review/cases/favi.md)
+- **Transparante formule zonder onderhandeling**: verwijdert politiek en strategisch gedrag — [Buffer](../trust-by-design/beyond-the-review/cases/buffer.md), [Semco](../trust-by-design/beyond-the-review/cases/semco.md)
+- **Vertrouwen als standaard**: de vraag is niet "hoe stimuleer ik mensen?" maar "waarom zouden mensen hier niet willen bijdragen?" — [AES](../trust-by-design/beyond-the-review/cases/aes.md), [Buurtzorg](../trust-by-design/beyond-the-review/cases/buurtzorg.md)
 
-De EU Pay Transparency Directive dwingt Belgische bedrijven tot transparantie over loon — maar Kohn's argument gaat verder: transparantie over een gebrekkig systeem maakt het systeem niet beter. Zie [deel-3](../beyond-the-review/deel-3.md) en [conclusie](../beyond-the-review/conclusie.md).
+De EU Pay Transparency Directive dwingt Belgische bedrijven tot transparantie over loon — maar Kohn's argument gaat verder: transparantie over een gebrekkig systeem maakt het systeem niet beter. Zie [deel-3](../trust-by-design/beyond-the-review/deel-3.md) en [conclusie](../trust-by-design/beyond-the-review/conclusie.md).

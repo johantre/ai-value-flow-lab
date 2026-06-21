@@ -10,7 +10,7 @@ Uit [Radical Candor](../books/scott-radical-candor-be-a-kick-ass-boss-without-lo
 De meest voorkomende managementfout — en de gevaarlijkste omdat ze als vriendelijkheid aanvoelt. Ruinous Empathy beschermt de manager tegen ongemak op korte termijn en fàalt het teamlid op lange termijn.
 
 Ruinous Empathy is structureel verwant aan:
-- [Felps](../articles/felps-mitchell-byington-how-when-why-bad-apples-2006.md): de **organisatorische beperking** die motivationele interventie blokkeert — wanneer de norm is om te zwijgen, hoeft er geen formeel beleid te zijn dat ingrijpen verbiedt
+- [Felps](../trust-by-design/the-kindness-trap/felps-mitchell-byington-how-when-why-bad-apples-2006.md): de **organisatorische beperking** die motivationele interventie blokkeert — wanneer de norm is om te zwijgen, hoeft er geen formeel beleid te zijn dat ingrijpen verbiedt
 - [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): **Obligation** zonder Responsibility — je doet de motie van betrokkenheid zonder eigenaarschap te nemen over de uitkomst
 - [Lencioni](../books/lencioni-the-five-dysfunctions-of-a-team.md): **Avoidance of Accountability** — het vermijden van moeilijke gesprekken als teampatroon
 

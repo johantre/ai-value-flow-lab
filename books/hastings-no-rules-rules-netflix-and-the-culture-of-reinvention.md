@@ -38,7 +38,7 @@ Waar [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility
 
 **Meyer's bijdrage: cultuur is niet universeel.** Netflix paste zijn candor-cultuur aan voor verschillende landen. In indirecte culturen (Azië, maar ook deels Europa) werkt directe feedback anders — niet slechter, maar anders. Meyer voegt een pragmatisch principe toe: pas de *vorm* aan, niet de *inhoud*. Eerlijkheid blijft het doel; de verpakking mag cultureel sensitief zijn.
 
-Related: [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [How Netflix Reinvented HR](../articles/performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix-case](../beyond-the-review/cases/netflix.md), [The Advantage](lencioni-the-advantage-why-organizational-health-trumps-everything-el.md)
+Related: [Powerful: Building a Culture of Freedom and Responsibility](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [How Netflix Reinvented HR](../trust-by-design/the-kindness-trap/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix-case](../trust-by-design/beyond-the-review/cases/netflix.md), [The Advantage](lencioni-the-advantage-why-organizational-health-trumps-everything-el.md)
 
 ---
 
