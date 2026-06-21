@@ -10,6 +10,10 @@ source: goodreads
 
 ![cover](./lencioni-the-five-dysfunctions-of-a-team/cover.jpg)
 
+> [!note]- Bronnen
+> - [Goodreads](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
+> - [Referentieblad met oefeningen en technieken per dysfunctie (xlsx)](./lencioni-the-five-dysfunctions-of-a-team/5%20Dysfunctions%20of%20a%20Team.xlsx)
+
 ## Core idea
 
 Teams fail due to five stacked dysfunctions: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, inattention to results. Each dysfunction enables the one above it.
@@ -114,7 +118,7 @@ Lencioni maakt het onderscheid tussen **productief ideologisch conflict** (menin
 
 **Hoe doorbreken:**
 - **Mining** — een teamlid krijgt expliciet de rol om begraven meningsverschillen boven tafel te brengen, ook als dat ongemakkelijk voelt: *"Ik denk dat we het hier niet echt over eens zijn — laten we dat uitspreken."*
-- **Conflict in het moment legitimeren** — de leider benoemt actief wanneer het team onenigheid aan het omzeilen is: *"Ik merk dat we ergens omheen lopen. Laten we dat rechtstreeks bespreken."* Geen formele toestemming, maar een expliciete uitnodiging om het echte gesprek te voeren.
+- **Real-time permission** — een korte, expliciete reminder van de leider dat het conflict of de inhoudelijke discussie die nu plaatsvindt precies is wat het team nodig heeft. Geen formele goedkeuring, maar een actief signaal: *dit gesprek is waardevol, ga door.*
 - **Conflictstijlen bespreekbaar maken** — instrumenten als Thomas-Kilmann helpen teamleden begrijpen hoe zij persoonlijk op conflict reageren, en waarom sommigen escaleren terwijl anderen verstommen.
 
 ---
