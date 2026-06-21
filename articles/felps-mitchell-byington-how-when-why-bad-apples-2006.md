@@ -73,7 +73,7 @@ graph LR
     A[❶ Episodisch negatief gedrag] --> B[❷ Chronisch negatief lid]
     B --> C[❸ Psychologische reacties]
     C --> DEC{Ingrijpen mogelijk?}
-    DEC -->|ja| INT["✅ Motivationele interventie<br/>of Rejection"]
+    DEC -->|ja| INT["✅ Motivationele interventie<br/>✅ Rejection"]
     DEC -->|nee| D["☣️ ❺ Defensief gedrag"]
     D --> E[❻ Groepsprocessen]
     E --> F[❼ Groepsuitkomsten]
@@ -144,9 +144,9 @@ Een moderator is geen stap in het proces en geen actor — het is een **omstandi
 
 Tussen ❸ Psychologische reacties en ❺ Defensief gedrag zit een beslissingsmoment: **kunnen teammates ingrijpen?** Als het antwoord ja is, volgt motivationele interventie of rejection. Als het antwoord nee is, is [[defensiveness]] de enige uitweg. Drie structurele barrières bepalen of ingrijpen mogelijk is:
 
-- **Geen macht** — de bad apple heeft meer senioriteit, formele autoriteit, of is beschermd door HR-procedures
-- **Geen veiligheid** — teammates vrezen de sociale of professionele gevolgen van aanspreken ([[psychological-safety]])
-- **Organisatorische beperkingen** — rolstructuren of cultuur maken directe interventie onmogelijk ([[accountability]], [[candor]])
+- ❌ **Geen macht** — de bad apple heeft meer senioriteit, formele autoriteit, of is beschermd door HR-procedures
+- ❌ **Geen veiligheid** — teammates vrezen de sociale of professionele gevolgen van aanspreken ([[psychological-safety]])
+- ❌ **Organisatorische beperkingen** — rolstructuren of cultuur maken directe interventie onmogelijk — inclusief *tolerantie van ongewenst gedrag door management*, waardoor peers impliciet het signaal krijgen dat aanspreken niet veilig of gewenst is. Herhaalde tolerantie verlaagt geleidelijk de norm: zie [Avoidance of Accountability](../books/lencioni-the-five-dysfunctions-of-a-team.md) en [Eroding Goals](../books/meadows-thinking-in-systems-a-primer.md) ([[accountability]], [[candor]])
 
 **[Type 1 — Withholder of effort](../concepts/free-rider.md)**: de barrières zijn puur organisatorisch. Als [[psychological-safety]] aanwezig is en machtsverhoudingen het toelaten, is interventie goed mogelijk — het gedrag is zichtbaar en benoembaar. Kleine, transparante teams zoals [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md) pakken free-rider gedrag effectiever aan omdat bijdrage zichtbaar is en anonimiteit ontbreekt.
 
@@ -162,13 +162,13 @@ Tussen ❸ Psychologische reacties en ❺ Defensief gedrag zit een beslissingsmo
 
 ### Drie reacties van teammates
 
-**1. Motivationele interventie**
+✅ **1. Motivationele interventie**
 Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Klassiek voorbeeld: in de Hawthorne Studies "bingden" collega's een luie medewerker op de bovenarm als informele norm-handhaving — effectiever dan managersupervisie of bonussen.
 
-**2. Rejection**
+✅ **2. Rejection**
 Uitsluiten, verwijderen, psychologisch distantiëren, taakoverdracht reduceren. Treedt op wanneer motivationele interventie faalt of het gedrag als oncontroleerbaar wordt gezien (met name bij affectief negatieven).
 
-**3. Defensiviteit**
+☣️ **3. Defensiviteit**
 Wanneer noch motivationele interventie noch rejection mogelijk is — door organisatorische beperkingen, senioriteit, formele rolstructuren, of machtsverschillen — beschermen teammates zichzelf. Dit is de toestand waarin het vat écht spoilt: defensief gedrag ondermijnt de groepsprocessen die prestatie dragen.
 
 > **Kernpunt**: de bad apple bederft het vat niet direct — het is de defensiviteit die hij uitlokt bij teammates die niet kunnen ingrijpen, die de echte schade aanricht.
