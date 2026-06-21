@@ -93,6 +93,8 @@ Voorbeelden:
 
 > Ruinous Empathy voelt als vriendelijkheid voor de gever. Het is verraad voor de ontvanger — die pas later, te laat, ontdekt wat nooit gezegd werd.
 
+[McCord](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) formuleert het identiek in [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md): *"Het ontbreken van eerlijke feedback is geen vriendelijkheid — het is een dienstverlening die je weigert te leveren."* Twee onafhankelijke auteurs, dezelfde conclusie.
+
 ---
 
 ### Rockstars en superstars
