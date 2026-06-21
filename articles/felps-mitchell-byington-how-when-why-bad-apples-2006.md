@@ -20,7 +20,7 @@ Eén negatief teamlid kan het functioneren van een heel team ernstig beschadigen
 
 ## Key concepts
 
-[[free-rider]], [[social-loafing]], [[defensiveness]], [[team-dysfunction]], [[psychological-safety]], [[accountability]], [[candor]]
+[[free-rider]], [[social-loafing]], [[defensiveness]], [[team-dysfunction]], [[psychological-safety]], [[accountability]], [[candor]], [[responsibility-process]]
 
 ## What I took from it
 
@@ -34,9 +34,9 @@ Dit is een **review- en theoriepaper**, geen laboratoriumexperiment. Felps et al
 
 **Team-interdependentie als moderator.** Dit verklaart het paradox van teams als [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md): hoge interdependentie maakt hen zowel kwetsbaarder als weerbaarder — zie [Stap 4](#stap-4).
 
-**De drie reacties als model voor candor-gesprekken.** Felps beschrijft [drie teamresponsen](#drie-reacties): motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen.
+**De drie reacties als model voor candor-gesprekken.** Felps beschrijft [drie teamresponsen](#drie-reacties): motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen. Met [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): defensiviteit is het teamgedrag van mensen die in de catcher states vastzitten — Blame, Justify, Quit — omdat de condities voor [Responsibility](../concepts/responsibility-process.md) ontbreken.
 
-Related: [No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](google-project-aristotle-what-makes-a-team-effective.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [How Netflix Reinvented HR](performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix — case](../beyond-the-review/cases/netflix.md), [Buurtzorg — case](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore — case](../beyond-the-review/cases/wl-gore.md)
+Related: [No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](google-project-aristotle-what-makes-a-team-effective.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [The Responsibility Process](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md), [How Netflix Reinvented HR](performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix — case](../beyond-the-review/cases/netflix.md), [Buurtzorg — case](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore — case](../beyond-the-review/cases/wl-gore.md)
 
 ---
 
@@ -148,6 +148,8 @@ Tussen ❸ Psychologische reacties en ❺ Defensief gedrag zit een beslissingsmo
 - ❌ **Geen veiligheid** — teammates vrezen de sociale of professionele gevolgen van aanspreken ([[psychological-safety]])
 - ❌ **Organisatorische beperkingen** — rolstructuren of cultuur maken directe interventie onmogelijk — inclusief *tolerantie van ongewenst gedrag door management*, waardoor peers impliciet het signaal krijgen dat aanspreken niet veilig of gewenst is. Herhaalde tolerantie verlaagt geleidelijk de norm: zie [Avoidance of Accountability](../books/lencioni-the-five-dysfunctions-of-a-team.md) en [Eroding Goals](../books/meadows-thinking-in-systems-a-primer.md) ([[accountability]], [[candor]])
 
+Vanuit [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): de drie barrières verklaren waarom teammates structureel niet naar [Responsibility](../concepts/responsibility-process.md) kunnen bewegen — niet door gebrek aan wil, maar door een systeem dat ingrijpen onmogelijk maakt. Wie geen macht heeft, belandt in Justify (*"gegeven de omstandigheden, wat kon ik anders?"*). Wie geen veiligheid heeft, glijdt richting Lay Blame (intern gericht) of Quit (terugtrekken). Wie door organisatorische beperkingen geblokkeerd wordt, doet wat gevraagd wordt en niet meer — Obligation zonder Responsibility. Leiders kunnen Responsibility niet eisen; ze kunnen alleen de condities creëren die het mogelijk maken.
+
 **[Type 1 — Withholder of effort](../concepts/free-rider.md)**: de barrières zijn puur organisatorisch. Als [[psychological-safety]] aanwezig is en machtsverhoudingen het toelaten, is interventie goed mogelijk — het gedrag is zichtbaar en benoembaar. Kleine, transparante teams zoals [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md) pakken free-rider gedrag effectiever aan omdat bijdrage zichtbaar is en anonimiteit ontbreekt.
 
 **[Type 2 — Affectively negative](../concepts/affectively-negative.md)**: dezelfde organisatorische barrières gelden, maar er is een extra psychologische drempel: teammates geloven niet dat ze iemands stemming kunnen veranderen. Gedrag voelt als persoonlijkheid, niet als keuze — en als iets niet veranderbaar lijkt, investeer je er niet in. Het team valt daardoor sneller terug op [[defensiveness]], zelfs als de machtsstructuur interventie wel zou toelaten. Type 2 is daardoor het gevaarlijkst voor [[team-dysfunction]].
@@ -169,7 +171,7 @@ Het aanspreken van de negatieve persoon met de bedoeling het gedrag te verandere
 Uitsluiten, verwijderen, psychologisch distantiëren, taakoverdracht reduceren. Treedt op wanneer motivationele interventie faalt of het gedrag als oncontroleerbaar wordt gezien (met name bij affectief negatieven).
 
 ☣️ **3. Defensiviteit**
-Wanneer noch motivationele interventie noch rejection mogelijk is — door organisatorische beperkingen, senioriteit, formele rolstructuren, of machtsverschillen — beschermen teammates zichzelf. Dit is de toestand waarin het vat écht spoilt: defensief gedrag ondermijnt de groepsprocessen die prestatie dragen.
+Wanneer noch motivationele interventie noch rejection mogelijk is — door organisatorische beperkingen, senioriteit, formele rolstructuren, of machtsverschillen — beschermen teammates zichzelf. Dit is de toestand waarin het vat écht spoilt: defensief gedrag ondermijnt de groepsprocessen die prestatie dragen. Met [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): de zes defensieve gedragingen zijn de zichtbare manifestaties van zijn catcher states — Blame, Justify, Quit — bij mensen die niet de ruimte hebben om te kiezen voor [Responsibility](../concepts/responsibility-process.md).
 
 > **Kernpunt**: de bad apple bederft het vat niet direct — het is de defensiviteit die hij uitlokt bij teammates die niet kunnen ingrijpen, die de echte schade aanricht.
 
