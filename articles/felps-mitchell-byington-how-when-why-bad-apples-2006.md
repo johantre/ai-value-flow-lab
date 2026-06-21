@@ -73,24 +73,19 @@ graph LR
     A[❶ Episodisch negatief gedrag] --> B[❷ Chronisch negatief lid]
     B --> C[❸ Psychologische reacties]
     C --> DEC{Ingrijpen mogelijk?}
-    DEC -->|ja| INT["Motivationele interventie<br/>of Rejection"]
-    DEC -->|nee| D[❺ Defensief gedrag]
+    DEC -->|ja| INT["✅ Motivationele interventie<br/>of Rejection"]
+    DEC -->|nee| D["☣️ ❺ Defensief gedrag"]
     D --> E[❻ Groepsprocessen]
     E --> F[❼ Groepsuitkomsten]
-    subgraph BARR [ ]
-        direction TB
-        B1[❌ Geen macht]
-        B2[❌ Geen veiligheid]
-        B3[❌ Org. beperkingen]
-    end
-    BARR -.-> DEC
+    BARR(["❌ Geen macht<br/>❌ Geen veiligheid<br/>❌ Org. beperkingen"]) -.-> DEC
     G([❹ Moderatoren]) -.-> C
     H[Relatieve macht] --> B
     style G fill:#cce5ff,stroke:#66a3ff,color:#000
-    style B1 fill:#ffe0e0,stroke:#ff6666,color:#000
-    style B2 fill:#ffe0e0,stroke:#ff6666,color:#000
-    style B3 fill:#ffe0e0,stroke:#ff6666,color:#000
+    style BARR fill:#ffe0e0,stroke:#ff6666,color:#000
     style INT fill:#d4edda,stroke:#28a745,color:#000
+    style D fill:#ffd700,stroke:#cc9900,color:#000
+    style E fill:#ffd700,stroke:#cc9900,color:#000
+    style F fill:#ffd700,stroke:#cc9900,color:#000
 ```
 
 **Stap 1 — Episodisch negatief gedrag:**
