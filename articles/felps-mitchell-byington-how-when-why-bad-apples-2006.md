@@ -30,17 +30,7 @@ Dit is een **review- en theoriepaper**, geen laboratoriumexperiment. Felps et al
 
 ### Connection to our work
 
-**De free-rider is type 1 van drie.** Felps definieert drie types negatief teamlid. De free-rider ("withholder of effort") is er één van — en het paper toont dat alle drie hetzelfde besmettingsmechanisme activeren. Dat betekent dat de free-rider-discussie in onze KB eigenlijk breder is: ook de chronisch pessimistische collega en de interpersoonlijke overtreder ondermijnen teamfunctioneren via hetzelfde pad.
-
-**Het mechanisme verklaart waarom zwijgen het probleem verergert.** Wanneer teamleden niet kunnen ingrijpen, wordt defensiviteit de enige uitweg — en defensiviteit is zelf een vorm van slacking off, terugtrekken en verborgen wraak. Het vat spoilt niet door de bad apple alleen, maar door wat het team doet als het niet kan reageren. Dit is de wetenschappelijke onderbouwing van wat [Bennis](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md) noemt: withholding als rationele reactie op een onveilig systeem.
-
-```mermaid
-graph LR
-    A["❌ Geen macht"] --> D["☣️ Defensiviteit"]
-    B["❌ Geen veiligheid"] --> D
-    C["❌ Organisatorische beperkingen"] --> D
-    style D fill:#39ff14,color:#000
-```
+**Het besmettingsmechanisme is subtieler dan het lijkt.** De defensieve gedragingen die teammates vertonen — slacking off, terugtrekken, niet meer investeren — zijn vrijwel identiek aan het gedrag van de free-rider zelf. De bad apple verspreidt zijn gedrag niet rechtstreeks maar via het uitlokken van [[defensiveness]] bij mensen die normaal goed zouden functioneren. Dit is de wetenschappelijke onderbouwing van wat [Bennis](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md) noemt: withholding als rationele reactie op een onveilig systeem — zie [Waarom ingrijpen soms niet lukt](#ingrijpen).
 
 **Team-interdependentie als moderator.** Dit verklaart het paradox van teams als [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md): hoge interdependentie maakt hen zowel kwetsbaarder als weerbaarder — zie [Stap 4](#stap-4).
 
@@ -82,12 +72,17 @@ Overtreedt normen van respect: pesten, kwetsende opmerkingen, publiek vernederen
 graph LR
     A[❶ Episodisch negatief gedrag] --> B[❷ Chronisch negatief lid]
     B --> C[❸ Psychologische reacties]
-    C --> D[❺ Defensief gedrag]
+    C --> DEC{Ingrijpen mogelijk?}
+    DEC -->|ja| INT[Motivationele interventie of Rejection]
+    DEC -->|nee| D[❺ Defensief gedrag]
     D --> E[❻ Groepsprocessen]
     E --> F[❼ Groepsuitkomsten]
+    BARR([Geen macht · Geen veiligheid · Org. beperkingen]) -.-> DEC
     G([❹ Moderatoren]) -.-> C
     H[Relatieve macht] --> B
     style G fill:#cce5ff,stroke:#66a3ff,color:#000
+    style BARR fill:#ffe0e0,stroke:#ff6666,color:#000
+    style INT fill:#d4edda,stroke:#28a745,color:#000
 ```
 
 **Stap 1 — Episodisch negatief gedrag:**
@@ -137,6 +132,26 @@ Een moderator is geen stap in het proces en geen actor — het is een **omstandi
 - Lage levensvatbaarheid
 
 **Mechanismen van verspreiding**: aggregatie (individuele reacties stapelen zich op), spillover (negatieve stemming verspreidt zich), sensemaking (het team geeft betekenis aan het gedrag en past zijn normen aan).
+
+---
+
+<a id="ingrijpen"></a>
+
+### Waarom ingrijpen (soms) niet lukt
+
+Tussen ❸ Psychologische reacties en ❺ Defensief gedrag zit een beslissingsmoment: **kunnen teammates ingrijpen?** Als het antwoord ja is, volgt motivationele interventie of rejection. Als het antwoord nee is, is [[defensiveness]] de enige uitweg. Drie structurele barrières bepalen of ingrijpen mogelijk is:
+
+- **Geen macht** — de bad apple heeft meer senioriteit, formele autoriteit, of is beschermd door HR-procedures
+- **Geen veiligheid** — teammates vrezen de sociale of professionele gevolgen van aanspreken ([[psychological-safety]])
+- **Organisatorische beperkingen** — rolstructuren of cultuur maken directe interventie onmogelijk ([[accountability]], [[candor]])
+
+**[Type 1 — Withholder of effort](../concepts/free-rider.md)**: de barrières zijn puur organisatorisch. Als [[psychological-safety]] aanwezig is en machtsverhoudingen het toelaten, is interventie goed mogelijk — het gedrag is zichtbaar en benoembaar. Kleine, transparante teams zoals [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md) pakken free-rider gedrag effectiever aan omdat bijdrage zichtbaar is en anonimiteit ontbreekt.
+
+**[Type 2 — Affectively negative](../concepts/affectively-negative.md)**: dezelfde organisatorische barrières gelden, maar er is een extra psychologische drempel: teammates geloven niet dat ze iemands stemming kunnen veranderen. Gedrag voelt als persoonlijkheid, niet als keuze — en als iets niet veranderbaar lijkt, investeer je er niet in. Het team valt daardoor sneller terug op [[defensiveness]], zelfs als de machtsstructuur interventie wel zou toelaten. Type 2 is daardoor het gevaarlijkst voor [[team-dysfunction]].
+
+**[Type 3 — Interpersonal deviant](../concepts/interpersonal-deviant.md)**: het gedrag is het meest expliciet en sociaal onacceptabel, waardoor interventie het makkelijkst te legitimeren is — ook voor omstanders. Maar als de overtreder macht of senioriteit heeft, gelden dezelfde barrières als bij Type 1, en worden ze zwaarder gevoeld omdat het gedrag zo direct is.
+
+> **Het besmettingsmechanisme**: de gedragingen in ❺ Defensief gedrag (slacking off, withdrawal, niet meer investeren) zijn vrijwel identiek aan het gedrag van de Type 1 bad apple zelf. De zichtbare free-riders in een team zijn mogelijk niet de bron maar het symptoom — uitgelokt door een eerdere bad apple of door een organisatie die ingrijpen onmogelijk maakt.
 
 ---
 
