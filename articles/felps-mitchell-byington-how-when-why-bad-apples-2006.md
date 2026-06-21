@@ -13,6 +13,8 @@ source: https://www.sciencedirect.com/science/article/abs/pii/S0191308506270059
 > - [Research in Organizational Behavior, Volume 27, pp. 175–222 (2006) — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0191308506270059)
 > - [Semantic Scholar — open access versie](https://www.semanticscholar.org/paper/How,-When,-and-Why-Bad-Apples-Spoil-the-Barrel:-and-Felps-Mitchell/6b3a863c267088743fc18232ab35cc47feb8522c)
 > - [DOI: 10.1016/S0191-3085(06)27005-9](https://doi.org/10.1016/S0191-3085(06)27005-9)
+> - [Hawthorne effect — Wikipedia](https://en.wikipedia.org/wiki/Hawthorne_effect) (incl. Bank Wiring Observation Room, bron voor binging-voorbeeld; Roethlisberger & Dickson, 1939)
+> - [Retrospective — Wikipedia](https://en.wikipedia.org/wiki/Retrospective) (bron voor agile retrospective als hedendaags voorbeeld)
 
 ## Core idea
 
@@ -165,7 +167,11 @@ Vanuit [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-
 ### Drie reacties van teammates
 
 ✅ **1. Motivationele interventie**
-Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Klassiek voorbeeld uit de [Bank Wiring Observation Room](https://en.wikipedia.org/wiki/Hawthorne_effect#Bank_wiring_observation_room)-studie ([Hawthorne Studies](https://en.wikipedia.org/wiki/Hawthorne_effect), Western Electric, begin jaren '30): arbeiders die te snel werkten werden door collega's *bingd* — een lichte klap op de bovenarm als informele groepssanctie, niet te verwarren met hedendaags "bingen". Het bleek effectiever als norm-handhaving dan managersupervisie of bonussen (Roethlisberger & Dickson, 1939).
+Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Voorbeelden:
+
+- **[Bank Wiring Observation Room](https://en.wikipedia.org/wiki/Hawthorne_effect#Bank_wiring_observation_room)** ([Hawthorne Studies](https://en.wikipedia.org/wiki/Hawthorne_effect), Western Electric, begin jaren '30): arbeiders die te snel werkten werden door collega's *bingd* — een lichte klap op de bovenarm als informele groepssanctie, niet te verwarren met hedendaags "bingen". Bleek effectiever als norm-handhaving dan managersupervisie of bonussen (Roethlisberger & Dickson, 1939).
+- **[Agile retrospective](https://en.wikipedia.org/wiki/Retrospective)**: het vaste teammoment om te benoemen wat niet werkt — inclusief gedrag van teamleden. Directe peer-confrontatie zonder managertussenkomst, precies wat Felps bedoelt.
+- **[Buurtzorg intervisie](../beyond-the-review/cases/buurtzorg.md)**: peer-consultatie waarbij kleine teams elkaars functioneren direct bespreken. Werkt juist omdát er geen anonimiteit is — bijdrage is zichtbaar en aanspreken is de norm.
 
 ✅ **2. Rejection**
 Uitsluiten, verwijderen, psychologisch distantiëren, taakoverdracht reduceren. Treedt op wanneer motivationele interventie faalt of het gedrag als oncontroleerbaar wordt gezien (met name bij affectief negatieven).
