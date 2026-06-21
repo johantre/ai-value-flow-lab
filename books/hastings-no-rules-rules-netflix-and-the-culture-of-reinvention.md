@@ -10,6 +10,13 @@ source: https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/198487786
 
 ![cover](./hastings-no-rules-rules-netflix-and-the-culture-of-reinvention/cover.jpg)
 
+> [!note]- Bronnen
+> - [No Rules Rules — Amazon](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
+> - [No Rules Rules — Goodreads](https://www.goodreads.com/book/show/49099937-no-rules-rules)
+> - Uitgever: Penguin Press (Penguin Random House), september 2020
+> - ISBN-13: 978-1984877864
+> - Auteurs: Reed Hastings (CEO Netflix) & Erin Meyer (auteur van *The Culture Map*, professor INSEAD)
+
 ## Core idea
 
 Netflix's cultuur werkt via een versterkende cyclus: hoge talentdichtheid maakt meer openheid mogelijk, meer openheid maakt het veilig om controles te verwijderen, minder controle geeft mensen meer ruimte om uitstekend werk te leveren — wat de talentdichtheid verder versterkt. Geen van de drie elementen werkt zonder de andere twee.
