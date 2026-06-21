@@ -6,6 +6,8 @@ tags: [communication, feedback, leiderschap, candor, psychological-safety, teamd
 source: goodreads
 ---
 
+![cover](./scott-radical-candor-be-a-kick-ass-boss-without-losing-your-humanity/cover.jpg)
+
 > [!note]- Bronnen
 > - [Goodreads](https://www.goodreads.com/book/show/29939161-radical-candor)
 > - [radicalcandor.com — officiële boekpagina](https://www.radicalcandor.com/the-book/)
