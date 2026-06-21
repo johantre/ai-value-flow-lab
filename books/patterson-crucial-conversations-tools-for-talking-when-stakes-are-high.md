@@ -20,7 +20,7 @@ High-stakes conversations gaan mis omdat mensen zich onveilig voelen. De oplossi
 
 ## Key concepts
 
-[Crucial Conversations](../concepts/crucial-conversations.md), [[shared-meaning]], [[silence-vs-violence]], [[path-to-action]], [[villain-stories]], [[state-your-path]], [[ampp]], [[mutual-purpose]], [[psychological-safety]]
+[Crucial Conversations](../concepts/crucial-conversations.md), [[shared-meaning]], [silence-vs-violence](../concepts/silence-vs-violence.md), [[path-to-action]], [[villain-stories]], [[state-your-path]], [AMPP](../concepts/ampp.md), [Mutual Purpose](../concepts/mutual-purpose.md), [[psychological-safety]]
 
 ## What I took from it
 
@@ -52,7 +52,7 @@ Related: [The Five Dysfunctions of a Team](lencioni-the-five-dysfunctions-of-a-t
 
 **Good dialogue** = vrije stroom van relevante informatie → **[Pool of Shared Meaning](../concepts/shared-meaning.md)**: het gedeelde begrip dat ontstaat wanneer iedereen zijn perspectief, feiten en gevoelens eerlijk inbrengt. Hoe groter de Pool, hoe beter de beslissing — en hoe sterker het commitment aan de uitkomst.
 
-Het tegenovergestelde is **[[silence-vs-violence]]**:
+Het tegenovergestelde is **[silence-vs-violence](../concepts/silence-vs-violence.md)**:
 - **Silence** — terugtrekken: masken, vermijden, zwijgen
 - **Violence** — aanvallen: controleren, labelen, forceren
 
@@ -88,7 +88,7 @@ Gesprekken ontsporen wanneer één van twee condities wegvalt:
 
 | Conditie | Definitie | Signaal dat het ontbreekt |
 |---|---|---|
-| **[[mutual-purpose]]** | De ander gelooft dat jij hun belangen in gedachten houdt | "Je bent hier alleen voor jezelf" |
+| **[Mutual Purpose](../concepts/mutual-purpose.md)** | De ander gelooft dat jij hun belangen in gedachten houdt | "Je bent hier alleen voor jezelf" |
 | **Mutual Respect** | Beide partijen voelen zich respectvol bejegend | Iemand voelt zich aangevallen of geminacht |
 
 Wanneer safety wegvalt, valt iedereen terug op Silence or Violence. Spot je eigen patroon onder stress — dat is je vertrekpunt.
@@ -106,7 +106,7 @@ Wanneer safety wegvalt, valt iedereen terug op Silence or Violence. Spot je eige
 
 ### Master your story: The Path to Action
 
-We reageren niet op feiten — we reageren op de **[[path-to-action|verhalen]]** die we over feiten vertellen.
+We reageren niet op feiten — we reageren op de **[verhalen](../concepts/path-to-action.md)** die we over feiten vertellen.
 
 ```
 See / Hear / Sense  →  [Tell a Story]  →  Feel  →  Act
@@ -118,7 +118,7 @@ Die tussenliggende stap — het verhaal — is onzichtbaar maar bepalend. Wat we
 Feel  →  Act   (de verkorte, onbewuste versie)
 ```
 
-**[[villain-stories|Drie villain stories]]** die we onszelf vertellen — en die elk de eigen invloed en verantwoordelijkheid negeren:
+**[Drie villain stories](../concepts/villain-stories.md)** die we onszelf vertellen — en die elk de eigen invloed en verantwoordelijkheid negeren:
 
 | Story | Rol die je jezelf geeft | Wat het negeert |
 |---|---|---|
@@ -152,7 +152,7 @@ Hoe je je eigen perspectief inbrengt zonder de ander te overvallen of te pushen:
 
 Wanneer de ander zwijgt of escaleert: breng hen terug in gesprek. Grondhouding: **genuine curiosity** — je wil echt weten wat zij denken, niet bevestigd worden.
 
-**[[ampp]]:**
+**[AMPP](../concepts/ampp.md):**
 - **A**sk — stel een oprechte vraag: *"Wat zie jij hier?"*
 - **M**irror — benoem wat je waarneemt zonder te oordelen: *"Je lijkt gefrustreerd"*
 - **P**araphrase — vat hun perspectief samen om te tonen dat je het gehoord hebt
