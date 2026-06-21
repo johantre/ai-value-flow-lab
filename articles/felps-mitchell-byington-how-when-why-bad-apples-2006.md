@@ -165,7 +165,7 @@ Vanuit [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-
 ### Drie reacties van teammates
 
 ✅ **1. Motivationele interventie**
-Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Klassiek voorbeeld: in de Hawthorne Studies "bingden" collega's een luie medewerker op de bovenarm als informele norm-handhaving — effectiever dan managersupervisie of bonussen.
+Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Klassiek voorbeeld uit de [Bank Wiring Observation Room](https://en.wikipedia.org/wiki/Hawthorne_effect#Bank_wiring_observation_room)-studie ([Hawthorne Studies](https://en.wikipedia.org/wiki/Hawthorne_effect), Western Electric, begin jaren '30): arbeiders die te snel werkten werden door collega's *bingd* — een lichte klap op de bovenarm als informele groepssanctie, niet te verwarren met hedendaags "bingen". Het bleek effectiever als norm-handhaving dan managersupervisie of bonussen (Roethlisberger & Dickson, 1939).
 
 ✅ **2. Rejection**
 Uitsluiten, verwijderen, psychologisch distantiëren, taakoverdracht reduceren. Treedt op wanneer motivationele interventie faalt of het gedrag als oncontroleerbaar wordt gezien (met name bij affectief negatieven).

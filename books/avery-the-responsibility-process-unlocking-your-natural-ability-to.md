@@ -48,6 +48,11 @@ Wanneer iets misgaat of een probleem opdoemt, doorloopt het menselijk brein auto
 <table><tr>
 <td valign="top">
 
+<img src="./avery-the-responsibility-process-unlocking-your-natural-ability-to/ResponsibilityProcessAvery.png" width="440" />
+
+</td>
+<td valign="top">
+
 De zeven staten, van onderin naar boven:
 
 | # | Staat | Kleur | Oorzaak | Intern verhaal |
@@ -68,11 +73,6 @@ De zeven staten, van onderin naar boven:
 De overgang van rood naar groen is de eerste cruciale stap: van "het ligt aan iets buiten mij" naar "ik heb hier een aandeel in". De tweede stap — van groen naar blauw — is van erkenning naar keuze.
 
 De staten onder Responsibility noemt Avery **"catcher states"** of **"state eilanden"** — ze vangen je en houden je vast. Elke staat heeft zijn eigen interne logica die geldig *voelt*, maar je buiten het probleemoplossend vermogen houdt.
-
-</td>
-<td valign="top">
-
-<img src="./avery-the-responsibility-process-unlocking-your-natural-ability-to/ResponsibilityProcessAvery.png" width="440" />
 
 </td>
 </tr></table>
