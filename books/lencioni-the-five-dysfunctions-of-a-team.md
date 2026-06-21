@@ -92,7 +92,10 @@ Alleen kwetsbaarheidsvertrouwen ontgrendelt de rest. Zonder dit verbergen teamle
 | Negatieve conclusies over anderen trekken | Benefit of the doubt geven |
 | Vergaderingen vermijden | Uitkijken naar samenwerking |
 
-**Hoe doorbreken:** Personal Histories — teamleden leren elkaar op persoonlijk niveau kennen, ook al zijn dat eenvoudige achtergrondoefeningen. Team Effectiveness Exercises — sterktes en verbeterpunten benoemen per persoon, in een gecontroleerde setting. De leider gaat voor in kwetsbaarheid — pas dan is het veilig voor de rest.
+**Hoe doorbreken:**
+- **Personal Histories** — teamleden leren elkaar op persoonlijk niveau kennen via eenvoudige achtergrondvragen: waar groeide je op, hoeveel broers/zussen, vroegste uitdaging. Laagdrempelig, maar het opent de persoon achter de functie.
+- **Team Effectiveness Exercise** — ieder teamlid benoemt de belangrijkste bijdrage van elke collega én het ene gedrag dat hen het meest tegenhoudt. In het openbaar, niet anoniem.
+- **De leider gaat als eerste in kwetsbaarheid** — niet als techniek, maar als signaal. Pas als de leider eigen zwaktes en fouten toont, is het veilig voor de rest om hetzelfde te doen.
 
 ---
 
@@ -109,7 +112,10 @@ Teams zonder vertrouwen vermijden conflict — niet omdat er geen meningsverschi
 
 Lencioni maakt het onderscheid tussen **productief ideologisch conflict** (meningsverschil over ideeën en aanpak) en **destructief persoonlijk conflict** (aanvallen op mensen). Het eerste is noodzakelijk. Het tweede is wat teams willen vermijden — maar ze schieten door en vermijden ook het eerste.
 
-**Hoe doorbreken:** *Mining* — iemand in het team krijgt expliciet de rol om begraven meningsverschillen boven tafel te brengen. *Real-time permission* — de leider geeft tijdens vergaderingen expliciet toestemming voor het conflict dat nodig is.
+**Hoe doorbreken:**
+- **Mining** — een teamlid krijgt expliciet de rol om begraven meningsverschillen boven tafel te brengen, ook als dat ongemakkelijk voelt: *"Ik denk dat we het hier niet echt over eens zijn — laten we dat uitspreken."*
+- **Conflict in het moment legitimeren** — de leider benoemt actief wanneer het team onenigheid aan het omzeilen is: *"Ik merk dat we ergens omheen lopen. Laten we dat rechtstreeks bespreken."* Geen formele toestemming, maar een expliciete uitnodiging om het echte gesprek te voeren.
+- **Conflictstijlen bespreekbaar maken** — instrumenten als Thomas-Kilmann helpen teamleden begrijpen hoe zij persoonlijk op conflict reageren, en waarom sommigen escaleren terwijl anderen verstommen.
 
 ---
 
@@ -124,7 +130,10 @@ Commitment vereist geen consensus — het vereist dat iedereen gehoord is en ber
 | Angst voor mislukking remt actie | Vermogen om van fouten te leren |
 | Ramen van kansen gaan dicht door analyse-verlamming | Profiteren van kansen voor de concurrent doet |
 
-**Hoe doorbreken:** *Cascading Messaging* — aan het einde van elke vergadering: wat communiceren we naar buiten, en hoe? *Deadlines* — expliciete beslismomenten met duidelijke vervaldatum. *Worst-case analyse* — angst voor commitment verminderen door de slechtste uitkomst bespreekbaar te maken.
+**Hoe doorbreken:**
+- **Cascading Messaging** — aan het einde van elke vergadering: wat communiceren we naar buiten, en hoe? Dit dwingt het team tot afstemming over de beslissing vóór iedereen de deur uit gaat.
+- **Expliciete deadlines** — commitment zonder vervaldatum is geen commitment. Beslismomenten met een vaste datum voorkomen eindeloze heranalyse.
+- **Worst-case analyse** — angst voor commitment zit vaak in de onuitgesproken vraag: *"Wat als we het mis hebben?"* Door de slechtste uitkomst expliciet te benoemen en te bespreken, wordt de drempel lager.
 
 ---
 
@@ -139,7 +148,10 @@ Accountability in teams is niet de verantwoordelijkheid van de leider alleen —
 | Deadlines worden gemist | Onderlinge respect groeit door gedeelde normen |
 | Leider is enige bron van discipline | Geen bureaucratie nodig rond prestatiebeheer |
 
-**Hoe doorbreken:** *Publication of Goals and Standards* — maak expliciet wat het team wil bereiken, zodat iedereen kan aanspreken op basis van gedeelde maatstaf. *Progress Reviews* — structurele check-ins over gedrag én resultaat. *Team Rewards* — beloon de groep, niet het individu, zodat mensen elkaar vanzelf aanspreken.
+**Hoe doorbreken:**
+- **Publicatie van doelen en normen** — maak expliciete, gedeelde maatstaven zichtbaar voor iedereen. Zonder een gedeelde norm is aanspreken willekeurig; met een gedeelde norm is het objectief.
+- **Progress Reviews** — structurele, korte check-ins over gedrag én resultaat, niet alleen over output. Maakt aanspreken normaal in plaats van uitzonderlijk.
+- **Team Rewards** — beloon de groep, niet het individu. Zodra succes collectief is, hebben teamleden een gedeeld belang bij elkaars presteren.
 
 ---
 
@@ -154,7 +166,10 @@ Als accountability ontbreekt, gaan individuele belangen domineren: carrière, zi
 | Individuen werken naar eigen doelen | Individuen ondergeschikten eigen doel aan teambelang |
 | Snel afgeleid | Blijft gefocust |
 
-**Hoe doorbreken:** *Public Declaration of Results* — wie publiek commitment uitspreekt, werkt harder om het waar te maken. *Results-Based Rewards* — bonussen aan teamresultaten koppelen, niet aan inzet alleen. De leider zet zelf de toon.
+**Hoe doorbreken:**
+- **Publieke resultaatcommitment** — wie publiek commitment uitspreekt, werkt harder om het waar te maken. Resultaten benoemen vóór de vergadering eindigt maakt ze concreet en afrekenbaar.
+- **Resultaatgerelateerde beloningen** — bonussen koppelen aan teamresultaten, niet aan individuele inzet. Zo ontstaat een gedeeld belang in het collectieve eindresultaat.
+- **De leider stelt resultaten boven eigen status** — als de leider zichtbaar eigen ego ondergeschikt maakt aan teamresultaat, geeft dat het signaal dat individuele scorebordbeheer niet gewaardeerd wordt.
 
 ---
 
