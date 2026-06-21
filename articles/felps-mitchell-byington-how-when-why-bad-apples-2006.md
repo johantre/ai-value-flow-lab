@@ -13,6 +13,8 @@ source: https://www.sciencedirect.com/science/article/abs/pii/S0191308506270059
 > - [Research in Organizational Behavior, Volume 27, pp. 175–222 (2006) — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0191308506270059)
 > - [Semantic Scholar — open access versie](https://www.semanticscholar.org/paper/How,-When,-and-Why-Bad-Apples-Spoil-the-Barrel:-and-Felps-Mitchell/6b3a863c267088743fc18232ab35cc47feb8522c)
 > - [DOI: 10.1016/S0191-3085(06)27005-9](https://doi.org/10.1016/S0191-3085(06)27005-9)
+> - [Hawthorne effect — Wikipedia](https://en.wikipedia.org/wiki/Hawthorne_effect) (incl. Bank Wiring Observation Room, bron voor binging-voorbeeld; Roethlisberger & Dickson, 1939)
+> - [Retrospective — Wikipedia](https://en.wikipedia.org/wiki/Retrospective) (bron voor agile retrospective als hedendaags voorbeeld)
 
 ## Core idea
 
@@ -20,7 +22,7 @@ Eén negatief teamlid kan het functioneren van een heel team ernstig beschadigen
 
 ## Key concepts
 
-[[free-rider]], [[social-loafing]], [[defensiveness]], [[team-dysfunction]], [[psychological-safety]], [[accountability]], [[candor]]
+[[free-rider]], [[social-loafing]], [[defensiveness]], [[team-dysfunction]], [[psychological-safety]], [[accountability]], [[candor]], [[responsibility-process]]
 
 ## What I took from it
 
@@ -34,9 +36,9 @@ Dit is een **review- en theoriepaper**, geen laboratoriumexperiment. Felps et al
 
 **Team-interdependentie als moderator.** Dit verklaart het paradox van teams als [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md): hoge interdependentie maakt hen zowel kwetsbaarder als weerbaarder — zie [Stap 4](#stap-4).
 
-**De drie reacties als model voor candor-gesprekken.** Felps beschrijft [drie teamresponsen](#drie-reacties): motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen.
+**De drie reacties als model voor candor-gesprekken.** Felps beschrijft [drie teamresponsen](#drie-reacties): motivationele interventie (het gesprek aangaan), rejection (uitsluiten/verwijderen) en defensiviteit (zichzelf beschermen). Alleen de eerste twee lossen het probleem op. Defensiviteit is wat er gebeurt als de eerste twee niet mogelijk zijn — en dat is precies de situatie die een candor-cultuur wil voorkomen. Met [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): defensiviteit is het teamgedrag van mensen die in de catcher states vastzitten — Blame, Justify, Quit — omdat de condities voor [Responsibility](../concepts/responsibility-process.md) ontbreken.
 
-Related: [No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](google-project-aristotle-what-makes-a-team-effective.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [How Netflix Reinvented HR](performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix — case](../beyond-the-review/cases/netflix.md), [Buurtzorg — case](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore — case](../beyond-the-review/cases/wl-gore.md)
+Related: [No Rules Rules](../books/hastings-no-rules-rules-netflix-and-the-culture-of-reinvention.md), [Powerful](../books/mccord-powerful-building-a-culture-of-freedom-and-responsibility.md), [Transparency: How Leaders Create a Culture of Candor](../books/bennis-transparency-how-leaders-create-a-culture-of-candor.md), [Project Aristotle](google-project-aristotle-what-makes-a-team-effective.md), [The Five Dysfunctions of a Team](../books/lencioni-the-five-dysfunctions-of-a-team.md), [The Responsibility Process](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md), [How Netflix Reinvented HR](performance-and-evaluation/mccord-how-netflix-reinvented-hr-hbr-2014.md), [Netflix — case](../beyond-the-review/cases/netflix.md), [Buurtzorg — case](../beyond-the-review/cases/buurtzorg.md), [W.L. Gore — case](../beyond-the-review/cases/wl-gore.md)
 
 ---
 
@@ -73,7 +75,7 @@ graph LR
     A[❶ Episodisch negatief gedrag] --> B[❷ Chronisch negatief lid]
     B --> C[❸ Psychologische reacties]
     C --> DEC{Ingrijpen mogelijk?}
-    DEC -->|ja| INT["✅ Motivationele interventie<br/>of Rejection"]
+    DEC -->|ja| INT["✅ Motivationele interventie<br/>✅ Rejection"]
     DEC -->|nee| D["☣️ ❺ Defensief gedrag"]
     D --> E[❻ Groepsprocessen]
     E --> F[❼ Groepsuitkomsten]
@@ -144,9 +146,11 @@ Een moderator is geen stap in het proces en geen actor — het is een **omstandi
 
 Tussen ❸ Psychologische reacties en ❺ Defensief gedrag zit een beslissingsmoment: **kunnen teammates ingrijpen?** Als het antwoord ja is, volgt motivationele interventie of rejection. Als het antwoord nee is, is [[defensiveness]] de enige uitweg. Drie structurele barrières bepalen of ingrijpen mogelijk is:
 
-- **Geen macht** — de bad apple heeft meer senioriteit, formele autoriteit, of is beschermd door HR-procedures
-- **Geen veiligheid** — teammates vrezen de sociale of professionele gevolgen van aanspreken ([[psychological-safety]])
-- **Organisatorische beperkingen** — rolstructuren of cultuur maken directe interventie onmogelijk ([[accountability]], [[candor]])
+- ❌ **Geen macht** — de bad apple heeft meer senioriteit, formele autoriteit, of is beschermd door HR-procedures
+- ❌ **Geen veiligheid** — teammates vrezen de sociale of professionele gevolgen van aanspreken ([[psychological-safety]])
+- ❌ **Organisatorische beperkingen** — rolstructuren of cultuur maken directe interventie onmogelijk — inclusief *tolerantie van ongewenst gedrag door management*, waardoor peers impliciet het signaal krijgen dat aanspreken niet veilig of gewenst is. Herhaalde tolerantie verlaagt geleidelijk de norm: zie [Avoidance of Accountability](../books/lencioni-the-five-dysfunctions-of-a-team.md) en [Eroding Goals](../books/meadows-thinking-in-systems-a-primer.md) ([[accountability]], [[candor]])
+
+Vanuit [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): de drie barrières verklaren waarom teammates structureel niet naar [Responsibility](../concepts/responsibility-process.md) kunnen bewegen — niet door gebrek aan wil, maar door een systeem dat ingrijpen onmogelijk maakt. Wie geen macht heeft, belandt in Justify (*"gegeven de omstandigheden, wat kon ik anders?"*). Wie geen veiligheid heeft, glijdt richting Lay Blame (intern gericht) of Quit (terugtrekken). Wie door organisatorische beperkingen geblokkeerd wordt, doet wat gevraagd wordt en niet meer — Obligation zonder Responsibility. Leiders kunnen Responsibility niet eisen; ze kunnen alleen de condities creëren die het mogelijk maken.
 
 **[Type 1 — Withholder of effort](../concepts/free-rider.md)**: de barrières zijn puur organisatorisch. Als [[psychological-safety]] aanwezig is en machtsverhoudingen het toelaten, is interventie goed mogelijk — het gedrag is zichtbaar en benoembaar. Kleine, transparante teams zoals [Buurtzorg](../beyond-the-review/cases/buurtzorg.md) en [W.L. Gore](../beyond-the-review/cases/wl-gore.md) pakken free-rider gedrag effectiever aan omdat bijdrage zichtbaar is en anonimiteit ontbreekt.
 
@@ -162,14 +166,18 @@ Tussen ❸ Psychologische reacties en ❺ Defensief gedrag zit een beslissingsmo
 
 ### Drie reacties van teammates
 
-**1. Motivationele interventie**
-Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Klassiek voorbeeld: in de Hawthorne Studies "bingden" collega's een luie medewerker op de bovenarm als informele norm-handhaving — effectiever dan managersupervisie of bonussen.
+✅ **1. Motivationele interventie**
+Het aanspreken van de negatieve persoon met de bedoeling het gedrag te veranderen. Werkt het best wanneer het gedrag als controleerbaar wordt gezien. Voorbeelden:
 
-**2. Rejection**
+- **[Bank Wiring Observation Room](https://en.wikipedia.org/wiki/Hawthorne_effect#Bank_wiring_observation_room)** ([Hawthorne Studies](https://en.wikipedia.org/wiki/Hawthorne_effect), Western Electric, begin jaren '30): arbeiders die te snel werkten werden door collega's *bingd* — een lichte klap op de bovenarm als informele groepssanctie, niet te verwarren met hedendaags "bingen". Bleek effectiever als norm-handhaving dan managersupervisie of bonussen (Roethlisberger & Dickson, 1939).
+- **[Agile retrospective](https://en.wikipedia.org/wiki/Retrospective)**: het vaste teammoment om te benoemen wat niet werkt — inclusief gedrag van teamleden. Directe peer-confrontatie zonder managertussenkomst, precies wat Felps bedoelt.
+- **[Buurtzorg intervisie](../beyond-the-review/cases/buurtzorg.md)**: peer-consultatie waarbij kleine teams elkaars functioneren direct bespreken. Werkt juist omdát er geen anonimiteit is — bijdrage is zichtbaar en aanspreken is de norm.
+
+✅ **2. Rejection**
 Uitsluiten, verwijderen, psychologisch distantiëren, taakoverdracht reduceren. Treedt op wanneer motivationele interventie faalt of het gedrag als oncontroleerbaar wordt gezien (met name bij affectief negatieven).
 
-**3. Defensiviteit**
-Wanneer noch motivationele interventie noch rejection mogelijk is — door organisatorische beperkingen, senioriteit, formele rolstructuren, of machtsverschillen — beschermen teammates zichzelf. Dit is de toestand waarin het vat écht spoilt: defensief gedrag ondermijnt de groepsprocessen die prestatie dragen.
+☣️ **3. Defensiviteit**
+Wanneer noch motivationele interventie noch rejection mogelijk is — door organisatorische beperkingen, senioriteit, formele rolstructuren, of machtsverschillen — beschermen teammates zichzelf. Dit is de toestand waarin het vat écht spoilt: defensief gedrag ondermijnt de groepsprocessen die prestatie dragen. Met [Avery](../books/avery-the-responsibility-process-unlocking-your-natural-ability-to.md): de zes defensieve gedragingen zijn de zichtbare manifestaties van zijn catcher states — Blame, Justify, Quit — bij mensen die niet de ruimte hebben om te kiezen voor [Responsibility](../concepts/responsibility-process.md).
 
 > **Kernpunt**: de bad apple bederft het vat niet direct — het is de defensiviteit die hij uitlokt bij teammates die niet kunnen ingrijpen, die de echte schade aanricht.
 
