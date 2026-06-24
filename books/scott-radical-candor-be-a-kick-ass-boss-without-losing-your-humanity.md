@@ -113,8 +113,27 @@ RC-feedback is: **specifiek, onmiddellijk, oprecht en in persoon.**
 
 RC is niet alleen een feedbackmodel. Scott beschrijft een cyclisch proces voor hoe teams werk gedaan krijgen:
 
-```
-Listen → Clarify → Debate → Decide → Persuade → Execute → Learn → (herhaal)
+```mermaid
+flowchart LR
+    A([Listen]) --> B([Clarify])
+    B --> C([Debate])
+    C --> D([Decide])
+    D --> E([Persuade])
+    E --> F([Execute])
+    F --> G([Learn])
+    G --> A
 ```
 
 De manager faciliteert de cyclus — zorgt dat de juiste mensen spreken, dat beslissingen genomen worden, en dat geleerd wordt van uitkomsten.
+
+| Stap | Wat de manager doet |
+|---|---|
+| **Listen** | Creëert ruimte — 1-on-1s, stille momenten in vergaderingen — zodat ideeën en zorgen bovenkomen |
+| **Clarify** | Helpt ideeën scherper worden vóór het debat; vaag blijft vaag tot iemand vraagt: *"wat bedoel je precies?"* |
+| **Debate** | Faciliteert productief conflict over ideeën — niet over mensen. RC maakt dit veilig |
+| **Decide** | Maakt of delegeert de beslissing. Wie beslist, moet helder zijn — onduidelijkheid hier blokkeert alles erna |
+| **Persuade** | Mensen die niet in de kamer waren, moeten begrijpen waarom. Zonder dit: sabotage bij Execute |
+| **Execute** | De manager doet het werk niet — hij ruimt obstakels uit de weg |
+| **Learn** | Werkte het? Wat niet? De uitkomst voedt de volgende ronde van Listen |
+
+De cyclus is zichzelf versterkend: **Learn** maakt **Listen** rijker. Een team dat niet leert, herhaalt — en een manager die niet luistert, mist het signaal.
