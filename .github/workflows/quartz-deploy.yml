@@ -114,7 +114,7 @@ jobs:
             -e 's|<head>|<head><meta property="og:image" content="https://johantre.github.io/ai-value-flow-lab/static/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://johantre.github.io/ai-value-flow-lab/static/og-image.png"><meta property="og:site_name" content="OrgForge">|'
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
