@@ -33,7 +33,7 @@
     var hash = window.location.hash;
     if (hash) {
       requestAnimationFrame(function () {
-        var el = document.getElementById(hash.slice(1));
+        var el = document.getElementById(decodeURIComponent(hash.slice(1)));
         if (el && center) {
           center.scrollTop = el.getBoundingClientRect().top - center.getBoundingClientRect().top;
         }
