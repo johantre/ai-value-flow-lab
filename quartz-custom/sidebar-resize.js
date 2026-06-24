@@ -27,6 +27,19 @@
     var center = document.querySelector('.center');
     if (center) center.scrollTop = 0;
 
+    // Scroll to anchor after the reset. The browser's native anchor scroll
+    // targets window, not .center, so direct URL navigation with a #hash
+    // lands at the top. We fix this by manually scrolling .center.
+    var hash = window.location.hash;
+    if (hash) {
+      requestAnimationFrame(function () {
+        var el = document.getElementById(hash.slice(1));
+        if (el && center) {
+          center.scrollTop = el.getBoundingClientRect().top - center.getBoundingClientRect().top;
+        }
+      });
+    }
+
     if (savedTop === null) return;
     var top = savedTop;
     savedTop = null;
