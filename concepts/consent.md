@@ -5,7 +5,7 @@ tags: [concept, besluitvorming, sociocracy, zelfsturing, teamdynamiek]
 
 # Consent
 
-Uit [Sociocracy 3.0](../trust-by-design/the-performance-illusion/sociocracy30-peer-review.md): een besluit passeert wanneer niemand een **bezwaar** heeft — niet wanneer iedereen het ermee eens is. Consent is geen consensus.
+Uit [Sociocracy 3.0](https://sociocracy30.org/) (aka 'S3.0'): een besluit passeert wanneer niemand een **bezwaar** heeft — niet wanneer iedereen het ermee eens is. Consent is geen consensus.
 
 Een S3.0-bezwaar heeft een specifieke definitie: een reden waarom dit voorstel *de organisatie of een persoon schaadt*. \
 Persoonlijke voorkeur ("ik zou het anders doen") kwalificeert niet. De vraag is: *"Is dit goed genoeg voor nu — veilig genoeg om te proberen?"*
