@@ -23,16 +23,16 @@ Bron: [S3.0 Consent Decision-Making](https://patterns.sociocracy30.org/consent-d
 
 ```mermaid
 flowchart TD
-    A([1. Consent to purpose]) --> B([2. Present proposal])
-    B --> C([3. Understand proposal])
-    C --> D([4. Brief response])
-    D --> E{5. Objections?}
-    E -->|geen bezwaren| H([8. Celebrate])
-    E -->|bezwaar| F{6. Test argument}
+    A(["1. Consent to purpose"]) --> B(["2. Present proposal"])
+    B --> C(["3. Understand proposal"])
+    C --> D(["4. Brief response"])
+    D --> E{"5. Objections?"}
+    E -->|geen bezwaren| H(["8. Celebrate"])
+    E -->|bezwaar| F{"6. Test argument"}
     F -->|niet gekwalificeerd| E
-    F -->|gekwalificeerd| G([7. Resolve objection])
+    F -->|gekwalificeerd| G(["7. Resolve objection"])
     G --> E
-    H --> I([9. Consider concerns])
+    H --> I(["9. Consider concerns"])
 ```
 
 ### Stap 1 — Consent to purpose
