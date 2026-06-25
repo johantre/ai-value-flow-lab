@@ -137,3 +137,45 @@ De manager faciliteert de cyclus — zorgt dat de juiste mensen spreken, dat bes
 | **Learn** | Werkte het? Wat niet? De uitkomst voedt de volgende ronde van Listen |
 
 De cyclus is zichzelf versterkend: **Learn** maakt **Listen** rijker. Een team dat niet leert, herhaalt — en een manager die niet luistert, mist het signaal.
+
+---
+
+#### Waar is het toepasbaar?
+
+Het GSD-wheel werkt overal waar een team beslissingen moet nemen én uitvoeren — strategische planning, complexe probleemoplossing, projectopstart, productontwikkeling. Kernvoorwaarde: er moet iets op het spel staan dat de moeite waard is om samen te denken. Voor triviale of eenpersoonsbesluiten is de overhead niet gerechtvaardigd.
+
+Het wheel werkt het best wanneer:
+- het team mentale en emotionele capaciteit heeft (niet uitgeput of in crisis)
+- de cultuur dissent tolereert en verwacht
+- leiderschap bereid is de uitkomst van het debat te accepteren — ook als die afwijkt van hun beginpositie
+
+Wanneer een team burned-out is of emotioneel geladen, adviseert Scott expliciet een **timeout** in te lassen. Doorduwen in die staat levert zelden goede uitkomsten. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
+
+---
+
+#### Listen: stil of luid?
+
+De Listen-stap heeft twee uitvoeringsvormen, afhankelijk van de leiderschapsstijl ([RC Blog — Culture of Listening](https://www.radicalcandor.com/blog/culture-of-listening/)):
+
+| Stijl | Aanpak | Risico |
+|---|---|---|
+| **Quiet listening** (Tim Cook) | Zwijgen + neutrale lichaamstaal — mensen vullen de stilte met echte gedachten | Mensen raden wat de baas wil horen; stilte voelt als een val |
+| **Loud listening** (Steve Jobs) | Stevige mening uitspreken, anderen uitdagen die te weerleggen | Intimideert mensen die nog geen vertrouwen hebben om terug te duwen |
+
+Geen van beide is superieur. Kernprincipe: ken je eigen stijl, en compenseer actief voor het bijbehorende risico. Paul Saffo's formulering sluit hierop aan: *"strong opinions, weakly held"* — een duidelijk standpunt innemen terwijl je oprecht open blijft voor tegenargumenten.
+
+---
+
+#### Debate: de verplichting om te dissenten
+
+Universele instemming in een debat is een waarschuwingssignaal, geen succes — het betekent dat er onvoldoende kritisch is nagedacht. Scott noemt dit een *"obligation to dissent"*: iedereen in de kamer heeft de plicht actief tegenwicht te bieden, niet enkel te knikken. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
+
+Dit maakt het wheel fundamenteel anders dan een managementvergadering waar consensus het doel is. Consensus is het resultaat van een goed Decide-moment — niet van een goed Debate-moment.
+
+---
+
+#### De valkuil: collaboration tax
+
+Het wheel wordt een **collaboration tax** als stappen overgeslagen of eindeloos uitgerekt worden. Overslaan van Clarify → debat over misverstanden in plaats van ideeën. Overslaan van Persuade → sabotage bij Execute door mensen die de beslissing niet begrijpen. Uitrekken van Debate → vermoeidheid, valse consensus, afgehaken teamleden.
+
+De cyclus is een investering die rendeert wanneer hij snel doorlopen wordt — niet een procedure die gevolgd moet worden om de procedure.
