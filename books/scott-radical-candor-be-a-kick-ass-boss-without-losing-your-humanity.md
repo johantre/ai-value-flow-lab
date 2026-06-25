@@ -176,8 +176,11 @@ Paul Saffo's formulering sluit hierop aan: *"strong opinions, weakly held"* — 
 Universele instemming in een debat is een waarschuwingssignaal, geen succes — het betekent dat er onvoldoende kritisch is nagedacht. 
 Scott noemt dit een *"[obligation to dissent](../concepts/dissent.md)"*: iedereen in de kamer heeft de plicht actief tegenwicht te bieden, niet enkel te knikken. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
 
-Dit maakt het wheel fundamenteel anders dan een managementvergadering waar consensus het doel is. 
-Consensus is het resultaat van een goed Decide-moment — niet van een goed Debate-moment. Het structurele complement van dissent in de Decide-fase is S3.0-[consent](../concepts/consent.md) — zie [consent en dissent](../concepts/consent-en-dissent.md).
+Dit maakt het wheel fundamenteel anders dan een managementvergadering waar consensus het doel is. \
+Consensus is het resultaat van een goed Decide-moment — niet van een goed Debate-moment.
+
+Het structurele complement van dissent in de Decide-fase is S3.0-[consent](../concepts/consent.md) — zie [consent en dissent](../concepts/consent-en-dissent.md). \
+Hier zie je dat Consent uit S3.0 een structurele ondersteuning biedt om een Dissent cultuur te implementeren. 
 
 ---
 
