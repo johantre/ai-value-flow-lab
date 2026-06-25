@@ -21,8 +21,14 @@ Dissent is alleen mogelijk als de spreker niet bang is voor de gevolgen. [[psych
 
 [Challenge Directly](../books/scott-radical-candor-be-a-kick-ass-boss-without-losing-your-humanity.md) is de individuele vaardigheid; dissent als cultuurverwachting is de institutionele variant.
 
+## In relatie tot [[consent]]
+
+S3.0-[[consent]] is het structurele complement: een formele bezwaarronde die dissent kanaliseert maar ook filtert — alleen bezwaren die aantoonbare schade bevatten, blokkeren een voorstel. Dissent behoort tot de Debate-fase; consent sluit de Decide-fase af. Zie [[consent-en-dissent]] voor de volledige uitwerking.
+
 ## Verwant
 
+- [[consent]]
+- [[consent-en-dissent]]
 - [[candor]]
 - [[challenge-directly]]
 - [[psychological-safety]]
