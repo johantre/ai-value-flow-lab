@@ -173,7 +173,7 @@ Paul Saffo's formulering sluit hierop aan: *"strong opinions, weakly held"* — 
 
 #### Debate: de verplichting om te dissenten
 
-Universele instemming in een debat is een waarschuwingssignaal, geen succes — het betekent dat er onvoldoende kritisch is nagedacht. 
+Universele instemming in een debat is een waarschuwingssignaal, geen succes — het betekent dat er onvoldoende kritisch is nagedacht. \
 Scott noemt dit een *"[obligation to dissent](../concepts/dissent.md)"*: iedereen in de kamer heeft de plicht actief tegenwicht te bieden, niet enkel te knikken. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
 
 Dit maakt het wheel fundamenteel anders dan een managementvergadering waar consensus het doel is. \
