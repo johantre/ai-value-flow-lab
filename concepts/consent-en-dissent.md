@@ -27,13 +27,16 @@ Dissent hoort in de Debate-fase; consent sluit de Decide-fase af. Samen dekken z
 
 ## De paradox: consent zonder dissent-cultuur
 
-Consent-besluitvorming werkt alleen als mensen veilig genoeg zijn om bezwaar te maken. Zonder [[psychological-safety]] wordt de consent-ronde een stempel-ritueel — precies de valse consensus die het moest voorkomen.
+Consent-besluitvorming werkt alleen als mensen veilig genoeg zijn om bezwaar te maken. \
+Zonder [[psychological-safety]] wordt de consent-ronde een stempel-ritueel — precies de valse consensus die het moest voorkomen.
 
 > Dissent is de culturele voorwaarde. Consent is het structurele mechanisme.
 
 ## Het drempelverschil als filter, niet als barrière
 
-S3.0's bezwaardrempel is hoger dan dissent. Dit is geen beperking — het is een filter dat voorkomt dat consent ontaardt in de blokkade-cultuur van consensus. Je mag dissenten op voorkeur; een bezwaar moet schade aantonen. Zo blijft de besluitvormingscyclus beweeglijk.
+S3.0's bezwaardrempel is hoger dan dissent. \
+Dit is geen beperking — het is een filter dat voorkomt dat consent ontaardt in de blokkade-cultuur van consensus. Je mag dissenten op voorkeur; een bezwaar moet schade aantonen. \
+Zo blijft de besluitvormingscyclus beweeglijk.
 
 ## Verwant
 
@@ -42,5 +45,4 @@ S3.0's bezwaardrempel is hoger dan dissent. Dit is geen beperking — het is een
 - [[psychological-safety]]
 - [[candor]]
 - [[productive-conflict]]
-- [S3.0 Peer Review](../trust-by-design/the-performance-illusion/sociocracy30-peer-review.md)
 - [Radical Candor](../books/scott-radical-candor-be-a-kick-ass-boss-without-losing-your-humanity.md)

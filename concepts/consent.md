@@ -63,7 +63,10 @@ Gelijktijdige handsignalen: wie heeft een bezwaar? \
 ### Stap 6 — Test one argument
 
 Toets het bezwaar: toont het aantoonbare schade of een risico aan dat vermeden kan worden? \
-**Voordeel:** Filtert echte bezwaren van zorgen. Wie zegt "ik zou het anders doen" heeft een zorg, geen bezwaar. Wie zegt "dit schaadt X omdat Y" heeft een bezwaar. Zonder deze filter ontaardt consent in blokkade-cultuur.
+**Voordeel:** Filtert echte bezwaren van zorgen. \
+Wie zegt "ik zou het anders doen" heeft een zorg, geen bezwaar. \
+Wie zegt "dit schaadt X omdat Y" heeft een bezwaar. \
+Zonder deze filter ontaardt consent in blokkade-cultuur.
 
 ### Stap 7 — Resolve the objection
 
