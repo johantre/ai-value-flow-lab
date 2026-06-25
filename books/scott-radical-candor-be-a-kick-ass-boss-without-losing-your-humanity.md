@@ -80,7 +80,7 @@ Voorbeelden:
 - Een performanceprobleem omheen formuleren zodat de boodschap niet aankomt
 - "Geweldig werk!" zeggen zonder te specifiëren wat precies goed was
 
-> Ruinous Empathy voelt als vriendelijkheid voor de gever. Het is verraad voor de ontvanger — die pas later, te laat, ontdekt wat nooit gezegd werd.
+> Ruinous Empathy **voelt als vriendelijkheid voor de gever**. Het **is verraad voor de ontvanger** — die pas later, te laat, ontdekt wat nooit gezegd werd.
 
 [McCord](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md) formuleert het identiek in [Powerful](mccord-powerful-building-a-culture-of-freedom-and-responsibility.md): *"Het ontbreken van eerlijke feedback is geen vriendelijkheid — het is een dienstverlening die je weigert te leveren."* Twee onafhankelijke auteurs, dezelfde conclusie.
 
@@ -151,7 +151,8 @@ Het wheel werkt het best wanneer:
 - de cultuur [[dissent]] tolereert en verwacht
 - leiderschap bereid is de uitkomst van het debat te accepteren — ook als die afwijkt van hun beginpositie
 
-Wanneer een team burned-out is of emotioneel geladen, adviseert Scott expliciet een **timeout** in te lassen. Doorduwen in die staat levert zelden goede uitkomsten. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
+Wanneer een team burned-out is of emotioneel geladen, adviseert Scott expliciet een **timeout** in te lassen. \
+Doorduwen in die staat levert zelden goede uitkomsten. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
 
 ---
 
@@ -164,8 +165,8 @@ De Listen-stap heeft twee uitvoeringsvormen, afhankelijk van de leiderschapsstij
 | **Quiet listening** (Tim Cook) | Zwijgen + neutrale lichaamstaal — mensen vullen de stilte met echte gedachten | Mensen raden wat de baas wil horen; stilte voelt als een val |
 | **Loud listening** (Steve Jobs) | Stevige mening uitspreken, anderen uitdagen die te weerleggen | Intimideert mensen die nog geen vertrouwen hebben om terug te duwen |
 
-Geen van beide is superieur. 
-Kernprincipe: ken je eigen stijl, en compenseer actief voor het bijbehorende risico. 
+Geen van beide is superieur. \
+Kernprincipe: ken je eigen stijl, en compenseer actief voor het bijbehorende risico. \
 Paul Saffo's formulering sluit hierop aan: *"strong opinions, weakly held"* — een duidelijk standpunt innemen terwijl je oprecht open blijft voor tegenargumenten.
 
 ---
@@ -182,9 +183,9 @@ Consensus is het resultaat van een goed Decide-moment — niet van een goed Deba
 
 #### De valkuil: collaboration tax
 
-Het wheel wordt een **collaboration tax** als stappen overgeslagen of eindeloos uitgerekt worden. 
-Overslaan van Clarify → debat over misverstanden in plaats van ideeën. 
-Overslaan van Persuade → sabotage bij Execute door mensen die de beslissing niet begrijpen. 
+Het wheel wordt een **collaboration tax** als stappen overgeslagen of eindeloos uitgerekt worden. \
+Overslaan van Clarify → debat over misverstanden in plaats van ideeën.  \
+Overslaan van Persuade → sabotage bij Execute door mensen die de beslissing niet begrijpen. \
 Uitrekken van Debate → vermoeidheid, valse consensus, afgehaken teamleden.
 
-De cyclus is een investering die rendeert wanneer hij snel doorlopen wordt — niet een procedure die gevolgd moet worden om de procedure.
+> De cyclus is **een investering die rendeert wanneer hij snel doorlopen wordt** — niet een procedure die gevolgd moet worden om de procedure.
