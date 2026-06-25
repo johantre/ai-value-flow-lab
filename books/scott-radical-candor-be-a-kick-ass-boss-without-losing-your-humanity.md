@@ -148,7 +148,7 @@ Voor triviale of eenpersoonsbesluiten is de overhead niet gerechtvaardigd.
 
 Het wheel werkt het best wanneer:
 - het team mentale en emotionele capaciteit heeft (niet uitgeput of in crisis)
-- de cultuur dissent tolereert en verwacht
+- de cultuur [[dissent]] tolereert en verwacht
 - leiderschap bereid is de uitkomst van het debat te accepteren — ook als die afwijkt van hun beginpositie
 
 Wanneer een team burned-out is of emotioneel geladen, adviseert Scott expliciet een **timeout** in te lassen. Doorduwen in die staat levert zelden goede uitkomsten. ([RC Podcast S4E2](https://www.radicalcandor.com/podcast/s4-e2-the-gsd-wheel/))
