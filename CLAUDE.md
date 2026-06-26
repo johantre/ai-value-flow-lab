@@ -112,7 +112,7 @@ tags: [concept, relevante-tags]
 
 ## Uitgebreide geheugenbestanden
 
-Gedetailleerde werkafspraken en projectcontext staan in:
+Gedetailleerde werkafspraken en projectcontext staan voor de linux box in:
 `/home/johan/.claude/projects/-home-johan-ai-value-flow-lab/memory/`
 
 Indexbestand: `MEMORY.md` in die map.
