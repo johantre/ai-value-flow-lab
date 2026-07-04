@@ -78,12 +78,101 @@ De SECI-spiraal beweegt tegelijkertijd langs beide assen: kennis die begint bij 
 
 ### De vier modi in detail
 
-| Modus | Van → Naar | Kernmechanisme | Organisatorische vorm |
+---
+
+#### S — Socialization: tacit → tacit
+
+**Wat het is**\
+Kennis beweegt van persoon naar persoon via gedeelde ervaring, observatie en nabootsing — zonder ooit expliciet gemaakt te worden.\
+De leerling leert niet uit een handboek maar door samen te werken, mee te lopen, te kijken en te imiteren.\
+Voorbeelden: pair programming, meester-leerling, informeel bijpraten na een incident, een junior die meekijkt hoe een senior een productieprobleem debugt.
+
+**Wat de meeste organisaties doen**\
+Socialisatie laten ze organisch gebeuren — koffiegesprekken, open kantoorruimte, toevallige ontmoetingen.\
+Ze vertrouwen erop dat kennis "wel overwaait" als mensen maar genoeg samen zijn.\
+Formele on-the-job training en mentorprogramma's bestaan, maar zijn zelden systematisch gelinkt aan specifieke kennisoverdracht.
+
+**Beperkingen**
+- Schaalt niet: kennis blijft opgesloten in één relatie of één team
+- Verdwijnt als de kennisdrager vertrekt — geen enkel spoor blijft achter
+- Onzichtbaar voor management: wat niet gemeten kan worden, wordt niet gemanaged
+- Creëert kenniseilanden: socialisatie verloopt langs sociale lijnen, niet langs de lijnen waar kennis het meest nodig is
+- Afhankelijk van fysieke nabijheid en toeval; remote werken ondermijnt het zwaar
+
+---
+
+#### E — Externalization: tacit → explicit
+
+**Wat het is**\
+Tacit knowledge wordt omgezet naar expliciete concepten via metaforen, analogieën, hypothesen en modellen.\
+Dit is de meest scheppende stap van de spiraal — en de moeilijkste.\
+Het vraagt van de kennisdrager dat ze weten *wat* ze weten, dat ze de taal vinden om het uit te drukken, en dat de omgeving veilig genoeg is om onzekere formuleringen te riskeren.
+
+**Wat de meeste organisaties doen**\
+Ze slaan deze stap grotendeels over.\
+Ze vragen om documentatie ("schrijf een post-mortem") maar creëren niet de condities voor echte externalisatie: geen dialoog, geen tijd voor reflectie, geen metafoorruimte.\
+Het resultaat is documentatie die de *uitkomst* beschrijft (wat er misging, hoe het gefixd werd) maar niet de *tacit laag* (waarom de expert dat pad koos, welk patroon ze herkenden, wat ze nog steeds niet begrijpen).
+
+**Beperkingen**
+- Taal is een onvolmaakte container: niet alles wat tacit is, kan adequaat verwoord worden
+- Compressie verliest altijd iets: de expliciete versie is altijd een vereenvoudiging van de tacit original
+- Vereist psychologische veiligheid: onzekere of half-gevormde inzichten delen vraagt vertrouwen
+- Vereist metacognitie: je moet weten wat je weet — precies de blinde vlek van experts
+- Tijdsintensief: echte externalisatie via dialoog en iteratie kost veel meer tijd dan een template invullen
+
+---
+
+#### C — Combination: explicit → explicit
+
+**Wat het is**\
+Expliciete kenniseenheden worden gecombineerd tot nieuwe expliciete kennis: via documenten, databases, vergaderingen, rapporten en formele communicatie.\
+Canon combineert kennis over aluminium (blikjes), autolak (toner) en wegwerpcamera's tot de goedkope personal copier.\
+Combination is de stap waarbij bestaande kennis geherorganiseerd, gecategoriseerd en gesynthetiseerd wordt tot iets nieuws.
+
+**Wat de meeste organisaties doen**\
+Dit is de enige stap die de meeste organisaties systematisch en bewust uitvoeren.\
+Confluence, Notion, SharePoint, wiki's, kennisbases, dashboards, rapporten — dit zijn allemaal Combination-instrumenten.\
+Kennismanagement wordt in de praktijk vrijwel altijd gereduceerd tot Combination: kennis capteren, opslaan, doorzoekbaar maken.
+
+**Beperkingen**
+- Informatieoverloed: als alles opgeslagen wordt, vindt niemand nog wat ze zoeken
+- Vals gevoel van veiligheid: "het staat in de wiki" is geen garantie dat iemand het leest, begrijpt of toepast
+- Combination zonder Externalization reproduceert oppervlakkige kennis: de expliciete laag is er, de tacit laag ontbreekt
+- Kwaliteit van zoeken bepaalt of kennis gevonden wordt — en dus of ze bestaat voor de organisatie
+- Documenten verouderen; niemand is eigenaar van actualisering
+
+---
+
+#### I — Internalization: explicit → tacit
+
+**Wat het is**\
+Expliciete kennis wordt via "learning by doing" zo diep geïnternaliseerd dat ze nieuwe tacit knowledge wordt.\
+Een handleiding lezen is Combination. Die handleiding toepassen in de praktijk, fouten maken, aanpassen, totdat de handelingen intuïtief worden — dat is Internalization.\
+Internalization sluit de spiraal en start een nieuwe cyclus op hoger niveau: de geïnternaliseerde kennis wordt de basis voor nieuwe Socialization naar collega's.
+
+**Wat de meeste organisaties doen**\
+Ze laten Internalization ongestructureerd gebeuren via het gewone werk.\
+Er is zelden een bewuste strategie om expliciete kennis om te zetten naar geoefende intuïtie.\
+Trainingen eindigen bij kennisoverdracht (Combination), niet bij bekwaamheid (Internalization).\
+Pilotprojecten en gesimuleerde oefeningen — de meest directe Internalization-instrumenten — worden zelden ingezet buiten compliance-gedreven contexten.
+
+**Beperkingen**
+- Tijdsintensiever dan alle andere stappen: intuïtie opbouwen vraagt herhaalde praktijk
+- Moeilijk te meten: wanneer is kennis "geïnternaliseerd"? Er is geen certificaat voor tacit bekwaamheid
+- Vereist oefenruimte: safe-to-fail omgevingen waar fouten maken geen echte schade aanricht
+- Afhankelijk van intrinsieke motivatie: gedwongen oefening zonder betekenis leidt tot mechanisch gedrag, niet tot tacit understanding
+- Wordt vaak verward met "afvinken": iemand die de training gevolgd heeft, heeft de kennis nog niet geïnternaliseerd
+
+---
+
+#### Overzicht: wat organisaties doen vs. wat het model vraagt
+
+| Modus | Wat het model vraagt | Wat de meeste organisaties doen | Gevolg |
 |---|---|---|---|
-| Socialization | Tacit → Tacit | Gedeelde ervaring, observatie, imitatie | On-the-job training, meester-leerling, brainstorms |
-| Externalization | Tacit → Explicit | Metafoor, analogie, concept, model | Dialoog, reflectie, kennissessies |
-| Combination | Explicit → Explicit | Sorteren, toevoegen, combineren, categoriseren | Databases, meetings, e-mail, documenten |
-| Internalization | Explicit → Tacit | Learning by doing, gesimuleerde ervaring | Training, pilotprojecten, experimenten |
+| **S** Socialization | Gestructureerde gedeelde ervaring | Toevallige informele uitwisseling | Kennis blijft bij individuen |
+| **E** Externalization | Dialoog, metafoor, reflectie | Documentatietemplates zonder dialoog | Oppervlakkige docs zonder tacit laag |
+| **C** Combination | Synthese van expliciete kennis | Alles opslaan in een wiki of Notion | Informatieoverloed, niemand leest het |
+| **I** Internalization | Geoefende praktijk tot intuïtie | Training = presentatie bijwonen | Kennis verdampt na de training |
 
 ### De spiraal: waarom het een cyclus is, geen stap
 
