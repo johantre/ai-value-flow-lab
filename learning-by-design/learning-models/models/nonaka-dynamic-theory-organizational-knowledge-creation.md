@@ -186,7 +186,7 @@ Een individuele internalisatie start een nieuwe socialisatiecyclus op groepsnive
 <table><tr>
 <td valign="top" width="38%">
 
-<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/honda-city.jpeg" width="448" />
+<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/honda-city.jpeg" width="600" />
 
 *[Honda City (AA), 1981](https://en.wikipedia.org/wiki/Honda_City_(AA)) — het "Tall Boy"-concept in het echt*
 
