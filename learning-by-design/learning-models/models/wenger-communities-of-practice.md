@@ -190,8 +190,8 @@ Een guild die actief haar repertoire onderhoudt — standaarden die ze zelf schr
 
 In Nonaka's model is de CoP primair de ruimte voor **Socialisatie (S)** en het begin van **Externalisatie (E)**:
 
-- **S (Socialisatie)**: de informele uitwisseling bij de koffieautomaat, het gezamenlijk pairen, de guild-sessie — tacit kennis die direct van persoon tot persoon beweegt via deelname
-- **E (Externalisatie)**: het moment waarop de community haar tacit kennis expliciet maakt: "wat zijn eigenlijk onze regels?" → "schrijf ze op als een RFC"
+- **S (Socialisatie)**: de informele uitwisseling bij de koffieautomaat, het gezamenlijk pairen, de guild-sessie — tacit knowledge die direct van persoon tot persoon beweegt via deelname
+- **E (Externalisatie)**: het moment waarop de community haar tacit knowledge expliciet maakt: "wat zijn eigenlijk onze regels?" → "schrijf ze op als een RFC"
 - **LPP als Internalisatie-mechanisme**: de nieuwkomer internaliseert niet via een document maar via gedeelde praktijk — dit is wat Internalisatie (I) duurzaam maakt
 
 Zie [[nonaka-dynamic-theory-organizational-knowledge-creation]] voor de volledige SECI-cyclus.\

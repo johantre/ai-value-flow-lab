@@ -86,7 +86,7 @@ Dit verklaart waarom een goed verteld post-mortem beter blijft hangen dan een ta
 ### Organisatorisch: narrative knowledge management (Dave Snowden)
 
 Dave Snowden (ex-IBM, Institute for Knowledge Management, later oprichter Cynefin) werkte dit reeds begin jaren 2000 specifiek uit voor kennisoverdracht in organisaties:
-> Bij IBM onderzocht Snowden het belang van storytelling binnen organisaties, in het bijzonder om tacit kennis expliciet te maken.
+> Bij IBM onderzocht Snowden het belang van storytelling binnen organisaties, in het bijzonder om tacit knowledge expliciet te maken.
 
 > Hij ontwikkelde technieken voor het bouwen van narratieve databases die besluitvorming en innovatie kunnen voeden.
 

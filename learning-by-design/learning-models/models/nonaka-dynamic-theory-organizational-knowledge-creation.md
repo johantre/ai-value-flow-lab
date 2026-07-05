@@ -210,7 +210,7 @@ Een lage motorkap? Strijdig. Meer beenruimte ten koste van kofferruimte? Consist
 </tr></table>
 
 Bestaande kennis over motoren, carrosserie en veiligheid wordt herschikt rond dat principe (**Combination**).\
-Ingenieurs die nooit eerder zo'n type auto gebouwd hadden, leren het door te doen (**Internalization**) — en dragen die nieuwe tacit kennis daarna over aan andere Honda-teams (**nieuwe Socialization op organisatieniveau**).\
+Ingenieurs die nooit eerder zo'n type auto gebouwd hadden, leren het door te doen (**Internalization**) — en dragen die nieuwe tacit knowledge daarna over aan andere Honda-teams (**nieuwe Socialization op organisatieniveau**).\
 Het resultaat: de Honda City werd een commercieel succes op de Japanse markt en miste de Japanese Car of the Year-titel op een haar na.\
 Het punt van Nonaka: zonder de metafoor "Tall Boy" had de spiraal niet kunnen draaien. De metafoor is de brug die tacit inzicht overdraagbaar maakt.
 
@@ -262,7 +262,7 @@ Elke SECI-modus heeft zijn eigen Ba-type — zie de matrix hierboven:
 
 | Ba-type | Modus | Ruimte | Wat het mogelijk maakt |
 |---|---|---|---|
-| **Originating Ba** | Socialization | Fysiek, individueel | Empathie, observatie, gedeelde ervaring; tacit kennis stroomt over via aanwezigheid |
+| **Originating Ba** | Socialization | Fysiek, individueel | Empathie, observatie, gedeelde ervaring; tacit knowledge stroomt over via aanwezigheid |
 | **Dialoguing Ba** | Externalization | Fysiek, collectief | Dialoog en metafoor; mensen brengen tacit inzichten onder woorden voor anderen |
 | **Systemizing Ba** | Combination | Virtueel, collectief | Databases, systemen, documenten; expliciete kennis wordt gecombineerd en verspreid |
 | **Exercising Ba** | Internalization | Mentaal, individueel | Oefening en toepassing; expliciete kennis wordt via herhaling intuïtie |
@@ -288,13 +288,13 @@ Zonder de metafoor had de kennis nooit de machine bereikt.
 
 Het SECI-model is een diagnostisch instrument, geen procesmodel.\
 De vraag is niet "hoe doorlopen we alle vier stappen?" maar "in welk kwadrant loopt onze organisatie vast?"\
-De meeste organisaties lopen vast in **Combination** — ze documenteren, maar socialiseren niet (kennis blijft bij individuen), externaliseren niet (tacit kennis wordt nooit opgeschreven), en internaliseren niet (documenten worden niet geoefend tot intuïtie).\
+De meeste organisaties lopen vast in **Combination** — ze documenteren, maar socialiseren niet (kennis blijft bij individuen), externaliseren niet (tacit knowledge wordt nooit opgeschreven), en internaliseren niet (documenten worden niet geoefend tot intuïtie).\
 De remedie is dan niet meer documentatie, maar het bewust ontwerpen van de *ontbrekende* modi:
 
 **Socialisatierituelen** — gestructureerde momenten van gedeelde ervaring over teamgrenzen heen:\
 guild-meetings per vakgebied, pair programming rotaties tussen teams, "incident walkthroughs" waarbij de oplossende persoon live vertelt terwijl anderen kijken en vragen stellen, informele "wie weet wat"-sessies waarbij mensen hun specialisaties zichtbaar maken.
 
-**Externalisatieformats** — formats die tacit kennis naar buiten dwingen via dialoog en metafoor, niet via invulformulieren:\
+**Externalisatieformats** — formats die tacit knowledge naar buiten dwingen via dialoog en metafoor, niet via invulformulieren:\
 post-mortem templates met expliciete vraag "welk patroon herkende jij dat anderen misschien niet zagen?", architecture decision records (ADR's) die het *waarom* vastleggen in plaats van alleen het *wat*, retro-vragen zoals "als je dit incident moest uitleggen aan iemand die er niets van weet, welke metafoor zou je gebruiken?", kennissessies waarbij de expert eerst geïnterviewd wordt door een niet-expert voor het document geschreven wordt.
 
 **Internalisatiepraktijken** — geoefende toepassing totdat expliciete kennis intuïtie wordt:\
@@ -323,7 +323,7 @@ Studenten rapporteerden sterkere zelfsturing en professionele groei.
 **Waarom dit als inspiratie werkt voor organisatieleren:**\
 De drietrapsstructuur (async voor → live tijdens → async na) is precies het format dat ontbreekt in de meeste post-mortem processen.\
 Async digest als Originating Ba — iedereen leest en brengt eigen context mee.\
-Live walkthrough als Dialoguing Ba — de expert vertelt, anderen stellen vragen, tacit kennis wordt expliciet.\
+Live walkthrough als Dialoguing Ba — de expert vertelt, anderen stellen vragen, tacit knowledge wordt expliciet.\
 Eigen toepassing achteraf als Exercising Ba — de kennis wordt geoefend tot ze intuïtie wordt, niet vergeten na de meeting.\
 Het artikel geeft empirische dekking voor wat intuïtief aanvoelt: de combinatie van alle vier modi werkt aantoonbaar beter dan documentatie alleen.
 

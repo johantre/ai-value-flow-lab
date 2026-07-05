@@ -155,7 +155,7 @@ Dit verklaart waarom timing zo kritisch is: de "experience"-fase vervaagt snel �
 
 ### Verbinding met SECI
 
-In Nonaka's model is de AAR-sessie zelf **Dialoguing Ba** — de face-to-face collectieve ruimte waar tacit kennis expliciet wordt via de vier vragen (Externalization).\
+In Nonaka's model is de AAR-sessie zelf **Dialoguing Ba** — de face-to-face collectieve ruimte waar tacit knowledge expliciet wordt via de vier vragen (Externalization).\
 Het AAR-document dat eruit volgt is **Systemizing Ba** — expliciete kennis opgeslagen voor latere combinatie.\
 Maar de militaire doctrine voegt een stap toe die de meeste organisaties missen: de AAR-output keert terug als startpunt van de *volgende* oefening — dat is Internalization die een nieuwe Socialization-cyclus opstart.\
 Zonder die terugkoppeling stopt de SECI-spiraal bij Combination: een document dat niemand raadpleegt.
