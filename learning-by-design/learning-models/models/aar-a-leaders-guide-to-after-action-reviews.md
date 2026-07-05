@@ -126,7 +126,7 @@ Dat is geen semantisch onderscheid — het bepaalt of mensen eerlijk durven te s
 AAR heeft geen één founding paper maar rust op vier convergerende lijnen:
 
 **Deliberate practice (Ericsson, 1993)**\
-Expertiseontwikkeling vereist gestructureerde feedback onmiddellijk na een prestatie, gevolgd door gerichte verbetering.\
+Expertiseontwikkeling vereist structurele feedback onmiddellijk na een prestatie, gevolgd door gerichte verbetering.\
 AAR is de teampraktijk van deliberate practice: de feedback is collectief, de verbetering is expliciet, de cadans is vast.
 
 **Double-loop learning (Argyris, 1977)**\
