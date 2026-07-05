@@ -10,6 +10,7 @@ source: https://doi.org/10.1287/orsc.5.1.14
 > [!note]- Bronnen
 > - [Organization Science, 5(1), 14–37 (1994)](https://doi.org/10.1287/orsc.5.1.14)
 > - [Nonaka, "The Knowledge-Creating Company", HBR nov–dec 1991](https://hbr.org/1991/11/the-knowledge-creating-company-2)
+> - [Nonaka & Konno, "The Concept of Ba", California Management Review, 1998](https://doi.org/10.2307/41165942)
 > - [Wikipedia — SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
 > - [Wikipedia — Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka)
 
@@ -54,10 +55,32 @@ Nonaka's vertrekpunt is radicaal: de mainstream managementliteratuur behandelt o
 Maar informatieverwerking (input → output) creëert geen nieuwe kennis — ze bewerkt bestaande.\
 Echte kenniscreatie vereist een andere ontologie: de organisatie als *kennisscheppend systeem* dat voortdurend twee dimensies combineert.
 
-**Dimensie 1: Epistemologisch** — de as tussen tacit en explicit knowledge\
-**Dimensie 2: Ontologisch** — de as tussen individueel, groep, organisatie en inter-organisatie
+<table><tr>
+<td valign="top" width="45%">
 
-De SECI-spiraal beweegt tegelijkertijd langs beide assen: kennis die begint bij een individu (tacit) kan via de vier modi uitgroeien tot organisatorische kennis (expliciet, gedeeld, geïnternaliseerd door velen).
+|  | **Individueel** | **Collectief** |
+|:---:|:---:|:---:|
+| **Tacit** | **S — Socialization**<br/>*Originating Ba* | **E — Externalization**<br/>*Dialoguing Ba* |
+| **Explicit** | **I — Internalization**<br/>*Exercising Ba* | **C — Combination**<br/>*Systemizing Ba* |
+
+*↕ Epistemologische as — het type kennis: tacit ↔ explicit*\
+*↔ Ontologische as — de drager van kennis: individu ↔ collectief*
+
+</td>
+<td valign="top" width="55%">
+
+**Epistemologische as** — de verticale as van de matrix.\
+Nonaka onderscheidt twee kennistypen naar Polanyi: *tacit* (wat je weet maar niet kunt opschrijven) en *explicit* (wat je hebt opgeschreven en kunt overdragen).\
+Elke SECI-modus is een conversie *langs* die as of *over* die as heen.
+
+**Ontologische as** — de horizontale as van de matrix, én de richting waarin de spiraal omhoog beweegt.\
+Kennis begint altijd bij een *individu*. Via Socialization en Externalization bereikt ze een *groep*. Via Combination en Internalization verankert ze zich in de *organisatie*. Van daaruit kan ze inter-organisatorisch worden.\
+Dit is waarom het een spiraal is en geen cyclus: elke ronde vindt plaats op een hoger ontologisch niveau.
+
+De spiraal beweegt tegelijkertijd langs beide assen. Kennis die begint als tacit inzicht bij één persoon kan — als alle vier modi actief zijn — uitgroeien tot geïnternaliseerde organisatorische kennis bij velen.
+
+</td>
+</tr></table>
 
 ### De vier modi in detail
 
@@ -207,6 +230,33 @@ De complexiteit van de omgeving bepaalt de minimale diversiteit die een organisa
 Een team van tien mensen met dezelfde achtergrond, dezelfde aannames en dezelfde blinde vlekken kan de complexiteit van een heterogene klantenbasis niet bevatten.\
 Requisite variety betekent: diversiteit in vaardigheden, achtergronden, en perspectieven — niet als sociaal doel, maar als epistemologische noodzaak.\
 Homogene teams externaliseren slecht: ze missen de wrijving die iemand dwingt het voor een buitenstaander begrijpelijk te maken. Heterogene teams externaliseren beter, omdat ze het verschil voelen tussen wat de expert *weet* en wat de generalist *begrijpt*.
+
+### Ba: de gedeelde ruimte voor kenniscreatie
+
+Nonaka & Konno voegen in 1998 een vijfde element toe aan het model: **Ba** (場) — Japans voor "plaats" of "ruimte".\
+Ba is de gedeelde context — fysiek, virtueel of mentaal — waarin kennis gecreëerd, gedeeld en gebruikt wordt.\
+Zonder Ba heeft de SECI-spiraal geen bodem om op te staan.
+
+> *"Ba can be thought of as a shared context or shared space in which knowledge is shared, created, and utilized. It is a concept that unifies physical space such as an office space, virtual space such as e-mail, and mental space such as shared ideas."*\
+> — Nonaka & Konno, [The Concept of Ba: Building a Foundation for Knowledge Creation](https://doi.org/10.2307/41165942), California Management Review, 1998
+
+Elke SECI-modus heeft zijn eigen Ba-type — zie de matrix hierboven:
+
+| Ba-type | Modus | Ruimte | Wat het mogelijk maakt |
+|---|---|---|---|
+| **Originating Ba** | Socialization | Fysiek, individueel | Empathie, observatie, gedeelde ervaring; tacit kennis stroomt over via aanwezigheid |
+| **Dialoguing Ba** | Externalization | Fysiek, collectief | Dialoog en metafoor; mensen brengen tacit inzichten onder woorden voor anderen |
+| **Systemizing Ba** | Combination | Virtueel, collectief | Databases, systemen, documenten; expliciete kennis wordt gecombineerd en verspreid |
+| **Exercising Ba** | Internalization | Mentaal, individueel | Oefening en toepassing; expliciete kennis wordt via herhaling intuïtie |
+
+**De praktische implicatie:** Ba ontwerp je niet rechtstreeks — je ontwerpt de *voorwaarden* die het laat ontstaan.\
+Kantoorinrichting die mensen onverwacht laat ontmoeten (Originating Ba).\
+Facilitatieformats die dialoog boven presentatie stellen (Dialoguing Ba).\
+Doorzoekbare kennissystemen met goede taxonomie (Systemizing Ba).\
+Veilige oefenomgevingen zonder echte gevolgen, zie [[psychological-safety]] (Exercising Ba).
+
+Een organisatie die alleen investeert in Systemizing Ba — goede tools, goede databases — heeft Combination maar mist de drie andere modi.\
+De vraag "welk Ba ontbreekt?" is een krachtiger diagnose dan "welk systeem missen we?"
 
 ### De Matsushita-case als paradigma voor Externalization
 
