@@ -60,7 +60,7 @@ Echte kenniscreatie vereist een andere ontologie: de organisatie als *kennissche
 <table><tr>
 <td valign="top" width="45%">
 
-<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/seci-nonaka.png" width="380" />
+<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/seci-nonaka.png" width="608" />
 
 </td>
 <td valign="top" width="55%">
@@ -186,7 +186,7 @@ Een individuele internalisatie start een nieuwe socialisatiecyclus op groepsnive
 <table><tr>
 <td valign="top" width="38%">
 
-<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/honda-city.jpeg" width="600" />
+<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/honda-city.jpeg" width="280" />
 
 *[Honda City (AA), 1981](https://en.wikipedia.org/wiki/Honda_City_(AA)) — het "Tall Boy"-concept in het echt*
 
