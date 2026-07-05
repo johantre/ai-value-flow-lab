@@ -11,6 +11,7 @@ source: https://doi.org/10.1287/orsc.5.1.14
 > - [Organization Science, 5(1), 14–37 (1994)](https://doi.org/10.1287/orsc.5.1.14)
 > - [Nonaka, "The Knowledge-Creating Company", HBR nov–dec 1991](https://hbr.org/1991/11/the-knowledge-creating-company-2)
 > - [Nonaka & Konno, "The Concept of Ba", California Management Review, 1998](https://doi.org/10.2307/41165942)
+> - [Hu, Lee & Yi, "Blended knowledge sharing model in design professional", Scientific Reports, 2023](https://www.nature.com/articles/s41598-023-43505-z)
 > - [Wikipedia — SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
 > - [Wikipedia — Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka)
 
@@ -58,13 +59,7 @@ Echte kenniscreatie vereist een andere ontologie: de organisatie als *kennissche
 <table><tr>
 <td valign="top" width="45%">
 
-|  | **Individueel** | **Collectief** |
-|:---:|:---:|:---:|
-| **Tacit** | **S — Socialization**<br/>*Originating Ba* | **E — Externalization**<br/>*Dialoguing Ba* |
-| **Explicit** | **I — Internalization**<br/>*Exercising Ba* | **C — Combination**<br/>*Systemizing Ba* |
-
-*↕ Epistemologische as — het type kennis: tacit ↔ explicit*\
-*↔ Ontologische as — de drager van kennis: individu ↔ collectief*
+<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/seci-nonaka.png" width="380" />
 
 </td>
 <td valign="top" width="55%">
@@ -281,6 +276,33 @@ post-mortem templates met expliciete vraag "welk patroon herkende jij dat andere
 
 **Internalisatiepraktijken** — geoefende toepassing totdat expliciete kennis intuïtie wordt:\
 "teach back"-sessies waarbij iemand die een post-mortem gelezen heeft het aan anderen uitlegt (het uitleggen zelf is de internalisatie), pilotprojecten in een veilige omgeving waarbij teams bewust technieken oefenen die ze gelezen maar nooit toegepast hebben, simulatieoefeningen rond incidents ("fire drill": wat doe je als dit component uitvalt?), gestructureerde pair programming waarbij de junior het toetsenbord heeft en de senior alleen via vragen begeleidt.
+
+---
+
+### SECI in de praktijk: blended learning als blauwdruk
+
+Hu, Lee & Yi (Scientific Reports, 2023) tonen empirisch aan hoe SECI werkt als ontwerpprincipe voor een leeromgeving — niet als beschrijvend model, maar als *bouwplan*.\
+Ze ontwierpen een Blended Knowledge Sharing Activity (BKSA) model voor designstudenten en toetsten het over 16 weken (105 studenten, experimentele vs. controlegroep).
+
+**Hoe ze het deden — de drietrapsstructuur:**
+
+| Fase | Modus | Ba | Wat er gebeurde |
+|---|---|---|---|
+| Voor de les (online) | Socialization | Originating Ba | Studenten deelden ervaringen en eigen werk async via social media; gedeelde context werd opgebouwd zonder docent |
+| Tijdens de les (offline) | Externalization | Dialoguing Ba | Live sessie: studenten brachten tacit inzichten onder woorden via dialoog, presentatie en feedback van peers |
+| Na de les (online + offline) | Combination + Internalization | Systemizing + Exercising Ba | Kennis werd gesynthetiseerd in gedeelde documenten én individueel geoefend via eigen projecten |
+
+**Wat het opleverde:**\
+De experimentele groep scoorde significant hoger op Bloom's hogere-orde domeinen — analyse, evaluatie, creatie — niet enkel kennisreproductie.\
+Structural equation modelling bevestigde dat alle vier SECI-modi onafhankelijk bijdragen aan zowel leeruitkomsten als creativiteit.\
+Studenten rapporteerden sterkere zelfsturing en professionele groei.
+
+**Waarom dit als inspiratie werkt voor organisatieleren:**\
+De drietrapsstructuur (async voor → live tijdens → async na) is precies het format dat ontbreekt in de meeste post-mortem processen.\
+Async digest als Originating Ba — iedereen leest en brengt eigen context mee.\
+Live walkthrough als Dialoguing Ba — de expert vertelt, anderen stellen vragen, tacit kennis wordt expliciet.\
+Eigen toepassing achteraf als Exercising Ba — de kennis wordt geoefend tot ze intuïtie wordt, niet vergeten na de meeting.\
+Het artikel geeft empirische dekking voor wat intuïtief aanvoelt: de combinatie van alle vier modi werkt aantoonbaar beter dan documentatie alleen.
 
 ---
 
