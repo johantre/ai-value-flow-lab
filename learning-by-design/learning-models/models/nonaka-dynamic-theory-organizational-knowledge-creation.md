@@ -12,6 +12,7 @@ source: https://doi.org/10.1287/orsc.5.1.14
 > - [Nonaka, "The Knowledge-Creating Company", HBR nov–dec 1991](https://hbr.org/1991/11/the-knowledge-creating-company-2)
 > - [Nonaka & Konno, "The Concept of Ba", California Management Review, 1998](https://doi.org/10.2307/41165942)
 > - [Hu, Lee & Yi, "Blended knowledge sharing model in design professional", Scientific Reports, 2023](https://www.nature.com/articles/s41598-023-43505-z)
+> - [Wikipedia — Honda City (AA)](https://en.wikipedia.org/wiki/Honda_City_(AA))
 > - [Wikipedia — SECI model of knowledge dimensions](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)
 > - [Wikipedia — Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka)
 
@@ -180,19 +181,37 @@ Pilotprojecten en gesimuleerde oefeningen — de meest directe Internalization-i
 De vier modi zijn geen lineaire stappen maar een spiraal die herhaalt op steeds hoger aggregatieniveau.\
 Een individuele internalisatie start een nieuwe socialisatiecyclus op groepsniveau — die op zijn beurt de basis legt voor externalisatie op organisatieniveau.
 
-**De Honda City-case als illustratie van de spiraal**\
+**De Honda City-case als illustratie van de spiraal**
+
+<table><tr>
+<td valign="top" width="38%">
+
+<img src="./nonaka-dynamic-theory-organizational-knowledge-creation/honda-city.jpeg" width="280" />
+
+*[Honda City (AA), 1981](https://en.wikipedia.org/wiki/Honda_City_(AA)) — het "Tall Boy"-concept in het echt*
+
+</td>
+<td valign="top" width="62%">
+
 In de jaren '80 krijgt een jong Honda-team de opdracht een nieuwe compacte stadsauto te ontwikkelen.\
-De gangbare aanname in de auto-industrie was: een goede auto is laag, lang en aerodynamisch — méér machine, minder ruimte voor mensen.\
-Het team daagt die aanname expliciet uit via open brainstorms (**Socialization**): wat als we het omdraaien? Maximale binnenruimte voor de mensen, minimale ruimte voor de machine.\
+De gangbare aanname in de auto-industrie: een goede auto is laag, lang en aerodynamisch — méér machine, minder ruimte voor mensen.\
+Het team daagt die aanname expliciet uit via open brainstorms (**Socialization**): wat als we het omdraaien? Maximale binnenruimte, minimale ruimte voor de machine — "*man-max, machine-min*."
+
 Dat inzicht kristalliseert in één metafoor: **"Tall Boy"** (**Externalization**).\
-De metafoor werkt op twee niveaus tegelijk. Letterlijk: een lange jongen — groot van postuur, rechtop, ruimte innemend. Figuurlijk: een auto die zich gedraagt als een persoon die ruimte opeist in plaats van zich klein te maken voor de machine.\
-"Tall Boy" zegt in twee woorden wat een pagina specificaties niet zegt: *de mens staat rechtop, de motor past zich aan*.\
-Dat maakt het een echte metafoor in Nonaka's zin — geen label, maar een brug tussen het tacit inzicht ("we willen iets anders") en de expliciete ontwerpbeslissingen die eruit volgen.\
+De naam verwijst niet naar een grote auto — de City was een compacte subcompact van 3,38 meter lang.\
+"Tall Boy" slaat op de *verhouding*: het silhouet is opvallend hoog ten opzichte van het grondoppervlak, zoals iemand die rechtop staat in plaats van zich klein te maken.\
+Kijk naar de foto: de daklijn valt meteen op — rechthoekig, hoog, bijna boxy. Dat was radicaal voor zijn tijd.\
+Binnenin leverde dat beenruimte vergelijkbaar met een grotere klasse auto's, ondanks de compacte buitenmaten.
+
 De metafoor is geen marketingterm maar een ontwerpprincipe: elke ingenieursbeslissing wordt getoetst aan "klopt dit met Tall Boy?".\
-Een lage motorkap? Strijdig met Tall Boy. Meer beenruimte ten koste van kofferruimte? Consistent met Tall Boy. De metafoor beslist.\
-Bestaande kennis over motoren, carrosserie en veiligheid wordt vervolgens herschikt rond dat principe (**Combination**).\
+Een lage motorkap? Strijdig. Meer beenruimte ten koste van kofferruimte? Consistent. De metafoor beslist.
+
+</td>
+</tr></table>
+
+Bestaande kennis over motoren, carrosserie en veiligheid wordt herschikt rond dat principe (**Combination**).\
 Ingenieurs die nooit eerder zo'n type auto gebouwd hadden, leren het door te doen (**Internalization**) — en dragen die nieuwe tacit kennis daarna over aan andere Honda-teams (**nieuwe Socialization op organisatieniveau**).\
-Het resultaat: de Honda City, een auto die een volledig nieuw segment creëerde.\
+Het resultaat: de Honda City werd een commercieel succes op de Japanse markt en miste de Japanese Car of the Year-titel op een haar na.\
 Het punt van Nonaka: zonder de metafoor "Tall Boy" had de spiraal niet kunnen draaien. De metafoor is de brug die tacit inzicht overdraagbaar maakt.
 
 ### De vijf enablers van kenniscreatie
