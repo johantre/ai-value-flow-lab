@@ -4,7 +4,14 @@ status: synthesis
 tags: [leermodellen, kennismanagement, communities-of-practice, SECI, narratief, metaforen, post-mortems, apprenticeship, transactive-memory, guild, storytelling, Snowden, Wenger, Nonaka]
 ---
 
-# Leermodellen & kennisverspreiding in organisaties
+> [!note]- Bronnen
+> - [Yu et al. (2024), "Metaphor generation promotes learning", *Cognitive Science*](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13488)
+> - [Beaty & Silvia (2013), "Metaphor recall", *Memory & Cognition*](https://link.springer.com/article/10.3758/BF03198454)
+> - [Green & Brock (2000), "The role of transportation in the persuasiveness of public narratives", *Journal of Personality and Social Psychology*](https://www.researchgate.net/publication/12248972_The_Role_of_Transportation_in_the_Persuasiveness_of_Public_Narratives)
+> - [Narrative transportation — overzichtsartikel, NCBI PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12867904/)
+> - [Narrative transportation — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0065260124000145)
+> - [Oliver & Snowden (2005), "Patterns of narrative in organizational knowledge sharing", in Schreyögg & Koch (eds.), *Narratives and Knowledge Management*](https://cynefin.io/wiki/Publications_by_Dave_Snowden)
+> - [Wikipedia — Dave Snowden](https://en.wikipedia.org/wiki/Dave_Snowden)
 
 *Synthese van soundboard-sessie — context: post-mortems, cross-team kennisdeling, gebruik van metaforen/storytelling*
 
@@ -52,8 +59,7 @@ Voor cross-team verspreiding zijn andere modellen relevanter.
 > Metaforen die via bewuste analyse werden bedacht, in plaats van via een plotse ingeving ("aha-moment"), versterkten de retentie van het leermateriaal — in lijn met het bekende voordeel van doelbewuste verwerking.
 
 **Praktische implicatie:** laat mensen zelf, bewust en actief een metafoor construeren voor een concept/incident.\
-Niet kant-en-klaar aanreiken — het zelf-construeren is wat de retentie versterkt.\
-Bron: [onlinelibrary.wiley.com/doi/10.1111/cogs.13488](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13488)
+Niet kant-en-klaar aanreiken — het zelf-construeren is wat de retentie versterkt.
 
 **Onderzoek naar geheugen-voor-metaforen** (*Memory & Cognition*):
 > Het vrij oproepen van metaforen hing consistent samen met hoe beeldend (imageable) het onderwerp van de metafoor was, en met hoeveel interpretaties de metafoor toeliet — bij gerichte (cued) herinnering werkten juist metaforen met wéinig interpretaties beter.
@@ -61,8 +67,6 @@ Bron: [onlinelibrary.wiley.com/doi/10.1111/cogs.13488](https://onlinelibrary.wil
 **Praktische implicatie:**
 - Kies concrete, beeldende metaforen boven abstracte
 - Eén heldere lezing per metafoor als het doel is dat mensen het spontaan (vrij) herinneren
-
-Bron: [link.springer.com/article/10.3758/BF03198454](https://link.springer.com/article/10.3758/BF03198454)
 
 ### Narrative transportation theory (Green & Brock)
 
@@ -79,11 +83,6 @@ Dit verklaart waarom een goed verteld post-mortem beter blijft hangen dan een ta
 
 **Praktische implicatie:** het verhaal/de metafoor mag de emotionele lijm zijn, maar de technische feiten moeten er scherp naast blijven staan — anders neemt men de metafoor over als "waarheid" in plaats van als geheugensteun.
 
-Bronnen:
-- [ncbi.nlm.nih.gov/pmc/articles/PMC12867904](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12867904/)
-- [sciencedirect.com/science/article/abs/pii/S0065260124000145](https://www.sciencedirect.com/science/article/abs/pii/S0065260124000145)
-- [researchgate.net/publication/12248972](https://www.researchgate.net/publication/12248972_The_Role_of_Transportation_in_the_Persuasiveness_of_Public_Narratives)
-
 ### Organisatorisch: narrative knowledge management (Dave Snowden)
 
 Dave Snowden (ex-IBM, Institute for Knowledge Management, later oprichter Cynefin) werkte dit reeds begin jaren 2000 specifiek uit voor kennisoverdracht in organisaties:
@@ -95,10 +94,6 @@ Dit is in essentie hetzelfde doel als dit project: een gestructureerde, doorzoek
 Relevant: zijn Cynefin-framework onderscheidt complexe domeinen (waar verhaal en patroon centraal staan) van gecompliceerde (waar procedures en expertise centraal staan) — post-mortems bewegen altijd tussen die twee.
 
 Relevante publicatie: Oliver, G. & Snowden, D. (2005), *"Patterns of narrative in organizational knowledge sharing"*, in Schreyögg & Koch (eds.), *Narratives and Knowledge Management*.
-
-Bronnen:
-- [en.wikipedia.org/wiki/Dave_Snowden](https://en.wikipedia.org/wiki/Dave_Snowden)
-- [cynefin.io/wiki/Publications_by_Dave_Snowden](https://cynefin.io/wiki/Publications_by_Dave_Snowden)
 
 ---
 
