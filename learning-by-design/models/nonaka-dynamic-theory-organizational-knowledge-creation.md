@@ -184,8 +184,12 @@ Een individuele internalisatie start een nieuwe socialisatiecyclus op groepsnive
 In de jaren '80 krijgt een jong Honda-team de opdracht een nieuwe compacte stadsauto te ontwikkelen.\
 De gangbare aanname in de auto-industrie was: een goede auto is laag, lang en aerodynamisch — méér machine, minder ruimte voor mensen.\
 Het team daagt die aanname expliciet uit via open brainstorms (**Socialization**): wat als we het omdraaien? Maximale binnenruimte voor de mensen, minimale ruimte voor de machine.\
-Dat inzicht kristalliseert in één metafoor: **"Tall Boy"** — een hoge, korte auto die zijn passagiers centraal stelt (**Externalization**).\
-De metafoor is geen marketingterm maar een ontwerpprincipe: elk ingenieursbeslist wordt getoetst aan "klopt dit met Tall Boy?".\
+Dat inzicht kristalliseert in één metafoor: **"Tall Boy"** (**Externalization**).\
+De metafoor werkt op twee niveaus tegelijk. Letterlijk: een lange jongen — groot van postuur, rechtop, ruimte innemend. Figuurlijk: een auto die zich gedraagt als een persoon die ruimte opeist in plaats van zich klein te maken voor de machine.\
+"Tall Boy" zegt in twee woorden wat een pagina specificaties niet zegt: *de mens staat rechtop, de motor past zich aan*.\
+Dat maakt het een echte metafoor in Nonaka's zin — geen label, maar een brug tussen het tacit inzicht ("we willen iets anders") en de expliciete ontwerpbeslissingen die eruit volgen.\
+De metafoor is geen marketingterm maar een ontwerpprincipe: elke ingenieursbeslissing wordt getoetst aan "klopt dit met Tall Boy?".\
+Een lage motorkap? Strijdig met Tall Boy. Meer beenruimte ten koste van kofferruimte? Consistent met Tall Boy. De metafoor beslist.\
 Bestaande kennis over motoren, carrosserie en veiligheid wordt vervolgens herschikt rond dat principe (**Combination**).\
 Ingenieurs die nooit eerder zo'n type auto gebouwd hadden, leren het door te doen (**Internalization**) — en dragen die nieuwe tacit kennis daarna over aan andere Honda-teams (**nieuwe Socialization op organisatieniveau**).\
 Het resultaat: de Honda City, een auto die een volledig nieuw segment creëerde.\
