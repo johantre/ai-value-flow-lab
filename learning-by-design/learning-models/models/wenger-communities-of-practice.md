@@ -141,7 +141,7 @@ Brokers zijn schaars en kostbaar — ze zijn de knooppunten van het kennisnetwer
 
 ### Xerox Eureka: organisatorisch bewijs
 
-Julian Orr onderzocht in de late jaren '80 hoe Xerox-servicetechnici in het veld omgingen met machines die de handleiding niet kende.\
+Julian Orr onderzocht in de late jaren '80 hoe Xerox-servicetechnici in het veld omgingen met machines die de handleiding niet kenden.\
 Zijn observatie: de echte kennisdeling vond niet plaats via de officiële servicemanuals, maar via "war stories" — verhalen die technici bij de koffieautomaat deelden over wat er werkelijk misging en hoe ze het hadden opgelost.\
 Die verhalen bevatten nuance en contextkennis die de handleidingen per definitie niet konden bevatten.
 
