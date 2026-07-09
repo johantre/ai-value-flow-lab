@@ -140,13 +140,13 @@ Een post-mortem vraagt de expert om te beschrijven wat hij deed — niet om te o
 
 Snowden's antwoord op de externalisatie-paradox is niet één techniek maar een set van vijf mechanismen die elk een ander aspect van tacit knowledge adresseren.
 
-**❶ Story elicitation**\
-Niet vragen "wat weet je?" — maar "vertel me wat er is gebeurd."\
-Het verhaal draagt tacit knowledge mee in zijn context. De verteller hoeft niet te weten wat hij weet — hij vertelt wat hij deed, dacht, en voelde. De luisteraar extraheert wat in zijn eigen situatie relevant is.
-
-**❷ Antenarrative**\
+**❶ Antenarrative**\
 Tacit knowledge verschijnt het puurste vóór een situatie officieel wordt: in de fragmenten, twijfels, en "dit voelt raar"-signalen die voorafgaan aan het formele verhaal.\
 Snowden noemt dit antenarratieven — de levende, ongepolitste stroom vóór het narratief gesaneerd wordt tot een conclusie.
+
+**❷ Story elicitation**\
+Niet vragen "wat weet je?" — maar "vertel me wat er is gebeurd."\
+Het verhaal draagt tacit knowledge mee in zijn context. De verteller hoeft niet te weten wat hij weet — hij vertelt wat hij deed, dacht, en voelde. De luisteraar extraheert wat in zijn eigen situatie relevant is.
 
 **❸ SenseMaker**\
 Verhalen vertellen onthult wat er is gebeurd. Begrijpen hoe de verteller zijn eigen verhaal *interpreteert* is andere — en aanvullende — informatie.\
