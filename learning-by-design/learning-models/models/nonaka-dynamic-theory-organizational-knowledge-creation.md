@@ -337,7 +337,7 @@ Zeven inzichten uit Nonaka's populairder maar conceptueel rijke HBR-artikel die 
 Externalisatie verloopt in drie stappen: een metafoor opent de spanning, een analogie werkt haar uit, een model kristalliseert het resultaat.\
 Zie [[metafoor-analogie-model]] voor de volledige uitwerking met Honda, Canon, technical debt en incident harvest als voorbeelden.
 
-**2. Iedereen is knowledge worker — kenniscreatie is geen specialistenwerk**\
+**2. Iedereen is knowledge worker — kenniscreatie is geen specialistenwerk**
 > *"Inventing new knowledge is not a specialized activity – the province of the R&D department or marketing or strategic planning. It is a way of behaving, indeed a way of being, in which everyone is a knowledge worker."*
 
 Nonaka beschrijft drie rollen: frontline ("weet wat is"), senior management ("weet wat zou moeten zijn"), middle management als knowledge engineers die verbinden.\
@@ -345,7 +345,8 @@ Nonaka beschrijft drie rollen: frontline ("weet wat is"), senior management ("we
 
 **3. Interne competitie als kenniscreatiemechanisme**\
 Canon liet teams parallel werken aan hetzelfde probleem en vervolgens debatteren over elkaars aanpak — meerdere perspectieven als motor voor doorbraken.\
-*Kanttekening:* competitie als drijfveer stamt uit een tijdperk dat het als grensverleggend beschouwde. Vandaag weten we beter: voor enkelvoudige doelen helpt competitie naar focus, voor complexe doelen vraagt het samenwerking. Meerdere perspectieven tellen — de competitie zelf niet.
+*Kanttekening:* competitie als drijfveer stamt uit een tijdperk dat het als grensverleggend beschouwde. \
+*Vandaag weten we beter*: voor enkelvoudige doelen helpt competitie naar focus, voor complexe doelen vraagt het samenwerking. Meerdere perspectieven tellen — de competitie zelf niet.
 
 **4. Redundantie als organisatieontwerp**\
 Bewust overlappen van informatie, taken en verantwoordelijkheden zodat mensen elkaars problemen kunnen invoelen en tacit knowledge kan stromen.\
