@@ -204,4 +204,4 @@ De retro-verbinding is hier het activatiemoment.
 - [[cooperation-as-default]] — context als gedragsvormer
 - [[context]] — organisatieprofiel van de casus
 - [[problem-analysis]] — probleemanalyse post-mortem en RC-verbinding
-- [[metaphoor-analogie-model]] — het drieluik van metafoor, analogie en model als mechanisme achter Externalisatie en narratieve kennisdeling
+- [[metafoor-analogie-model]] — het drieluik van metafoor, analogie en model als mechanisme achter Externalisatie en narratieve kennisdeling

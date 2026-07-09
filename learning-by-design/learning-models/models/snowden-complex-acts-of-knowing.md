@@ -297,4 +297,4 @@ Daarmee begint de verschuiving van externalisatie naar situationeel zichtbaar ma
 - [[leermodellen-kennisverspreiding]] — Snowden als één van de leermodellen in de bredere synthese
 - [[postmortem-ai-sparsessie]] — een concrete organisatiecontext waar de eerste drie capture-lagen ontbreken
 - [[psychological-safety]] — de stille voorwaarde: story elicitation en antenarratief werken alleen als mensen veilig zijn om te zeggen "dit voelde raar"
-- [[metaphoor-analogie-model]] — Snowden's story elicitation is de narratieve variant van de metafoor-stap: vertel me het verhaal (open de spanning) voor je de les formuleert (het model)
+- [[metafoor-analogie-model]] — Snowden's story elicitation is de narratieve variant van de metafoor-stap: vertel me het verhaal (open de spanning) voor je de les formuleert (het model)

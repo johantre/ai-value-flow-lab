@@ -209,4 +209,4 @@ De combinatie van beide is het volledige organisatieleersysteem.
 - [[learning-organization]] — Senge's team learning als complementaire theorie; CoP als de organisatievorm die team learning structureert
 - [[mental-models]] — non-canonical practice als de plek waar onzichtbare aannames leven; CoP als de gemeenschap die ze zichtbaar maakt
 - [[intrinsic-motivation]] — mastery als de primaire drijfveer voor CoP-deelname; een guild die autonomie en eigenaarschap biedt, trekt en houdt leden
-- [[metaphoor-analogie-model]] — het drieluik als mechanisme waarmee een CoP haar gedeelde repertoire (Practice) opbouwt: metaforen en verhalen zijn de motor, niet de documenten
+- [[metafoor-analogie-model]] — het drieluik als mechanisme waarmee een CoP haar gedeelde repertoire (Practice) opbouwt: metaforen en verhalen zijn de motor, niet de documenten

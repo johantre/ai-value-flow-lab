@@ -171,4 +171,4 @@ Zonder die terugkoppeling stopt de SECI-spiraal bij Combination: een document da
 - [[learning-organization]] — Senge's team learning als organisatorische context
 - [[problem-analysis]] — de post-mortem gap die AAR adresseert
 - [[collective-genius]] — Hill's creative abrasion als verwante dynamiek in kenniscreatie
-- [[metaphoor-analogie-model]] — de vier AAR-vragen volgen het drieluik: vragen ❶+❷ openen de spanning, vraag ❸ werkt de analogie uit, vraag ❹ kristalliseert het model
+- [[metafoor-analogie-model]] — de vier AAR-vragen volgen het drieluik: vragen ❶+❷ openen de spanning, vraag ❸ werkt de analogie uit, vraag ❹ kristalliseert het model

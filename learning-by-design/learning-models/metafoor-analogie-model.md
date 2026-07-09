@@ -1,7 +1,7 @@
 ---
-title: "Metaphoor, analogie, model: het drieluik van kenniscreatie"
+title: "Metafoor, analogie, model: het drieluik van kenniscreatie"
 type: concept
-tags: [kenniscreatie, metaphoor, analogie, model, externalisatie, seci, tacit-knowledge, organisatieleren, nonaka, innovatie, leermodellen]
+tags: [kenniscreatie, metafoor, analogie, model, externalisatie, seci, tacit-knowledge, organisatieleren, nonaka, innovatie, leermodellen]
 ---
 
 > [!note]- Bronnen
