@@ -336,3 +336,4 @@ Het artikel geeft empirische dekking voor wat intuïtief aanvoelt: de combinatie
 - [[leermodellen-kennisverspreiding]] — bredere synthese van leermodellen, inclusief de SECI-positie daarin
 - [[mental-models]] — Nonaka's "fluctuation & creative chaos" als methode om mentale modellen bewust te bevragen
 - [[cynefin-domains]] — Snowden (Nonaka's tijdgenoot bij IBM) bouwt zijn Cynefin-framework deels op dezelfde tacit/explicit-spanning
+- [[metaphoor-analogie-model]] — het drieluik dat beschrijft hoe Externalisatie werkelijk werkt: metafoor opent de spanning, analogie werkt haar uit, model kristalliseert het resultaat
