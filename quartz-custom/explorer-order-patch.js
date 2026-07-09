@@ -5,7 +5,8 @@
     // Top-level folder order
     "ai-first": 0,
     "trust-by-design": 1,
-    "articles": 2,
+    "learning-by-design": 2,
+    "articles": 3,
 
     // trust-by-design sub-folders
     "trust-by-design/beyond-the-review": 0,
