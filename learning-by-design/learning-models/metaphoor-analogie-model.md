@@ -86,7 +86,7 @@ In het model zijn de tegenstrijdigheden opgelost. De kennis is nu articuleerbaar
 
 ---
 
-### Drie voorbeelden
+### Voorbeelden
 
 **Honda City — "Theory of Automobile Evolution"**
 
@@ -112,14 +112,9 @@ In het model zijn de tegenstrijdigheden opgelost. De kennis is nu articuleerbaar
 | **Analogie** | Schuld IS zoals shortcuts: het loopt op rente (elke feature kost meer op een rommelige codebase), het moet terugbetaald worden (refactoring), het kan escaleren. Schuld IS NIET zoals shortcuts: je kunt niet herfinancieren of failliet gaan. |
 | **Model** | Tech debt register, rente-berekening in developer-uren, geplande debt sprints. Een taal die engineers én managers delen voor een probleem dat daarvoor onzichtbaar was. |
 
----
+**"Incident harvest" — post-mortem als oogst** *(toepassing in onze context — zie ook [[leermodellen-kennisverspreiding]] en [[postmortem-ai-sparsessie]])*
 
-### Het drieluik in onze eigen context — "incident harvest"
-
-*Dit voorbeeld is de directe toepassing op het kennisdelingsvraagstuk uit [[leermodellen-kennisverspreiding]] en [[postmortem-ai-sparsessie]].*
-
-**Het probleem:** de term "post-mortem" draagt de boodschap dat het systeem gestorven is. Mensen stappen een post-mortem binnen met de houding van een autopsie: zoek de oorzaak van de dood, schrijf het op, sluit het dossier. Dat is geen leerritueel — dat is een administratieve afsluiting.
-
+De term "post-mortem" draagt de boodschap dat het systeem gestorven is. Mensen stappen een post-mortem binnen met de houding van een autopsie: zoek de oorzaak van de dood, schrijf het op, sluit het dossier. Dat is geen leerritueel — dat is een administratieve afsluiting.\
 Wat als we de metafoor veranderen?
 
 | Stap | Inhoud |
