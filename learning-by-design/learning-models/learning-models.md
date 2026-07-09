@@ -1,5 +1,5 @@
 ---
-title: "Leermodellen & kennisverspreiding in organisaties"
+title: "🧩 Leermodellen & kennisverspreiding in organisaties"
 status: synthesis
 tags: [leermodellen, kennismanagement, communities-of-practice, SECI, narratief, metaforen, post-mortems, apprenticeship, transactive-memory, guild, storytelling, Snowden, Wenger, Nonaka]
 ---

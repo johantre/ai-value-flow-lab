@@ -1,3 +1,7 @@
+---
+title: "🧩 Postmortems & AI-inzet: sparsessie samenvatting"
+---
+
 # Postmortems & AI-inzet: sparsessie samenvatting
 
 Context voor een vervolgsessie in Claude Code. Doel: een MCP-server bouwen die de
