@@ -329,6 +329,46 @@ Het artikel geeft empirische dekking voor wat intuïtief aanvoelt: de combinatie
 
 ---
 
+### Aanvullende inzichten uit het HBR-artikel (1991)
+
+Zeven inzichten uit Nonaka's populairder maar conceptueel rijke HBR-artikel die het 1994-paper aanvullen.
+
+**1. Metafoor → Analogie → Model**\
+Externalisatie verloopt in drie stappen: een metafoor opent de spanning, een analogie werkt haar uit, een model kristalliseert het resultaat.\
+Zie [[metafoor-analogie-model]] voor de volledige uitwerking met Honda, Canon, technical debt en incident harvest als voorbeelden.
+
+**2. Iedereen is knowledge worker — kenniscreatie is geen specialistenwerk**\
+> *"Inventing new knowledge is not a specialized activity – the province of the R&D department or marketing or strategic planning. It is a way of behaving, indeed a way of being, in which everyone is a knowledge worker."*
+
+Nonaka beschrijft drie rollen: frontline ("weet wat is"), senior management ("weet wat zou moeten zijn"), middle management als knowledge engineers die verbinden.\
+*Kanttekening vanuit 2025:* die rollen zijn meer versmolten. In een retro- of debrief-format zijn frontline medewerkers zelf de knowledge engineers — het format helpt hen afstand te nemen van de details, het grotere plaatje te zien, en kennis expliciet te maken met als doel internalisatie door het team.
+
+**3. Interne competitie als kenniscreatiemechanisme**\
+Canon liet teams parallel werken aan hetzelfde probleem en vervolgens debatteren over elkaars aanpak — meerdere perspectieven als motor voor doorbraken.\
+*Kanttekening:* competitie als drijfveer stamt uit een tijdperk dat het als grensverleggend beschouwde. Vandaag weten we beter: voor enkelvoudige doelen helpt competitie naar focus, voor complexe doelen vraagt het samenwerking. Meerdere perspectieven tellen — de competitie zelf niet.
+
+**4. Redundantie als organisatieontwerp**\
+Bewust overlappen van informatie, taken en verantwoordelijkheden zodat mensen elkaars problemen kunnen invoelen en tacit knowledge kan stromen.\
+Concreet: strategische rotatie (Kao-onderzoekers gaan voor hun 40ste naar marketing of productie; alle medewerkers verwacht minimaal drie functies per tien jaar) en cross-functionele samenwerking — niet als kostenpost maar als kennisinfrastructuur.
+
+**5. Vrije informatietoegang als structurele voorwaarde**\
+Wanneer informatieverschillen bestaan, kunnen medewerkers niet meer op gelijke voet interageren — en daarmee valt de zoektocht naar nieuwe interpretaties van kennis stil.\
+Kao's oplossing: alle bedrijfsinformatie (behalve personeelsdata) in één geïntegreerde database, open voor elke medewerker ongeacht functie.\
+In hedendaagse termen: dit is transparantie als structurele kenniscreatievoorwaarde, niet als culturele waarde.
+
+**6. Conceptuele paraplu's**\
+De taak van senior management is metaforen articuleren die richting geven aan alle kenniscreatieactiviteiten — een overkoepelend concept dat disparate activiteiten verbindt in een coherent geheel:\
+Sharp: *"optoelectronics"* (LCD + microchips + calculators + displays). NEC: *"C&C"* (computers & communications). Kao: *"surface active science"* (zeep, cosmetica, diskettes).\
+Een goed metafoorisch concept als strategie doet meer voor kenniscreatie dan een gedetailleerd strategisch plan.
+
+**7. Visie moet open-ended zijn — senior managers zijn romantics**\
+Een te eenduidige visie wordt een instructie. Instructies leiden tot compliance; persoonlijk commitment — de motor van kenniscreatie — vereist vrijheid om zelf te ontdekken wat het ideaal betekent.\
+Honda's *"Let's gamble"* + *"inexpensive but not cheap"* was vaag genoeg voor eigenaarschap, helder genoeg voor richting — het resultaat was de Honda City.\
+Hiroshi Honma (Honda): *"Senior managers are romantics who go in quest of the ideal."*\
+*Toepassing:* een debrief die start met een open vraag ("wat was dit incident eigenlijk?") activeert commitment. Een template dat de antwoordruimte inperkt activeert compliance. Dezelfde logica, andere context.
+
+---
+
 ## Verbinding met de kennisbank
 
 - [[learning-organization]] — Senge's vijf disciplines overlappen sterk: mental models (→ externalization), team learning (→ socialization + combination)
