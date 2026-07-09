@@ -247,3 +247,7 @@ li.section-li > .section > p.tags {
 .explorer-content li > a[href*="/issues/"]::before {
   content: "⚠️ ";
 }
+.explorer-content li > a[href*="/learning-models"]::before,
+.explorer-content li > a[href*="/ai-assisted-scalable-learning"]::before {
+  content: "🧩 ";
+}

@@ -23,7 +23,7 @@ Dit verklaart waarom bedrijfsopleidingen zo weinig beklijven en waarom koffietaf
 
 ## Key concepts
 
-[[tacit-knowledge]], [[seci-model]], [[psychological-safety]], [[learning-organization]], [[mental-models]], [[intrinsic-motivation]], [[leermodellen-kennisverspreiding]], [[aar-a-leaders-guide-to-after-action-reviews]]
+[[tacit-knowledge]], [[seci-model]], [[psychological-safety]], [[learning-organization]], [[mental-models]], [[intrinsic-motivation]], [[learning-models]], [[aar-a-leaders-guide-to-after-action-reviews]]
 
 ## What I took from it
 
@@ -39,7 +39,7 @@ Kennis zit in de *praktijk*, en praktijk is per definitie collectief — het is 
 
 ### Connection to our work
 
-De guild-structuur die in [[leermodellen-kennisverspreiding]] staat beschreven is in essentie een CoP-implementatie: een horizontale community van beoefenaars die over teamgrenzen heen leert, georganiseerd rond een gedeeld vakgebied — niet rond een project of deadline.
+De guild-structuur die in [[learning-models]] staat beschreven is in essentie een CoP-implementatie: een horizontale community van beoefenaars die over teamgrenzen heen leert, georganiseerd rond een gedeeld vakgebied — niet rond een project of deadline.
 
 Het cruciale inzicht voor post-mortems: de Xerox-technici leerden niet van de handleidingen maar van elkaars "war stories" — verhalen over wat er in het veld werkelijk misging en hoe ze het oplosten.\
 [[aar-a-leaders-guide-to-after-action-reviews]] formaliseert exact dat mechanisme. Een CoP is de sociale structuur *waarin* een AAR-cultuur kan gedijen.
@@ -202,7 +202,7 @@ De combinatie van beide is het volledige organisatieleersysteem.
 
 ## Verbinding met de kennisbank
 
-- [[leermodellen-kennisverspreiding]] — CoP als cross-team leermodel in de brede synthese; guild als praktische implementatie
+- [[learning-models]] — CoP als cross-team leermodel in de brede synthese; guild als praktische implementatie
 - [[nonaka-dynamic-theory-organizational-knowledge-creation]] — SECI-verbinding: CoP als Socialisatie-ruimte en aanzet tot Externalisatie
 - [[aar-a-leaders-guide-to-after-action-reviews]] — AAR als leerritueel dat in een CoP-cultuur gedijt; war stories als tacit knowledge overdracht
 - [[psychological-safety]] — de stille voorwaarde: zonder veiligheid deelt de CoP geen echte kennis, alleen oppervlakkige

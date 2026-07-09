@@ -112,7 +112,7 @@ In het model zijn de tegenstrijdigheden opgelost. De kennis is nu articuleerbaar
 | **Analogie** | Schuld IS zoals shortcuts: het loopt op rente (elke feature kost meer op een rommelige codebase), het moet terugbetaald worden (refactoring), het kan escaleren. Schuld IS NIET zoals shortcuts: je kunt niet herfinancieren of failliet gaan. |
 | **Model** | Tech debt register, rente-berekening in developer-uren, geplande debt sprints. Een taal die engineers én managers delen voor een probleem dat daarvoor onzichtbaar was. |
 
-**"Incident harvest" — post-mortem als oogst** *(toepassing in onze context — zie ook [[leermodellen-kennisverspreiding]] en [[postmortem-ai-sparsessie]])*
+**"Incident harvest" — post-mortem als oogst** *(toepassing in onze context — zie ook [[learning-models]] en [[ai-assisted-scalable-learning]])*
 
 De term "post-mortem" draagt de boodschap dat het systeem gestorven is. Mensen stappen een post-mortem binnen met de houding van een autopsie: zoek de oorzaak van de dood, schrijf het op, sluit het dossier. Dat is geen leerritueel — dat is een administratieve afsluiting.\
 Wat als we de metafoor veranderen?
@@ -156,6 +156,6 @@ Het model — de les, de actiepunten, de aanpassing — volgt daarna van nature.
 - [[snowden-complex-acts-of-knowing]] — Snowden's story elicitation is de narratieve variant van de metafoor-stap: vertel me het verhaal (open de spanning) voor je de les formuleert (het model)
 - [[aar-a-leaders-guide-to-after-action-reviews]] — de vier AAR-vragen volgen het drieluik: vragen ❶+❷ openen de spanning, vraag ❸ werkt de analogie uit, vraag ❹ kristalliseert het model
 - [[wenger-communities-of-practice]] — gedeeld repertoire (Practice) in een CoP wordt opgebouwd via dit drieluik: de community's metaforen en verhalen zijn de motor, niet de documenten
-- [[leermodellen-kennisverspreiding]] — het drieluik als mechanisme achter narratief-gedreven kennisdeling
-- [[postmortem-ai-sparsessie]] — "incident harvest" als directe toepassing in onze context
+- [[learning-models]] — het drieluik als mechanisme achter narratief-gedreven kennisdeling
+- [[ai-assisted-scalable-learning]] — "incident harvest" als directe toepassing in onze context
 - [[psychological-safety]] — de stille voorwaarde: de metafoorstap vraagt dat mensen een ongepolitst, misschien raar beeld durven gooien zonder dat het meteen wordt afgeschoten

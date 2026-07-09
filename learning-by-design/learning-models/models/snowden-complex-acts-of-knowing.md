@@ -28,7 +28,7 @@ Snowden bouwt op Polanyi's oorspronkelijke inzicht en keert zich tegen de SECI-i
 
 ## Key concepts
 
-[[tacit-knowledge]], [[seci-model]], [[nonaka-dynamic-theory-organizational-knowledge-creation]], [[cynefin-domains]], [[psychological-safety]], [[aar-a-leaders-guide-to-after-action-reviews]], [[wenger-communities-of-practice]], [[leermodellen-kennisverspreiding]]
+[[tacit-knowledge]], [[seci-model]], [[nonaka-dynamic-theory-organizational-knowledge-creation]], [[cynefin-domains]], [[psychological-safety]], [[aar-a-leaders-guide-to-after-action-reviews]], [[wenger-communities-of-practice]], [[learning-models]]
 
 ## What I took from it
 
@@ -44,7 +44,7 @@ Het document bestaat. De kennis is weg.
 
 De meeste postmortem-databases zijn externalisatieprojecten zonder de drie lagen die externalisatie zinvol maken: de rauwe signalen, het gedeelde verhaal, en de zelfinterpretatie van de betrokkenen.\
 Snowden's vijf mechanismen zijn een direct antwoord op waarom zulke postmortems niet worden gelezen en de meta-discussie niet op gang komt.\
-Zie [[postmortem-ai-sparsessie]] voor een concrete organisatiecontext (met een Notion-database als toevallig voorbeeld) en [[aar-a-leaders-guide-to-after-action-reviews]] voor het AAR-protocol dat als story elicitation-methode dient.
+Zie [[ai-assisted-scalable-learning]] voor een concrete organisatiecontext (met een Notion-database als toevallig voorbeeld) en [[aar-a-leaders-guide-to-after-action-reviews]] voor het AAR-protocol dat als story elicitation-methode dient.
 
 ---
 
@@ -294,7 +294,7 @@ Daarmee begint de verschuiving van externalisatie naar situationeel zichtbaar ma
 - [[snowden-cynefin]] — Cynefin als raamwerk voor wanneer Externalisatie werkt (Clear/Complicated) en wanneer niet (Complex)
 - [[wenger-communities-of-practice]] — CoP als de socialisatieruimte die tacit knowledge laat stromen zonder externalisatie te forceren
 - [[aar-a-leaders-guide-to-after-action-reviews]] — Story elicitation als geprotocolleerde methode; de vier AAR-vragen als elicitatie-instrument
-- [[leermodellen-kennisverspreiding]] — Snowden als één van de leermodellen in de bredere synthese
-- [[postmortem-ai-sparsessie]] — een concrete organisatiecontext waar de eerste drie capture-lagen ontbreken
+- [[learning-models]] — Snowden als één van de leermodellen in de bredere synthese
+- [[ai-assisted-scalable-learning]] — een concrete organisatiecontext waar de eerste drie capture-lagen ontbreken
 - [[psychological-safety]] — de stille voorwaarde: story elicitation en antenarratief werken alleen als mensen veilig zijn om te zeggen "dit voelde raar"
 - [[metafoor-analogie-model]] — Snowden's story elicitation is de narratieve variant van de metafoor-stap: vertel me het verhaal (open de spanning) voor je de les formuleert (het model)

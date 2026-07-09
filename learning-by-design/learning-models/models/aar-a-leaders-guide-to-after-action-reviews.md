@@ -42,7 +42,7 @@ De AAR lost exact het probleem op dat [[problem-analysis]] beschrijft: kennis di
 Het verschil met de huidige Notion-post-mortem is niet het format maar de condities: geen rang, onmiddellijk, collectief, en forward-looking.\
 Een post-mortem die weken later door één persoon wordt geschreven is het tegenovergestelde van een AAR op alle vier die punten.
 
-Zie ook [[leermodellen-kennisverspreiding]] voor de bredere context van leermodellen en [[nonaka-dynamic-theory-organizational-knowledge-creation]] voor de SECI-verbinding.
+Zie ook [[learning-models]] voor de bredere context van leermodellen en [[nonaka-dynamic-theory-organizational-knowledge-creation]] voor de SECI-verbinding.
 
 ---
 
@@ -164,7 +164,7 @@ Zonder die terugkoppeling stopt de SECI-spiraal bij Combination: een document da
 
 ## Verbinding met de kennisbank
 
-- [[leermodellen-kennisverspreiding]] — AAR als één van de leermodellen in de bredere synthese
+- [[learning-models]] — AAR als één van de leermodellen in de bredere synthese
 - [[nonaka-dynamic-theory-organizational-knowledge-creation]] — SECI-verbinding: AAR als Dialoguing Ba
 - [[psychological-safety]] — de "geen rang"-regel als structurele implementatie
 - [[mental-models]] — double-loop learning als doorbraak van onzichtbare aannames

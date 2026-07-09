@@ -45,7 +45,7 @@ De kennis die de incident-oplosser heeft, begon als tacit (intuïtie, patroonher
 Maar daarna stopt de cyclus: de pagina wordt niet gelezen (geen pull), niet geoefend (geen internalisatie), en niet opgenomen in gedeelde ervaring (geen socialisatie naar wie het incident niet meegemaakt heeft).\
 De organisatie blijft dus steken in één kwadrant van een model dat vier kwadranten nodig heeft om kennis te laten leven.
 
-Zie ook [[leermodellen-kennisverspreiding]] voor de bredere synthese.
+Zie ook [[learning-models]] voor de bredere synthese.
 
 ---
 
@@ -374,7 +374,7 @@ Hiroshi Honma (Honda): *"Senior managers are romantics who go in quest of the id
 
 - [[learning-organization]] — Senge's vijf disciplines overlappen sterk: mental models (→ externalization), team learning (→ socialization + combination)
 - [[collective-genius]] — Hill's creative abrasion is een georganiseerde vorm van Socialization die Externalization uitlokt
-- [[leermodellen-kennisverspreiding]] — bredere synthese van leermodellen, inclusief de SECI-positie daarin
+- [[learning-models]] — bredere synthese van leermodellen, inclusief de SECI-positie daarin
 - [[mental-models]] — Nonaka's "fluctuation & creative chaos" als methode om mentale modellen bewust te bevragen
 - [[cynefin-domains]] — Snowden (Nonaka's tijdgenoot bij IBM) bouwt zijn Cynefin-framework deels op dezelfde tacit/explicit-spanning
 - [[metafoor-analogie-model]] — het drieluik dat beschrijft hoe Externalisatie werkelijk werkt: metafoor opent de spanning, analogie werkt haar uit, model kristalliseert het resultaat
