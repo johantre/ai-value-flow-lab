@@ -130,28 +130,23 @@ Die attitudeshift is niet iets wat je in een template kunt specificeren. Ze zit 
 
 ### De kern: wat het drieluik onderscheidt van een gewone analogie
 
-**Een gewone analogie legt uit. Het drieluik créeert.**
+Een goede metafoor kiest bewust voor maximale spanning — twee dingen die zo ver van elkaar liggen dat de clash productief is.\
+Een slechte metafoor lost de spanning te snel op: *"ons project is een marathon"* is meteen duidelijk. Niemand hoeft erover na te denken. Er is geen kenniscreatie.\
+Een uitleggende analogie (*"een organisatie is zoals een machine"*) werkt hetzelfde: start vanuit begrip dat al bestaat, nuttig voor instructie, geen kenniscreatie.
 
-Dat onderscheid is de essentie van het model en de reden waarom het in een kenniscreatiecontext zo krachtig is.
+De analogiestap is waar het intellectuele werk plaatsvindt: systematisch uitzoeken wat **wél** en **niet** klopt aan de vergelijking.\
+Dat is waarom Honda-ingenieurs moesten debatteren — ze werkten de analogie uit.\
+Het model is pas mogelijk nadat die spanning volledig is doorgewerkt.
 
-Een uitleggende analogie ("een organisatie is zoals een machine — er zijn inputs, processen, outputs") start vanuit begrip dat al bestaat. Ze maakt het begrijpelijk voor wie het nog niet weet. Nuttig voor instructie. Geen kenniscreatie.
+Het drieluik in de praktijk:
+- "Theory of Automobile Evolution" dwong het team iets te ontdekken dat ze nog niet wisten.
+- "Technical debt" maakte een onzichtbaar probleem plotseling *zichtbaar* voor een volledig nieuw publiek.
+- "Incident harvest" is geen vriendelijkere naam voor post-mortem — het is een ander referentiekader dat andere vragen oproept en andere kennis aan de oppervlakte brengt.
 
-Het drieluik start vanuit een *spanning die niemand kon oplossen*:
-- "Theory of Automobile Evolution" was niet een handige beschrijving van iets wat Honda al wist. Het was een vraag die het team dwong iets te ontdekken dat ze nog niet wisten.
-- "Technical debt" was niet een metafoor voor iets wat programmeurs al begrepen. Het was een beeld dat een onzichtbaar probleem plotseling *zichtbaar* maakte voor een volledig nieuw publiek.
-- "Incident harvest" is niet een vriendelijkere naam voor post-mortem. Het is een ander referentiekader dat andere vragen oproept, een andere houding activeert, en andere kennis aan de oppervlakte brengt.
-
-**De praktische implicatie voor kennisdelings-rituelen:**
-
-De meeste post-mortems, retro's en handboeken beginnen bij het model: geef ons de root cause, schrijf de les op, vul het template in.\
-Dat is kennisoverdracht van het antwoord.\
-Het drieluik is kenniscreatie van de vraag.
-
-Begin de debrief niet met het template. Begin met de metafoor-vraag:\
-*"Wat was dit incident eigenlijk? Als je het in één beeld moest vangen — geen technische term, maar een beeld — wat zou dat zijn?"*
-
+**Voor de post-mortem praktijk:** begin de debrief niet met het template (= het model), maar met de metafoor-vraag:\
+*"Wat was dit incident eigenlijk? Als je het in één beeld moest vangen — geen technische term, maar een beeld — wat zou dat zijn?"*\
 Laat het team de analogie uitwerken: wat klopt aan dat beeld, wat klopt niet?\
-Het model — de les, de actiepunten, de aanpassing — volgt daarna van nature, en is rijker omdat het uit de spanning is geboren in plaats van erin gestopt.
+Het model — de les, de actiepunten, de aanpassing — volgt daarna van nature.
 
 ---
 
