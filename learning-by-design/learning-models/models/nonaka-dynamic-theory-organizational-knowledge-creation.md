@@ -9,7 +9,7 @@ source: https://doi.org/10.1287/orsc.5.1.14
 
 > [!note]- Bronnen
 > - [Organization Science, 5(1), 14–37 (1994)](https://doi.org/10.1287/orsc.5.1.14)
-> - [Nonaka, "The Knowledge-Creating Company", HBR nov–dec 1991](https://hbr.org/1991/11/the-knowledge-creating-company-2)
+> - [Nonaka, "The Knowledge-Creating Company", HBR nov–dec 1991](./nonaka-dynamic-theory-organizational-knowledge-creation/nonaka-dynamic-theory-organizational-knowledge-creation.pdf)
 > - [Nonaka & Konno, "The Concept of Ba", California Management Review, 1998](https://doi.org/10.2307/41165942)
 > - [Hu, Lee & Yi, "Blended knowledge sharing model in design professional", Scientific Reports, 2023](https://www.nature.com/articles/s41598-023-43505-z)
 > - [Wikipedia — Honda City (AA)](https://en.wikipedia.org/wiki/Honda_City_(AA))
@@ -331,7 +331,7 @@ Het artikel geeft empirische dekking voor wat intuïtief aanvoelt: de combinatie
 
 ### Aanvullende inzichten uit het HBR-artikel (1991)
 
-Zeven inzichten uit Nonaka's populairder maar conceptueel rijke HBR-artikel die het 1994-paper aanvullen.
+Zeven inzichten uit Nonaka's populairder maar conceptueel rijke [**"The Knowledge-Creating Company"** (HBR, nov–dec 1991)](./nonaka-dynamic-theory-organizational-knowledge-creation/nonaka-dynamic-theory-organizational-knowledge-creation.pdf) die het 1994-paper aanvullen.
 
 **1. Metafoor → Analogie → Model**\
 Externalisatie verloopt in drie stappen: een metafoor opent de spanning, een analogie werkt haar uit, een model kristalliseert het resultaat.\
