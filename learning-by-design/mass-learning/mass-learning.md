@@ -1,3 +1,7 @@
+---
+title: "🧩 Mass Learning"
+---
+
 # Organisatiecontext
 
 ## Organisatie

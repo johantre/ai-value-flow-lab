@@ -202,6 +202,6 @@ De retro-verbinding is hier het activatiemoment.
 - [[mental-models]] — onzichtbare aannames als leerblokkade
 - [[cynefin-domains]] — Snowden's complexiteitsmodel voor kennisdomeinen
 - [[cooperation-as-default]] — context als gedragsvormer
-- [[context]] — organisatieprofiel van de casus
+- [[mass-learning]] — organisatieprofiel van de casus
 - [[problem-analysis]] — probleemanalyse post-mortem en RC-verbinding
 - [[metafoor-analogie-model]] — het drieluik van metafoor, analogie en model als mechanisme achter Externalisatie en narratieve kennisdeling

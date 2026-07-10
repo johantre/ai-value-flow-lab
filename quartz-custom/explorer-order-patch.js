@@ -8,6 +8,11 @@
     "learning-by-design": 2,
     "articles": 3,
 
+    // learning-by-design sub-folders
+    "learning-by-design/mass-learning": 0,
+    "learning-by-design/learning-models": 1,
+    "learning-by-design/ai-assisted-scalable-learning": 2,
+
     // trust-by-design sub-folders
     "trust-by-design/beyond-the-review": 0,
     "trust-by-design/the-performance-illusion": 1,
