@@ -1,5 +1,5 @@
 ---
-title: "Complex Acts of Knowing: Paradox and Descriptive Self-Awareness"
+title: "TACIT: Complex Acts of Knowing: Paradox and Descriptive Self-Awareness"
 author: "Snowden Dave"
 year: 2002
 status: reference

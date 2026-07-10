@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Interdependence in Close Relationships"
+title: "TMS: Cognitive Interdependence in Close Relationships"
 author: "Wegner Daniel"
 year: 1985
 status: reference

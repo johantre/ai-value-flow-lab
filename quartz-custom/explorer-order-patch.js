@@ -13,6 +13,13 @@
     "learning-by-design/learning-models": 1,
     "learning-by-design/ai-assisted-scalable-learning": 2,
 
+    // learning-models/models article order
+    "learning-by-design/learning-models/models/wenger-communities-of-practice": 0,
+    "learning-by-design/learning-models/models/nonaka-dynamic-theory-organizational-knowledge-creation": 1,
+    "learning-by-design/learning-models/models/wegner-transactive-memory": 2,
+    "learning-by-design/learning-models/models/aar-a-leaders-guide-to-after-action-reviews": 3,
+    "learning-by-design/learning-models/models/snowden-complex-acts-of-knowing": 4,
+
     // trust-by-design sub-folders
     "trust-by-design/beyond-the-review": 0,
     "trust-by-design/the-performance-illusion": 1,

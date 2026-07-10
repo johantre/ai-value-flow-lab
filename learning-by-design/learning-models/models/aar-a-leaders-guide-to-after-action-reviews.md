@@ -1,5 +1,5 @@
 ---
-title: "A Leader's Guide to After-Action Reviews (TC 25-20)"
+title: "AAR: A Leader's Guide to After-Action Reviews (TC 25-20)"
 author: "US Army Training and Doctrine Command"
 year: 1993
 status: reference
