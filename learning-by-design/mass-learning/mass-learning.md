@@ -26,6 +26,21 @@ Sprint cadence (2 weken):
 - **Refinements**: te technisch, maar gealigneerd — mensen spreken over de juiste dingen
 - **Retro's**: aanwezig maar flauw — te weinig inhoud met echte impact
 
+## Tech Council
+
+*Hypothetisch — nog niet persoonlijk bijgewoond, gebaseerd op interne documentatie.*
+
+Tweewekelijks cross-team overleg dat architectuur- en kwaliteitsbeslissingen bewaakt:
+
+- **Werkt met schriftelijke agenda** en een submission template: iedereen kan een topic indienen
+- **Eigenaar van "homeless incidents"**: incidenten die vastlopen of complexe opvolging vragen zonder duidelijke eigenaar
+- **Bewaart architectuur & codekwaliteit** van alle interne producten
+
+**OSS-perspectief op de Tech Council:**\
+De structuur heeft al bazaar-elementen: open voor iedereen, schriftelijke agenda, laagdrempelig indienen. Maar de redenering achter beslissingen verdwijnt waarschijnlijk in de meeting — de topics tonen status (Done / In progress) maar niet het *waarom*.\
+Dat maakt de Tech Council momenteel een **TMS-directory** ("de council weet het") eerder dan een **ADR-systeem** ("de beslissing én de redenering zijn opgeschreven en doorzoekbaar").\
+Het verschil voor mass-learning: toekomstige developers weten *dat* een bepaalde technische keuze gemaakt is, niet *waarom* — en herhalen de discussie of maken de verkeerde aanname.
+
 ## AI-gebruik
 
 - Iedereen beschikt over een Claude account
