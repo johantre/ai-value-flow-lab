@@ -1,5 +1,10 @@
 ---
 title: "🧩 Postmortems & AI-inzet: sparsessie samenvatting"
+icon: 🧩
+author: "Synthese"
+year: 2026
+status: synthesis
+tags: [post-mortem, kennismanagement, AI, MCP, scalable-learning, notion, organisatieleren]
 ---
 
 # Postmortems & AI-inzet: sparsessie samenvatting

@@ -1,5 +1,10 @@
 ---
 title: "🧩 Mass Learning"
+icon: 🧩
+author: "Synthese"
+year: 2026
+status: synthesis
+tags: [mass-learning, organisatiecontext, post-mortem, kennisverspreiding, LeSS, psychologische-veiligheid, trust-by-design]
 ---
 
 # Organisatiecontext

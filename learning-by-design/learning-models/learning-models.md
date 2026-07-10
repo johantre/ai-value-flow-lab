@@ -1,5 +1,8 @@
 ---
 title: "🧩 Leermodellen & kennisverspreiding in organisaties"
+icon: 🧩
+author: "Synthese"
+year: 2026
 status: synthesis
 tags: [leermodellen, kennismanagement, communities-of-practice, SECI, narratief, metaforen, post-mortems, apprenticeship, transactive-memory, guild, storytelling, Snowden, Wenger, Nonaka]
 ---
