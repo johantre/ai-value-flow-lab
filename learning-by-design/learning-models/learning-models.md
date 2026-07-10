@@ -41,7 +41,7 @@ Voor cross-team verspreiding zijn andere modellen relevanter.
 | **SECI-model** (Nonaka) | Socialisatie → Externalisatie → Combinatie → Internalisatie | Verklaart hoe tacit ↔ expliciete kennis omslaat | Documentatie alleen (combinatie) is niet genoeg — moet volledige cyclus doorlopen |
 | **Transactive memory systems** (Wegner) | "Wie weet wat" i.p.v. "iedereen weet alles" | Goedkoop, snel te implementeren | Faalt als sleutelpersonen vertrekken |
 | **AAR / militaire doctrine** | Direct na de actie, gestructureerd terugkoppelen naar doctrine | Sterke link met post-mortems | Vraagt discipline en cadans |
-| **Open source communities** | RFC's, review, publieke discussie, reputatie | Kennis zonder centrale autoriteit | Vraagt schrijfcultuur |
+| **Open source communities** (Raymond) | RFC's, review, publieke discussie, reputatie | Kennis zonder centrale autoriteit | Vraagt schrijfcultuur |
 | **Lean/Toyota (kaizen, gemba)** | Kleine, gestandaardiseerde verbeteringen + zelf gaan kijken | Continue verbetering, praktijkgericht | Minder geschikt voor complexe/zeldzame incidenten |
 | **Religieuze modellen** | Ritueel, herhaling, narratief, gedeelde taal, gezaghebbende dragers | Extreem hoge retentie en verspreiding over generaties | Areligieus te herbruiken; mechanismen zijn het waardevolle deel, niet de inhoud |
 
@@ -208,3 +208,4 @@ De retro-verbinding is hier het activatiemoment.
 - [[mass-learning]] — organisatieprofiel van de casus
 - [[problem-analysis]] — probleemanalyse post-mortem en RC-verbinding
 - [[metafoor-analogie-model]] — het drieluik van metafoor, analogie en model als mechanisme achter Externalisatie en narratieve kennisdeling
+- [[raymond-the-cathedral-and-the-bazaar]] — open source als leermodel: RFC/ADR als inner-source vertaling van "release early, listen to your customers"

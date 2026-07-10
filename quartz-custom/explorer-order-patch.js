@@ -19,6 +19,7 @@
     "learning-by-design/learning-models/models/wegner-transactive-memory": 2,
     "learning-by-design/learning-models/models/aar-a-leaders-guide-to-after-action-reviews": 3,
     "learning-by-design/learning-models/models/snowden-complex-acts-of-knowing": 4,
+    "learning-by-design/learning-models/models/raymond-the-cathedral-and-the-bazaar": 5,
 
     // trust-by-design sub-folders
     "trust-by-design/beyond-the-review": 0,

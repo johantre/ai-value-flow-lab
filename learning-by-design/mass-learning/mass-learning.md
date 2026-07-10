@@ -36,7 +36,7 @@ Tweewekelijks cross-team overleg dat architectuur- en kwaliteitsbeslissingen bew
 - **Eigenaar van "homeless incidents"**: incidenten die vastlopen of complexe opvolging vragen zonder duidelijke eigenaar
 - **Bewaart architectuur & codekwaliteit** van alle interne producten
 
-**OSS-perspectief op de Tech Council:**\
+**OSS-perspectief op de Tech Council** (zie [[raymond-the-cathedral-and-the-bazaar]] voor het volledige model):\
 De structuur heeft al bazaar-elementen: open voor iedereen, schriftelijke agenda, laagdrempelig indienen. Maar de redenering achter beslissingen verdwijnt waarschijnlijk in de meeting — de topics tonen status (Done / In progress) maar niet het *waarom*.\
 Dat maakt de Tech Council momenteel een **TMS-directory** ("de council weet het") eerder dan een **ADR-systeem** ("de beslissing én de redenering zijn opgeschreven en doorzoekbaar").\
 Het verschil voor mass-learning: toekomstige developers weten *dat* een bepaalde technische keuze gemaakt is, niet *waarom* — en herhalen de discussie of maken de verkeerde aanname.

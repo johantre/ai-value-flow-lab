@@ -156,3 +156,4 @@ TMS verwijst naar de bron. Mass-learning maakt de bron overbodig.
 - [[aar-a-leaders-guide-to-after-action-reviews]] — AAR distribueert kennis actief via gestructureerde debrief; TMS registreert alleen waar ze zit
 - [[mass-learning]] — de synthese-context: TMS als diagnostisch signaal en anti-patroon voor een mass-learning organisatie
 - [[ai-assisted-scalable-learning]] — de post-mortem database als onbewuste TMS-directory + antenarratief in de praktijk
+- [[raymond-the-cathedral-and-the-bazaar]] — TMS is wat overblijft wanneer een RFC/ADR-koppeling ontbreekt: de redenering bestaat, maar is alleen vindbaar via de specialist die erbij was
