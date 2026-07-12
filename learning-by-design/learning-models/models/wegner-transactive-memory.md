@@ -51,7 +51,7 @@ Maar TMS als *leidend* leermodel is onvoldoende — en actief gevaarlijk in een 
 
 **Het doel is het tegenovergestelde van TMS.**\
 Een organisatie die streeft naar minimale afhankelijkheden wil niet dat kennis bij specialisten blijft. Ze wil dat kennis zich verspreidt tot het niveau "goed genoeg voor kwaliteit" — niet het niveau van de specialist, maar het niveau waarop de specialist kan vertrekken.\
-Dit is de LeSS Traveller-logica (Larman): de Traveller deelt kennis niet om een directory te bouwen, maar om zichzelf overbodig te maken.\
+Dit is de [[less-traveller]]-logica (Larman): de Traveller deelt kennis niet om een directory te bouwen, maar om zichzelf overbodig te maken.\
 TMS stabiliseert op de specialist. Mass-learning lost de specialist op.
 
 **TMS faciliteert Snowden's drie faalpatronen:**\
@@ -157,3 +157,4 @@ TMS verwijst naar de bron. Mass-learning maakt de bron overbodig.
 - [[mass-learning]] — de synthese-context: TMS als diagnostisch signaal en anti-patroon voor een mass-learning organisatie
 - [[ai-assisted-scalable-learning]] — de post-mortem database als onbewuste TMS-directory + antenarratief in de praktijk
 - [[raymond-the-cathedral-and-the-bazaar]] — TMS is wat overblijft wanneer een RFC/ADR-koppeling ontbreekt: de redenering bestaat, maar is alleen vindbaar via de specialist die erbij was
+- [[less-traveller]] — de tegenpool van TMS: actief kennis verspreiden tot de specialist overbodig is, in plaats van een directory bouwen naar de specialist toe

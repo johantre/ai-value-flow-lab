@@ -28,7 +28,7 @@ Fouten en foute aannames worden daardoor sneller blootgelegd dan één architect
 
 ## Key concepts
 
-[[wegner-transactive-memory]], [[wenger-communities-of-practice]], [[intrinsic-motivation]], [[mass-learning]], [[learning-models]], [[snowden-complex-acts-of-knowing]]
+[[rfc]], [[adr]], [[wegner-transactive-memory]], [[wenger-communities-of-practice]], [[intrinsic-motivation]], [[mass-learning]], [[learning-models]], [[snowden-complex-acts-of-knowing]]
 
 ## What I took from it
 
@@ -45,7 +45,7 @@ Dat werkt alleen onder specifieke voorwaarden, die Benkler later preciseerde (zi
 Een tech-council-achtige structuur (zie [[mass-learning]]) heeft al een aantal bazaar-elementen: open voor iedereen, een schriftelijke agenda, een laagdrempelig submission-template.\
 Wat ontbreekt, is precies wat Raymond's model *wél* borgt: bij Fetchmail was elke bugfix, elke discussie, elke afweging publiek en doorzoekbaar — de bazaar liet geen redenering achter zich verloren gaan, omdat alles op één plek gebeurde (de mailinglist, later de patch-geschiedenis zelf).
 
-In een intern proces valt dat vaak uiteen in twee sporen: het topic/de RFC (het voorstel) en de meeting notes (de deliberatie) — niet gekoppeld, niet samen doorzoekbaar.\
+In een intern proces valt dat vaak uiteen in twee sporen: het topic/de [[rfc]] (het voorstel) en de meeting notes (de deliberatie) — niet gekoppeld, niet samen doorzoekbaar.\
 Dat is geen falen van de bazaar-gedachte zelf, maar een falen van de **integratielaag**: Benkler noemt dit expliciet een vereiste, niet een bijzaak.
 
 ---
@@ -113,7 +113,7 @@ Dit is precies waarom een open tech-council-achtige structuur (bazaar-toegang, i
 
 ---
 
-## Van open source naar inner source: RFC en ADR
+## Van open source naar inner source: [[rfc]] en [[adr]]
 
 **Inner source** — de term is gemunt door Tim O'Reilly (2000) — is de toepassing van open-source-werkwijzen *binnen* een organisatie, zonder de code zelf publiek te maken.\
 Drie praktijken maken de vertaalslag concreet:
@@ -124,9 +124,9 @@ Drie praktijken maken de vertaalslag concreet:
 
 **❸ Quality assurance** — code review en een onderscheid tussen bijdragers en integrators (met schrijftoegang) bewaken kwaliteit zonder de open toegang te sluiten.
 
-**RFC** (Request for Comments — de term komt uit de IETF-traditie en is overgenomen door tech-organisaties voor interne designvoorstellen) is de "release early"-stap van Raymond vertaald naar besluitvorming: een voorstel wordt vroeg, publiek en in geschreven vorm gedeeld — vóór het definitief is — precies om Linus's Law te activeren op ideeën in plaats van op code.
+Een **[[rfc]]** (Request for Comments — de term komt uit de IETF-traditie en is overgenomen door tech-organisaties voor interne designvoorstellen) is de "release early"-stap van Raymond vertaald naar besluitvorming: een voorstel wordt vroeg, publiek en in geschreven vorm gedeeld — vóór het definitief is — precies om Linus's Law te activeren op ideeën in plaats van op code.
 
-**ADR** (Architecture Decision Record — Nygard, 2011) is het stuk dat een bazaar-proces een kathedraal-niveau nalatenschap geeft.\
+Een **[[adr]]** (Architecture Decision Record — Nygard, 2011) is het stuk dat een bazaar-proces een kathedraal-niveau nalatenschap geeft.\
 Nygard's structuur is opzettelijk minimaal: **Title, Context, Decision, Status, Consequences** — één tot twee pagina's, geschreven "als een gesprek met een toekomstige ontwikkelaar".\
 Zonder ADR heeft een toekomstige lezer maar twee opties bij een oude beslissing: blind aanvaarden, of blind terugdraaien. Geen van beide is leren.
 
@@ -137,6 +137,8 @@ Ontbreekt die koppeling — bestaat het voorstel wel, bestaat de discussie wel, 
 
 ## Verbinding met de kennisbank
 
+- [[rfc]] — de "release early"-stap vertaald naar besluitvorming; het voorstel-deel van de inner-source koppeling
+- [[adr]] — de vastgelegde redenering; het geheugen-deel van de inner-source koppeling
 - [[mass-learning]] — de tech-council-achtige structuur als casus: bazaar-toegang aanwezig, ADR-koppeling (nog) niet
 - [[wegner-transactive-memory]] — TMS is wat overblijft wanneer de RFC/ADR-koppeling ontbreekt: de redenering bestaat, maar is alleen vindbaar via de specialist die erbij was
 - [[wenger-communities-of-practice]] — CoP en de bazaar delen het uitgangspunt dat kennis in de gemeenschap zit, niet bij één architect; CoP is de sociale vorm, de bazaar is het productieproces

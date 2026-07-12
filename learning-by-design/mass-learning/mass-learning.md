@@ -38,7 +38,7 @@ Tweewekelijks cross-team overleg dat architectuur- en kwaliteitsbeslissingen bew
 
 **OSS-perspectief op de Tech Council** (zie [[raymond-the-cathedral-and-the-bazaar]] voor het volledige model):\
 De structuur heeft al bazaar-elementen: open voor iedereen, schriftelijke agenda, laagdrempelig indienen. Maar de redenering achter beslissingen verdwijnt waarschijnlijk in de meeting — de topics tonen status (Done / In progress) maar niet het *waarom*.\
-Dat maakt de Tech Council momenteel een **TMS-directory** ("de council weet het") eerder dan een **ADR-systeem** ("de beslissing én de redenering zijn opgeschreven en doorzoekbaar").\
+Dat maakt de Tech Council momenteel een **TMS-directory** ("de council weet het") eerder dan een **[[adr]]-systeem** ("de beslissing én de redenering zijn opgeschreven en doorzoekbaar").\
 Het verschil voor mass-learning: toekomstige developers weten *dat* een bepaalde technische keuze gemaakt is, niet *waarom* — en herhalen de discussie of maken de verkeerde aanname.
 
 ## AI-gebruik
@@ -75,3 +75,28 @@ De kennis die vergaard werd bij het fixen van het incident verspreidt zich niet.
 Incidenten worden niet ingezet om de organisatie anti-fragiel te maken.
 
 **Wat de organisatie wil:** een schaalbaar middel om incident-kennis snel en breed te verspreiden — zodat elke post-mortem de volledige organisatie sterker maakt, niet alleen het team dat het incident fixte.
+
+## Synthese: TMS, de bazaar, en de ADR-gap
+
+De Tech Council en de post-mortem-praktijk blijken twee symptomen van hetzelfde patroon te zijn.
+
+**❶ TMS als diagnostisch signaal** (zie [[wegner-transactive-memory]])\
+De post-mortem database registreert wie welk incident oploste — dat is een onbewuste TMS-directory: ze wijst naar de expert, maar draagt de kennis zelf niet over.\
+De Tech Council doet hetzelfde met besluiten: de council "weet het", maar de redenering zit vast aan wie in de meeting zat.\
+Beide zijn TMS-structuren die zich voordoen als kennisdeling.
+
+**❷ De bazaar is aanwezig, de nalatenschap niet** (zie [[raymond-the-cathedral-and-the-bazaar]])\
+De Tech Council heeft al bazaar-toegang: open voor iedereen, schriftelijk, laagdrempelig.\
+Wat ontbreekt is Benkler's derde voorwaarde — lage-kost integratie van de redenering. Het topic/de [[rfc]] bestaat, de discussie bestaat (in meeting notes), maar ze zijn niet gekoppeld tot een doorzoekbaar [[adr]].\
+Hetzelfde geldt voor de post-mortem: de Notion-pagina is het "product", maar het antenarratief en de story elicitation (zie [[snowden-complex-acts-of-knowing]]) die de eigenlijke tacit knowledge dragen, ontbreken.
+
+**❸ LeSS Traveller als richting, niet TMS** (zie [[less-traveller]])\
+Het doel is niet een betere directory ("vraag het aan X") — het doel is dat X overbodig wordt.\
+TMS optimaliseert voor snelle retrieval via de specialist; mass-learning optimaliseert voor het verdwijnen van die afhankelijkheid.
+
+**De gemeenschappelijke fix**\
+Zowel de Tech Council als de post-mortem-praktijk missen dezelfde twee stukken:
+- Een gekoppeld ADR/narratief-archief (Raymond + Snowden): niet enkel de conclusie, maar de weg ernaartoe, doorzoekbaar op situatie in plaats van op titel
+- Een actief verspreidingsmechanisme (LeSS Traveller): iets dat de kennis naar de teams brengt, in plaats van te wachten tot teams de kennis komen halen
+
+De AI-laag (zie [[ai-assisted-scalable-learning]]) is waar beide samenkomen: een LLM kan het archief doorzoekbaar maken op situatie (Snowden's narrative database) én fungeren als schaalbare Traveller — kennis actief naar de juiste persoon op het juiste moment brengen, in plaats van een passieve database te zijn die niemand raadpleegt.
