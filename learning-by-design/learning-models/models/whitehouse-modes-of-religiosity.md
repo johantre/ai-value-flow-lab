@@ -1,5 +1,5 @@
 ---
-title: "DMR: Modes of Religiosity"
+title: "DMR: Divergent Modes of Religiosity"
 author: "Whitehouse Harvey"
 year: 2004
 status: reference
@@ -39,7 +39,7 @@ Precies daarom is ze, zoals de bestaande "Bruikbare mechanismen uit religies"-se
 
 Dit geeft de sectie "Bruikbare mechanismen uit religies" in [[learning-models]] een concrete academische onderbouwing die er tot nu toe ontbrak: het is niet zomaar dat ritueel en herhaling retentie verhogen, het zijn **twee verschillende mechanismen die elk hun eigen inzet hebben**.
 
-Een groot productie-incident heeft van nature imagistic kenmerken: zeldzaam, emotioneel intens, generen langdurige flashbulb-achtige herinneringen bij wie erbij was.\
+Een groot productie-incident heeft van nature imagistic kenmerken: zeldzaam, emotioneel intens, genereren langdurige flashbulb-achtige herinneringen bij wie erbij was.\
 Een post-mortem die dat moment goed vastlegt — het narratief, het antenarratief (zie [[snowden-complex-acts-of-knowing]]) — buit die intensiteit uit. Maar imagistic-achtige kennis verspreidt zich per definitie niet vanzelf: ze blijft bij de kleine, hechte groep die het meemaakte.
 
 Retro's en standups zijn daarentegen doctrinal: frequent, laag-intensief, gestandaardiseerd formaat.\
