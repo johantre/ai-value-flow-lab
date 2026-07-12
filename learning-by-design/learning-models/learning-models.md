@@ -42,11 +42,15 @@ Voor cross-team verspreiding zijn andere modellen relevanter.
 | **Transactive memory systems** (Wegner) | "Wie weet wat" i.p.v. "iedereen weet alles" | Goedkoop, snel te implementeren | Faalt als sleutelpersonen vertrekken |
 | **AAR / militaire doctrine** | Direct na de actie, gestructureerd terugkoppelen naar doctrine | Sterke link met post-mortems | Vraagt discipline en cadans |
 | **Open source communities** (Raymond) | RFC's, review, publieke discussie, reputatie | Kennis zonder centrale autoriteit | Vraagt schrijfcultuur |
-| **Lean/Toyota (kaizen, gemba)** | Kleine, gestandaardiseerde verbeteringen + zelf gaan kijken | Continue verbetering, praktijkgericht | Minder geschikt voor complexe/zeldzame incidenten |
-| **Religieuze modellen** | Ritueel, herhaling, narratief, gedeelde taal, gezaghebbende dragers | Extreem hoge retentie en verspreiding over generaties | Areligieus te herbruiken; mechanismen zijn het waardevolle deel, niet de inhoud |
+| **Lean/Toyota** (Ohno, Rother) | Kata als ingeoefende routine + gemba (zelf gaan kijken) | Continue verbetering, praktijkgericht, schaalt naar duizenden | Vraagt continue coaching, niet enkel tools |
+| **Religieuze modellen** (Whitehouse) | Imagistic (zeldzaam, intens) vs. doctrinal (frequent, kalm) ritueel-tempo | Extreem hoge retentie en verspreiding, elk op eigen manier | Areligieus te herbruiken; geen van beide modi vervangt de andere |
 
 ### Bruikbare mechanismen uit religies (areligieus toepasbaar)
-- **Ritueel op vaste cadans** — herhaling op een vast ritme verstevigt retentie sterker dan eenmalige uitleg
+
+Whitehouse (zie [[whitehouse-modes-of-religiosity]]) geeft deze mechanismen een cognitieve onderbouwing: het is niet toeval dat ritueel en herhaling retentie verhogen — **welk** mechanisme werkt, hangt af van het tempo en de intensiteit van het ritueel.
+
+- **Ritueel op vaste cadans** — frequente, kalme herhaling activeert semantisch geheugen (doctrinal mode): breed gedeeld, maar oppervlakkig
+- **Zeldzame, intense momenten** — een emotioneel geladen gebeurtenis activeert episodisch geheugen (imagistic mode): diep en blijvend, maar beperkt tot wie erbij was
 - **Narratief/parabels** — abstracte principes verpakt in verhaal, makkelijker te onthouden en door te vertellen dan regels
 - **Gedeelde taal en symbolen** — jargon werkt als compressie: één woord/symbool roept een heel raamwerk op
 - **Publieke, gemeenschappelijke bijeenkomst** — leren gebeurt sociaal, niet enkel individueel
@@ -209,3 +213,5 @@ De retro-verbinding is hier het activatiemoment.
 - [[problem-analysis]] — probleemanalyse post-mortem en RC-verbinding
 - [[metafoor-analogie-model]] — het drieluik van metafoor, analogie en model als mechanisme achter Externalisatie en narratieve kennisdeling
 - [[raymond-the-cathedral-and-the-bazaar]] — open source als leermodel: RFC/ADR als inner-source vertaling van "release early, listen to your customers"
+- [[rother-toyota-kata]] — kaizen als ingeoefende routine (kata) in plaats van eenmalig event; gemba als de observatiestap daarbinnen
+- [[whitehouse-modes-of-religiosity]] — de cognitieve onderbouwing voor de religie-mechanismen hierboven: imagistic vs. doctrinal ritueel-tempo

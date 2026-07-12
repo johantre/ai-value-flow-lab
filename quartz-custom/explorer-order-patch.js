@@ -20,6 +20,8 @@
     "learning-by-design/learning-models/models/aar-a-leaders-guide-to-after-action-reviews": 3,
     "learning-by-design/learning-models/models/snowden-complex-acts-of-knowing": 4,
     "learning-by-design/learning-models/models/raymond-the-cathedral-and-the-bazaar": 5,
+    "learning-by-design/learning-models/models/rother-toyota-kata": 6,
+    "learning-by-design/learning-models/models/whitehouse-modes-of-religiosity": 7,
 
     // trust-by-design sub-folders
     "trust-by-design/beyond-the-review": 0,

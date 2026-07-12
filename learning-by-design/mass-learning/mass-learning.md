@@ -94,9 +94,20 @@ Hetzelfde geldt voor de post-mortem: de Notion-pagina is het "product", maar het
 Het doel is niet een betere directory ("vraag het aan X") — het doel is dat X overbodig wordt.\
 TMS optimaliseert voor snelle retrieval via de specialist; mass-learning optimaliseert voor het verdwijnen van die afhankelijkheid.
 
+**❹ Kaizen-event versus kata** (zie [[rother-toyota-kata]])\
+De post-mortem is in zijn huidige vorm een kaizen-event: een eenmalige, geïsoleerde interventie na een incident.\
+Rother's onderscheid verklaart waarom dat zelden beklijft — het traint geen routine, het produceert alleen een eenmalige oplossing.\
+Wat ontbreekt is een ingeoefende denkroutine ([[gemba]] → doelconditie → iteratie) die bij élk incident herhaald wordt, niet enkel de oplossing van dít incident.
+
+**❺ Post-mortem en retro zijn complementair, geen alternatieven** (zie [[whitehouse-modes-of-religiosity]])\
+De post-mortem is van nature imagistic: zeldzaam, intens, memorabel voor wie erbij was — maar niet schaalbaar.\
+De retro is doctrinal: frequent, kalm, schaalbaar — maar oppervlakkig.\
+Geen van beide vervangt de andere; mass-learning heeft de koppeling van beide nodig, niet een keuze ertussen.
+
 **De gemeenschappelijke fix**\
-Zowel de Tech Council als de post-mortem-praktijk missen dezelfde twee stukken:
+Zowel de Tech Council als de post-mortem-praktijk missen dezelfde drie stukken:
 - Een gekoppeld ADR/narratief-archief (Raymond + Snowden): niet enkel de conclusie, maar de weg ernaartoe, doorzoekbaar op situatie in plaats van op titel
 - Een actief verspreidingsmechanisme (LeSS Traveller): iets dat de kennis naar de teams brengt, in plaats van te wachten tot teams de kennis komen halen
+- Een ingeoefende routine in plaats van een eenmalig event (Kata): dezelfde denkstappen bij elk incident herhaald, gekoppeld aan het frequente, doctrinal ritme van de retro
 
 De AI-laag (zie [[ai-assisted-scalable-learning]]) is waar beide samenkomen: een LLM kan het archief doorzoekbaar maken op situatie (Snowden's narrative database) én fungeren als schaalbare Traveller — kennis actief naar de juiste persoon op het juiste moment brengen, in plaats van een passieve database te zijn die niemand raadpleegt.
