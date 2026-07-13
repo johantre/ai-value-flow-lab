@@ -104,6 +104,8 @@ De post-mortem is van nature imagistic: zeldzaam, intens, memorabel voor wie erb
 De retro is doctrinal: frequent, kalm, schaalbaar — maar oppervlakkig.\
 Geen van beide vervangt de andere; mass-learning heeft de koppeling van beide nodig, niet een keuze ertussen.
 
+Zie [[postmortem-voorbeeld]] voor een volledig, fictief uitgewerkt voorbeeld van hoe een postmortem met deze lagen eruitziet — inclusief het verschil in bruikbaarheid voor de meta-discussie.
+
 **De gemeenschappelijke fix**\
 Zowel de Tech Council als de post-mortem-praktijk missen dezelfde drie stukken:
 - Een gekoppeld ADR/narratief-archief (Raymond + Snowden): niet enkel de conclusie, maar de weg ernaartoe, doorzoekbaar op situatie in plaats van op titel

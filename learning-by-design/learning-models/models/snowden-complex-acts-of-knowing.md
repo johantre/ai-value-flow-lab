@@ -267,9 +267,9 @@ Jij herkent je situatie, extraheer je eigen conclusie, handelt.
 
 ---
 
-### Toepassing: van klassieke post-mortem naar Snowden-informeerde post-mortem
+### Toepassing: van klassieke post-mortem naar Snowden-geïnformeerde post-mortem
 
-| Stap | Klassieke post-mortem | Snowden-informeerde post-mortem |
+| Stap | Klassieke post-mortem | Snowden-geïnformeerde post-mortem |
 |---|---|---|
 | **Timing** | Geschreven dagen/weken later | Antenarratief binnen 24u; debrief zo snel mogelijk |
 | **Wie schrijft** | De owner alleen | Iedereen die aanwezig was (collectief) |
@@ -298,3 +298,4 @@ Daarmee begint de verschuiving van externalisatie naar situationeel zichtbaar ma
 - [[ai-assisted-scalable-learning]] — een concrete organisatiecontext waar de eerste drie capture-lagen ontbreken
 - [[psychological-safety]] — de stille voorwaarde: story elicitation en antenarratief werken alleen als mensen veilig zijn om te zeggen "dit voelde raar"
 - [[metafoor-analogie-model]] — Snowden's story elicitation is de narratieve variant van de metafoor-stap: vertel me het verhaal (open de spanning) voor je de les formuleert (het model)
+- [[postmortem-voorbeeld]] — de vier lagen hierboven samengevoegd tot één volledig, fictief voorbeeld: klassieke postmortem naast Snowden-geïnformeerde versie
