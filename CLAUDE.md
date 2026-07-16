@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 # CLAUDE.md — AI Value Flow Lab
 
 ## Wat is dit project?

@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
 author: "Cathy O'Neil"
 year: 2016

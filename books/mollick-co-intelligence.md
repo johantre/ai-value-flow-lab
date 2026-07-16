@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Co-Intelligence: Living and Working with AI"
 author: "Ethan Mollick"
 year: 2024

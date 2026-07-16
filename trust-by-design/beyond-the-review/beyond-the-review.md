@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🗺️ Beyond the Review"
 icon: 🗺️
 author: "Synthese"

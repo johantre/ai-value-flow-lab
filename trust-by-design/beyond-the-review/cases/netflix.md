@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Netflix"
 sector: Streaming / Tech

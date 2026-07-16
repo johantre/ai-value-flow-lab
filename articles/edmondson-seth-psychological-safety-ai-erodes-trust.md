@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "How to Foster Psychological Safety When AI Erodes Trust on Your Team"
 author: "Amy C. Edmondson, Jayshree Seth"
 year: 2026

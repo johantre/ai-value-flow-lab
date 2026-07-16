@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Managing for Happiness: Games, Tools & Practices to Motivate Any Team"
 author: "Jurgen Appelo"
 year: 2016

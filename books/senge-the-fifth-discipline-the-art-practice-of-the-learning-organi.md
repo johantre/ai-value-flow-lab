@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Fifth Discipline: The Art & Practice of The Learning Organization"
 author: "Peter M. Senge"
 year: 2006

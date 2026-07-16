@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🧩 Postmortem-voorbeeld: klassiek vs. Snowden-geïnformeerd"
 icon: 🧩
 author: "Synthese"

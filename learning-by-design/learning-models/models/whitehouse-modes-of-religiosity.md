@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "DMR: Divergent Modes of Religiosity"
 author: "Whitehouse Harvey"
 year: 2004

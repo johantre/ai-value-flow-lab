@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Reinventing Performance Management"
 author: "Marcus Buckingham, Ashley Goodall"
 year: 2015

@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 # Organisatorische Dysfunctions — Catalogus
 
 > Pre-AI organisatiepathologieën. Dit zijn de bestaande gebreken waarop AI inwerkt — als accelerant, versterker en verhulling.  

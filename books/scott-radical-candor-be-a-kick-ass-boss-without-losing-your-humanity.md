@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"
 author: "Kim Scott"
 year: 2017

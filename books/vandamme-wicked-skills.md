@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Wicked Skills: Floreren op de Plek der Moeite"
 author: "Rudy Vandamme"
 year: 2022

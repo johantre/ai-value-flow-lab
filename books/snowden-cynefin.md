@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Cynefin Framework"
 author: "Dave Snowden (Cognitive Edge)"
 year: 2003

@@ -1,4 +1,5 @@
 ---
+lang: nl
 type: concept
 tags: [concept, besluitvorming, psychologische-veiligheid, candor, teamdynamiek]
 ---

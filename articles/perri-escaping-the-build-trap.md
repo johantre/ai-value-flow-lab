@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Escaping the Build Trap: How Effective Product Management Creates Real Value"
 author: "Melissa Perri"
 year: 2018

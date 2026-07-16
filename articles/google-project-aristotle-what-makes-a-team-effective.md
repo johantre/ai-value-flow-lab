@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Project Aristotle: What Makes a Team Effective?"
 author: "Google People Analytics (Julia Rozovsky e.a.)"
 year: 2016

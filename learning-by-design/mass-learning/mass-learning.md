@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🧩 Mass Learning"
 icon: 🧩
 author: "Synthese"

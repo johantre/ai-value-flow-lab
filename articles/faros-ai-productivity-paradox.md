@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "AI Productivity Paradox Report"
 author: "Faros AI"
 year: 2025

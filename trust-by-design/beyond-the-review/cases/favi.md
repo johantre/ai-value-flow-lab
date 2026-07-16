@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 FAVI"
 sector: Metaalgieterij (automobielonderdelen)

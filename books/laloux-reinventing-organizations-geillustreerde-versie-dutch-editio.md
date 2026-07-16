@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Reinventing organizations: geillustreerde versie (Dutch Edition)"
 author: "Frederic Laloux"
 year: 2016

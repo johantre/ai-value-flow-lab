@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Morning Star"
 sector: Voedingsverwerking (tomaten)

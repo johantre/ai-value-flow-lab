@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 # AI & Organisatie — Dysfunction Map
 
 > Levend document. Nieuwe mechanismen worden toegevoegd als sectie + rij in de matrix.

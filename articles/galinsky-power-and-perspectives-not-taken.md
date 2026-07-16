@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Power and Perspectives Not Taken"
 author: "Adam D. Galinsky, Joe C. Magee, M. Ena Inesi, Deborah H. Gruenfeld"
 year: 2006

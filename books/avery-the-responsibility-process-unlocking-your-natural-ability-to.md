@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power"
 author: "Christopher Avery"
 year: 2016

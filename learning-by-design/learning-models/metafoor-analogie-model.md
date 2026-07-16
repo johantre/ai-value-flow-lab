@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Metafoor, analogie, model: het drieluik van kenniscreatie"
 type: concept
 tags: [kenniscreatie, metafoor, analogie, model, externalisatie, seci, tacit-knowledge, organisatieleren, nonaka, innovatie, leermodellen]

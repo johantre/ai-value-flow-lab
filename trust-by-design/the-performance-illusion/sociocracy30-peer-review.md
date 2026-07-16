@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Peer Review — Sociocracy 3.0 Pattern"
 author: "James Priest, Liliana David, Bernhard Bockelbrink"
 year: 2018

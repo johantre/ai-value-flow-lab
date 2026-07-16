@@ -1,4 +1,5 @@
 ---
+lang: nl
 type: concept
 tags: [concept, besluitvorming, sociocracy, candor, teamdynamiek, psychologische-veiligheid]
 ---

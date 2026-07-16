@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues [Jan 01, 2016] Lencioni, Patrick M."
 author: "Patrick Lencioni"
 year: 2016

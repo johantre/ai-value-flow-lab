@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "State of AI-Assisted Software Development 2025"
 author: "Google Cloud / DORA team"
 year: 2025

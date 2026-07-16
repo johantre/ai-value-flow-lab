@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "TMS: Cognitive Interdependence in Close Relationships"
 author: "Wegner Daniel"
 year: 1985

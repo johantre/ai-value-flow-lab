@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Creating Agile Organizations: A Systemic Approach"
 author: "Cesário Ramos, Ilia Pavlichenko"
 year: 2020

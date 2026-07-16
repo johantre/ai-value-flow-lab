@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Unrooted Fluency: How Junior Professionals Use AI to Navigate Learning and Performance"
 author: "Michal Hron"
 year: 2025

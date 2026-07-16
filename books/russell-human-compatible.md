@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Human Compatible: Artificial Intelligence and the Problem of Control"
 author: "Stuart Russell"
 year: 2019

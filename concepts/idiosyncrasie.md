@@ -1,4 +1,5 @@
 ---
+lang: nl
 type: concept
 tags: [concept, evaluatie, feedback, cognitieve-bias, performance-management]
 ---

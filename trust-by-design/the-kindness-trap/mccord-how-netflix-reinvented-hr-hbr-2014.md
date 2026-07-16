@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "How Netflix Reinvented HR"
 author: "Patty McCord"
 year: 2014

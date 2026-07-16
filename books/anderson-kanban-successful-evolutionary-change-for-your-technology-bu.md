@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Kanban: Successful Evolutionary Change for Your Technology Business"
 author: "David J. Anderson"
 year: 2010

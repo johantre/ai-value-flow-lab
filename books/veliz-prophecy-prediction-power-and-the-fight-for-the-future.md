@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI"
 author: "Carissa Véliz"
 year: 2026

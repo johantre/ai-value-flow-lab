@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma"
 author: "Mustafa Suleyman, Michael Bhaskar"
 year: 2023

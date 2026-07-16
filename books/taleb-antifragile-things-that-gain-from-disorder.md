@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Antifragile: Things That Gain from Disorder"
 author: "Nassim Nicholas Taleb"
 year: 2012

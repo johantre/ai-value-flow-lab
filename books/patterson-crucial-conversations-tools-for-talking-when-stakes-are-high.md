@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Crucial Conversations: Tools for Talking When Stakes are High"
 author: "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler"
 year: 2002

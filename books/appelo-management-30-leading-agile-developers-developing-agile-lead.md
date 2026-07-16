@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Management 3.0: Leading Agile Developers, Developing Agile Leaders"
 author: "Jurgen Appelo"
 year: 2010

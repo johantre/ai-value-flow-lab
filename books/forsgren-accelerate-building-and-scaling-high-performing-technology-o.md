@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Accelerate: Building and Scaling High Performing Technology Organizations"
 author: "Nicole Forsgren"
 year: 2018

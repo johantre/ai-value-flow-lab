@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🗺️ The Kindness Trap"
 icon: 🗺️
 author: "Synthese"

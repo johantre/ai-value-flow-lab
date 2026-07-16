@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Generative AI Enhances Team Performance and Reduces Need for Traditional Teams"
 author: "Ning Li, Huaikang Zhou, Kris Mikel-Hong"
 year: 2024

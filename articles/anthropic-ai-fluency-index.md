@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "AI Fluency Index"
 author: "Anthropic Education Report (Swanson, Bent, Ludwig, Dakan, Feller — i.s.m. het 4D AI Fluency Framework)"
 year: 2026

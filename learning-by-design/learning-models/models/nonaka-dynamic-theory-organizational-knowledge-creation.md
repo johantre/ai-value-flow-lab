@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "SECI: A Dynamic Theory of Organizational Knowledge Creation"
 author: "Nonaka Ikujiro"
 year: 1994

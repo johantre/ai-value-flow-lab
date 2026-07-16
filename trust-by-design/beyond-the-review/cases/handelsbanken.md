@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Handelsbanken"
 sector: Bankieren

@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🗺️ The Performance Illusion"
 icon: 🗺️
 author: "Synthese"

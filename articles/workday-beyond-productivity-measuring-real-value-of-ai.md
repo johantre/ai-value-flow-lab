@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Beyond Productivity: Measuring the Real Value of AI"
 author: "Workday (fielded by Hanover Research)"
 year: 2026

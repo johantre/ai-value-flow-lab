@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Happy Melly / Jurgen Appelo"
 sector: Kenniswerk (consultancy & community)

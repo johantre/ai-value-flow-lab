@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "How, When, and Why Bad Apples Spoil the Barrel: Negative Group Members and Dysfunctional Groups"
 author: "Will Felps, Terence R. Mitchell & Eliza Byington"
 year: 2006

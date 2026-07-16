@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Transparency: How Leaders Create a Culture of Candor"
 author: "Warren Bennis"
 year: 2008

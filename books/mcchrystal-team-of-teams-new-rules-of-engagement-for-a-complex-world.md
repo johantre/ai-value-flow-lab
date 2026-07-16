@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Team of Teams: New Rules of Engagement for a Complex World"
 author: "Stanley McChrystal"
 year: 2015

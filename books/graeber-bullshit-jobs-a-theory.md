@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Bullshit Jobs: A Theory"
 author: "David Graeber"
 year: 2018

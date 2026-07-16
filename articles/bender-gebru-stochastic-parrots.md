@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"
 author: "Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Margaret Mitchell"
 year: 2021

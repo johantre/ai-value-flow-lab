@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Toyota Production System: Beyond Large-Scale Production"
 author: "Taiichi Ohno"
 year: 1978

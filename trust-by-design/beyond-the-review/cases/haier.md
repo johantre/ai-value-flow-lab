@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Haier / RenDanHeYi"
 sector: Elektronica & huishoudapparaten

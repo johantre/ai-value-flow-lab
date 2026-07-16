@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "AI Doesn't Reduce Work—It Intensifies It"
 author: "Aruna Ranganathan, Xingqi Maggie Ye"
 year: 2026

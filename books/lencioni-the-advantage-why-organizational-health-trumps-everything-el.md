@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Advantage: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)"
 author: "Patrick Lencioni"
 year: 2012

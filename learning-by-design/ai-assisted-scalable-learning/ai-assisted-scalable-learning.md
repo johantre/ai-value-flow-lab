@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🧩 Postmortems & AI-inzet: sparsessie samenvatting"
 icon: 🧩
 author: "Synthese"

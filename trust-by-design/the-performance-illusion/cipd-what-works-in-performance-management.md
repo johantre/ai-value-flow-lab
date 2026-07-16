@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Performance Management: Could Do Better?"
 author: "CIPD (Chartered Institute of Personnel and Development)"
 year: 2016

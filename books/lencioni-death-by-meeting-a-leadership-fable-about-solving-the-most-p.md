@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Death by Meeting: A Leadership Fable… about Solving the Most Painful Problem in Business"
 author: "Patrick Lencioni"
 year: 2004

@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "🧩 Leermodellen & kennisverspreiding in organisaties"
 icon: 🧩
 author: "Synthese"

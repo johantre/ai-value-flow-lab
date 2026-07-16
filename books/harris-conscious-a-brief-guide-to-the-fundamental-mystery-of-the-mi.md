@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Conscious: A Brief Guide to the Fundamental Mystery of the Mind"
 author: "Annaka Harris"
 year: 2019

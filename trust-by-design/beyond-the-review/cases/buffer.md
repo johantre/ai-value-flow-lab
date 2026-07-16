@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Buffer"
 sector: SaaS / Social media tool

@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Deel 2: Organisatiecases"
 tags: [cases, evaluatie, beloning, beyond-the-review]
 order: 2

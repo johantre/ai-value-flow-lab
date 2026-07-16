@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "The Five Dysfunctions of a Team"
 author: "Patrick Lencioni"
 year: 2011

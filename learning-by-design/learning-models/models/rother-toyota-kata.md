@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "KATA: Toyota Kata"
 author: "Rother Mike"
 year: 2009

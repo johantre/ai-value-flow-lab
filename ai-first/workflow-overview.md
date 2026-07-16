@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 # AI-First Transformation — Workflow Overview
 
 Dit document illustreert hoe de drie bestanden samenwerken om van een blanco template naar een volledige AI-first analyse te gaan.

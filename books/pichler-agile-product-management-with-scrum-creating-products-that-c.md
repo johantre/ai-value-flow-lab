@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Agile Product Management with Scrum: Creating Products That Customers Love"
 author: "Roman Pichler"
 year: 2010

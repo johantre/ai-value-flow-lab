@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 W.L. Gore & Associates"
 sector: Materiaalwetenschap (Gore-Tex, medisch, industrieel)

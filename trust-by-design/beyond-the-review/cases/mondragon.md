@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Mondragon"
 sector: Coöperatief (industrie, retail, onderwijs, financiën)

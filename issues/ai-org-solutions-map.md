@@ -1,3 +1,7 @@
+---
+lang: nl
+---
+
 # AI & Organisatie — Solutions Map
 
 > Paralleldocument bij [AI Org Dysfunction Map](ai-org-dysfunction-map.md).  

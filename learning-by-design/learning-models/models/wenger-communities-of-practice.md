@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "CoP: Communities of Practice: Learning, Meaning, and Identity"
 author: "Wenger Etienne"
 year: 1998

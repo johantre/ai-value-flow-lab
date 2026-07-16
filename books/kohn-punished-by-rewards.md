@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes"
 author: "Alfie Kohn"
 year: 1993

@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
 author: "Matthew Skelton, Manuel Pais"
 year: 2019

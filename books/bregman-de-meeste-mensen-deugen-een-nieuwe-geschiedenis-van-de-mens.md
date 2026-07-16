@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "De meeste mensen deugen: Een nieuwe geschiedenis van de mens"
 author: "Rutger Bregman"
 year: 2019

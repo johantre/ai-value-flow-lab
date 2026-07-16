@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 AES Corporation"
 sector: Energieopwekking & -distributie

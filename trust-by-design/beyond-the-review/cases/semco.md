@@ -1,4 +1,5 @@
 ---
+lang: nl
 icon: 🏢
 title: "🏢 Semco / Ricardo Semler"
 sector: "Industriële machines"

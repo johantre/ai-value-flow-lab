@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "No Rules Rules: Netflix and the Culture of Reinvention"
 author: "Reed Hastings & Erin Meyer"
 year: 2020

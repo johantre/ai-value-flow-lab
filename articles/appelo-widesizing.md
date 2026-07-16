@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Forget Downsizing. Try Widesizing."
 author: "Jurgen Appelo"
 year: 2026

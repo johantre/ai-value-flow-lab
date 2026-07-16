@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "Powerful: Building a Culture of Freedom and Responsibility"
 author: "Patty McCord"
 year: 2018

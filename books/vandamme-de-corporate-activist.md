@@ -1,4 +1,5 @@
 ---
+lang: nl
 title: "De Corporate Activist: Het transitiecanvas als leidraad"
 author: "Rudy Vandamme"
 year: 2023
