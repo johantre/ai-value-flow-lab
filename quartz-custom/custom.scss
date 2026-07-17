@@ -208,7 +208,12 @@ li.section-li > .section > p.tags {
 }
 
 #sidebar-drag-handle-left {
-  right: -4px;
+  // Unlike the right handle, this sits inside .sidebar.left, which has
+  // overflow-x: hidden (to avoid a redundant horizontal scrollbar next to
+  // the Explorer tree — see .explorer-content below). A negative offset
+  // here would push half the handle outside that box and get clipped,
+  // making it look and grab thinner than the right handle.
+  right: 0px;
 }
 
 #sidebar-drag-handle-right {
