@@ -1,7 +1,6 @@
 ---
 lang: nl
-title: "🧩 Postmortem-voorbeeld: klassiek vs. Snowden-geïnformeerd"
-icon: 🧩
+title: "Postmortem-voorbeeld: klassiek vs. Snowden-geïnformeerd"
 author: "Synthese"
 year: 2026
 status: synthesis
