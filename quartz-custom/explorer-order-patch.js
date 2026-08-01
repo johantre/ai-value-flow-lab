@@ -6,7 +6,8 @@
     "ai-first": 0,
     "trust-by-design": 1,
     "learning-by-design": 2,
-    "articles": 3,
+    "collaboration-by-design": 3,
+    "articles": 4,
 
     // learning-by-design sub-folders
     "learning-by-design/mass-learning": 0,
