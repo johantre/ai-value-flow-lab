@@ -15,6 +15,9 @@ source: goodreads
 > - [Hebban — Auti-communicatie, boekgegevens en editiegeschiedenis](https://www.hebban.nl/boek/auti-communicatie-colette-de-bruin)
 > - [Managementboek.nl — Auti-communicatie, Colette de Bruin](https://www.managementboek.nl/boek/9789492985149/auti-communicatie-colette-de-bruin)
 > - [Officieel inkijkexemplaar (Geef me de 5 / Graviant Educatieve Uitgaven) — voorwoord, inhoudsopgave en volledig hoofdstuk 1](https://cdn.i-pulse.nl/geefmede5/userfiles/inkijkexemplaar/auticom-inkijk.pdf)
+> - [geefmede5.nl — Tips voor communicatie bij autisme](https://www.geefmede5.nl/tips-communicatie-bij-autisme)
+> - [geefmede5.nl — 10 tips voor omgaan met autisme](https://www.geefmede5.nl/10-tips-voor-omgaan-met-autisme)
+> - [Psychologenpraktijk Groene Hart — samenvatting "Vind je eigen weg met autisme" (Achterberg) & Geef me de 5-methode (De Bruin)](https://psychologenpraktijkgroenehart.nl/wp-content/uploads/2025/08/Vind-je-eigen-weg-met-autisme-en-Geef-me-de-Vijf-samenvatting.pdf)
 
 ## Core idea
 
@@ -79,7 +82,35 @@ Herneemt de basisregel uit het voorwoord in concrete vorm: bij probleemgedrag ni
 
 ### Veertien technieken van Basis Auti-communicatie (hoofdstuk 7)
 
-Het meest praktische hoofdstuk: concrete, direct toepasbare taaltechnieken, waaronder puzzeltijd geven tijdens een gesprek én bij overgangen, zeggen wat wél de bedoeling is (in plaats van wat niet mag), negatief herformuleren naar (meer) positief, kernachtig en zwart-wit spreken, spreken met uitroeptekens in plaats van vraagtekens, concreet in plaats van abstract spreken (en vice versa waar nodig), spreken met feiten, en je afstemmen op het perspectief — het "ik" — van CASS.
+Het meest praktische hoofdstuk van het boek: veertien concrete, direct toepasbare taaltechnieken. De titels van de veertien secties komen uit de inhoudsopgave van het boek zelf; de toelichting en voorbeelden hieronder zijn aangevuld vanuit de officiële methodiekpagina's van Geef me de 5 ([geefmede5.nl — Tips voor communicatie bij autisme](https://www.geefmede5.nl/tips-communicatie-bij-autisme), [geefmede5.nl — 10 tips voor omgaan met autisme](https://www.geefmede5.nl/10-tips-voor-omgaan-met-autisme)) en een onafhankelijke praktijksamenvatting die dezelfde technieken met concrete voorbeelden bespreekt ([Psychologenpraktijk Groene Hart — samenvatting Vind je eigen weg met autisme & Geef me de 5](https://psychologenpraktijkgroenehart.nl/wp-content/uploads/2025/08/Vind-je-eigen-weg-met-autisme-en-Geef-me-de-Vijf-samenvatting.pdf)), die de Geef me de 5-methode expliciet als bron noemt.
+
+**7.1 — Geef puzzeltijd tijdens een gesprek.** Na een vraag of instructie heeft CASS **puzzeltijd** nodig — de tijd om binnenkomende informatie tot een samenhangend geheel te verwerken (zie hoofdstuk 1). De regel: blijf stil, wacht net zo lang als de puzzeltijd duurt, en voeg vooral **geen nieuwe informatie** toe terwijl iemand nog aan het verwerken is — dat vergroot de hoeveelheid te puzzelen stukjes en verlengt het proces alleen maar.
+
+**7.2 — Geef puzzeltijd bij overgangen.** Dezelfde logica toegepast op overgangsmomenten tussen taken of activiteiten: een overgang vraagt evenveel verwerkingstijd als een vraag. Vooraf aankondigen dat een overgang eraan komt (in plaats van hem abrupt te laten plaatsvinden) geeft CASS de puzzeltijd die anders ontbreekt.
+
+**7.3 — Zeg wat WEL.** Formuleer wat je wél van iemand verwacht, in plaats van wat niet mag. "Loop rustig" in plaats van "Ren niet" — want een verbod beschrijft niet wat er in de plaats moet gebeuren, en CASS moet dat gewenste alternatief zelf nog bedenken.
+
+**7.4 — Spreek positief.** Gebruik positieve woorden, zodat informatie door CASS direct positief gelabeld wordt — bijvoorbeeld "handig" of "slim plan" in plaats van neutrale of negatieve formuleringen ([Psychologenpraktijk Groene Hart-samenvatting](https://psychologenpraktijkgroenehart.nl/wp-content/uploads/2025/08/Vind-je-eigen-weg-met-autisme-en-Geef-me-de-Vijf-samenvatting.pdf)).
+
+**7.5 — Zet negatief om naar (meer) positief.** Waar 7.3 en 7.4 gaan over hoe je van meet af aan formuleert, gaat deze techniek over het actief herschrijven van een reeds negatieve boodschap: neem een zin die van nature negatief is en herformuleer die naar een (meer) positieve versie, zonder de inhoud te veranderen.
+
+**7.6 — Spreek kernachtig.** Korte zinnen, zonder bijzinnen, één boodschap tegelijk. Hoe meer een zin vertakt, hoe meer wegen CASS in zijn hoofd moet afleggen om de kern te vinden.
+
+**7.7 — Spreek zwart-wit.** Spreek in uitersten — zoals CASS zelf ook denkt — in plaats van in nuances of een grijs midden. Een grijze tussenpositie vraagt juist het soort samenhang-denken (centrale coherentie) waar CASS moeite mee heeft.
+
+**7.8 — Spreek met !!! in plaats van met ???.** Stel iets in de vorm van een mededeling in plaats van een vraag. "Je hangt je jas op" kost minder verwerking dan "Zou je je jas willen ophangen?", omdat een vraag CASS dwingt om eerst te bepalen of er eigenlijk wel een echte keuze is.
+
+**7.9 — Spreek met !? Als hij ! niet accepteert, maar wel nodig heeft.** Een tussenvorm voor de situatie waarin een kale mededeling (!) door CASS niet geaccepteerd wordt terwijl de duidelijkheid ervan wel nodig is — het boek werkt dit verder uit dan in de geraadpleegde secundaire bronnen terug te vinden was; hier kon ik de precieze uitwerking niet onafhankelijk verifiëren.
+
+**7.10 — Zeg sorry.** Als volwassene of begeleider je eigen aandeel in een misverstand of fout expliciet en concreet benoemen — vergelijkbaar met het "Tafel afruimen"-voorbeeld uit de inleiding, waar de vader leert de fout bij zichzelf te zoeken in plaats van bij het kind. Ook hier geldt: de precieze uitwerking in het boek zelf kon ik niet onafhankelijk verifiëren buiten de sectietitel.
+
+**7.11 — Spreek concreet.** Gebruik woorden die je letterlijk zou kunnen tekenen; vermijd vage, abstracte uitdrukkingen. Zeg niet "straks" maar "om 2 uur" ([Psychologenpraktijk Groene Hart-samenvatting](https://psychologenpraktijkgroenehart.nl/wp-content/uploads/2025/08/Vind-je-eigen-weg-met-autisme-en-Geef-me-de-Vijf-samenvatting.pdf)).
+
+**7.12 — Maak abstract concreet.** Waar 7.11 gaat over woordkeuze tijdens het spreken, gaat dit over onderwerpen die inherent abstract zijn (gevoelens, tijd, sociale regels): visualiseer ze — een tekening, tijdlijn of pictogram dwingt tot concreetheid en maakt het onderwerp verwerkbaar.
+
+**7.13 — Spreek met feiten.** Gebruik algemene, vaststaande informatie in plaats van meningen of sociaal-emotioneel gekleurde framing. Feiten worden door CASS beter verwerkt dan sociale informatie, juist omdat ze zonder sociale en emotionele lagen worden aangeboden.
+
+**7.14 — Stem af op zijn 'Ik'.** CASS heeft vaak een beperkt en fragmentarisch zelfbeeld, mede doordat opmerkingen van anderen door de emotionele lading ervan niet altijd landen in het eigen zelfbeeld. Auti-communicatie ondersteunt dit actief door zelfkennis als concrete, feitelijke informatie aan te reiken — bijvoorbeeld: "Het hoort bij jou dat je soms wat langer moet nadenken, dat komt door je autisme" of "Jij bent een echte detailwaarnemer, daar ben jij goed in." Dat soort ondertitelde zelfkennis komt terecht in wat CASS al over zichzelf weet, in plaats van verloren te gaan in de emotionele lading van de opmerking.
 
 ### Samenhang communiceren (hoofdstukken 8-9)
 
