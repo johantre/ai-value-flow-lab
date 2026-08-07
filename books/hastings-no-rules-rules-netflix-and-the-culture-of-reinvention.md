@@ -66,7 +66,7 @@ Elke fase wordt twee keer behandeld: eerst de basis, dan de gevorderde versie.
 
 Na de dot-com crash moest Netflix een derde van het personeel ontslaan. Het resterende team — kleiner, maar uitsluitend sterke performers — werkte sneller, produceerde beter, en had hogere moraal. De conclusie: één sterke performer levert meer op dan twee middelmatige. En middelmatige performers verlagen de productiviteit van de rest.
 
-Professor Will Felps onderzocht dit: één underperformer verlaagt de effectiviteit van een team met 30–40%. Prestatie is besmettelijk — in beide richtingen.
+Professor Will Felps onderzocht het omgekeerde mechanisme: één chronisch onderpresterend teamlid tast de teamprestatie systematisch aan, en dat negatieve effect is groter dan het positieve effect van een even sterk presterend lid ([Felps, Mitchell & Byington, 2006](../trust-by-design/the-kindness-trap/felps-mitchell-byington-how-when-why-bad-apples-2006.md)). Prestatie is dus niet symmetrisch besmettelijk — slecht gedrag weegt zwaarder door dan goed gedrag.
 
 **Talentdichtheid in de praktijk**
 
