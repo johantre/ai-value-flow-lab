@@ -59,7 +59,7 @@ De Bruin herhaalt het uitgangspunt van *Geef me de 5* en werkt het verder uit: A
 
 ### De term "CASS"
 
-De Bruin voert doorheen het hele boek de term **CASS** in — een persoon met een Autisme Spectrum Stoornis — als sekseneutrale, leeftijdloze aanduiding die "kind", "puber", "hij/zij" vervangt. Expliciete keuze: de beschreven kenmerken zijn niet bedoeld om te stigmatiseren maar om helder te kunnen beschrijven waar de problematiek uit bestaat, vergelijkbaar met hoe een arts een klacht benoemt zonder daarmee de rest van het functioneren te diskwalificeren ([inkijkexemplaar, p.11](https://cdn.i-pulse.nl/geefmede5/userfiles/inkijkexemplaar/auticom-inkijk.pdf)).
+De Bruin voert doorheen het hele boek de term **CASS** in als aanduiding voor een persoon met een **A**utisme **S**pectrum **S**toornis. De **C** ervoor is geen letterlijk acroniem maar een bewuste, esthetische toevoeging: De Bruin vindt "CASS" een mooie naam, die toevallig ook als jongensnaam voorkomt en als verkorting van de meisjesnaam Cassandra ([inkijkexemplaar, p.11](https://cdn.i-pulse.nl/geefmede5/userfiles/inkijkexemplaar/auticom-inkijk.pdf)). Het doel van de term is sekseneutraal en leeftijdloos kunnen schrijven — "kind", "puber", "hij/zij" wordt overal vervangen door één woord. Expliciete keuze: de beschreven kenmerken zijn niet bedoeld om te stigmatiseren maar om helder te kunnen beschrijven waar de problematiek uit bestaat, vergelijkbaar met hoe een arts een klacht benoemt zonder daarmee de rest van het functioneren te diskwalificeren.
 
 ### Sterke punten van CASS (hoofdstuk 2)
 
