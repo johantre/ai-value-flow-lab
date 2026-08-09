@@ -18,7 +18,14 @@ source: https://doi.org/10.5465/amr.1989.4278999
 
 ## Core idea
 
-Ashforth & Mael vertalen Tajfel & Turner's Social Identity Theory rechtstreeks naar de werkvloer: medewerkers categoriseren zichzelf en anderen in groepen om cognitief te ordenen en zich sociaal te positioneren, en die categorisatie stuurt organisatiegedrag fundamenteel — inclusief [[ingroup-bias]] tussen afdelingen, die volgens hen **spontaan** ontstaat, ook bij willekeurige indeling.
+Dit is een **theoretisch** artikel, geen experiment — Ashforth & Mael doen zelf geen nieuwe metingen, ze bouwen een redenering.
+
+Hun stelling is eigenlijk maar één zin: **een afdeling, een team, een beroepsgroep of een hiërarchisch niveau is gewoon een sociale categorie in de zin van Tajfel** — net zo goed als ras, nationaliteit, of de willekeurige labgroepjes uit het [[minimal-group-paradigm]]. Als dat klopt, hoeft er niets nieuws bedacht te worden om identificatie en [[ingroup-bias]] op de werkvloer te verklaren: het volledige instrumentarium van Tajfel & Turner (zelfcategorisatie, identificatie, sociale vergelijking, onderscheidenheid) is direct van toepassing, zonder aanpassing.
+
+Concreet doen ze twee dingen:
+
+1. Ze geven **"organisatorische identificatie" een scherpe, cognitieve definitie** — zelfcategorisatie, los van of je de waarden van de groep ook echt overneemt (zie hieronder).
+2. Ze laten zien dat **twee fenomenen die tot dan toe apart bestudeerd werden uit hetzelfde mechanisme voortkomen**: waarom werknemers loyaal worden aan hun werkgever (positief, gewenst), én waarom afdelingen onderling rivaliseren en tegen elkaar werken (negatief, ongewenst). Beide zijn zelfcategorisatie — gewoon in twee richtingen bekeken. Silo-vorming is in hun lezing dus geen apart organisatieprobleem naast loyaliteit en betrokkenheid — het is de keerzijde van precies datzelfde mechanisme.
 
 ## Key concepts
 
@@ -39,11 +46,10 @@ Identificatie treedt op wanneer iemand zich "psychologisch verweven" voelt met h
 
 ### Organisatorische implicaties
 
-1. **Ingroup-favoritisme ontstaat spontaan** uit groepslidmaatschap, ook bij willekeurige of arbitraire indelingen — een directe brug naar Tajfel's [[minimal-group-paradigm]], nu toegepast op afdelingsstructuren.
-2. **Identificatie stuurt gedrag**: leden nemen groepsnormen en -waarden geleidelijk over.
-3. **Subunit-identificatie overheerst vaak boven organisatiebrede identificatie**, zeker in grotere organisaties — de afdeling voelt "echter" aan dan het geheel.
-4. **Rolconflict wordt niet altijd opgelost maar gecompartimenteerd**: mensen met tegenstrijdige groepsidentiteiten (bv. professionele identiteit vs. afdelingsidentiteit) leren vaak te schakelen in plaats van te kiezen.
-5. **Leiderschapsimplicatie**: in plaats van tegen natuurlijke identificatiepatronen in te vechten, kan leiderschap overkoepelende doelen verankeren en tegelijk subunits autonomie geven om eigen ondersteunende doelen te ontwikkelen — een vroege formulering van wat later het [[common-ingroup-identity]]-denken zou worden.
+1. **Identificatie stuurt gedrag**: leden nemen groepsnormen en -waarden geleidelijk over, ook al begon identificatie puur cognitief.
+2. **Subunit-identificatie overheerst vaak boven organisatiebrede identificatie**, zeker in grotere organisaties — de afdeling voelt "echter" aan dan het geheel.
+3. **Rolconflict wordt niet altijd opgelost maar gecompartimenteerd**: mensen met tegenstrijdige groepsidentiteiten (bv. professionele identiteit vs. afdelingsidentiteit) leren vaak te schakelen in plaats van te kiezen.
+4. **Leiderschapsimplicatie**: in plaats van tegen natuurlijke identificatiepatronen in te vechten, kan leiderschap overkoepelende doelen verankeren en tegelijk subunits autonomie geven om eigen ondersteunende doelen te ontwikkelen — een vroege formulering van wat later het [[common-ingroup-identity]]-denken zou worden.
 
 ## Wat dit zegt voor organisatieontwerp
 
