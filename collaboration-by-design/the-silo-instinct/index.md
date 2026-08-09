@@ -1,8 +1,9 @@
 ---
 lang: nl
-title: "The Silo Instinct"
+title: "🤝 The Silo Instinct"
+icon: 🤝
 tags: [collaboration-by-design, silo, groepsdynamiek]
-order: 1
+order: 2
 ---
 
 De bron-artikelen die verklaren *hoe* en *onder welke condities* silogedrag ontstaat — van het eerste, kleine effect van loutere categorisatie tot de mechanismen die het tot een hardnekkig organisatieprobleem opblazen.

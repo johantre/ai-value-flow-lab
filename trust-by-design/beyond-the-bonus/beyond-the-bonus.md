@@ -4,7 +4,7 @@ title: "🗺️ Beyond the Bonus"
 icon: 🗺️
 author: "Synthese"
 year: 2026
-order: 1
+order: 3
 status: reference
 tags: [remuneration, verloning, bonus, transparantie, peer-evaluatie, eigenaarschap, organizational, overzicht]
 ---

@@ -1,8 +1,9 @@
 ---
 lang: nl
-title: "Beyond the Silo"
+title: "🤝 Beyond the Silo"
+icon: 🤝
 tags: [collaboration-by-design, silo, groepsdynamiek, interventie]
-order: 2
+order: 3
 ---
 
 De bron-artikelen die het fundament leggen voor het antidote tegen silogedrag — hoe categorieën herschikt worden tot een gedeelde identiteit, en hoe gestructureerd contact vooroordeel tussen groepen vermindert.

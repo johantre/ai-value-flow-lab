@@ -4,7 +4,7 @@ title: "🗺️ The Performance Illusion"
 icon: 🗺️
 author: "Synthese"
 year: 2026
-order: 1
+order: 2
 status: reference
 tags: [performance-management, evaluatie, feedback, evidence-based, organizational, overzicht]
 ---
