@@ -15,4 +15,4 @@ Ashforth & Mael (1989) vertaalden Tajfel's Social Identity Theory naar de werkvl
 
 **Kernspanning**: identificatie met de subgroep (afdeling, team) kan concurreren met identificatie met de organisatie als geheel. Waar geen sterke organisatiebrede identiteit is, vult de subgroep dat vacuüm vanzelf op — een directe brug naar [[common-ingroup-identity]] als tegenwicht.
 
-Zie: [ashforth-mael-1989-social-identity-theory-and-the-organization](../collaboration-by-design/ashforth-mael-1989-social-identity-theory-and-the-organization.md)
+Zie: [[ashforth-mael-1989-social-identity-theory-and-the-organization|Ashforth & Mael (1989)]]

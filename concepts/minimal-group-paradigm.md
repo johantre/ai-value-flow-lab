@@ -10,4 +10,4 @@ Experimentele methode (Tajfel, 1970) waarbij proefpersonen op triviale, willekeu
 
 **Kernbevinding**: ja, het effect bestaat — deelnemers kozen systematisch voor maximaal verschil ten voordele van de eigen groep, zelfs ten koste van absolute winst voor die groep. Maar het effect is bescheiden van omvang en fragiel: meta-analyses vinden effectgroottes van r ≈ .26–.32, en directe replicaties slagen niet altijd (zie [[bounded-reciprocity]] als concurrerende verklaring).
 
-Zie: [tajfel-1970-experiments-in-intergroup-discrimination](../collaboration-by-design/tajfel-1970-experiments-in-intergroup-discrimination.md)
+Zie: [[tajfel-1970-experiments-in-intergroup-discrimination|Tajfel (1970)]]

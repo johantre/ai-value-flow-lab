@@ -17,4 +17,4 @@ Model van Gaertner & Dovidio: [[ingroup-bias]] vermindert wanneer leden van vers
 
 Werkt samen met [[intergroup-contact]]: herhaald, gelijkwaardig contact is vaak de praktische weg wáárlangs recategorisatie ontstaat.
 
-Zie: [gaertner-dovidio-1993-common-ingroup-identity-model](../collaboration-by-design/gaertner-dovidio-1993-common-ingroup-identity-model.md)
+Zie: [[gaertner-dovidio-1993-common-ingroup-identity-model|Gaertner & Dovidio e.a. (1993)]]

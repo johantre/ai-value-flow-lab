@@ -12,4 +12,4 @@ Verklaring van Toshio Yamagishi en collega's voor [[ingroup-bias]] die concurree
 
 Relevant voor organisatieontwerp: het maakt interdependentie (wie heeft wie nodig, wie ziet wie terug) een sterkere hefboom op silogedrag dan het simpelweg benoemen van een gedeeld team of afdeling.
 
-Zie: [yamagishi-jin-kiyonari-1999](../collaboration-by-design/yamagishi-jin-kiyonari-1999-bounded-generalized-reciprocity.md), [yamagishi-kiyonari-2000](../collaboration-by-design/yamagishi-kiyonari-2000-group-as-container-of-generalized-reciprocity.md)
+Zie: [[yamagishi-jin-kiyonari-1999-bounded-generalized-reciprocity|Yamagishi, Jin & Kiyonari (1999)]], [[yamagishi-kiyonari-2000-group-as-container-of-generalized-reciprocity|Yamagishi & Kiyonari (2000)]]

@@ -12,4 +12,4 @@ Oorspronkelijk Allport (1954): vooroordeel tussen groepen vermindert door contac
 
 **Ontwerprisico**: een contactformat dat conditie 1 (gelijke status) ondermijnt — bv. één groep is structureel "leverancier", de andere altijd "klant" — bestendigt de silo in plaats van hem te verzachten.
 
-Zie: [pettigrew-tropp-2006-meta-analytic-test-intergroup-contact](../collaboration-by-design/pettigrew-tropp-2006-meta-analytic-test-intergroup-contact.md)
+Zie: [[pettigrew-tropp-2006-meta-analytic-test-intergroup-contact|Pettigrew & Tropp (2006)]]
