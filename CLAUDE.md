@@ -108,7 +108,7 @@ tags: [concept, relevante-tags]
 
 - **Taal**: Nederlands in gesprek, tenzij Johan zelf naar het Engels overschakelt
 - **Commits**: altijd in het Engels, wacht op expliciete vraag van Johan voor committen/pushen
-- **Commit Co-Author**: voeg altijd toe: `Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>`
+- **Commit Co-Author**: geen `Co-Authored-By`-regel toevoegen — commits blijven puur onder Johans eigen git-identiteit
 - **Mermaid-diagrammen**: gebruik Unicode cirkelnummers (❶❷❸) voor genummerde nodes — `1.` triggert markdown-lijst parsing
 - **Voor CSS/JS-fixes**: eerst testen via browser-console snippet, dan pas in code committen
 
