@@ -26,7 +26,7 @@ Waar het 1999-paper de Bounded Generalized Reciprocity-hypothese (zie [[bounded-
 
 ### Onderzoeksopzet
 
-Yamagishi & Kiyonari manipuleren of deelnemers **afhankelijk** zijn van een ingroup-lid voor hun eigen uitkomst (outcome dependency) — een directe operationalisering van "kan wederkerigheid hier iets opleveren." De voorspelling vanuit BGR: ingroup-bevoordeling treedt vooral op wanneer die afhankelijkheid aanwezig is; vanuit een pure SIT-verklaring zou bevoordeling grotendeels onafhankelijk moeten zijn van deze manipulatie, want categorisatie alleen zou al moeten volstaan.
+Yamagishi & Kiyonari manipuleren of deelnemers **afhankelijk** zijn van een ingroup-lid voor hun eigen uitkomst (outcome dependency) — een directe operationalisering van "kan wederkerigheid hier iets opleveren." De voorspelling vanuit de **Bounded Generalized Reciprocity**-hypothese (zie [[bounded-reciprocity]]): ingroup-bevoordeling treedt vooral op wanneer die afhankelijkheid aanwezig is. Vanuit een pure **Social Identity Theory**-verklaring (Tajfel & Turner's these dat [[ingroup-bias]] uit zelfcategorisatie voortkomt, los van eigenbelang of wederkerigheid) zou bevoordeling daarentegen grotendeels onafhankelijk moeten zijn van deze manipulatie — categorisatie alleen zou al moeten volstaan.
 
 ### Bevindingen
 
