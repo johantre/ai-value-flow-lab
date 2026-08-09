@@ -4,7 +4,7 @@ title: "🗺️ Beyond the Review"
 icon: 🗺️
 author: "Synthese"
 year: 2026
-order: 1
+order: 2
 status: reference
 tags: [evaluatie, beloning, laloux, beyond-the-review, organizational, overzicht]
 ---

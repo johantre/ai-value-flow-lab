@@ -4,7 +4,7 @@ title: "🗺️ The Kindness Trap"
 icon: 🗺️
 author: "Synthese"
 year: 2026
-order: 0
+order: 1
 status: reference
 tags: [candor, psychologische-veiligheid, teamdynamiek, ruinous-empathy, eerlijkheid, organizational]
 ---
