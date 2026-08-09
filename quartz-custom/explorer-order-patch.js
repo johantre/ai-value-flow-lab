@@ -25,10 +25,15 @@
     "learning-by-design/learning-models/models/whitehouse-modes-of-religiosity": 7,
 
     // trust-by-design sub-folders
-    "trust-by-design/beyond-the-review": 0,
-    "trust-by-design/the-performance-illusion": 1,
-    "trust-by-design/beyond-the-bonus": 2,
-    "trust-by-design/the-kindness-trap": 3,
+    "trust-by-design/the-performance-illusion": 0,
+    "trust-by-design/the-kindness-trap": 1,
+    "trust-by-design/beyond-the-review": 2,
+    "trust-by-design/beyond-the-bonus": 3,
+
+    // collaboration-by-design sub-folders
+    "collaboration-by-design/mass-collaborating": 0,
+    "collaboration-by-design/the-silo-instinct": 1,
+    "collaboration-by-design/beyond-the-silo": 2,
 
     // beyond-the-review internal order
     "trust-by-design/beyond-the-review/beyond-the-review": 0,
