@@ -43,32 +43,7 @@ Contact en recategorisatie versterken elkaar: herhaald, gelijkwaardig, coöperat
 
 ## Formats
 
-Dit is waar de theorie een concreet ontwerp wordt. Eén format is uitgewerkt; er komen er meer naarmate we ze uittesten en doordenken.
-
-### Marktplaats-format
-
-Een interne marktplaats — waar teams capaciteit, vraag, of waarde rechtstreeks met elkaar verhandelen in plaats van via een centrale planningslaag — is een natuurlijke operationalisering van Allports vier condities:
-
-| Conditie | Hoe het marktplaats-format dit invult |
-|---|---|
-| **Gelijke status** | Iedereen is afwisselend vrager én aanbieder van waarde — geen vaste rolverdeling |
-| **Gedeeld doel** | De transactie zelf (waarde creëren) is het doel, niet een doel van de ene partij waaraan de andere moet meewerken |
-| **Intergroup-coöperatie** | Teams hebben elkaar nodig om iets tot stand te brengen — geen eenrichtingsverkeer |
-| **Steun van gezag** | Leiderschap legitimeert het format expliciet en actief |
-
-Herhaald, geslaagd gebruik van zo'n format is niet alleen een tijdelijke lijmlaag tussen silo's — het is precies het soort coöperatief, gelijkwaardig contact waaruit een gedeelde identiteit (CIIM) kan groeien.
-
-#### Kanttekeningen
-
-Een marktplaats-format lost het silo-probleem niet automatisch op. Vijf risico's, elk direct herleidbaar tot de onderliggende theorie:
-
-1. **Ondermijnde gelijke status.** Als het format ongemerkt een vaste hiërarchie invoert — één team is structureel "leverancier", een ander altijd "klant" — bestendigt het de silo in plaats van hem te verzachten. Dit is het meest voorkomende ontwerpfout: check of rollen echt wisselen, niet alleen in theorie.
-2. **Vrijblijvendheid zonder steun van gezag.** Een marktplaats die leiderschap gedoogt maar niet actief legitimeert, verwatert snel tot een optioneel extraatje dat de eerste keer druk ontstaat als eerste sneuvelt.
-3. **Eenmalige lancering, geen onderhoud.** CIIM's eigen beperking geldt hier onverkort: het effect vervaagt zonder aanhoudend zichtbare gedeelde doelen. Een marktplaats die na de lanceringsfase niet meer actief gefaciliteerd wordt, zakt terug naar de oude routing via de bekende, vertrouwde contacten binnen de eigen silo.
-4. **Transactioneel in plaats van coöperatief.** Als teams elkaar behandelen als externe leveranciers — onderhandelen over prijs/capaciteit in plaats van samen optimaliseren — wordt het gedeelde doel (conditie 2) uitgehold tot een zero-sum-competitie. Dat kan silo-gedrag juist versterken: precies de dynamiek die Yamagishi's reciprociteitswerk voorspelt wanneer wederkerigheid niet gegarandeerd aanvoelt.
-5. **Marktplaats georganiseerd langs bestaande faultlines.** Als dezelfde teams stelselmatig aan dezelfde kant van de transactie staan (bv. altijd dezelfde afdeling die vraagt, dezelfde die levert), bevestigt het format de bestaande breuklijn in plaats van hem te doorbreken. Roteer actief wie welke rol speelt.
-
-**Vuistregel**: een marktplaats-format werkt als antidote wanneer het gelijkwaardigheid en wederkerigheid *aantoonbaar* maakt over silo-grenzen heen — en werkt averechts zodra het, al is het onbedoeld, een van de vier condities ondermijnt.
+Dit is waar de theorie een concreet ontwerp wordt. We hebben een eerste, gepast en ondersteunend format uitgewerkt: zie [[marketplace-format|Marktplaats-format]]. Er komen er meer naarmate we ze uittesten en doordenken.
 
 ### Andere formats (nog uit te werken)
 
@@ -80,11 +55,11 @@ Ruimte voor aanvullende ontwerp-formats naarmate ze uitgewerkt worden — bijvoo
 
 | Principe | Gebaseerd op | Wat het concreet betekent |
 |---|---|---|
-| **Doorbreek attribute-alignment** | Faultline Theory | Meng senior/junior, locatie, en anciënniteit bewust door elkaar bij teamsamenstelling — crosscutting is vaak goedkoper dan reorganiseren |
-| **Maak wederzijdse afhankelijkheid zichtbaar over silo-grenzen heen** | Yamagishi (bounded reciprocity) | Gedeelde targets en gedeelde consequenties tussen teams verzwakken de reciprociteitsbasis van ingroup-bevoordeling nog vóór cultuur of identiteit verandert |
-| **Vermijd zichtbare interne "tegenpartijen"** | Ashforth & Mael | Afdelingen tegen elkaar uitspelen op KPI's of budget versterkt identificatie met de subgroep vrijwel gegarandeerd — ook onbedoeld |
-| **Bouw een geloofwaardige superordinate identiteit, zonder de subgroep te vervangen** | CIIM | Dual identity, niet identiteitsverlies — "ook onderdeel van" in plaats van "in plaats van" |
-| **Ontwerp contact met alle vier de condities van Allport** | Contact Theory | Gelijke status is de meest gemiste conditie — check of een marktplaats- of samenwerkingsformat niet ongemerkt een vaste hiërarchie invoert |
-| **Herhaal en onderhoud, eenmalig werkt niet** | CIIM (beperking) | Een teambuildingsdag zonder structurele herhaling vervaagt binnen enkele weken |
+| **Doorbreek attribute-alignment** | [[faultline-theorie\|Faultline Theory]] | Meng senior/junior, locatie, en anciënniteit bewust door elkaar bij teamsamenstelling — crosscutting is vaak goedkoper dan reorganiseren |
+| **Maak wederzijdse afhankelijkheid zichtbaar over silo-grenzen heen** | [[bounded-reciprocity\|Yamagishi (bounded reciprocity)]] | Gedeelde targets en gedeelde consequenties tussen teams verzwakken de reciprociteitsbasis van ingroup-bevoordeling nog vóór cultuur of identiteit verandert |
+| **Vermijd zichtbare interne "tegenpartijen"** | [[sociale-identiteit-organisatie\|Ashforth & Mael]] | Afdelingen tegen elkaar uitspelen op KPI's of budget versterkt identificatie met de subgroep vrijwel gegarandeerd — ook onbedoeld |
+| **Bouw een geloofwaardige superordinate identiteit, zonder de subgroep te vervangen** | [[common-ingroup-identity\|CIIM]] | Dual identity, niet identiteitsverlies — "ook onderdeel van" in plaats van "in plaats van" |
+| **Ontwerp contact met alle vier de condities van Allport** | [[intergroup-contact\|Contact Theory]] | Gelijke status is de meest gemiste conditie — check of een marktplaats- of samenwerkingsformat niet ongemerkt een vaste hiërarchie invoert |
+| **Herhaal en onderhoud, eenmalig werkt niet** | [[common-ingroup-identity\|CIIM]] (beperking) | Een teambuildingsdag zonder structurele herhaling vervaagt binnen enkele weken |
 
 De kern van de synthese: silo's zijn geen onvermijdelijk gevolg van mensen in teams indelen. Ze zijn het resultaat van *opeenstapeling* — meerdere kenmerken die dezelfde grens bevestigen, een zichtbare tegenpartij, en afwezigheid van wederzijdse afhankelijkheid of een geloofwaardig gedeeld doel. Elk van die versterkers is een apart ontwerppunt, en dus een apart aangrijpingspunt.
