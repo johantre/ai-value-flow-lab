@@ -54,6 +54,10 @@ Dit werk vormt de basis van een adviestraject rond **trust-by-design**: organisa
 
 Cross-synthese links vanuit folder-index pagina's (bv. `trust-by-design/beyond-the-review/beyond-the-review.md`) geven 404 op de live site. Oorzaak: Quartz behandelt `{folder}/{folder}.md` als folder-index en berekent relatieve URLs incorrect. Geaccepteerd als known limitation.
 
+### Explorer-sortering
+
+De sidebar-Explorer sorteert **niet** op het `order`-veld in frontmatter — Quartz's content-index geeft dat veld niet door aan de client, dus de standaard-sortering valt terug op alfabetisch. De echte volgorde wordt bepaald door een hardcoded slug-lijst (`window.__explorerSlugOrder`) in `quartz-custom/explorer-order-patch.js`. Wil je dat een nieuwe folder of pagina in een specifieke volgorde in de sidebar verschijnt, voeg het slug-pad daar toe — `order:` in frontmatter aanpassen heeft geen enkel effect op de sidebar-volgorde.
+
 ### Link-conventie
 
 - **1 niveau diep** (`books/` → `concepts/`): gebruik `../concepts/bestand.md`
