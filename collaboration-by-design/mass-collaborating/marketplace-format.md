@@ -24,9 +24,29 @@ Een interne marktplaats — waar teams capaciteit, vraag, of waarde rechtstreeks
 
 Herhaald, geslaagd gebruik van zo'n format is niet alleen een tijdelijke lijmlaag tussen silo's — het is precies het soort coöperatief, gelijkwaardig contact waaruit een gedeelde identiteit ([[common-ingroup-identity|CIIM]]) kan groeien.
 
+## Wie je uitnodigt
+
+[[intergroup-contact|Contact Theory]] vereist gemotiveerd, vrijwillig contact — niet zomaar contact. Dat maakt bezoekersselectie geen bijzaak, maar een kernvoorwaarde voor het format.
+
+**Vermijd bezoekers die:**
+- beweren overal interesse in te hebben
+- "namens iemand anders" komen
+- uit verplichting aanwezig zijn
+- eigenlijk iets anders willen dan feedback geven (voortgang zien, status kennen, roadmaps inkijken)
+- geen 1-on-1-contact op prijs stellen
+- een demo verwachten
+
+**Kies bewust voor bezoekers die:**
+- zelf om iets vragen (requesters)
+- partners zijn
+- model-stakeholders zijn die goed kunnen meedenken over de toekomst van de organisatie — strategisch groot, sector-specifiek, of regio-specifiek
+- collega's uit andere silo's zijn
+
+Wie hier verkeerd selecteert, ondermijnt het format op twee manieren tegelijk: het levert geen bruikbare feedback op, én het vult schaarse 1-on-1-capaciteit met mensen die niet oprecht gemotiveerd zijn — precies het soort contact dat [[bounded-reciprocity|Yamagishi's reciprociteitswerk]] als weinig effectief voorspelt.
+
 ## Kanttekeningen
 
-Een marktplaats-format lost het silo-probleem niet automatisch op. Zes risico's, elk direct herleidbaar tot de onderliggende theorie:
+Een marktplaats-format lost het silo-probleem niet automatisch op. Zeven risico's, elk direct herleidbaar tot de onderliggende theorie:
 
 1. **Ondermijnde gelijke status — maar niet per se binnen één sessie.** Gelijke status hoeft niet te betekenen dat elke deelnemer in élke sessie afwisselend vrager en aanbieder is. Ze kan ook ontstaan **op netwerkniveau**: silo A is vandaag gastheer voor silo B, morgen is het omgekeerd. Dat is [[bounded-reciprocity|Yamagishi's reciprociteitsmechanisme]], maar dan toegepast tussen silo's in plaats van tussen individuen — de asymmetrie binnen één sessie is geen probleem zolang de wederkerigheid over de reeks sessies gegarandeerd is. Wat wél een probleem blijft: als die wederkerigheid nooit georganiseerd wordt en één silo permanent gastheer blijft, versterkt dat net de [[sociale-identiteit-organisatie|onderscheidenheid en het zichtbare publiek]] van die ene silo — precies de dynamiek die identificatie (en dus silogedrag) aanwakkert.
 2. **Vrijblijvendheid zonder steun van gezag.** Een marktplaats die leiderschap gedoogt maar niet actief legitimeert, verwatert snel tot een optioneel extraatje — het eerste dat sneuvelt zodra er tijdsdruk ontstaat.
@@ -34,6 +54,7 @@ Een marktplaats-format lost het silo-probleem niet automatisch op. Zes risico's,
 4. **Transactioneel in plaats van coöperatief.** Als teams elkaar behandelen als externe leveranciers — onderhandelen over prijs/capaciteit in plaats van samen optimaliseren — wordt het gedeelde doel (conditie 2) uitgehold tot een zero-sum-competitie. Dat kan silogedrag juist versterken: precies de dynamiek die [[bounded-reciprocity|Yamagishi's reciprociteitswerk]] voorspelt wanneer wederkerigheid niet gegarandeerd aanvoelt.
 5. **Marktplaats georganiseerd langs bestaande faultlines.** Als dezelfde teams stelselmatig aan dezelfde kant van de transactie staan (bv. altijd dezelfde afdeling die vraagt, dezelfde die levert), bevestigt het format de bestaande breuklijn ([[faultline-theorie]]) in plaats van hem te doorbreken. Roteer actief wie welke rol speelt.
 6. **Cargo-cult: de vorm zonder de onderliggende principes.** Zodra een marktplaats-format zich verspreidt naar meerdere silo's, dreigt het gekopieerd te worden als *vorm* — hetzelfde format, dezelfde structuur — zonder de principes die het laten werken: vrijwillige deelname, geen brokers, een gedeeld doel dat groter is dan de eigen silo. Dan betaalt de organisatie de logistieke kost zonder het silo-doorbrekende effect. Zie hieronder.
+7. **De gastheer als enige arbiter van "goede" feedback.** Wie na afloop beslist welke feedback waardevol is en welke niet, heeft veel interpretatieve macht — zonder expliciete criteria, en zonder tegencheck, is dat een eenpersoons-beoordeling. Dat is exact het mechanisme achter de [[idiosyncrasie|idiosyncratic rater effect]]/[[rater-bias|rater-bias]]: meer dan 62% van de variantie in een beoordeling is toe te schrijven aan de beoordelaar, niet aan wat beoordeeld wordt. Bezoekers leren bovendien impliciet wat de gastheer "graag hoort," en passen toekomstige feedback daarop aan. Dit risico schaalt slecht naarmate meer silo's meedoen: elke silo met eigen, ongeschreven kwaliteitscriteria voor feedback levert inconsistente maatstaven op tussen silo's — precies de wrijving die het format net moest wegnemen.
 
 **Vuistregel**: een marktplaats-format werkt als antidote wanneer het gelijkwaardigheid en wederkerigheid *aantoonbaar* maakt over silo-grenzen heen — en werkt averechts zodra het, al is het onbedoeld, een van de vier condities ondermijnt.
 
